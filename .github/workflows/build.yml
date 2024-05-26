@@ -33,4 +33,4 @@ jobs:
       run: |
         git add BOM.xml
         git commit -m "Add BOM.xml"
-        git push
+        git push https://github.com/roisiano/Prueba.git HEAD:main
