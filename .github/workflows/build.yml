@@ -1,9 +1,8 @@
-name: Build and Upload BOM a ver.xml
+name: Build and Upload BOM.xml
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '*/10 * * * *'  # Ejecutar cada 10 minutos
 
 jobs:
   build:
@@ -17,7 +16,6 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-
     - name: Download and process EPG data
       run: |
         wget -O guiatv_color.xml.gz https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz
@@ -28,7 +26,6 @@ jobs:
         tail -n 1 guiatv_color.xml >> BOM.xml
         sed -i 's/+0000/+0200/g' BOM.xml
         rm guiatv_color.xml
-
     - name: Commit and push changes
       run: |
         git add BOM.xml
