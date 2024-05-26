@@ -2,7 +2,7 @@ name: Build and Upload BOM a ver.xml
 
 on:
   schedule:
-    - cron: '*/7 */5 * * *'  # Ejecutar cada 4 horas y 10 minutos
+    - cron: '* */5 * * *'  # Ejecutar cada 5 horas
   workflow_dispatch:  # Permitir ejecución manual
 
 jobs:
