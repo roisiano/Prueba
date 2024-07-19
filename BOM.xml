@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 19/07/2024 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/07/2024 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.</display-name>
@@ -1332,7 +1332,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20240724042700 +0200" stop="20240724070000 +0200" channel="BOM Cine">
+  <programme start="20240724042700 +0200" stop="20240724060100 +0200" channel="BOM Cine">
 	<title lang="es">Ave María</title>
 	<sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
 	<desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean. Abandona la misión en que vive y llega al pueblo de su abuela indígena, donde se convierte en defensora y protectora de la población. Sus actos incitan a sus enemigos a tomar medidas que traerán graves consecuencias para todos.Primera película dirigida por el mexicano Eduardo Rossoff, quien hasta ahora ha ejercido como productor y ha trabajado en la realización de documentales y anuncios publicitarios de marcas como Dior o Chanel. Protagonizada por los mexicanos Tere López Tarín y Demian Bichir ('Nadie hablará de nosotras cuando hayamos muerto', 'Perdita Durango'), la aportación española la realizan Juan Diego Botto ('Sobreviviré') y Ana Torrent ('Cosas que olvidé recordar'). La película consiguió el Premio al Mejor director y a la mejor Opera Prima en el Festival de Cine de La Habana 1999.
@@ -1350,6 +1350,19 @@
     <star-rating system="ES">
       <value>5.0/10</value>
     </star-rating>
+  </programme>
+  <programme start="20240724060100 +0200" stop="20240724070000 +0200" channel="BOM Cine">
+	<title lang="es">Gaudí</title>
+	<sub-title lang="es">[COLOR teal]Documentales biográficos[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+	<desc lang="es">· Ficción documental en blanco y negro (35-16mm &amp; vídeo) para televisión sobre la vida y obra del arquitecto Antoni Gaudí que inauguró las emisiones regulares del Canal 33 (Televisió de Catalunya) el 11 de septiembre de 1989. 'Gaudí' ganó el Premio de la Crítica en el Festival Internacional de Cine de Barcelona (1988) y participó en la Sección Oficial del IMPUT de Estocolmo (1989). 'Gaudí' es una producción de Paco Poch para Virginia Films y La Sept dirigida por Manuel Huerga con Carles Sabater como protagonista.
+
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Manuel Huerga.</desc>
+	<category lang="es">Documentales biográficos</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/g/a/u/xgaudi-21446_SPA-79.jpg.pagespeed.ic.vQPZRvf_GH.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20240724070000 +0200" stop="20240724100000 +0200" channel="BOM Cine">
 	<title lang="es">Radio 4G: Desde que amanece apetece</title>
