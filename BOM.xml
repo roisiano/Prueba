@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 23/09/2024 04:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 23/09/2024 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.</display-name>
@@ -9,6 +9,7 @@
     <display-name lang="es">BOM Cine UHD</display-name>
     <display-name lang="es">BOM Cine 720</display-name>
     <display-name lang="es">BOM Cine 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
   <programme start="20240923015000 +0200" stop="20240923031500 +0200" channel="BOM Cine">
 	<title lang="es">Point Blank</title>
@@ -1362,6 +1363,72 @@
     </rating>
   </programme>
   <programme start="20240929000000 +0200" stop="20240929040000 +0200" channel="BOM Cine">
+	<title lang="es">BOM Cine</title>
+	<sub-title lang="es">[COLOR teal]Otros programas de entretenimiento[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+	<desc lang="es">· EPG_dobleM - La mejor guía de programación https://t.me/EPG_dobleM.
+</desc>
+	<category lang="es">Otros programas de entretenimiento</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/u/j/xmujeres-ricas-de-cheshire-763463_SPA-52.jpg.pagespeed.ic.Fl2A4z2Izu.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20240929040000 +0200" stop="20240929080000 +0200" channel="BOM Cine">
+	<title lang="es">BOM Cine</title>
+	<sub-title lang="es">[COLOR teal]Otros programas de entretenimiento[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+	<desc lang="es">· EPG_dobleM - La mejor guía de programación https://t.me/EPG_dobleM.
+</desc>
+	<category lang="es">Otros programas de entretenimiento</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/u/j/xmujeres-ricas-de-cheshire-763463_SPA-52.jpg.pagespeed.ic.Fl2A4z2Izu.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20240929080000 +0200" stop="20240929120000 +0200" channel="BOM Cine">
+	<title lang="es">BOM Cine</title>
+	<sub-title lang="es">[COLOR teal]Otros programas de entretenimiento[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+	<desc lang="es">· EPG_dobleM - La mejor guía de programación https://t.me/EPG_dobleM.
+</desc>
+	<category lang="es">Otros programas de entretenimiento</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/u/j/xmujeres-ricas-de-cheshire-763463_SPA-52.jpg.pagespeed.ic.Fl2A4z2Izu.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20240929120000 +0200" stop="20240929160000 +0200" channel="BOM Cine">
+	<title lang="es">BOM Cine</title>
+	<sub-title lang="es">[COLOR teal]Otros programas de entretenimiento[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+	<desc lang="es">· EPG_dobleM - La mejor guía de programación https://t.me/EPG_dobleM.
+</desc>
+	<category lang="es">Otros programas de entretenimiento</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/u/j/xmujeres-ricas-de-cheshire-763463_SPA-52.jpg.pagespeed.ic.Fl2A4z2Izu.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20240929160000 +0200" stop="20240929200000 +0200" channel="BOM Cine">
+	<title lang="es">BOM Cine</title>
+	<sub-title lang="es">[COLOR teal]Otros programas de entretenimiento[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+	<desc lang="es">· EPG_dobleM - La mejor guía de programación https://t.me/EPG_dobleM.
+</desc>
+	<category lang="es">Otros programas de entretenimiento</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/u/j/xmujeres-ricas-de-cheshire-763463_SPA-52.jpg.pagespeed.ic.Fl2A4z2Izu.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20240929200000 +0200" stop="20240930000000 +0200" channel="BOM Cine">
+	<title lang="es">BOM Cine</title>
+	<sub-title lang="es">[COLOR teal]Otros programas de entretenimiento[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+	<desc lang="es">· EPG_dobleM - La mejor guía de programación https://t.me/EPG_dobleM.
+</desc>
+	<category lang="es">Otros programas de entretenimiento</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/u/j/xmujeres-ricas-de-cheshire-763463_SPA-52.jpg.pagespeed.ic.Fl2A4z2Izu.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20240930000000 +0200" stop="20240930040000 +0200" channel="BOM Cine">
 	<title lang="es">BOM Cine</title>
 	<sub-title lang="es">[COLOR teal]Otros programas de entretenimiento[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
 	<desc lang="es">· EPG_dobleM - La mejor guía de programación https://t.me/EPG_dobleM.
