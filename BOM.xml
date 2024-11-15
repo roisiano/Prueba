@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 15/11/2024 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 15/11/2024 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -9,6 +9,7 @@
     <display-name lang="es">BOM Cine UHD</display-name>
     <display-name lang="es">BOM Cine 720</display-name>
     <display-name lang="es">BOM Cine 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
   <programme start="20241115012400 +0100" stop="20241115030300 +0100" channel="BOM Cine">
     <title lang="es">El enemigo está dentro</title>
@@ -103,7 +104,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20241115104300 +0100" stop="20241115123400 +0100" channel="BOM Cine">
+  <programme start="20241115105900 +0100" stop="20241115124900 +0100" channel="BOM Cine">
     <title lang="es">Matt Helm, agente muy especial</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]1966[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· El agente Matt Helm debe encontrar y salvar al profesor Norman Solaris, inventor de un rayo incendiario del que se quiere apropiar un megalómano llamado Julian Wall que quiere utilizarlo para destruir Nueva York. Para ello cuenta con la ayuda de Suzie Solaris, la hija del profesor.De todos los pesonajes nacidos a imagen y semejanza de James Bond, sin duda Matt Helm fue uno de los más exitosos. Dean Martin lo interpretó, sin tomárselo demasiado en serio, en una serie de cuatro películas, de la que ésta fue la segunda (las otras tres fueron, 'The Silencers', 'Emboscada a Matt Helm' y 'La mansión de los siete placeres'). Años después, este personaje creado por el novelista Donald Hamilton, daría pie también a una serie de televisión, con Anthony Franciosa como protagonista.
@@ -122,7 +123,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241115123400 +0100" stop="20241115134800 +0100" channel="BOM Cine">
+  <programme start="20241115124900 +0100" stop="20241115140300 +0100" channel="BOM Cine">
     <title lang="es">Ruckus el alborotador</title>
     <sub-title lang="es">[COLOR teal]Películas de suspense[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un exsoldado de Vietnam quiere olvidar su pasado al volver de la guerra; para ello, ante un futuro que se le presenta incierto, decide marginarse de todo y de todos para dejar atrás su pasado.
@@ -139,7 +140,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241115134800 +0100" stop="20241115153600 +0100" channel="BOM Cine">
+  <programme start="20241115140300 +0100" stop="20241115155200 +0100" channel="BOM Cine">
     <title lang="es">Llanura roja</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]1954[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· Durante la Segunda Guerra Mundial, un piloto canadiense atormentado por la muerte de su esposa y dos oficiales a su cargo tienen un accidente y se ven obligados a aterrizar en Birmania, donde tendrán que sobrevivir como puedan en un territorio en el que estan rodeados de japoneses que les acechan. A pesar de que los dos subordinados tienen muy poca confianza en su líder, tendrán que dejarse ayudar por él y una nativa de quien se ha enamorado para lograr atravesar el país.Película rodada en Sri Lanka, usando escenarios naturales, como en la mayoría de obras dirigidas por el polifacético Robert Parrish ('Más allá de Río Grande'), que siempre eran filmadas fuera de los estudios de Hollywood. La película está basada en una novela del británico H.E Bates y fue nominada para los premios otorgados por la Academia Británica para cuatro categorías, entre ellas la de mejor película y mejor actor (para Maurice Denham) .
@@ -158,7 +159,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241115153600 +0100" stop="20241115174400 +0100" channel="BOM Cine">
+  <programme start="20241115155200 +0100" stop="20241115175700 +0100" channel="BOM Cine">
     <title lang="es">Moby Dick</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]1956[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★8.0/10[/COLOR]</sub-title>
     <desc lang="es">· A bordo del ballenero Pequod, el capitán Ahab surca los mares en busca de Moby Dick, la gigantesca ballena blanca que le arrancó la pierna años atrás. Ahab vive obsesionado con el momento en que vuelva a ver al animal y pueda poner fin a su vida. La más célebre de las adaptaciones del clásico homónimo de Herman Melville. Está considerada como una de las mejores películas de su director, pese a que más de un crítico no estuvo de acuerdo con la interpretación que hizo Huston del texto original. Rodada en el mar, con considerable riesgo para su reparto y equipo técnico, Huston contó con tres ballenas mecánicas para filmar la película, un dispendio que desbordó el presupuesto. Las tres acabaron perdiéndose en el mar y el propio Gregory Peck estuvo a punto de ahogarse mientras se rodaba una de sus escenas finales.
@@ -169,7 +170,6 @@
 [COLOR teal]· Música:[/COLOR] Philip Sainton.
 [COLOR teal]· Producción:[/COLOR] John Huston.</desc>
     <category lang="es">Dramas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/o/b/xmoby-dick-6930_SPA-11.jpg.pagespeed.ic.rqix9PAeF7.jpg" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -177,7 +177,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241115174400 +0100" stop="20241115183300 +0100" channel="BOM Cine">
+  <programme start="20241115175700 +0100" stop="20241115184400 +0100" channel="BOM Cine">
     <title lang="es">El secreto de Arcángel</title>
     <sub-title lang="es">[COLOR teal]Películas de suspense[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un historiador inglés, que investiga los archivos soviéticos, recibe la visita de un antiguo guarda personal de Stalin, que le desvela un secreto, el paradero del diario personal del dictador, que puede cambiar el futuro de Rusia y el mundo.Situado en la ciudad rusa de Arcángel, este thriller televisivo de la BBC, basado en un best-seller de Richard Harris, revive el pasado comunista de Rusia. El protagonista principal, lo encarna Daniel Craig, quien un año más tarde se enfundaría en el traje de James Bond en 'Casino Royale'. Le acompaña Yekaterina Rednikova, una actriz rusa de teatro, que también ha realizado algunos proyectos en la gran pantalla como 'Vor, el ladrón'.
@@ -195,7 +195,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241115183300 +0100" stop="20241115192000 +0100" channel="BOM Cine">
+  <programme start="20241115184400 +0100" stop="20241115193100 +0100" channel="BOM Cine">
     <title lang="es">El secreto de Arcángel</title>
     <sub-title lang="es">[COLOR teal]Películas de suspense[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un historiador inglés, que investiga los archivos soviéticos, recibe la visita de un antiguo guarda personal de Stalin, que le desvela un secreto, el paradero del diario personal del dictador, que puede cambiar el futuro de Rusia y el mundo.Situado en la ciudad rusa de Arcángel, este thriller televisivo de la BBC, basado en un best-seller de Richard Harris, revive el pasado comunista de Rusia. El protagonista principal, lo encarna Daniel Craig, quien un año más tarde se enfundaría en el traje de James Bond en 'Casino Royale'. Le acompaña Yekaterina Rednikova, una actriz rusa de teatro, que también ha realizado algunos proyectos en la gran pantalla como 'Vor, el ladrón'.
@@ -213,7 +213,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241115192000 +0100" stop="20241115200800 +0100" channel="BOM Cine">
+  <programme start="20241115193100 +0100" stop="20241115201700 +0100" channel="BOM Cine">
     <title lang="es">El secreto de Arcángel</title>
     <sub-title lang="es">[COLOR teal]Películas de suspense[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un historiador inglés, que investiga los archivos soviéticos, recibe la visita de un antiguo guarda personal de Stalin, que le desvela un secreto, el paradero del diario personal del dictador, que puede cambiar el futuro de Rusia y el mundo.Situado en la ciudad rusa de Arcángel, este thriller televisivo de la BBC, basado en un best-seller de Richard Harris, revive el pasado comunista de Rusia. El protagonista principal, lo encarna Daniel Craig, quien un año más tarde se enfundaría en el traje de James Bond en 'Casino Royale'. Le acompaña Yekaterina Rednikova, una actriz rusa de teatro, que también ha realizado algunos proyectos en la gran pantalla como 'Vor, el ladrón'.
@@ -231,7 +231,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241115200800 +0100" stop="20241115220100 +0100" channel="BOM Cine">
+  <programme start="20241115201700 +0100" stop="20241115220100 +0100" channel="BOM Cine">
     <title lang="es">Botas duras, medias de seda</title>
     <sub-title lang="es">[COLOR teal]Películas de comedia[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un buscador de oro que obtuvo cierta fama ayudando al ejército a expulsar a los indios del territorio que ocupaban; un mestizo medio loco y camorrista, un viejo cascarrabias bebedor y depravado y una joven prostituta que quiere abandonar su profesión a cualquier precio forman una peculiar banda que tiene como único objetivo el cobrar una antigua deuda económica al todopoderoso cacique de un pueblo llamado Serenity.Western en clave de comedia que narra la típica historia de los viejos socios que se reúnen años después para ajustar cuentas con otro cómplice que los traicionó en su día. Dirigida por el oscuro Don Taylor ('El final de la cuenta atrás') y con un irregular guión de Richard Shapiro, la cinta tampoco termina de sacar partido de su atractivo reparto, donde destaca una juvenil y encantadora Kay Lenz.
@@ -250,7 +250,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241115220100 +0100" stop="20241116001600 +0100" channel="BOM Cine">
+  <programme start="20241115220100 +0100" stop="20241116001200 +0100" channel="BOM Cine">
     <title lang="es">El forastero</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· El forastero viene de un planeta aniquilado por el desorden ambiental y la hecatombe nuclear. Aterriza en un paraje andino próximo a la pequeña ciudad de Paucartambo, en El Cusco, coincidiendo con la celebración de la fiesta tradicional de la Mamacha Carmen. Tiene la apariencia de un gringo y posee un dominio cabal de las leyes y la física, ha sido enviado a buscar un mundo habitable para reinstalar su civilización tecnológica, que ha convertido a sus habitantes en una especie de máquinas perfectas carentes de humanidad. Al entrar en contacto con los rústicos del pueblo, va recuperando su condición humana: con una Prostituta hallará el amor y el sexo; con el alcalde y su familia descubrirá la bondad y la avaricia; con el Poeta y el Chamán indígena se aproximará a los insondables misterios de la naturaleza.Coproducción hispano peruana dirigida por Federico García Hurtado, cineasta nacido en Cuzco que ha realizado numerosos documentales sobre su país y largometrajes como 'Tupac Amaru, el último inca'. Destaca la presencia como protagonista del bailarín español Nacho Duato, que aquí accede por primera vez a un papel protagónico, así como de Carlos Sobera y Neus Asensi.
@@ -268,7 +268,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116001600 +0100" stop="20241116020400 +0100" channel="BOM Cine">
+  <programme start="20241116001200 +0100" stop="20241116020200 +0100" channel="BOM Cine">
     <title lang="es">El amante de Lady Chatterley</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]1981[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
     <desc lang="es">· Corre el año 1917 cuando Clifford es llamado a luchar en el frente de la batalla de Flanders. Allí, queda herido e inválido de cintura para abajo. Constance, su mujer, se debate entre su amor por él y sus deseos carnales, pero alentada por su propio marido, encuentra en un hombre rudo que trabaja en su mansión el consuelo a sus deseos.Adaptación cinematográfica de la novela homónima de D.H. Lawrence. Realizada por Just Jaeckin, a quien los amantes del género erótico recordarán por ser el creador de 'Emmanuelle', la cinta tiene como protagonista precisamente a la neerlandesa Sylvia Kristel, cuya fama se disparó internacionalmente al protagonizar el filme francés.
@@ -287,7 +287,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116020400 +0100" stop="20241116035300 +0100" channel="BOM Cine">
+  <programme start="20241116020200 +0100" stop="20241116034500 +0100" channel="BOM Cine">
     <title lang="es">Cónsul honorario</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
     <desc lang="es">· El Dr. Eduardo Platt es un angloamericano que trabaja en un país de Latinoamérica. Tras pasar mucho tiempo, Platt regresa a su país y restablece amistades, además de iniciar un idilio. Pero todo se complica cuando un grupo revolucionario requiere su ayuda para secuestrar a un diplomático.Basándose en la famosa novela 'The Honorary Consul' escrita por Graham Greeen y publicada en 1973, el británico John Mackenzie ('El cuarto protocolo') tuvo aquí una de sus primeras oportunidades de dirigir a grandes estrellas. El realizador volvió a formar equipo con Bob Hoskins, con quien ya había coincidido en 'El largo viernes santo', y contó además con la participación de Michael Caine y Richard Gere. Además, otros grandes nombres destacan en el cartel de la cinta, como el afamado compositor John Williams, que colaboró con el ex Beatle Paul McCartney en la elaboración de la banda sonora.La producción se benefició de un aceptable éxito de taquilla en España, seguramente gracias a la popularidad de la novela original y a un equipo lleno de nombres que actuaron como gancho.
@@ -306,7 +306,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116035300 +0100" stop="20241116051100 +0100" channel="BOM Cine">
+  <programme start="20241116034500 +0100" stop="20241116050100 +0100" channel="BOM Cine">
     <title lang="es">Moscow zero</title>
     <sub-title lang="es">[COLOR teal]Películas de ciencia ficción[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★2.0/10[/COLOR]</sub-title>
     <desc lang="es">· Bajo la apariencia de cualquier gran ciudad, existe un mundo que los habitantes de la superficie prefieren ignorar. El antropólogo ruso Sergei Spassky investiga para la Universidad de Moscú la supuesta sociedad marginal que habita este submundo y se queda fascinado por las leyendas que circulan sobre él. Un día desaparece sin dejar rastro alguno. Su amigo Owen organiza una expedición en su búsqueda y descubre que los mitos que hablan de los seres que allí habitan pueden ser más que simples leyendas.Luna (apodo con el que firma la cineasta María Lidón) decidió arriesgar y crear este thriller de terror fantástico (un género poco tocado por los realizadores europeos) ambientado en los laberintos subterráneos de Moscú. Para ello contó con su actor fetiche Joaquim de Almeida, acompañado de un reparto internacional formado por Vincent Gallo (quien ya había trabajado con Luna en 'Stranded: Náufragos'), Val Kilmer, Alex O'Dogerthy ('Cámera Café') y la rusa Oksana Akinshina ('Lilya forever').La película, rodada en inglés, hizo su estreno mundial en el festival de Sitges, aunque no consiguió las alabanzas ni del público ni de la crítica especializada.
@@ -324,7 +324,7 @@
       <value>2.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116051100 +0100" stop="20241116063800 +0100" channel="BOM Cine">
+  <programme start="20241116050100 +0100" stop="20241116062900 +0100" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR teal]Películas de comedia[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto. Incrédulas ante tal situación, Blanca y Bárbara inician una disparatada investigación por toda la ciudad.Comedia de enredo dirigida por Juan Luis Iborra ('Amor de hombre', 'Valentín') y que rememora el humor de los años ochenta con 'Mujeres al borde de un ataque de nervios' como máximo exponente. En esta ocasión el cineasta alicantino firma el guion en colaboración con Antonio Albert (guionista de alguna de las galas de entrega de los premios Goya).El elenco actoral está encabezado por una Silvia Abascal ('A mi madre le gustan las mujeres', 'La dama boba') bastante alejada del registro que le ha dado la fama dentro de la escena. Le acompañan una ristra de conocidos actores españoles como Concha Velasco ('Herederos'), Iván Sánchez ('Hospital Central'), Valeria Arribas ('Planta 25'), Asunción Balaguer ('Sólo mía') y Juli Mira ('Cuéntame cómo pasó').
@@ -343,7 +343,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116063800 +0100" stop="20241116080600 +0100" channel="BOM Cine">
+  <programme start="20241116062900 +0100" stop="20241116075700 +0100" channel="BOM Cine">
     <title lang="es">Crepúsculo rojo</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
     <desc lang="es">· Michel, hijo de un francés nacido en Buenos Aires, llega a París para rehacer su vida. Al llegar, su única pertenencia es un valioso cuadro de un pintor conocido heredado de su padre. Pero en París descubre que con el cuadro también ha heredado un pasado turbio. Clara, mujer madura, poco segura sí misma, recibe de Buenos Aires un rollo de super-8: una amiga de juventud, gravemente enferma, le manda unas imágenes de un tiempo pasado, rico en esperanzas militantes, en despreocupación sentimental. La película aviva en Clara los recuerdos de una traición que ha sobrevivido al tiempo. David, pintor reconocido en el pasado, se ha convertido en falsificador y se permite el lujo de hacer fracasar el complot de unos traficantes que le contratan, confesándole a la víctima prevista la trampa que le habían tendido. Su recompensa será reencontrarse con la mujer a la que amó en el pasado y que perdió en Buenos Aires, aunque ahora ella sea sólo un fantasma. Este 'otro lado del mundo', que atormenta el presente de los personajes, es la ciudad de Buenos Aires, que les ha marcado a todos de manera distinta en el pasado. Hoy en París, las historias de los tres personajes se cruzan.
@@ -360,7 +360,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116080600 +0100" stop="20241116102900 +0100" channel="BOM Cine">
+  <programme start="20241116075700 +0100" stop="20241116103900 +0100" channel="BOM Cine">
     <title lang="es">Televenta</title>
     <sub-title lang="es">[COLOR teal]Teletienda[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Espacio de promoción de productos de venta telefónica. 'Televenta' se compone de varios bloques independientes, en los que se presentan productos como recopilatorios de música, productos de limpieza o aparatos de gimnasia.
@@ -371,7 +371,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20241116102900 +0100" stop="20241116115100 +0100" channel="BOM Cine">
+  <programme start="20241116103900 +0100" stop="20241116120200 +0100" channel="BOM Cine">
     <title lang="es">Wunderland</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★2.0/10[/COLOR]</sub-title>
     <desc lang="es">· En la Navidad de 1944, el teniente Robert Cappa y su pelotón de soldados de la Segunda División de Infantería tienen la misión de proteger una carretera ante el último intento de ataque de las tropas alemanas. Ambos bandos brindarán un épico combate conocido como la Batalla de las Ardenas.El polifacético Steven Luke dirige y coprotagoniza -junto a Tom Berenger ('Platoon')- esta cinta bélica ambientada en la Batalla de las Ardenas, una ofensiva teutona lanzada a finales de la Segunda Guerra Mundial, a través de los densos bosques y montañas de la región de las Ardenas de Bélgica, Francia y Luxemburgo.A modo de curiosidad, la película fue rodada en una extensa propiedad de Big Lake, en Minnesota. La mayor parte de las trincheras y los edificios que aparecen en el metraje ya estaban construidas en el lugar antes de la filmación, pues el lugar se usa regularmente para partidas de 'airsoft' y para recrear combates de la Segunda Guerra Mundial.
@@ -389,7 +389,7 @@
       <value>2.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116115100 +0100" stop="20241116132800 +0100" channel="BOM Cine">
+  <programme start="20241116120200 +0100" stop="20241116133800 +0100" channel="BOM Cine">
     <title lang="es">El puño del dragón</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· El joven Tang How-Yuen es discípulo de un gran maestro de kung fu que ha sido asesinado por Chung Chien-Kuen. Al cabo de tres años, junto a la viuda y la hija de su ex guía, va en busca del criminal.Wei Lo, uno de los grandes nombres del cine de artes marciales de Hong Kong, se quedó tan impresionado con las escenas de especialista que el entonces desconocido Jackie Chan hizo en 'La furia del dragón', junto al maestro Bruce Lee; que decidió darle un papel más protagonista en 'Furia oriental II' (1976). Este fue el principio de una bonita amistad que propició títulos como 'Matar a traición' o 'Los super guardaespaldas', entre otras. Sin embargo, en 'El puño del dragón', Chan no sólo cogió las riendas del personaje principal, sino que también se ocupó de la coordinación de especialistas.Como curiosidad, cabe destacar que la cinta, rodada en 1978, no vio la luz hasta un año más tarde. El motivo es que la producción se quedó sin dinero y no fue hasta que Jackie Chan saltó al estrellato con 'La serpiente a la sombra del águila' y 'El mono borracho en el ojo del tigre', que el filme no se pudo terminar y distribuir, por cierto, con un gran éxito de público en Asia.
@@ -406,7 +406,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116132800 +0100" stop="20241116145500 +0100" channel="BOM Cine">
+  <programme start="20241116133800 +0100" stop="20241116150500 +0100" channel="BOM Cine">
     <title lang="es">Distrito 13</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· París, 2010. Un muro rodea los guetos de la ciudad. No hay reglas, ni derechos, ni leyes. Las bandas dominan todo. Damián, oficial de la unidad policial especial de intervenciones y experto en artes marciales, debe infiltrarse en el sector más peligroso de París para destruir una potente bomba que ha sido robada por la banda más poderosa del Distrito 13.Escrita y producida por Luc Besson ('El quinto elemento'), la cinta, ubicada en un entorno futurista, se basa en el 'parkour', una disciplina que consiste en desplazarse de manera fluida superando los obstáculos del camino con piruetas. Para dar realismo a estas peculiares escenas de acción, estas se realizaron sin efectos especiales generados por ordenador. Por eso, los productores contaron entre el reparto con David Belle y Cyril Raffaell, dos de los fundadores de este arte del desplazamiento.'Distrito 13', a pesar de gozar de un presupuesto de 12 millones de euros, no logró la recaudación esperada en Francia. Sin embargo, se rodó una secuela, 'Distrito 13: Ultimátum', con mismo guionista y protagonistas, estrenada en el país galo en febrero de 2009.
@@ -425,7 +425,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116145500 +0100" stop="20241116163800 +0100" channel="BOM Cine">
+  <programme start="20241116150500 +0100" stop="20241116164700 +0100" channel="BOM Cine">
     <title lang="es">16 calles</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
     <desc lang="es">· El detective de la policía de Nueva York Jack Mosley recibe una misión aparentemente sencilla: el delincuente Eddie Bunker está citado para testificar y debe trasladarle de la celda al juzgado, a 16 calles de distancia. Al atravesar la ciudad de los rascacielos en hora punta de la mañana, no se da cuenta de que le sigue una furgoneta.La prolífica filmografía de Richard Donner, que abarca clásicos como 'Superman', 'Los Goonies' o la saga de 'Arma letal', sigue arropando títulos de acción como este filme. Bruce Willis, un experto en estas lides, lleva todo el peso de la película interpretando a un personaje más humano y decadente que el de los héroes estereotipados que le dieron la fama.Cabe destacar que el propio Willis propuso al rapero y actor Ludacris (Tej en la franquicia 'Fast &amp; Furious') para encarnar al personaje de Eddie. Finalmente, el papel recayó en Yasiin Bey ('Guía del autoestopista galáctico'), quien curiosamente, comparte las dos profesiones con su rival en las audiciones.
@@ -444,7 +444,7 @@
       <value>7.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116163800 +0100" stop="20241116182600 +0100" channel="BOM Cine">
+  <programme start="20241116164700 +0100" stop="20241116183400 +0100" channel="BOM Cine">
     <title lang="es">Al caer la noche</title>
     <sub-title lang="es">[COLOR teal]Películas de suspense[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· Darl Hardwick es el sheriff de una pequeña población del Sur de los Estados Unidos. que no pasa por un buen momento emocional. Un día, encuentra el cuerpo muerto de un transexual en una cuneta y empieza a investigar el caso. Darl no quiere perder mucho tiempo con este caso pero pronto se dará cuenta de que este trabajo generará varias complicaciones políticas relacionadas con las elecciones a gobernador del estado que están apunto de realizarse.Escándalos sexuales e intereses políticos se entremezclan en esta película, la segunda del director Robby Henson tras 'Pharaoh's Army' y una extensa carrera como documentalista. La cinta está protagonizada por dos actores bien conocidos, Billy Bob Thornton ('El hombre que nunca estuvo allí') y Patricia Arquette ('Medium'), pero a pesar de ello, en Estados Unidos el filme se estrenó directamente en la televisión por cable. En cambio, en España sí que pasó por las salas cinematográficas.
@@ -463,7 +463,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116182600 +0100" stop="20241116201300 +0100" channel="BOM Cine">
+  <programme start="20241116183400 +0100" stop="20241116202000 +0100" channel="BOM Cine">
     <title lang="es">Sombras de sospecha</title>
     <sub-title lang="es">[COLOR teal]Películas de suspense[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· La hija de un millonario es brutalmente asesinada. El principal sospechoso, Bobby Medina, es defendido por la abogada Debereus, que lleva el caso al terreno de lo personal. Tom Berenger y Melanie Griffith protagonizan este thriller judicial con altas dosis de erotismo. Tomando como referencia infinidad de planteamientos anteriores, 'Sombras de sospecha' repite la historia de una abogada que se enamora de su cliente. La posibilidad de que éste sea o no sea culpable es la base del interés del filme. Su director, Randal Kleiser, llevaba largo tiempo sin estrenar una cinta en pantalla grande, después de los tremendos éxitos que supusieron 'Grease' y 'El lago azul', a finales de los 70 y principios de los 80. Sin embargo, el éxito de este thriller erótico fue a todas luces mucho menor y pasó casi desapercibido por la cartelera.
@@ -482,7 +482,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116201300 +0100" stop="20241116220100 +0100" channel="BOM Cine">
+  <programme start="20241116202000 +0100" stop="20241116220100 +0100" channel="BOM Cine">
     <title lang="es">El dedo en el gatillo</title>
     <sub-title lang="es">[COLOR teal]Películas del oeste[/COLOR] | [COLOR cadetblue]1965[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· 13 yanquis regresan a un fuerte ocupado por sudistas tras la Guerra de Secesión. Allí esperan a que llegue una caravana, que contiene un tesoro, para asaltarla.Una de tantos wésterns pseudoamericanos, rodado con personal estadounidense pero con localizaciones españolas. En esta ocasión, se trata de una historia ambientada en plena Guerra de Secesión, en la que está en juego la posesión de un fuerte. Como era habitual en la época, 'El dedo en el gatillo', un ejemplo de cine del Oeste crepuscular que daría paso a los famosos espagueti wéstern, fue estrenada en España con un éxito considerable de público.Dirige el visionario Sidney W. Pink, uno de los precursores del espagueti wéstern. El cineasta es considerado uno de los padres de los largometrajes en 3D, pues 'Bwana, diablo de la selva', de 1952, es considerada la primera película estadounidense en color con efectos estereoscópicos 3D. La misma dio comienzo al bum de filmes con efectos tridimensionales en la industria cinematográfica de Estados Unidos desde 1952 a 1954.
@@ -501,7 +501,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116220100 +0100" stop="20241116234200 +0100" channel="BOM Cine">
+  <programme start="20241116220100 +0100" stop="20241116233600 +0100" channel="BOM Cine">
     <title lang="es">Vengeance</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un exsoldado que se convierte en mercenario, John Gold descubre que su mejor amigo ha sido asesinado y se propone encontrar al asesino para vengarse de él.
@@ -518,7 +518,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241116234200 +0100" stop="20241117012000 +0100" channel="BOM Cine">
+  <programme start="20241116233600 +0100" stop="20241117010900 +0100" channel="BOM Cine">
     <title lang="es">Venganza ciega</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· El arqueólogo Robert Burns hace un descubrimiento inquietante en China. La temida mafia de los Tong recibe la noticia con desagrado al ver desvelado así uno de sus más íntimos secretos, motivo por el que deciden ir a la caza del entrometido en cuestiónPelícula de acción basada en la venganza, especialmente indicada para los amantes del género, protagonizada por uno de los mitos del cine adrenalínico: Steven Seagal. El protagonista de cintas como 'Alerta máxima' se puso a las órdenes del director Michael Oblowitz, con quien coincidió también en otro filme, 'El extranjero', producido en el mismo 2003.Una curiosidad: antes de que Steven Seagal se uniera al proyecto, el guion estaba ambientado en México y fue reescrito porque los productores temían que el presupuesto se disparara, por lo que retocaron toda la trama y el resultado poco se parece a la idea inicial.
@@ -537,7 +537,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117012000 +0100" stop="20241117025200 +0100" channel="BOM Cine">
+  <programme start="20241117010900 +0100" stop="20241117023800 +0100" channel="BOM Cine">
     <title lang="es">Elephant White (Objetivo Bangkok)</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
     <desc lang="es">· El asesino Curtie Church es contratado por un hombre de negocios para matar a los miembros de la banda que drogó, prostituyó y asesinó a su hija.
@@ -554,7 +554,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117025200 +0100" stop="20241117043100 +0100" channel="BOM Cine">
+  <programme start="20241117023800 +0100" stop="20241117041100 +0100" channel="BOM Cine">
     <title lang="es">Lobos de Arga</title>
     <sub-title lang="es">[COLOR teal]Películas de comedia[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· Una terrible maldición convierte en hombre lobo al hijo de la marquesa de Mariño en 1910. Un siglo después, el último descendiente de la familia, un escritor fracasado llamado Tomás, regresa al pueblo sin saber que los vecinos pretenden sacrificarle para acabar con la maldición.Juan Martínez Moreno ('Dos tipos duros') es el responsable de esta cinta situada a medio camino entre el terror y la comedia gamberra que se alzó con el premio del público de la Semana de Terror de San Sebastián. Protagonizan la película tres actores cómicos en alza en el momento en que se rodó: Gorka Otxoa ('Pagafantas') -cuyo apellido en euskera quiere decir, paradójicamente, 'lobo'-, Carlos Areces ('Muchachada nui') y Secun de la Rosa ('Aída'). Veteranos de la talla de Manuel Manquiña ('Airbag') y Mabel Rivera ('Mar adentro') les acompañan en el reparto.Cabe destacar, a modo de curiosidad, que el mito del licántropo es una tradición con mucho arraigo y gran repercusión en la literatura de Galicia (donde se ambienta la película), tanto en español como en gallego.
@@ -571,7 +571,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117043100 +0100" stop="20241117055600 +0100" channel="BOM Cine">
+  <programme start="20241117041100 +0100" stop="20241117053600 +0100" channel="BOM Cine">
     <title lang="es">Torremolinos 73</title>
     <sub-title lang="es">[COLOR teal]Películas de comedia[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
     <desc lang="es">· Alfredo, que trabaja como vendedor de enciclopedias, recibe una proposición por parte de la editorial: realizar películas eróticas caseras para venderlas a los países escandinavos. Debido a una situación económica difícil y al deseo de su esposa, Carmen, de tener un hijo, ambos aceptan la propuesta.Ópera prima del director Pablo Berger, autor del cortometraje de culto 'Mama'. La película se inspira en hechos reales y tiene como telón de fondo la España puritana de principios de la década de 1970. De hecho, por su ejercicio de nostalgia se ha comparado con la serie 'Cuéntame', pero a diferencia de esta, 'Torremolinos 73' cuenta con unas buenas dosis de crítica, aunque esté soterrada bajo el humor.Los papeles protagonistas están interpretados por Candela Peña y Javier Cámara, en un rol que en la época hubiera correspondido a Alfredo Landa y por el que obtuvo una candidatura al Goya. El filme optó a tres premios más, al mejor director novel, al mejor guion y al mejor actor de reparto para Juan Diego.
@@ -590,7 +590,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117055600 +0100" stop="20241117072400 +0100" channel="BOM Cine">
+  <programme start="20241117053600 +0100" stop="20241117070500 +0100" channel="BOM Cine">
     <title lang="es">Fu-Manchú y el beso de la muerte</title>
     <sub-title lang="es">[COLOR teal]Películas de ciencia ficción[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
     <desc lang="es">· Fu-Manchú ha construido su refugio en las ruinas de una antigua ciudad brasileña inmersa en el Amazonas. Allí ha descubierto un veneno mortal llamado la plaga verde, que tiene la particularidad de ser inocuo para las mujeres, pero letal para los hombres. Un beso basta para propagar la plaga.La cuarta de las producciones del productor Harry Alan Towers sobre la mítica creación de Sax Rohmer. Christopher Lee repite en el papel del maquiavélico oriental, al igual que la bella actriz china Tsai Chin, presente en toda la serie como hija de Fu-Manchú. El director madrileño Jesús Franco firma el resultado final.
@@ -609,10 +609,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117072400 +0100" stop="20241117074600 +0100" channel="BOM Cine">
-    <title lang="es">Un día en.. [COLOR tomato]E9[/COLOR]</title>
+  <programme start="20241117070500 +0100" stop="20241117072700 +0100" channel="BOM Cine">
+    <title lang="es">Un día en.. [COLOR tomato]E3[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Programas de cocina[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Nos propone pasar 24 horas en distintos restaurantes. No sólo para mostrarnos su cocina, sino para enseñarnos cómo es la vida de estos establecimientos y de las personas que trabajan en ellos.
+    <desc lang="es">· Durante los 4 días de exposición, hay más de 275 expositores internacionales y casi 700 barcos en el agua, y muchos más barcos en la feria.
 </desc>
     <category lang="es">Programas de cocina</category>
     <icon src="https://cdn.sincroguia.tv/uploads/programs/u/n/-/xun-dia-en-1153823_SPA-39.jpg.pagespeed.ic.vLOAKtViw8.jpg" />
@@ -620,10 +620,10 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20241117074600 +0100" stop="20241117080900 +0100" channel="BOM Cine">
-    <title lang="es">Un día en.. [COLOR tomato]E9[/COLOR]</title>
+  <programme start="20241117072700 +0100" stop="20241117075000 +0100" channel="BOM Cine">
+    <title lang="es">Un día en.. [COLOR tomato]E3[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Programas de cocina[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Nos propone pasar 24 horas en distintos restaurantes. No sólo para mostrarnos su cocina, sino para enseñarnos cómo es la vida de estos establecimientos y de las personas que trabajan en ellos.
+    <desc lang="es">· Durante los 4 días de exposición, hay más de 275 expositores internacionales y casi 700 barcos en el agua, y muchos más barcos en la feria.
 </desc>
     <category lang="es">Programas de cocina</category>
     <icon src="https://cdn.sincroguia.tv/uploads/programs/u/n/-/xun-dia-en-1153823_SPA-39.jpg.pagespeed.ic.vLOAKtViw8.jpg" />
@@ -631,7 +631,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20241117080900 +0100" stop="20241117104200 +0100" channel="BOM Cine">
+  <programme start="20241117075000 +0100" stop="20241117104500 +0100" channel="BOM Cine">
     <title lang="es">Televenta</title>
     <sub-title lang="es">[COLOR teal]Teletienda[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Espacio de promoción de productos de venta telefónica. 'Televenta' se compone de varios bloques independientes, en los que se presentan productos como recopilatorios de música, productos de limpieza o aparatos de gimnasia.
@@ -642,7 +642,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20241117104200 +0100" stop="20241117124800 +0100" channel="BOM Cine">
+  <programme start="20241117104500 +0100" stop="20241117124900 +0100" channel="BOM Cine">
     <title lang="es">La joven Jane Austen</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· Jane Austen vive sus primeras experiencias y escarceos amorosos con Tom, un joven irlandés de buena posición. El romance con él marcará toda su obra hasta que se convierta en una famosa novelista.Julian Jarrold ('Kinky Boots. Pisando fuerte') sumerge al espectador en el siglo de las luces con este tierno filme. Para ello, cuenta con un elenco de actores de lujo, encabezado por una Anne Hathaway ('Los miserables'), que tuvo que aprender piano para el rol y que trabajó con un profesor especialista para conseguir el acento adecuado. Su acompañante fue James McAvoy ('X-Men: orígenes'), quien, curiosamente, tuvo que calzar durante todo el rodaje unas alzas de ocho centímetros en los zapatos, pues en la realidad él es más bajo que su compañera de escenas. Completan el reparto Julie Walters ('Educando a Rita'), James Cromwell ('L.A. Confidential'), Maggie Smith ('Una habitación con vistas') y un Ian Richardson ('Brazil') que murió bastantes meses antes del estreno de la misma.
@@ -661,7 +661,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117124800 +0100" stop="20241117142700 +0100" channel="BOM Cine">
+  <programme start="20241117124900 +0100" stop="20241117142900 +0100" channel="BOM Cine">
     <title lang="es">El guerrero del bosque</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]1996[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
     <desc lang="es">· Unos niños pasan unos días en un bosque que una compañía maderera quiere talar. Allí descubren a un hombre que encarna el espíritu de la montaña. Juntos se enfrentarán a los terribles madereros.Después de casi dos décadas repartiendo mamporros y plomo a diestro y siniestro, un casi sexagenario Chuck Norris quiso cambiar de registro y convertirse en un modelo para los jóvenes y abanderado de la ecología. El resultado fue este filme de factura televisiva, dirigido por su hermano, Aaron y en el que le acompañaron rostros habituales de la pequeña pantalla, como Terry Kiser ('Juzgado de guardia') o William Sanderson ('La paloma solitaria').
@@ -680,7 +680,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117142700 +0100" stop="20241117160300 +0100" channel="BOM Cine">
+  <programme start="20241117142900 +0100" stop="20241117160400 +0100" channel="BOM Cine">
     <title lang="es">Aladino</title>
     <sub-title lang="es">[COLOR teal]Películas de comedia[/COLOR] | [COLOR cadetblue]1986[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· Al Haddin encuentra una lámpara con la que invoca a un todopoderoso genio, que le concederá todos sus deseos, desde ligarse a una chica hasta ganar un campeonato deportivo.Bruno Corbucci, hermano del mítico director de wésterns Sergio Corbucci y responsable de comedias como 'Dos superpolicías en Miami' o 'Como el perro y el gato', volvió a contar con Bud Spencer para contar con esta nueva adaptación -bastante 'sui generis'- del mito de Aladino de 'Las 1001 noches'. Le acompaña Venantino Venantini ('22 balas') y los dos respectivos hijos de este dúo: Luca Venantini y Diamy Spencer.En el ámbito de la fotografía, destaca la presencia de un gran conocido de Corbucci y Spencer, Silvano Ippoliti, responsable del apartado visual de las dos mencionadas cintas del director, entre muchas otras. De hecho, la recomendación le vino de su hermano, pues el artesano ya había trabajado con Sergio en 'El superpoderoso', 'El gran silencio' y 'Joe, el implacable'.
@@ -697,7 +697,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117160300 +0100" stop="20241117181800 +0100" channel="BOM Cine">
+  <programme start="20241117160400 +0100" stop="20241117181900 +0100" channel="BOM Cine">
     <title lang="es">Los tigres del tren</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
     <desc lang="es">· En 1941, un trabajador del ferrocarril en China lidera un equipo de luchadores por la libertad contra los japoneses para conseguir comida para los pobres. Los guerreros se embarcarán en una misión suicida para volar un puente.'Los tigres del tren' es una comedia de acción china escrita y dirigida por Sheng Ding y protagonizada por Jackie Chan. La película contó con un presupuesto de 50 millones de dólares. Aunque no logró una gran crítica, la cinta recaudó en su primer fin de semana en China más de 30 millones, por lo que fue un gran éxito para los productores.Ambientada en el siglo XX, durante la Segunda Guerra Mundial, el largometraje se centra en diciembre de 1941, cuando Japón expandió la ocupación de sus países vecinos al sudeste asiático. El ferrocarril de Tianjin a Nanjing en el este de China se convirtió en una ruta de transporte militar clave, custodiada por soldados japoneses.
@@ -716,7 +716,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117181800 +0100" stop="20241117201900 +0100" channel="BOM Cine">
+  <programme start="20241117181900 +0100" stop="20241117202200 +0100" channel="BOM Cine">
     <title lang="es">Junglee: Alma salvaje</title>
     <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★2.0/10[/COLOR]</sub-title>
     <desc lang="es">· Cuando un veterano de guerra vuelve a casa, a la reserva de elefantes de su padre, deberá luchar contra unos cazadores furtivos internacionales.'Junglee: Alma salvaje' es un filme de acción y aventuras dirigido y escrito por Chuck Russell, con la ayuda de Adam Prince. Esta es la primera vez que el realizador estadounidense dirige una película hindi y también es la primera aparición en la gran pantalla de los actores Asha Bhatt y Pooja Sawant. Cuando se anunció la obra en 2016, Rohan Sippy iba a dirigirla y afirmó que se iba a inspirar en el largometraje de 1971 de Rajesh Khanna, 'Haathi Mere Saathi'.El tema principal se basa en el contrabando de colmillos de elefante en los países africanos y asiáticos. Después de un largo tiempo, esta es una de las primeras películas que se graban utilizando animales reales. Rodada una gran parte en Tailandia, las escenas en las que aparecían elefantes se grabaron en presencia de miembros del equipo tailandés. De cien, cuatro de estos animales fueron seleccionados para la cinta después de explorar en India y Sri Lanka.
@@ -735,7 +735,7 @@
       <value>2.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241117201900 +0100" stop="20241117220100 +0100" channel="BOM Cine">
+  <programme start="20241117202200 +0100" stop="20241117220100 +0100" channel="BOM Cine">
     <title lang="es">Cuatro dólares de venganza</title>
     <sub-title lang="es">[COLOR teal]Películas del oeste[/COLOR] | [COLOR cadetblue]1966[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· El teniente Roy Dexter es sorprendido por una emboscada mientras trasladaba un importante cargamento de dinero. Los bandidos se hacen con el botín y, además, lo dejan gravemente herido. Por si fuera poco, Dexter es acusado injustamente por sus superiores de haberse apoderado del dinero y haberles traicionado.El éxito de filmes como 'Por un puñado de dólares' o 'El bueno, el feo y el malo' provocó una auténtica fiebre del 'spaghetti western' en España. La productora barcelonesa Balcázar fue una de las empresas que más apostaron por este género. Llegó a comercializar unos setenta títulos de estas características, la mayoría rodados en su plató 'Esplugues City' y en colaboración con compañías italianas. 'Cuatro dólares de venganza', estrenada en 1966 y protagonizada por Robert Woods fue una de estas producciones, normalmente utilizadas como relleno para las sesiones dobles de las salas de cine.
@@ -788,7 +788,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241118013200 +0100" stop="20241118030600 +0100" channel="BOM Cine">
+  <programme start="20241118013200 +0100" stop="20241118030100 +0100" channel="BOM Cine">
     <title lang="es">Alta tensión</title>
     <sub-title lang="es">[COLOR teal]Películas de terror[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· Marie es una joven de 20 años que se dispone a pasar unos días en la casa de sus padres de su mejor amiga, Alex, que viven en una granja aislada y rodeada de campos de maíz. Las dos jóvenes desean encontrar la tranquilidad para estudiar y no cuentan con que un asesino en serie asalte la granja y vaya acabando con la vida de los miembros de la familia.Antes de fomentar el pánico de los espectadores con 'Las colinas tienen ojos', Alexandre Aja atrajo las miradas de Europa con este thriller de terror en estado puro que bebe de clásicos como 'La matanza de Texas' o 'Posesión infernal'. La cinta, que narra la desesperada lucha por sobrevivir de dos chicas, fue galardonada en el Festival Internacional de Cine de Catalunya, una cita imprescindible para las películas fantásticas y de terror.En Estados Unidos algunas escenas, como la decapitación del padre de Alex, fueron cortadas para conseguir una calificación R, es decir que los menores de 18 años deben ir acompañados, y evitar la NC-17, que prohíbe la entrada al cine a todos los menores de edad.
@@ -807,7 +807,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241118030600 +0100" stop="20241118044000 +0100" channel="BOM Cine">
+  <programme start="20241118030100 +0100" stop="20241118042800 +0100" channel="BOM Cine">
     <title lang="es">Cosas insignificantes</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce. A través de tres de esos objetos, su destino se va a cruzar con el de Iván, Eli y Paola.
@@ -824,7 +824,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20241118044000 +0100" stop="20241118061900 +0100" channel="BOM Cine">
+  <programme start="20241118042800 +0100" stop="20241118061900 +0100" channel="BOM Cine">
     <title lang="es">Mal día para pescar</title>
     <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un ex campeón mundial de lucha libre y su protector intentan reconquistar la gloria del pasado.Tras rodar cortometrajes como 'Segundo aniversario', 'Sofía' o 'The Nine Mile Walk', el realizador Álvaro Brechner debutó en el mundo del largometraje con este drama con toques cómicos que recuerda en temática a otra película que se había estrenado recientemente: 'The Wrestler', de Darren Aronofski.La que nos ocupa, a pesar de ser la candidata uruguaya para los Oscars de 2010, no logró estar entre las nominadas a mejor película de habla no inglesa. Tampoco no logró calar en el público, aunque ello es debido principalmente a que su público objetivo es más bien minoritario. A quien sí conquistó fue a la crítica, que halagó su lirismo y elegancia, y a su protagonista, el escocés Gary Piquer ('La caja Kovak', 'El último viaje de Robert Rylands') en una buena caracterización 'vintage'.
@@ -1537,6 +1537,245 @@
     <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/b/xlobos-de-arga-251348_GLG-22.jpg.pagespeed.ic.JEAeGjUzdf.jpg" />
     <rating system="ES">
       <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121044200 +0100" stop="20241121062600 +0100" channel="BOM Cine">
+    <title lang="es">Dalí</title>
+    <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
+    <desc lang="es">· En 1940, Dalí y Gala llegan a Nueva York por primera vez. Los estadounidenses no conocen todavía al genial artista, pero Dalí no está dispuesto a permanecer en el anonimato por mucho tiempo. Con la ayuda de un periodista empieza a forjarse su fama. En una entrevista, el pintor le habla de la relación con sus padres; de su amistad con otras personalidades de la cultura, como Federico García Lorca, Luis Buñuel, Jean Cocteau, Henry Miller o Pablo Picasso; y de su vida privada, que comparte con su musa Gala.Antonio Ribas ('Tierra de cañones', 'La ciutat cremada'), realizador cuya intención ha sido retratar con sus películas el ambiente social y político catalán de buena parte del s. XIX, dirigió en 1991 esta especie de biografía del pintor catalán. A partir de la supuesta entrevista que un periodista le realiza a Dalí, el espectador conoce una parte de la vida del polémico pintor, además de retratarse también la sociedad y los personajes con los que se relacionó. El actor escogido por Ribas para encarnar al pintor fue Lorenzo Quinn.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
+[COLOR teal]· Reparto:[/COLOR] Lorenzo Quinn, Sarah Douglas, Valentín Fernández-Tubau, Michael Catlin, Rosa Novell.
+[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Enric Gomà.
+[COLOR teal]· Música:[/COLOR] Antonio Sechi.</desc>
+    <category lang="es">Dramas</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/d/a/l/xdali-63660_SPA-75.jpg.pagespeed.ic.4XkF-sKmg0.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121062600 +0100" stop="20241121075400 +0100" channel="BOM Cine">
+    <title lang="es">Crepúsculo rojo</title>
+    <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Michel, hijo de un francés nacido en Buenos Aires, llega a París para rehacer su vida. Al llegar, su única pertenencia es un valioso cuadro de un pintor conocido heredado de su padre. Pero en París descubre que con el cuadro también ha heredado un pasado turbio. Clara, mujer madura, poco segura sí misma, recibe de Buenos Aires un rollo de super-8: una amiga de juventud, gravemente enferma, le manda unas imágenes de un tiempo pasado, rico en esperanzas militantes, en despreocupación sentimental. La película aviva en Clara los recuerdos de una traición que ha sobrevivido al tiempo. David, pintor reconocido en el pasado, se ha convertido en falsificador y se permite el lujo de hacer fracasar el complot de unos traficantes que le contratan, confesándole a la víctima prevista la trampa que le habían tendido. Su recompensa será reencontrarse con la mujer a la que amó en el pasado y que perdió en Buenos Aires, aunque ahora ella sea sólo un fantasma. Este 'otro lado del mundo', que atormenta el presente de los personajes, es la ciudad de Buenos Aires, que les ha marcado a todos de manera distinta en el pasado. Hoy en París, las historias de los tres personajes se cruzan.
+[COLOR teal]· País:[/COLOR] Francia, España 
+[COLOR teal]· Dirección:[/COLOR] Edgardo Cozarinsky.
+[COLOR teal]· Reparto:[/COLOR] Marisa Paredes, Féodor Atkine, Bruno Putzulu, Bérénice Bejo.
+[COLOR teal]· Guion:[/COLOR] Edgardo Cozarinsky, Jean-Marie Duprez.</desc>
+    <category lang="es">Dramas</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/e/xcrepusculo-rojo-757454_SPA-71.jpg.pagespeed.ic.9D1vW5-vW6.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121075400 +0100" stop="20241121081800 +0100" channel="BOM Cine">
+    <title lang="es">Automobile Barcelona 2023</title>
+    <sub-title lang="es">[COLOR teal]Otros documentales[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Espacio donde los profesionales del sector podrán conocer las últimas novedades y tendencias en el mercado de la automoción. Los fabricantes presentan allí sus últimos modelos y prototipos.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Otros documentales</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/u/t/xautomobile-barcelona-2023-1301144_SPA-99.jpg.pagespeed.ic.VsuRo2CGRA.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20241121081800 +0100" stop="20241121104300 +0100" channel="BOM Cine">
+    <title lang="es">Televenta</title>
+    <sub-title lang="es">[COLOR teal]Teletienda[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Espacio de promoción de productos de venta telefónica. 'Televenta' se compone de varios bloques independientes, en los que se presentan productos como recopilatorios de música, productos de limpieza o aparatos de gimnasia.
+</desc>
+    <category lang="es">Teletienda</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/u/j/xmujeres-ricas-de-cheshire-763463_SPA-52.jpg.pagespeed.ic.Fl2A4z2Izu.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20241121104300 +0100" stop="20241121124500 +0100" channel="BOM Cine">
+    <title lang="es">El correo del zar</title>
+    <sub-title lang="es">[COLOR teal]Películas de aventuras[/COLOR] | [COLOR cadetblue]1956[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Miguel Strogoff es un oficial del ejército imperial ruso que ha perdido a su mujer y a su hijo, asesinados por las tropas tártaras del comandante Ogareff. Strogoff no parará hasta cumplir su venganza.'El correo del zar' es otra de las adaptaciones de 'Miguel Strogoff', una de las novelas más famosas de Jules Verne. Este proyecto fue llevado a la gran pantalla por Carmine Gallone ('Escipión el Africano'), un cineasta conocido fundamentalmente por sus películas históricas, cuya exaltación de la romanidad sirvió también de propaganda para el régimen fascista.El rol principal recayó en el austríaco Curd Jürgens, un actor que ese mismo año conseguiría notoriedad internacional gracias a 'Y Dios creó la mujer', una fama que le hizo participar en películas estadounidenses como 'La espía que me amó'. Como curiosidad, Jürgens volvería a reprender este rol en 1961 en 'Le triomphe de Michel Strogoff'.
+[COLOR teal]· País:[/COLOR] Francia, Alemania 
+[COLOR teal]· Dirección:[/COLOR] Carmine Gallone.
+[COLOR teal]· Reparto:[/COLOR] Curd Jürgens, Geneviève Page, Jacques Dacqmine, Sylva Koscina, Gérard Buhr.
+[COLOR teal]· Guion:[/COLOR] Marc-Gilbert Sauvajon.
+[COLOR teal]· Música:[/COLOR] Norbert Glanzberg.
+[COLOR teal]· Producción:[/COLOR] Emile Natan.</desc>
+    <category lang="es">Películas de aventuras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/e/l/-/xel-correo-del-zar-152674_SPA-58.jpg.pagespeed.ic.HSE_fF92ah.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121124500 +0100" stop="20241121142600 +0100" channel="BOM Cine">
+    <title lang="es">Reza al muerto, mata al vivo</title>
+    <sub-title lang="es">[COLOR teal]Películas del oeste[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Una banda de asesinos, dirigidos por Dan Hogan, dan el gran golpe. Asaltan un banco y roban 100.000 dólares en lingotes de oro. Quedan en el rancho de Jackal para repartirse el dinero. Por el camino se encuentran un misterioso hombre llamado John Webb que les ayudará en la travesía. Propone ir a México a cambio de poder quedarse con la mitad del botín. El líder acepta la propuesta y se disponen a seguir su camino, huyendo de la ley por el terrorífico desierto de México.Película dirigida por el cineasta Giuseppe Vari ('Guerreros de la ciudad', 'Vuelven los del calibre 38') y escrita por Adriano Bolzoni ('Vicios prohibidos', 'La ley del desierto'). El reparto lo conforman Klaus Kinski ('Nosferatu, vampiro de la noche'), Victoria Zinny ('De amor y de guerra'), Paolo Casella ('Reza al muerto, mata al vivo'), Dino Strano ('Los siete del grupo salvaje') y Antonio La Raina ('Antonio Gramsci: i giorni del carcere'), entre otros.'Reza al muerto, mata al vivo' fue filmado a la vez que se realizaba el rodaje de 'The Last Traitor', ambas dirigidas por Giuseppe Vari y escritas por Adriano Bolzoni el año 1971.
+[COLOR teal]· País:[/COLOR] Italia 
+[COLOR teal]· Dirección:[/COLOR] Giuseppe Vari.
+[COLOR teal]· Reparto:[/COLOR] Klaus Kinski, Victoria Zinny, Dino Strano, Dante Maggio, Paolo Casella.
+[COLOR teal]· Guion:[/COLOR] Adriano Bolzoni.</desc>
+    <category lang="es">Películas del oeste</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/e/z/xreza-al-muerto-mata-al-vivo-205450_SPA-79.jpg.pagespeed.ic.s3zDN1i8wi.jpg" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121142600 +0100" stop="20241121162200 +0100" channel="BOM Cine">
+    <title lang="es">Los clandestinos de Asís</title>
+    <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]1985[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
+    <desc lang="es">· El Padre Rufino recibe del Obispo Nicolini la delicada misión de rescatar a unas familias judías italianas que han sido capturadas por las tropas nazis. También participarán frailes i monjas de la ciudad de Asís que les facilitan documentación falsa y refugio en sus conventos.Historia sobre la ayuda que prestó la Iglesia Católica y la población de Asís para rescatar a los judíos italianos que habían sido capturados por los nazis en 1943.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Alexander Ramati.
+[COLOR teal]· Reparto:[/COLOR] Ben Cross, James Mason, Irene Papas, Maximilian Schell, Riccardo Cucciolla.
+[COLOR teal]· Guion:[/COLOR] Alexander Ramati.
+[COLOR teal]· Música:[/COLOR] Dov Seltzer.
+[COLOR teal]· Producción:[/COLOR] Yoram Globus, Menahem Golan.</desc>
+    <category lang="es">Dramas</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-clandestinos-de-asis-167294_SPA-69.jpg.pagespeed.ic.rQVczWnccY.jpg" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121162200 +0100" stop="20241121180600 +0100" channel="BOM Cine">
+    <title lang="es">La leyenda del Llanero Solitario</title>
+    <sub-title lang="es">[COLOR teal]Películas del oeste[/COLOR] | [COLOR cadetblue]1981[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
+    <desc lang="es">· El Ranger de Texas, John Ried, es el único que sobrevive a una emboscada organizada por Butch Cabendich, el líder de una banda de delincuentes que escapan de la ley. A John lo rescata un viejo amigo comanche, llamado Tonto, y después de curarse de sus heridas, irá a la caza de Cabendish y sus hombres durante toda la su vida. Así, se convertirá en el héroe conocido en el lejano oeste como el Llanero Solitario.'La leyenda del Llanero Solitario' fue el primero y el único largometraje protagonizado por Klinton Spilsbury, que con el papel de John Reid ganó el premio Razzie al peor actor y la peor nueva promesa del año 1981. Por contra, a su lado actuó el conocido Dr.Emmet de 'Regreso al futuro', Christopher Lloyd, en el papel de Tonto y que a la edad de 73 años tiene hasta ocho trabajos en curso para 2011 y 2012.El filme, rodado entre México y Estados Unidos con un presupuesto alto para la época, fue dirigido por el americano Wiliam A. Fraker, director nominado hasta 6 veces a los premios Oscar'. La película más famosa del americano, que falleció en 2010, fue 'Street Fighter, la última batalla' con Jean-Claude Van Damme.
+[COLOR teal]· País:[/COLOR] EE.UU., R.U. 
+[COLOR teal]· Dirección:[/COLOR] William A Fraker.
+[COLOR teal]· Reparto:[/COLOR] Michael Horse, Klinton Spilsbury, Christopher Lloyd, Matt Clark, Juanin Clay, Jason Robards, John Bennett Perry, John Hart.
+[COLOR teal]· Guion:[/COLOR] Ivan Goff, Ben Roberts.
+[COLOR teal]· Música:[/COLOR] John Barry.
+[COLOR teal]· Producción:[/COLOR] Walter Coblenz, Martin Starger.</desc>
+    <category lang="es">Películas del oeste</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/a/-/xla-leyenda-del-llanero-solitario-149093_SPA-40.jpg.pagespeed.ic.lKqKVGwuSu.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121180600 +0100" stop="20241121201800 +0100" channel="BOM Cine">
+    <title lang="es">Su juego favorito</title>
+    <sub-title lang="es">[COLOR teal]Películas de comedia[/COLOR] | [COLOR cadetblue]1964[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Roger Willoughby es un vendedor de material de pesca de unos grandes almacenes de San Francisco al que sus clientes creen un auténtico experto, ya que ha escrito un manual de pesca de gran utilidad para los aficionados a este deporte. Un buen día, la publicista Abigail Page le ruega que participe en un popular concurso de pesca. Sin embargo, Roger se niega porque tiene un pequeño problema: no ha pescado en su vida. Una comedia de Howard Hawks que contiene todos los elementos distintivos de sus obras de este género, en especial, la guerra de sexos, con un protagonista masculino viéndose metido en líos por culpa de la presencia de una mujer de fuerte carácter. Con muchos elementos comunes con 'La fiera de mi niña' (contiene una escena idéntica, empleada como autohomenaje), 'Su juego favorito' presenta también grandes momentos de 'slapstick', especialmente uno en el que los utensilios de pesca se convierten para el protagonista (Rock Hudson) en auténticas armas mortíferas.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Howard Hawks.
+[COLOR teal]· Reparto:[/COLOR] Rock Hudson, Paula Prentiss, Maria Perschy, John McGiver, Charlene Holt, Roscoe Karns, James Westerfield, Norman Alden.
+[COLOR teal]· Guion:[/COLOR] John Fenton Murray, Steve McNeil.
+[COLOR teal]· Música:[/COLOR] Henry Mancini.
+[COLOR teal]· Producción:[/COLOR] Howard Hawks.</desc>
+    <category lang="es">Películas de comedia</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/s/u/-/xsu-juego-favorito-9594_SPA-60.jpg.pagespeed.ic.HvWgS9VpO4.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121201800 +0100" stop="20241121220100 +0100" channel="BOM Cine">
+    <title lang="es">Tres flechas</title>
+    <sub-title lang="es">[COLOR teal]Películas del oeste[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Jody Deaks acaba de reunirse con su padre cuando descubre que éste forma parte de una banda de proscritos. Al poco tiempo, un cazarecompensas llamado Santee acaba con la vida de toda la banda. Jody decide vengar este acto, pero su plan se resquebraja cuando conoce más íntimamente a Santee y la historia que hay tras de él.Wéstern que trata por enésima vez la temática de la venganza, pero esta vez de una forma menos arquetípica que lo habitual en el género. Gary Nelson ('El Superagente 86', 'Allan Quatermanin y la ciudad perdida del oro') es el encargado de dirigir esta cinta, en la que incide sobre las dificultades que surgen al querer matar a un hombre para vengar a otro. Michael Burns ('Caravana'), conocido por su faceta de niño actor, interpreta al chico que se encuentra en esta encrucijada emocional. Le acompaña un mito del celuloide como el desaparecido Glenn Ford ('Un gángster para un milagro', 'Los sobornados'), un actor con más de 100 películas a sus espaldas, que da vida a un 'sheriff' atormentado. El toque femenino lo da la alemana Dana Wynter ('Aeropuerto', 'La invasión de los ladrones de cuerpos'), ganadora del Globo de oro en 1956.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Gary Nelson.
+[COLOR teal]· Reparto:[/COLOR] Glenn Ford, Michael Burns, Dana Wynter, Jay Silverheels, Harry Townes.
+[COLOR teal]· Guion:[/COLOR] Thomas W Blackburn, Brand Bell.
+[COLOR teal]· Música:[/COLOR] Don Randi.
+[COLOR teal]· Producción:[/COLOR] Caruth C Byrd, Deno Paoli.</desc>
+    <category lang="es">Películas del oeste</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/r/e/xtres-flechas-150571_CAT-12.jpg.pagespeed.ic.5IVi8amChG.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121220100 +0100" stop="20241121233800 +0100" channel="BOM Cine">
+    <title lang="es">Sangre, arena y oro</title>
+    <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Cuando un arqueólogo descubre en el desierto del Sahara el tesoro perdido de Sir Francis Drake, no tarda en ser asaltado, iniciándose de esta manera una búsqueda trepidante para recuperarlo.
+[COLOR teal]· País:[/COLOR] EE.UU., Hong Kong 
+[COLOR teal]· Dirección:[/COLOR] Gaelan Connell.
+[COLOR teal]· Reparto:[/COLOR] Aaron Costa Ganis, Monica West, Christopher Redman, Jenny Sterlin, Michael Benyaer.
+[COLOR teal]· Guion:[/COLOR] Gaelan Connell, Matt Lazarus.</desc>
+    <category lang="es">Películas de acción</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/s/a/n/xsangre-arena-y-oro-1321752_SPA-81.jpg.pagespeed.ic.5O_9SMaUhF.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241121233800 +0100" stop="20241122010900 +0100" channel="BOM Cine">
+    <title lang="es">Boone: El cazarrecompensas</title>
+    <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
+    <desc lang="es">· En su programa de telerrealidad, el cazarrecompensas Boone intenta acabar con un narcotraficante, pero aprende que la justicia significa más que las audiencias.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Robert Kirbyson.
+[COLOR teal]· Reparto:[/COLOR] John Hennigan, Osric Chau, Spencer Grammer, Jonathan Lipnicki, Richard Tyson, Jane Park Smith.
+[COLOR teal]· Guion:[/COLOR] John Hennigan.</desc>
+    <category lang="es">Películas de acción</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/b/o/o/xboone-el-cazarrecompensas-640364_SPA-15.jpg.pagespeed.ic.Vbsjt71OFF.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241122010900 +0100" stop="20241122024000 +0100" channel="BOM Cine">
+    <title lang="es">Tren mortal</title>
+    <sub-title lang="es">[COLOR teal]Películas de acción[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
+    <desc lang="es">· El agente Ryan y sus hombres son los encargados de proteger unos diamantes que son transportados a través del país en un tren. Lo que no saben es que Vincent Weaver, un despiadado terrorista, está dispuesto a tenderles una emboscada para robar el valioso cargamento. El ataque fracasa y Ryan captura al malechor, pero el precio pagado resulta muy alto: todos sus hombres han muerto. Los terroristas son conducidos a los Estados Unidos para ser juzgados, pero algo sale mal y consiguen escapar.Yossi Wein, realizador especializado en cintas de acción de consumo televisivo, firma este filme que no es una excepción y que se rodó directamente para su comercialización en el circuito de vídeo. Pese a gozar de unos efectos especiales nada desdeñables, el guión no aporta apenas novedades al género y se convierte en un título fácilmente olvidable.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Yossi Wein.
+[COLOR teal]· Reparto:[/COLOR] Bryan Genesse, Bentley Mitchum, Tarri Markell, Bashar Rahal, Jaime Anstead.
+[COLOR teal]· Guion:[/COLOR] Michael D Weiss.
+[COLOR teal]· Música:[/COLOR] Gina Amador, Dori Amarilio.
+[COLOR teal]· Producción:[/COLOR] David Varod, Danny Lerner.</desc>
+    <category lang="es">Películas de acción</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/r/e/xtren-mortal-75669_SPA-84.jpg.pagespeed.ic.J7HspTYlp7.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241122024000 +0100" stop="20241122040700 +0100" channel="BOM Cine">
+    <title lang="es">Cosas insignificantes</title>
+    <sub-title lang="es">[COLOR teal]Dramas[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
+    <desc lang="es">· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce. A través de tres de esos objetos, su destino se va a cruzar con el de Iván, Eli y Paola.
+[COLOR teal]· País:[/COLOR] México, España 
+[COLOR teal]· Dirección:[/COLOR] Andrea Martínez Crowther.
+[COLOR teal]· Reparto:[/COLOR] Jonathan Bravo, Regina De Los Cobos, Fátima Díaz.
+[COLOR teal]· Guion:[/COLOR] Andrea Martínez Crowther.</desc>
+    <category lang="es">Dramas</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/o/s/xcosas-insignificantes-757983_SPA-74.jpg.pagespeed.ic.MPFTRUbvTU.jpg" />
+    <rating system="ES">
+      <value>TP</value>
     </rating>
     <star-rating system="ES">
       <value>5.0/10</value>
