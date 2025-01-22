@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch: # Permite ejecución manual desde la interfaz de GitHub Actions
   schedule: # Ejecuta automáticamente cada hora
-    - cron: "0 * * * *"
+    - cron: "10 * * * * "
 
 jobs:
   resolve-ips:
