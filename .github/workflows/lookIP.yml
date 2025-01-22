@@ -18,7 +18,7 @@ jobs:
 
       - name: Resolve IP for URLs
         run: |
-          urls=("https://tinyurl.com/2v6pcwwd" "https://tinyurl.com/5hbek84b" "https://www.vavoo.tv/api/box/ping2" "https://www2.vavoo.to/live2/index?countries=all&output=json")
+          urls=("https://tinyurl.com/2v6pcwwd" "https://tinyurl.com/5hbek84b" "https://www.vavoo.tv/api/box/ping2" "https://www2.vavoo.to/live2/index?countries=all&output=json" "https://vavoo.to/live2/play/3923153097.ts" "https://vavoo.to/live2/play/1397846137.ts")
           output="IPs.txt"
 
           # Crear o sobrescribir el archivo de salida
