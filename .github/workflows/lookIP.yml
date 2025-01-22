@@ -14,13 +14,14 @@ uses: actions/checkout@v2
 •  name: Resolve IP for tinyurl.com/2v6pcwwd
 
 run: |
-final_url=$(curl -Ls -o /dev/null -w %{url_effective} https://tinyurl.com/2v6pcwwd)
+final_url=$(curl -Ls -o /dev/null -w "%{url_effective}" https://tinyurl.com/2v6pcwwd)
 final_ip=$(dig +short $(echo $final_url | awk -F/ '{print $3}'))
 echo "https://tinyurl.com/2v6pcwwd : $final_ip"
 
 •  name: Resolve IP for tinyurl.com/5hbek84b
 
 run: |
-final_url=$(curl -Ls -o /dev/null -w %{url_effective} https://tinyurl.com/5hbek84b)
+final_url=$(curl -Ls -o /dev/null -w "%{url_effective}" https://tinyurl.com/5hbek84b)
 final_ip=$(dig +short $(echo $final_url | awk -F/ '{print $3}'))
 echo "https://tinyurl.com/5hbek84b : $final_ip"
+
