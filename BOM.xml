@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/02/2025 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/02/2025 08:51" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,248 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250209002900 +0200" stop="20250209020500 +0200" channel="BOM Cine">
-    <title lang="es">Special Forces</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Un equipo de las Fuerzas Especiales del ejército norteamericano recibe el encargo de liberar a una fotógrafa que ha sido secuestrada por un grupo terrosita en Bosnia.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Isaac Florentine.
-[COLOR teal]· Reparto:[/COLOR] Tim Abell, Marshall R. Teague, Danny Lee Clark, Troy Mittleider, Daniella Deutscher.
-[COLOR teal]· Guion:[/COLOR] David N. White.
-[COLOR teal]· Música:[/COLOR] Stephen Edwards.
-[COLOR teal]· Producción:[/COLOR] Boaz Davidson, Danny Lerner.</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_487617.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209020500 +0200" stop="20250209033300 +0200" channel="BOM Cine">
-    <title lang="es">Crepúsculo rojo</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Michel, hijo de un francés, llega a París para rehacer su vida. Todo su patrimonio es un cuadro de un pintor conocido heredado de su padre. Pero descubre que también ha heredado un pasado turbio.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Edgardo Cozarinsky.
-[COLOR teal]· Reparto:[/COLOR] Bérénice Bejo, Bruno Putzulu, Marisa Paredes, Féodor Atkine.
-[COLOR teal]· Guion:[/COLOR] Edgardo Cozarinsky, Jean-Marie Duprez.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3534281.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209033300 +0200" stop="20250209050700 +0200" channel="BOM Cine">
-    <title lang="es">Ave María</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
-    <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Eduardo Rossoff.
-[COLOR teal]· Reparto:[/COLOR] Ana Torrent, Demián Bichir, Juan Diego Botto, Damián Alcázar, Fernando Torre Laphame, Teresa López Tarín, Gabriela Canudas, Ana Ofelia Murguía.
-[COLOR teal]· Guion:[/COLOR] Camille Thomasson.
-[COLOR teal]· Música:[/COLOR] Carles Cases.</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_530730.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209050700 +0200" stop="20250209063600 +0200" channel="BOM Cine">
-    <title lang="es">Trece entre mil</title>
-    <sub-title lang="es">[COLOR teal]Cine/Documentales[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Película documental que recupera la memoria y los testimonios de los que sufrieron el asesinato de sus familiares por parte de ETA, la mayoría de ellos en atentados de los años 80.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Iñaki Arteta.
-[COLOR teal]· Guion:[/COLOR] Iñaki Arteta, Alfonso Galletero.
-[COLOR teal]· Música:[/COLOR] Pat Metheny, Eduardo Basterra.</desc>
-    <category lang="es">Cine, Documentales</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_679053.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209063600 +0200" stop="20250209080400 +0200" channel="BOM Cine">
-    <title lang="es">Crepúsculo rojo</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Michel, hijo de un francés, llega a París para rehacer su vida. Todo su patrimonio es un cuadro de un pintor conocido heredado de su padre. Pero descubre que también ha heredado un pasado turbio.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Edgardo Cozarinsky.
-[COLOR teal]· Reparto:[/COLOR] Bérénice Bejo, Bruno Putzulu, Marisa Paredes, Féodor Atkine.
-[COLOR teal]· Guion:[/COLOR] Edgardo Cozarinsky, Jean-Marie Duprez.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3534281.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209080400 +0200" stop="20250209093300 +0200" channel="BOM Cine">
-    <title lang="es">Televenta</title>
-    <sub-title lang="es">[COLOR teal]Series/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Espacio de promoción de productos de venta telefónica. "Televenta" se compone de varios bloques independientes, en los que se presentan productos como recopilatorios de música, productos de limpieza o aparatos de gimnasia.
-</desc>
-    <category lang="es">Series, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_2996385.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250209093300 +0200" stop="20250209114600 +0200" channel="BOM Cine">
-    <title lang="es">El mercader de Venecia</title>
-    <sub-title lang="es">[COLOR teal]Cine/Comedia/Drama[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
-    <desc lang="es">· En la Venecia del siglo XVI, Bassanio, un noble pobre, recurre a su amigo Antonio para que le preste 3.000 ducados con los que cortejar a su amada Porcia, una rica heredera de la fortuna de su padre.
-[COLOR teal]· País:[/COLOR] Italia 
-[COLOR teal]· Dirección:[/COLOR] Michael Radford.
-[COLOR teal]· Reparto:[/COLOR] Al Pacino, David Harewood, Jeremy Irons, Joseph Fiennes, Lynn Collins, Mackenzie Crook, Charlie Cox, Kris Marshall.
-[COLOR teal]· Guion:[/COLOR] Michael Radford.
-[COLOR teal]· Música:[/COLOR] Jocelyn Pook.
-[COLOR teal]· Producción:[/COLOR] Cary Brokaw, Jason Piette.</desc>
-    <category lang="es">Cine, Comedia, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3623532.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209114600 +0200" stop="20250209132000 +0200" channel="BOM Cine">
-    <title lang="es">Los padrinos del novio</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc lang="es">· Un hombre sale de la cárcel dispuesto a casarse con su novia pero uno de sus amigos es un ladrón de bancos que les meterá a todos en medio de un atraco.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Tamra Davis.
-[COLOR teal]· Reparto:[/COLOR] Drew Barrymore, Luke Wilson, Andy Dick, Sean Patrick Flanery, Mitchell Whitfield, Dean Cain.
-[COLOR teal]· Guion:[/COLOR] Art Edler Brown, Tracy Fraim.
-[COLOR teal]· Música:[/COLOR] Mark Mothersbaugh.
-[COLOR teal]· Producción:[/COLOR] Brad Krevoy, Steven Stabler.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3320564.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20250209132000 +0200" stop="20250209152400 +0200" channel="BOM Cine">
-    <title lang="es">New Police Story</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Suspense[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Una redada contra una banda de criminales resulta un fracaso y mueren todos los policías del cuerpo excepto Wing, quien cae en una depresión de la que sólo saldrá con la ayuda de un joven impetuoso.
-[COLOR teal]· País:[/COLOR] CHN 
-[COLOR teal]· Dirección:[/COLOR] Benny Chan.
-[COLOR teal]· Reparto:[/COLOR] Jackie Chan, Andy On, Daniel Wu, Charlie Yeung, Charlene Choi, Terence Yin, Andrew Lin, Ken Lo.
-[COLOR teal]· Guion:[/COLOR] Alan Yuen.
-[COLOR teal]· Música:[/COLOR] Tommy Wai.
-[COLOR teal]· Producción:[/COLOR] Barbie Tung, Willie Chan.</desc>
-    <category lang="es">Cine, Acción, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_2187708.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209152400 +0200" stop="20250209171800 +0200" channel="BOM Cine">
-    <title lang="es">Junglee [COLOR goldenrod]Alma salvaje[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
-    <desc lang="es">· Cuando un veterano de guerra vuelve a casa, a la reserva de elefantes de su padre, deberá luchar contra unos cazadores furtivos internacionales.
-[COLOR teal]· País:[/COLOR] IND 
-[COLOR teal]· Dirección:[/COLOR] Chuck Russell.
-[COLOR teal]· Reparto:[/COLOR] Lars Kjeldsen, Vishwanath Chatterjee, Vidyut Jammwal, Asha Bhat, Makrand Deshpande, Atul Kulkarni, Kumkum Das.
-[COLOR teal]· Guion:[/COLOR] Chuck Russell, Adam Prince.
-[COLOR teal]· Música:[/COLOR] Tanuj Tiku, Sameer Uddin.
-[COLOR teal]· Producción:[/COLOR] Vineet Jain.</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_1245496.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209171800 +0200" stop="20250209190200 +0200" channel="BOM Cine">
-    <title lang="es">Deep Rising (El Misterio de las profundidades)</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Lo que en un principio iba a ser un lujoso y apacible crucero por los mares del sur de China se convierte de repente en una horrible pesadilla.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Stephen Sommers.
-[COLOR teal]· Reparto:[/COLOR] Cliff Curtis, Djimon Hounsou, Jason Flemyng, Treat Williams, Anthony Heald, Famke Janssen, Wes Studi, Clifton Powell.
-[COLOR teal]· Guion:[/COLOR] Stephen Sommers.
-[COLOR teal]· Música:[/COLOR] Jerry Goldsmith.
-[COLOR teal]· Producción:[/COLOR] Laurence Mark, Mario Iscovich.</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_672834.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209190200 +0200" stop="20250209210000 +0200" channel="BOM Cine">
-    <title lang="es">Los cañones de San Sebastián</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Clásico/Religioso[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Camuflado de sacerdote, un popular bandolero mexicano llega a un pueblo y, convertido en líder espiritual, ayuda a sus habitantes a defenderse de bandoleros estadounidenses.
-[COLOR teal]· País:[/COLOR] Francia 
-[COLOR teal]· Dirección:[/COLOR] Henri Verneuil.
-[COLOR teal]· Reparto:[/COLOR] Anthony Quinn, Charles Bronson, Silvia Pinal, Anjanette Comer, Sam Jaffe, Jorge Russek, Jorge Martínez de Hoyos, Rosa Furman.
-[COLOR teal]· Guion:[/COLOR] Miguel Morayta, Ennio De Concini.
-[COLOR teal]· Música:[/COLOR] Ennio Morricone.
-[COLOR teal]· Producción:[/COLOR] Jacques Bar.</desc>
-    <category lang="es">Cine, Aventuras, Clásico, Religioso</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_136004.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209210000 +0200" stop="20250209223300 +0200" channel="BOM Cine">
-    <title lang="es">Air Force One derribado [COLOR tomato]T1 E1[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.1/10[/COLOR]</sub-title>
-    <desc lang="es">· El general serbio Arkady Dragutin cumple condena por crímenes de guerra contra la humanidad. Sus leales soldados deciden secuestrar el Air Force One y a la presidenta de los Estados Unidos para intentar liberarle.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Cilla Ware.
-[COLOR teal]· Reparto:[/COLOR] Rupert Graves, Jeremy Sisto, Cas Anvar, Carsten Norgaard, Ken Duken, Linda Hamilton, Jamie Thomas King, Paul Birchard.</desc>
-    <category lang="es">Series, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3489995.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250209223300 +0200" stop="20250210000400 +0200" channel="BOM Cine">
-    <title lang="es">Air Force One derribado [COLOR tomato]T1 E2[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.1/10[/COLOR]</sub-title>
-    <desc lang="es">· El general serbio Arkady Dragutin cumple condena por crímenes de guerra contra la humanidad. Sus leales soldados deciden secuestrar el Air Force One y a la presidenta de los Estados Unidos para intentar liberarle.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Cilla Ware.
-[COLOR teal]· Reparto:[/COLOR] Rupert Graves, Jeremy Sisto, Cas Anvar, Carsten Norgaard, Ken Duken, Linda Hamilton, Jamie Thomas King, Paul Birchard.</desc>
-    <category lang="es">Series, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3489995.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.1/10</value>
-    </star-rating>
-  </programme>
   <programme start="20250210000400 +0200" stop="20250210013700 +0200" channel="BOM Cine">
     <title lang="es">Tren mortal</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.3/10[/COLOR]</sub-title>
@@ -1296,5 +1054,241 @@
     <star-rating system="ES">
       <value>5.2/10</value>
     </star-rating>
+  </programme>
+  <programme start="20250214005200 +0200" stop="20250214025100 +0200" channel="BOM Cine">
+    <title lang="es">El portero de noche</title>
+    <sub-title lang="es">[COLOR teal]Cine/Clásico/Erótico[/COLOR] | [COLOR cadetblue]1974[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc lang="es">· La superviviente de un campo de concentración y su torturador se encuentran años después en un hotel de Viena. Allí reemprenden su relación sadomasoquista.
+[COLOR teal]· País:[/COLOR] Italia 
+[COLOR teal]· Dirección:[/COLOR] Liliana Cavani.
+[COLOR teal]· Reparto:[/COLOR] Charlotte Rampling, Dirk Bogarde, Gabriele Ferzetti, Philippe Leroy, Giuseppe Addobbati, Isa Miranda, Phillippe Leroy.
+[COLOR teal]· Guion:[/COLOR] Liliana Cavani, Italo Moscati.
+[COLOR teal]· Música:[/COLOR] Danièle Paris.
+[COLOR teal]· Producción:[/COLOR] Robert Gordon Edwards, Esa De Simone.</desc>
+    <category lang="es">Cine, Clásico, Erótico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3037776.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214025100 +0200" stop="20250214040700 +0200" channel="BOM Cine">
+    <title lang="es">Moscow zero</title>
+    <sub-title lang="es">[COLOR teal]Cine/Español/Terror[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
+    <desc lang="es">· El antropólogo ruso Sergei Spassky investiga para la Universidad de Moscú la supuesta sociedad marginal que habita en túneles subterráneos y queda fascinado por las leyendas que circulan sobre él.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Luna, María Lidón.
+[COLOR teal]· Reparto:[/COLOR] Val Kilmer, Vincent Gallo, Joss Ackland, Rade Serbedzija, Joaquim de Almeida, Sage Stallone, Oksana Akinshina, Rade Sherbedgia.
+[COLOR teal]· Guion:[/COLOR] Adela Ibañez.
+[COLOR teal]· Producción:[/COLOR] Dolo Magan.</desc>
+    <category lang="es">Cine, Español, Terror</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_1196606.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214040700 +0200" stop="20250214055100 +0200" channel="BOM Cine">
+    <title lang="es">Dalí</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
+    <desc lang="es">· En 1940 Dalí y Gala llegan a Nueva York por primera vez. Los estadounidenses no conocen todavía al genial artista, pero Dalí no está dispuesto a permanecer en el anonimato por mucho tiempo.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
+[COLOR teal]· Reparto:[/COLOR] Rosa Novell, Sarah Douglas, Valentín Fernández-Tubau, Lorenzo Quinn, Michael Catlin.
+[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Enric Gomà.
+[COLOR teal]· Música:[/COLOR] Antonio Sechi.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_530717.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214055100 +0200" stop="20250214071500 +0200" channel="BOM Cine">
+    <title lang="es">Torremolinos 73</title>
+    <sub-title lang="es">[COLOR teal]Cine/Español/Comedia/Comedia Romántica[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc lang="es">· Alfredo recibe una proposición: realizar películas eróticas caseras para venderlas a los países escandinavos. Debido a una situación económica difícil, convence a su mujer y aceptan la oferta.
+[COLOR teal]· País:[/COLOR] DNK 
+[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
+[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Fernando Tejero, Ramón Barea, Candela Peña, Juan Diego, Mads Mikkelsen, Malena Alterio, Bjarne Henriksen.
+[COLOR teal]· Guion:[/COLOR] Pablo Berger.
+[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
+[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
+    <category lang="es">Cine, Español, Comedia, Comedia Romántica</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_562441.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214071500 +0200" stop="20250214084400 +0200" channel="BOM Cine">
+    <title lang="es">Trece entre mil</title>
+    <sub-title lang="es">[COLOR teal]Cine/Documentales[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
+    <desc lang="es">· Película documental que recupera la memoria y los testimonios de los que sufrieron el asesinato de sus familiares por parte de ETA, la mayoría de ellos en atentados de los años 80.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Iñaki Arteta.
+[COLOR teal]· Guion:[/COLOR] Iñaki Arteta, Alfonso Galletero.
+[COLOR teal]· Música:[/COLOR] Pat Metheny, Eduardo Basterra.</desc>
+    <category lang="es">Cine, Documentales</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_679053.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214084400 +0200" stop="20250214093000 +0200" channel="BOM Cine">
+    <title lang="es">Televenta</title>
+    <sub-title lang="es">[COLOR teal]Series/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Espacio de promoción de productos de venta telefónica. "Televenta" se compone de varios bloques independientes, en los que se presentan productos como recopilatorios de música, productos de limpieza o aparatos de gimnasia.
+</desc>
+    <category lang="es">Series, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_2996385.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250214093000 +0200" stop="20250214112100 +0200" channel="BOM Cine">
+    <title lang="es">Todos eran valientes</title>
+    <sub-title lang="es">[COLOR teal]Cine/Bélico/Clásico[/COLOR] | [COLOR cadetblue]1965[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Durante la Segunda Guerra Mundial, en una isla del Pacífico, un pequeño grupo de la armada japonesa y los tripulantes de un avión estadounidense acuerdan una tregua temporal.
+[COLOR teal]· País:[/COLOR] JPN 
+[COLOR teal]· Dirección:[/COLOR] Frank Sinatra.
+[COLOR teal]· Reparto:[/COLOR] Frank Sinatra, Clint Walker, Brad Dexter, Tatsuya Mihashi, Takeshi Kato, Tommy Sands, Homare Suguro, Kenji Sahara.
+[COLOR teal]· Guion:[/COLOR] Kikumaru Okuda, John Twist.
+[COLOR teal]· Producción:[/COLOR] Frank Sinatra, Kikumaru Okuda.</desc>
+    <category lang="es">Cine, Bélico, Clásico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_2209306.jpg" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214112100 +0200" stop="20250214125900 +0200" channel="BOM Cine">
+    <title lang="es">El diplomático [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Parte 1[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Scotland Yard detiene a un diplomático acusado de dirigir una operación fallida de tráfico de drogas. Su ex mujer recibe amenazas y ambos deben ser protegidos y trasladados a Australia.
+[COLOR teal]· País:[/COLOR] AEE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Peter Andrikidis, Peter Andrikis.
+[COLOR teal]· Reparto:[/COLOR] Don Hany, Dougray Scott, Richard Roxburgh, Jonny Pasvolsky, Claire Forlani, Shane Briant, Alin Sumarwata, Rachael Blake.</desc>
+    <category lang="es">Series, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3503766.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250214125900 +0200" stop="20250214143800 +0200" channel="BOM Cine">
+    <title lang="es">El diplomático [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Parte 2[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Scotland Yard detiene a un diplomático acusado de dirigir una operación fallida de tráfico de drogas. Su ex mujer recibe amenazas y ambos deben ser protegidos y trasladados a Australia.
+[COLOR teal]· País:[/COLOR] AEE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Peter Andrikidis, Peter Andrikis.
+[COLOR teal]· Reparto:[/COLOR] Don Hany, Dougray Scott, Richard Roxburgh, Jonny Pasvolsky, Claire Forlani, Shane Briant, Alin Sumarwata, Rachael Blake.</desc>
+    <category lang="es">Series, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3503766.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250214143800 +0200" stop="20250214163200 +0200" channel="BOM Cine">
+    <title lang="es">El profesional</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Clásico/Espionaje[/COLOR] | [COLOR cadetblue]1981[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Un agente secreto francés, Joss Beaumont, es enviado a Malagawi para matar al dictador N'Jala. Cuando la situación política cambia, los servicios franceses lo detienen y le torturan.
+[COLOR teal]· País:[/COLOR] Francia 
+[COLOR teal]· Dirección:[/COLOR] Georges Lautner.
+[COLOR teal]· Reparto:[/COLOR] Robert Hossein, Jean-Paul Belmondo, Michel Beaune, Jean Desailly, Cyrielle Claire, Cyrielle Clair.
+[COLOR teal]· Guion:[/COLOR] Jacques Audiard, Michel Audiard.
+[COLOR teal]· Música:[/COLOR] Ennio Morricone.
+[COLOR teal]· Producción:[/COLOR] Alain Belmondo.</desc>
+    <category lang="es">Cine, Acción, Clásico, Espionaje</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_474897.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214163200 +0200" stop="20250214184000 +0200" channel="BOM Cine">
+    <title lang="es">Cuatro tíos de Texas</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Clásico[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
+    <desc lang="es">· Dos timadores profesionales deberán unir fuerzas para hacer frente a unos enemigos comunes.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Robert Aldrich.
+[COLOR teal]· Reparto:[/COLOR] Anita Ekberg, Victor Buono, Charles Bronson, Frank Sinatra, Dean Martin, Ursula Andress.
+[COLOR teal]· Guion:[/COLOR] Robert Aldrich, Teddi Sherman.
+[COLOR teal]· Música:[/COLOR] Nelson Riddle.
+[COLOR teal]· Producción:[/COLOR] Robert Aldrich.</desc>
+    <category lang="es">Cine, Western, Clásico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_164764.jpg" />
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214184000 +0200" stop="20250214210100 +0200" channel="BOM Cine">
+    <title lang="es">F.I.S.T.</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Clásico[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Johnny Kovak se une al sindicato de camioneros a principios de los años 30 e inicia su escalada hacia la cima de la organización.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Norman Jewison.
+[COLOR teal]· Reparto:[/COLOR] Kevin Conway, Peter Boyle, Rod Steiger, Brian Dennehy, Sylvester Stallone, Tony Lo Bianco, Melinda Dillon, David Huffman.
+[COLOR teal]· Guion:[/COLOR] Sylvester Stallone, Joe Eszterhas.
+[COLOR teal]· Música:[/COLOR] Bill Conti.
+[COLOR teal]· Producción:[/COLOR] Norman Jewison.</desc>
+    <category lang="es">Cine, Drama, Clásico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_1728594.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214210100 +0200" stop="20250214223800 +0200" channel="BOM Cine">
+    <title lang="es">Una cuerda, un colt</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.7/10[/COLOR]</sub-title>
+    <desc lang="es">· Implacablemente perseguido por la familia Rogers tras una disputa sobre ganado, Ben es colgado en su rancho. María, su esposa, consumida por la venganza, solicita la ayuda de un pistolero errante.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Robert Hossein.
+[COLOR teal]· Reparto:[/COLOR] Daniele Vargas, Guido Lollobrigida, Robert Hossein, Serge Marquand, Michèle Mercier.
+[COLOR teal]· Guion:[/COLOR] Dario Argento, Robert Hossein.</desc>
+    <category lang="es">Cine, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_338544.jpg" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250214223800 +0200" stop="20250215001000 +0200" channel="BOM Cine">
+    <title lang="es">Si te encuentras con Sartana, ruega por tu muerte</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR yellow]⑬[/COLOR]</sub-title>
+    <desc lang="es">· Sartana investiga el robo de una diligencia en la que sus pasajeros han sido asesinados y cuyo botín provoca la muerte a sus poseedores. Todo indica que el malvado Lasky está detrás de los crímenes.
+[COLOR teal]· País:[/COLOR] Alemania 
+[COLOR teal]· Dirección:[/COLOR] Gianfranco Parolini.
+[COLOR teal]· Reparto:[/COLOR] William Berger, Klaus Kinski, Sydney Chaplin, Fernando Sancho, Gianni Garko.
+[COLOR teal]· Guion:[/COLOR] Gianfranco Parolini, Renato Izzo.
+[COLOR teal]· Música:[/COLOR] Piero Piccioni.
+[COLOR teal]· Producción:[/COLOR] Aldo Addobbati, Theo Maria Werner.</desc>
+    <category lang="es">Cine, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_2156132.jpg" />
+    <rating system="ES">
+      <value>13</value>
+    </rating>
   </programme>
 </tv>
