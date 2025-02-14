@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 14/02/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 14/02/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -113,7 +113,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250214093000 +0200" stop="20250214112100 +0200" channel="BOM Cine">
+  <programme start="20250214100800 +0200" stop="20250214115600 +0200" channel="BOM Cine">
     <title lang="es">Todos eran valientes</title>
     <sub-title lang="es">[COLOR teal]Cine/Bélico/Clásico[/COLOR] | [COLOR cadetblue]1965[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
     <desc lang="es">· Durante la Segunda Guerra Mundial, en una isla del Pacífico, un pequeño grupo de la armada japonesa y los tripulantes de un avión estadounidense acuerdan una tregua temporal.
@@ -131,10 +131,10 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250214112100 +0200" stop="20250214125900 +0200" channel="BOM Cine">
+  <programme start="20250214115600 +0200" stop="20250214133000 +0200" channel="BOM Cine">
     <title lang="es">El diplomático [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Parte 1[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Scotland Yard detiene a un diplomático acusado de dirigir una operación fallida de tráfico de drogas. Su ex mujer recibe amenazas y ambos deben ser protegidos y trasladados a Australia.
+    <desc lang="es">· Scotland Yard detiene a un diplomático en el aeropuerto de Londres, acusado de dirigir una operación fallida de tráfico de drogas.
 [COLOR teal]· País:[/COLOR] AEE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Peter Andrikidis, Peter Andrikis.
 [COLOR teal]· Reparto:[/COLOR] Don Hany, Dougray Scott, Richard Roxburgh, Jonny Pasvolsky, Claire Forlani, Shane Briant, Alin Sumarwata, Rachael Blake.</desc>
@@ -144,7 +144,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250214125900 +0200" stop="20250214143800 +0200" channel="BOM Cine">
+  <programme start="20250214133000 +0200" stop="20250214150100 +0200" channel="BOM Cine">
     <title lang="es">El diplomático [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Parte 2[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Scotland Yard detiene a un diplomático acusado de dirigir una operación fallida de tráfico de drogas. Su ex mujer recibe amenazas y ambos deben ser protegidos y trasladados a Australia.
@@ -152,12 +152,12 @@
 [COLOR teal]· Dirección:[/COLOR] Peter Andrikidis, Peter Andrikis.
 [COLOR teal]· Reparto:[/COLOR] Don Hany, Dougray Scott, Richard Roxburgh, Jonny Pasvolsky, Claire Forlani, Shane Briant, Alin Sumarwata, Rachael Blake.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3503766.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3518902.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250214143800 +0200" stop="20250214163200 +0200" channel="BOM Cine">
+  <programme start="20250214150100 +0200" stop="20250214164900 +0200" channel="BOM Cine">
     <title lang="es">El profesional</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Clásico/Espionaje[/COLOR] | [COLOR cadetblue]1981[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
     <desc lang="es">· Un agente secreto francés, Joss Beaumont, es enviado a Malagawi para matar al dictador N'Jala. Cuando la situación política cambia, los servicios franceses lo detienen y le torturan.
@@ -176,7 +176,7 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250214163200 +0200" stop="20250214184000 +0200" channel="BOM Cine">
+  <programme start="20250214164900 +0200" stop="20250214185200 +0200" channel="BOM Cine">
     <title lang="es">Cuatro tíos de Texas</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Clásico[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
     <desc lang="es">· Dos timadores profesionales deberán unir fuerzas para hacer frente a unos enemigos comunes.
@@ -195,7 +195,7 @@
       <value>5.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250214184000 +0200" stop="20250214210100 +0200" channel="BOM Cine">
+  <programme start="20250214185200 +0200" stop="20250214210200 +0200" channel="BOM Cine">
     <title lang="es">F.I.S.T.</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Clásico[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
     <desc lang="es">· Johnny Kovak se une al sindicato de camioneros a principios de los años 30 e inicia su escalada hacia la cima de la organización.
@@ -214,7 +214,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250214210100 +0200" stop="20250214223800 +0200" channel="BOM Cine">
+  <programme start="20250214210200 +0200" stop="20250214223300 +0200" channel="BOM Cine">
     <title lang="es">Una cuerda, un colt</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.7/10[/COLOR]</sub-title>
     <desc lang="es">· Implacablemente perseguido por la familia Rogers tras una disputa sobre ganado, Ben es colgado en su rancho. María, su esposa, consumida por la venganza, solicita la ayuda de un pistolero errante.
@@ -231,7 +231,7 @@
       <value>6.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250214223800 +0200" stop="20250215001000 +0200" channel="BOM Cine">
+  <programme start="20250214223300 +0200" stop="20250215000100 +0200" channel="BOM Cine">
     <title lang="es">Si te encuentras con Sartana, ruega por tu muerte</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR yellow]⑬[/COLOR]</sub-title>
     <desc lang="es">· Sartana investiga el robo de una diligencia en la que sus pasajeros han sido asesinados y cuyo botín provoca la muerte a sus poseedores. Todo indica que el malvado Lasky está detrás de los crímenes.
@@ -247,7 +247,7 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20250215001000 +0200" stop="20250215013600 +0200" channel="BOM Cine">
+  <programme start="20250215000100 +0200" stop="20250215013000 +0200" channel="BOM Cine">
     <title lang="es">Difícil recompensa</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1995[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Kanning es un cazador de recompenses que nunca falla cuando se trata de llevar al culpable ante la justicia. Por eso, cuando comete un error, decide dejar el oficio.
@@ -263,7 +263,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250215013600 +0200" stop="20250215040600 +0200" channel="BOM Cine">
+  <programme start="20250215013000 +0200" stop="20250215035800 +0200" channel="BOM Cine">
     <title lang="es">La ciudad quemada</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· La historia de Catalunya en el período comprendido entre el desastre de Cuba y la Semana Trágica, visto desde la perspectiva de una familia burguesa catalana.
@@ -278,7 +278,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250215040600 +0200" stop="20250215053900 +0200" channel="BOM Cine">
+  <programme start="20250215035800 +0200" stop="20250215053200 +0200" channel="BOM Cine">
     <title lang="es">Ave María</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
     <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
@@ -296,7 +296,7 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215053900 +0200" stop="20250215070800 +0200" channel="BOM Cine">
+  <programme start="20250215053200 +0200" stop="20250215070100 +0200" channel="BOM Cine">
     <title lang="es">Trece entre mil</title>
     <sub-title lang="es">[COLOR teal]Cine/Documentales[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
     <desc lang="es">· Película documental que recupera la memoria y los testimonios de los que sufrieron el asesinato de sus familiares por parte de ETA, la mayoría de ellos en atentados de los años 80.
@@ -313,7 +313,7 @@
       <value>7.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215070800 +0200" stop="20250215082400 +0200" channel="BOM Cine">
+  <programme start="20250215070100 +0200" stop="20250215081600 +0200" channel="BOM Cine">
     <title lang="es">Moscow zero</title>
     <sub-title lang="es">[COLOR teal]Cine/Español/Terror[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
     <desc lang="es">· El antropólogo ruso Sergei Spassky investiga para la Universidad de Moscú la supuesta sociedad marginal que habita en túneles subterráneos y queda fascinado por las leyendas que circulan sobre él.
@@ -331,7 +331,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215082400 +0200" stop="20250215090500 +0200" channel="BOM Cine">
+  <programme start="20250215081600 +0200" stop="20250215092600 +0200" channel="BOM Cine">
     <title lang="es">Televenta</title>
     <sub-title lang="es">[COLOR teal]Series/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Espacio de promoción de productos de venta telefónica. "Televenta" se compone de varios bloques independientes, en los que se presentan productos como recopilatorios de música, productos de limpieza o aparatos de gimnasia.
@@ -342,24 +342,24 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250215090500 +0200" stop="20250215103400 +0200" channel="BOM Cine">
+  <programme start="20250215092600 +0200" stop="20250215105400 +0200" channel="BOM Cine">
     <title lang="es">El regreso del Samurái</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
     <desc lang="es">· Recién salido de la cárcel después de diez años, Lin regresa a su hogar decidido a dejar atrás su pasado y empezar de nuevo.
-[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· País:[/COLOR] CHN 
 [COLOR teal]· Dirección:[/COLOR] Xiaobai Song, Huyi Sun.
 [COLOR teal]· Reparto:[/COLOR] Lixiao Yang, Zhenhua Su, Chuxuan Liu, Cong Xiao, Mohetaer.
 [COLOR teal]· Guion:[/COLOR] Huyi Sun.</desc>
     <category lang="es">Cine, Acción, Drama</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3645607.jpg" />
     <rating system="ES">
-      <value>13</value>
+      <value>16</value>
     </rating>
     <star-rating system="ES">
       <value>5.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215103400 +0200" stop="20250215120700 +0200" channel="BOM Cine">
+  <programme start="20250215105400 +0200" stop="20250215122600 +0200" channel="BOM Cine">
     <title lang="es">Yamakasi</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Deporte[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
     <desc lang="es">· Un niño sufre una caída cuando trata de imitar a sus héroes, los Yamakasi, auténticos acróbatas de las fachadas urbanas.
@@ -378,7 +378,7 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215120700 +0200" stop="20250215134300 +0200" channel="BOM Cine">
+  <programme start="20250215122600 +0200" stop="20250215140000 +0200" channel="BOM Cine">
     <title lang="es">El retorno de los Yamakasi, los hijos del viento</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Un grupo de expertos atletas con increíbles habilidades como saltar tejados y escalar fachadas, viajan a Bangkok para fundar un gimnasio.
@@ -394,7 +394,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250215134300 +0200" stop="20250215152900 +0200" channel="BOM Cine">
+  <programme start="20250215140000 +0200" stop="20250215154100 +0200" channel="BOM Cine">
     <title lang="es">Un nuevo mundo [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Parte Uno[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Series/Drama/Acción[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc lang="es">· La década de 1680 trae un nuevo rey, Restauración y más tiranía. En Massachusetts, el hijo de un ladrón se enamora de un antimonárquico. En Inglaterra, una joven se enamora de un forajido.
@@ -411,7 +411,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215152900 +0200" stop="20250215171500 +0200" channel="BOM Cine">
+  <programme start="20250215154100 +0200" stop="20250215172200 +0200" channel="BOM Cine">
     <title lang="es">Un nuevo mundo [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Parte Dos[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Series/Drama/Acción[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc lang="es">· La década de 1680 trae un nuevo rey, Restauración y más tiranía. En Massachusetts, el hijo de un ladrón se enamora de un antimonárquico. En Inglaterra, una joven se enamora de un forajido.
@@ -428,7 +428,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215171500 +0200" stop="20250215192500 +0200" channel="BOM Cine">
+  <programme start="20250215172200 +0200" stop="20250215192800 +0200" channel="BOM Cine">
     <title lang="es">Deuda de honor</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Western[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Nebraska, 1855. Mary Bee Cuddy, una mujer solitaria que vive en un remoto pueblo del Medio Oeste, es elegida por la iglesia para hacer regresar al mundo civilizado a tres mujeres.
@@ -442,7 +442,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250215192500 +0200" stop="20250215210100 +0200" channel="BOM Cine">
+  <programme start="20250215192800 +0200" stop="20250215210000 +0200" channel="BOM Cine">
     <title lang="es">Un dólar entre los dientes</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1967[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Un enigmático pistolero le propone al jefe de un grupo de forajidos mejicanos robar un cargamento de oro custodiado por el ejército estadounidense a cambio de quedarse con la mitad del botín.
@@ -459,7 +459,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215210100 +0200" stop="20250215223700 +0200" channel="BOM Cine">
+  <programme start="20250215210000 +0200" stop="20250215222900 +0200" channel="BOM Cine">
     <title lang="es">Air Force One derribado [COLOR tomato]T1 E1[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.1/10[/COLOR]</sub-title>
     <desc lang="es">· El general serbio Arkady Dragutin cumple condena por crímenes de guerra contra la humanidad. Sus leales soldados deciden secuestrar el Air Force One y a la presidenta de los Estados Unidos para intentar liberarle.
@@ -475,7 +475,7 @@
       <value>4.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250215223700 +0200" stop="20250216001200 +0200" channel="BOM Cine">
+  <programme start="20250215222900 +0200" stop="20250216000100 +0200" channel="BOM Cine">
     <title lang="es">Air Force One derribado [COLOR tomato]T1 E2[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.1/10[/COLOR]</sub-title>
     <desc lang="es">· El general serbio Arkady Dragutin cumple condena por crímenes de guerra contra la humanidad. Sus leales soldados deciden secuestrar el Air Force One y a la presidenta de los Estados Unidos para intentar liberarle.
@@ -491,7 +491,7 @@
       <value>4.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250216001200 +0200" stop="20250216014300 +0200" channel="BOM Cine">
+  <programme start="20250216000100 +0200" stop="20250216013000 +0200" channel="BOM Cine">
     <title lang="es">Chantaje</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
     <desc lang="es">· Neil y Abby son el matrimonio perfecto: se quieren, tienen una hija maravillosa y éxito en el trabajo. Pero esta plácida existencia se desmorona cuando su pequeña es secuestrada por un psicópata.
@@ -510,7 +510,7 @@
       <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250216014300 +0200" stop="20250216031600 +0200" channel="BOM Cine">
+  <programme start="20250216013000 +0200" stop="20250216030200 +0200" channel="BOM Cine">
     <title lang="es">La ciudad del crimen</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.7/10[/COLOR]</sub-title>
     <desc lang="es">· Un ex-policía se ve involucrado en el robo de un casino.
@@ -529,7 +529,7 @@
       <value>6.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250216031600 +0200" stop="20250216045100 +0200" channel="BOM Cine">
+  <programme start="20250216030200 +0200" stop="20250216043700 +0200" channel="BOM Cine">
     <title lang="es">Las salvajes en Puente San Gil</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia[/COLOR] | [COLOR cadetblue]1967[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Una compañía de revista quiere actuar a Puente San Gil, pero su mala fama hace que la gente del pueblo quiera suspender el espectáculo.
@@ -544,7 +544,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250216045100 +0200" stop="20250216061900 +0200" channel="BOM Cine">
+  <programme start="20250216043700 +0200" stop="20250216061900 +0200" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR teal]Cine/Español/Comedia[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
