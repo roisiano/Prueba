@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 24/02/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 24/02/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -1074,6 +1074,278 @@
     </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228003100 +0200" stop="20250228020400 +0200" channel="BOM Cine">
+    <title lang="es">Reencarnación [COLOR goldenrod]resurrección[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Cine/Ciencia Ficción[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.7/10[/COLOR]</sub-title>
+    <desc lang="es">· Un contrabandista americano que vive en Moscú es resucitado por la policía después de que su compañero le traicione y le mate.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Tibor Takács.
+[COLOR teal]· Reparto:[/COLOR] Rutger Hauer, Mark Dacascos, Yvonne Scio, Patrick Dreikauss, Randall William Cook, Michael Mehlmann, Ildikó Szücs, István Kanizsay.
+[COLOR teal]· Guion:[/COLOR] Brian Irving, Tibor Takács.
+[COLOR teal]· Música:[/COLOR] Guy Zerafa.
+[COLOR teal]· Producción:[/COLOR] Brian Irving.</desc>
+    <category lang="es">Cine, Ciencia Ficción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_720123.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228020400 +0200" stop="20250228043300 +0200" channel="BOM Cine">
+    <title lang="es">La ciudad quemada</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc lang="es">· Dirigida por Antoni Ribas y protagonizada por Xabier Elorriaga, Francisco Casares y Ángela Molina, entre otros.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
+[COLOR teal]· Reparto:[/COLOR] Xabier Elorriaga, Francisco Casares, Ángela Molina, Pau Garsaball, Jeannine Mestre, Montserrat Salvador.
+[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Miquel Sanz.
+[COLOR teal]· Música:[/COLOR] Manuel Valls i Gorina.</desc>
+    <category lang="es">Cine, Drama, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3671344.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20250228043300 +0200" stop="20250228060000 +0200" channel="BOM Cine">
+    <title lang="es">Enloquecidas</title>
+    <sub-title lang="es">[COLOR teal]Cine/Suspense/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Juan Luis Iborra.
+[COLOR teal]· Reparto:[/COLOR] Silvia Abascal, Concha Velasco, Asunción Balaguer, Iván Sánchez, Verónica Forqué, Cesáreo Estébanez, Jordi Rebellón, Juli Mira.
+[COLOR teal]· Guion:[/COLOR] Juan Luis Iborra, Antonio Albert.
+[COLOR teal]· Música:[/COLOR] José Reinoso.
+[COLOR teal]· Producción:[/COLOR] Marc Cases, Sergio Castellote.</desc>
+    <category lang="es">Cine, Suspense, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_475226.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228060000 +0200" stop="20250228072900 +0200" channel="BOM Cine">
+    <title lang="es">Trece Entre Mil</title>
+    <sub-title lang="es">[COLOR teal]Cine/Documentales[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
+    <desc lang="es">· Testimonios de hombres, mujeres y niños cuyas vidas se vieron trágicamente destrozadas por la violencia de la banda terrorista ETA.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Iñaki Arteta.
+[COLOR teal]· Guion:[/COLOR] Iñaki Arteta, Alfonso Galletero.
+[COLOR teal]· Música:[/COLOR] Eduardo Basterra, Pat Metheny.</desc>
+    <category lang="es">Cine, Documentales</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3678161.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228072900 +0200" stop="20250228075200 +0200" channel="BOM Cine">
+    <title lang="es">Un día en...Salón Internacional Náutico de Barcelona [COLOR tomato]T1 E3[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Documental/Actualidad[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Durante los 4 días de exposición, podrás descubrir más de 275 expositores internacionales y casi 700 barcos en el agua, y muchos más barcos en la feria.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Documental, Actualidad</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_548803.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250228075200 +0200" stop="20250228081400 +0200" channel="BOM Cine">
+    <title lang="es">Un día en...Salón Internacional Náutico de Barcelona [COLOR tomato]T1 E4[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Documental/Actualidad[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Durante los 4 días de exposición, podrás descubrir más de 275 expositores internacionales y casi 700 barcos en el agua, y muchos más barcos en la feria.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Documental, Actualidad</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_548803.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250228081400 +0200" stop="20250228083800 +0200" channel="BOM Cine">
+    <title lang="es">Automobile Barcelona 2023</title>
+    <sub-title lang="es">[COLOR teal]Cine/Otros[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Documental sobre el salón Automobile Barcelona 2023.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Cine, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_138620.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250228083800 +0200" stop="20250228092400 +0200" channel="BOM Cine">
+    <title lang="es">Televenta</title>
+    <sub-title lang="es">[COLOR teal]Series/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Espacio de promoción de productos de venta telefónica. "Televenta" se compone de varios bloques independientes, en los que se presentan productos como recopilatorios de música, productos de limpieza o aparatos de gimnasia.
+</desc>
+    <category lang="es">Series, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_2996385.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250228092400 +0200" stop="20250228110400 +0200" channel="BOM Cine">
+    <title lang="es">El tigre de Esnapur</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama/Romance/Suspense[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Harald es un afamado arquitecto cuyos servicios han sido demandados por el maharajá Chandra del reino de Esnapur. De camino, Harald salva a la bella bailarina Seetha de las fauces de un tigre.
+[COLOR teal]· País:[/COLOR] Alemania 
+[COLOR teal]· Dirección:[/COLOR] Fritz Lang.
+[COLOR teal]· Reparto:[/COLOR] Debra Paget, Paul Hubschmid, Walter Reyer, Claus Holm, Luciana Paluzzi, Valéry Inkijinoff, Walther Reyer.
+[COLOR teal]· Guion:[/COLOR] Fritz Lang, Werner Jörg Lüddecke.
+[COLOR teal]· Música:[/COLOR] Michel Michelet.
+[COLOR teal]· Producción:[/COLOR] Artur Brauner.</desc>
+    <category lang="es">Cine, Aventuras, Drama, Romance, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_2355552.jpg" />
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228110400 +0200" stop="20250228125100 +0200" channel="BOM Cine">
+    <title lang="es">La tumba india</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama/Romance[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc lang="es">· El Maharaja Chandra se enamora de una bailarina del templo a la que pretende convertir en su esposa.
+[COLOR teal]· País:[/COLOR] Alemania 
+[COLOR teal]· Dirección:[/COLOR] Fritz Lang.
+[COLOR teal]· Reparto:[/COLOR] Debra Paget, Paul Hubschmid, Walter Reyer, Claus Holm, Valéry Inkijinoff, Sabine Bethmann, Walther Reyer, Jochen Brokmann.
+[COLOR teal]· Guion:[/COLOR] Fritz Lang, Werner Jörg Lüddecke.
+[COLOR teal]· Música:[/COLOR] Gerhard Becker, Michel Michelet.
+[COLOR teal]· Producción:[/COLOR] Artur Brauner.</desc>
+    <category lang="es">Cine, Aventuras, Drama, Romance</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_341001.jpg" />
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228125100 +0200" stop="20250228143300 +0200" channel="BOM Cine">
+    <title lang="es">El señor del acero</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.1/10[/COLOR]</sub-title>
+    <desc lang="es">· El príncipe guerrero Yaroslav trata de unir las tierras rusas mientras lucha contra ladrones y el resto de tribus que se reparten las distintas partes de la región.
+[COLOR teal]· País:[/COLOR] REE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Dmitriy Korobkin.
+[COLOR teal]· Reparto:[/COLOR] Aleksandr Ivashkevich, Svetlana Chuykina, Aleksey Kravchenko, Viktor Verzhbitskiy, Valeriy Zolotukhin, Pavel Khrulyov.
+[COLOR teal]· Guion:[/COLOR] Koshkina Marina.
+[COLOR teal]· Música:[/COLOR] Dmitriy Dankov.
+[COLOR teal]· Producción:[/COLOR] Oleg Surkov.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_1137472.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228143300 +0200" stop="20250228155900 +0200" channel="BOM Cine">
+    <title lang="es">Los hombres del bosque de Sherwood</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Clásico/Juvenil/Infantil[/COLOR] | [COLOR cadetblue]1954[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Inglaterra, 1194. Robin Hood lucha contra el príncipe John, que ha usurpado el trono del rey Ricardo, mientras éste permanece preso en Alemania tras luchar en las cruzadas.
+[COLOR teal]· País:[/COLOR] R.U. 
+[COLOR teal]· Dirección:[/COLOR] Val Guest.
+[COLOR teal]· Reparto:[/COLOR] Don Taylor, Reginald Beckwith, Eileen Moore, David King-Wood, Douglas Wilmer, Wensley Pithey Pithey, Patrick Holt.
+[COLOR teal]· Guion:[/COLOR] Allan MacKinnon.
+[COLOR teal]· Música:[/COLOR] Doreen Carwithen.
+[COLOR teal]· Producción:[/COLOR] Michael Carreras.</desc>
+    <category lang="es">Cine, Aventuras, Clásico, Juvenil, Infantil</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_1468789.jpg" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228155900 +0200" stop="20250228172600 +0200" channel="BOM Cine">
+    <title lang="es">El Zorro y los tres mosqueteros</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Durante el Siglo XVII, en medio de la guerra entre Francia y España, El Zorro se alía con los tres mosqueteros para pararle los pies al conde de Sevilla y al cardenal Richelieu.
+[COLOR teal]· País:[/COLOR] Italia 
+[COLOR teal]· Dirección:[/COLOR] Luigi Capuano.
+[COLOR teal]· Reparto:[/COLOR] Jordan Scott, José Greci, Giacomo Rossi-Stuart, Livio Lorenzon, Franco Fantasia, Nazzareno Zamperla, Roberto Risso.
+[COLOR teal]· Guion:[/COLOR] Roberto Gianviti, Italo De Tuddo.</desc>
+    <category lang="es">Cine, Aventuras</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_1539383.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250228172600 +0200" stop="20250228192100 +0200" channel="BOM Cine">
+    <title lang="es">El día de la lechuza</title>
+    <sub-title lang="es">[COLOR teal]Cine/Suspense/Clásico[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
+    <desc lang="es">· La poderosa Mafia siciliana, con intereses en la construcción, muestra sus mecanismos para ejercer y mantener el poder.
+[COLOR teal]· País:[/COLOR] Italia 
+[COLOR teal]· Dirección:[/COLOR] Damiano Damiani.
+[COLOR teal]· Reparto:[/COLOR] Claudia Cardinale, Franco Nero, Lee J. Cobb, Tano Cimarosa, Serge Reggiani, Nehemiah Persoff, Ennio Balbo, Ugo D'Alessio.
+[COLOR teal]· Guion:[/COLOR] Damiano Damiani, Ugo Pirro.
+[COLOR teal]· Música:[/COLOR] Giovanni Fusco.
+[COLOR teal]· Producción:[/COLOR] Luigi Carpentieri, Ermanno Donati.</desc>
+    <category lang="es">Cine, Suspense, Clásico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_1107775.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228192100 +0200" stop="20250228210100 +0200" channel="BOM Cine">
+    <title lang="es">30 Winchester para El Diablo</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1965[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★4.7/10[/COLOR]</sub-title>
+    <desc lang="es">· El Diablo es un bandido que junto a su banda controlan la ciudad de Canyon City y que quieren hacerse con todo el oro del país. Las cosas cambiarán cuando se encuentren al agente federal Jeff Benson.
+[COLOR teal]· País:[/COLOR] Italia 
+[COLOR teal]· Dirección:[/COLOR] Gianfranco Baldanello.
+[COLOR teal]· Reparto:[/COLOR] Alessandra Panaro, Ivano Staccioli, Antonio Garisa, José Torres, Carl Möhner.
+[COLOR teal]· Guion:[/COLOR] Gianfranco Baldanello, Alfonso Brescia.
+[COLOR teal]· Música:[/COLOR] Ghant.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_211221.jpg" />
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250228210100 +0200" stop="20250228223400 +0200" channel="BOM Cine">
+    <title lang="es">Country Life</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Romance/Comedia[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Australia, tras la Primera Guerra Mundial. El excéntrico Alexander y su reciente esposa Deborah, una atractiva mujer mucho más joven que él, abandonan el ambiente cosmopolita de Londres y regresan a la vida del campo en Australia para vivir con Jack, hermano de Alex. Pero una vez allí tanto Jack como el mujeriego médico local se encaprichan de Deborah.
+[COLOR teal]· País:[/COLOR] AEE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Shea Sizemore, Michael Blakemore.
+[COLOR teal]· Reparto:[/COLOR] Jeff Fahey, Patricia Richardson, Dendrie Taylor, Ric Reitz, Tom Wopat, Greta Scacchi, Sam Neill, John Hargreaves.
+[COLOR teal]· Guion:[/COLOR] Jon Nappa, Shea Sizemore.</desc>
+    <category lang="es">Cine, Drama, Romance, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_876288.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250228223400 +0200" stop="20250301000800 +0200" channel="BOM Cine">
+    <title lang="es">Ases y ochos</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Los pacíficos pobladores de una ciudad destinada a la grandeza ferroviaria, que ya se han arriesgado a establecerse en el inexplorado oeste, se encuentran de repente siendo asesinados sin piedad.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Craig R. Baxley.
+[COLOR teal]· Reparto:[/COLOR] Casper Van Dien, Bruce Boxleitner, Ernest Borgnine, Jeff Kober, Jack Noseworthy.
+[COLOR teal]· Guion:[/COLOR] Ronald M. Cohen, Dennis Shryack.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER_PROMO/COVER_PROMO_3637397.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.4/10</value>
     </star-rating>
   </programme>
 </tv>
