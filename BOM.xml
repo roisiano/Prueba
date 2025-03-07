@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 06/03/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 07/03/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,251 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250306001700 +0200" stop="20250306014600 +0200" channel="BOM Cine">
-    <title lang="es">Rojo caliente</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">
-[COLOR teal]· Dirección:[/COLOR] Robert Collector, Ernst Ritter von Theumer.
-[COLOR teal]· Reparto:[/COLOR] Linda Blair, William Ostrander.</desc>
-    <category lang="es">Programa, Otros</category>
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250306014600 +0200" stop="20250306031700 +0200" channel="BOM Cine">
-    <title lang="es">Crepúsculo Rojo</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Michel, hijo de un francés nacido al otro lado del mundo, llega a París para rehacer su vida lejos de las crisis económicas de América del Sur.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Edgardo Cozarinsky.
-[COLOR teal]· Reparto:[/COLOR] Marisa Paredes, Féodor Atkine, Bruno Putzulu, Bérénice Bejo, Didier Flamand, Elisabeth Kaza.
-[COLOR teal]· Guion:[/COLOR] Edgardo Cozarinsky, Jean-Marie Duprez.</desc>
-    <category lang="es">Cine, Drama, Español</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306031700 +0200" stop="20250306050000 +0200" channel="BOM Cine">
-    <title lang="es">DALÍ</title>
-    <sub-title lang="es">[COLOR teal]Cine/Biográfico/Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
-[COLOR teal]· País:[/COLOR] BGR 
-[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
-[COLOR teal]· Reparto:[/COLOR] Lorenzo Quinn, Sarah Douglas, Valentín Fernández-Tubau, Michael Catlin, Rosa Novell, Francisco Guijar, Katherine Wallach.
-[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Enric Gomà.
-[COLOR teal]· Música:[/COLOR] Antonio Sechi.</desc>
-    <category lang="es">Cine, Biográfico, Español</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306050100 +0200" stop="20250306055900 +0200" channel="BOM Cine">
-    <title lang="es">Gaudí</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] José María Argemí, Manuel Huerga.
-[COLOR teal]· Reparto:[/COLOR] Maria Matilde Almendros, Rafael Anglada, José María Caffarel, Mario Beut, Carles Sabater, Luis Padrós, Jesús Orús, Elisabeth Escayola.
-[COLOR teal]· Guion:[/COLOR] José María Argemí, Mario Lacruz.
-[COLOR teal]· Música:[/COLOR] Xavier Montsalvatge.</desc>
-    <category lang="es">Cine, Drama, Español</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250306055900 +0200" stop="20250306072600 +0200" channel="BOM Cine">
-    <title lang="es">Tres caídas</title>
-    <sub-title lang="es">[COLOR teal]Cine/Documentales/Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· El documental está dividido en tres capítulos -las tres caídas en las que está dividido un combate de lucha libre mexicana.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Nacho Cabana.
-[COLOR teal]· Guion:[/COLOR] Nacho Cabana.</desc>
-    <category lang="es">Cine, Documentales, Español</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250306072600 +0200" stop="20250306085100 +0200" channel="BOM Cine">
-    <title lang="es">Torremolinos 73</title>
-    <sub-title lang="es">[COLOR teal]Cine/Comedia/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
-[COLOR teal]· País:[/COLOR] DNK 
-[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
-[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González.
-[COLOR teal]· Guion:[/COLOR] Pablo Berger.
-[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
-[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
-    <category lang="es">Cine, Comedia, Español</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306085100 +0200" stop="20250306091600 +0200" channel="BOM Cine">
-    <title lang="es">Teletienda</title>
-    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
-</desc>
-    <category lang="es">Programa, Consumo</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250306091600 +0200" stop="20250306092800 +0200" channel="BOM Cine">
-    <title lang="es">Mucho más que cine [COLOR tomato]T2025 E2[/COLOR] [COLOR goldenrod]Lee Miller[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Programa/Entretenimiento[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa que ofrece las últimas novedades y tendencias del mundo del cine.
-[COLOR teal]· País:[/COLOR] España </desc>
-    <category lang="es">Programa, Entretenimiento</category>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250306092800 +0200" stop="20250306122000 +0200" channel="BOM Cine">
-    <title lang="es">El león del desierto</title>
-    <sub-title lang="es">[COLOR teal]Cine/Biográfico/Drama[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★8.2/10[/COLOR]</sub-title>
-    <desc lang="es">· 1929. Enfurecido y harto por los 20 años de lucha entre los patriotas beduinos y los colonizadores italianos, Benito Mussolini ordena al general Graziani capturar al líder de la resistencia: Omar Mukhtar.
-[COLOR teal]· País:[/COLOR] R.U. 
-[COLOR teal]· Dirección:[/COLOR] Moustapha Akkad.
-[COLOR teal]· Reparto:[/COLOR] Anthony Quinn, Oliver Reed, Rod Steiger, Irene Papas, John Gielgud, Raf Vallone.
-[COLOR teal]· Guion:[/COLOR] H.A.L. Craig, David Butler.
-[COLOR teal]· Música:[/COLOR] Maurice Jarre.
-[COLOR teal]· Producción:[/COLOR] Moustapha Akkad.</desc>
-    <category lang="es">Cine, Biográfico, Drama</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>8.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306122000 +0200" stop="20250306140500 +0200" channel="BOM Cine">
-    <title lang="es">El tren</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Julien intenta huir de los nazis en un tren. Allí conoce a Anna Kauffman, una joven judía. Entre ellos el amor surgirá de forma inmediata, pero las circunstancias de la vida los separarán.
-[COLOR teal]· País:[/COLOR] Francia 
-[COLOR teal]· Dirección:[/COLOR] Pierre Granier-Deferre.
-[COLOR teal]· Reparto:[/COLOR] Jean-Louis Trintignant, Romy Schneider, Maurice Biraud, Paul Amiot, Nike Arrighi.
-[COLOR teal]· Guion:[/COLOR] Pierre Granier-Deferre, Pascal Jardin.
-[COLOR teal]· Música:[/COLOR] Philippe Sarde.
-[COLOR teal]· Producción:[/COLOR] Raymond Danon.</desc>
-    <category lang="es">Cine, Drama</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250306140500 +0200" stop="20250306154500 +0200" channel="BOM Cine">
-    <title lang="es">Guapa, ardiente y peligrosa</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Romance/Clásico/Policíaco[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Una comedia criminal muy italiana protagonizada por dos grandes estrellas del momento: Rock Hudson y Claudia Cardinale. Una explosión de sensualidad y acción.    Nueva York está a punto de recibir a una de las ladronas más prolíficas de Europa. Sin embargo, las intenciones de Esmeralda Marini (Claudia Cardinale) se alejan mucho de su trabajo habitual. Esmeralda va en busca de uno de los amigos de su padre para devolver todo lo robado antes de meterse en más líos.
-[COLOR teal]· País:[/COLOR] Italia 
-[COLOR teal]· Dirección:[/COLOR] Francesco Maselli.
-[COLOR teal]· Reparto:[/COLOR] Rock Hudson, Tomas Milian, Leon Askin, Ellen Corby, Claudia Cardinale, Guido Alberti, Walter Giller.
-[COLOR teal]· Guion:[/COLOR] Francesco Maselli, Luisa Montagnana.</desc>
-    <category lang="es">Cine, Aventuras, Romance, Clásico, Policíaco</category>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306154500 +0200" stop="20250306173400 +0200" channel="BOM Cine">
-    <title lang="es">Rufianes y Tramposos</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Comedia/Drama/Suspense/Bélico[/COLOR] | [COLOR cadetblue]1984[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Un comando de la Legión Extranjera tiene que transportar un cargamento de lingotes de oro al Norte de África para evitar que caigan en manos de los alemanes.
-[COLOR teal]· País:[/COLOR] Francia 
-[COLOR teal]· Dirección:[/COLOR] Henri Verneuil.
-[COLOR teal]· Reparto:[/COLOR] Jean-Paul Belmondo, Jacques Villeret, Michel Constantin, Michel Creton, Matthias Habich, François Perrot, Marie Laforêt.
-[COLOR teal]· Guion:[/COLOR] Michel Audiard, Pierre Siniac.</desc>
-    <category lang="es">Cine, Acción, Comedia, Drama, Suspense, Bélico</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306173400 +0200" stop="20250306192200 +0200" channel="BOM Cine">
-    <title lang="es">El mayor robo del siglo</title>
-    <sub-title lang="es">[COLOR teal]Cine/Comedia/Drama/Histórico[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc lang="es">· En los años 50, un grupo de delincuentes habituales, la mayoría de ellos con muy poca suerte hasta ese momento en la vida, deciden dar un golpe contra un furgón blindado.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] William Friedkin.
-[COLOR teal]· Reparto:[/COLOR] Peter Falk, Peter Boyle, Allen Garfield, Warren Oates, Gena Rowlands, Paul Sorvino, Sheldon Leonard, Gerard Murphy.
-[COLOR teal]· Guion:[/COLOR] Walon Green, Noel Behn.
-[COLOR teal]· Música:[/COLOR] Richard Rodney Bennett.
-[COLOR teal]· Producción:[/COLOR] Ralph B. Serpe.</desc>
-    <category lang="es">Cine, Comedia, Drama, Histórico</category>
-    <rating system="ES">
-      <value>13</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306192200 +0200" stop="20250306210100 +0200" channel="BOM Cine">
-    <title lang="es">Tres flechas</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western/Drama[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.7/10[/COLOR]</sub-title>
-    <desc lang="es">· Jody Deaks acaba de reunirse con su padre cuando descubre que éste forma parte de una banda de proscritos. Al poco tiempo, un cazarecompensas llamado Santee acaba con la vida de toda la banda.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Timur Bekmambetov, Gary Nelson.
-[COLOR teal]· Reparto:[/COLOR] Glenn Ford, James McAvoy, Morgan Freeman, Dana Wynter, Terence Stamp, Jay Silverheels, Thomas Kretschmann, Harry Townes.
-[COLOR teal]· Guion:[/COLOR] Thomas W. Blackburn, Brand Bell.
-[COLOR teal]· Música:[/COLOR] Don Randi.
-[COLOR teal]· Producción:[/COLOR] Caruth C. Byrd, Deno Paoli.</desc>
-    <category lang="es">Cine, Western, Drama</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306210100 +0200" stop="20250306224000 +0200" channel="BOM Cine">
-    <title lang="es">Shadowboxer</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
-    <desc lang="es">· Una asesina a sueldo que padece cáncer se prepara para realizar su último trabajo: matar a la esposa de un jefe mafioso, pero cambia de parecer cuando descubre que la mujer está embarazada.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Lee Daniels.
-[COLOR teal]· Reparto:[/COLOR] Cuba Gooding Jr., Helen Mirren, Vanessa Ferlito, Macy Gray, Stephen Dorff, Joseph Gordon-Levitt, Monique, Cuba Gooding Jr.
-[COLOR teal]· Guion:[/COLOR] William Lipz, Will Rokos.
-[COLOR teal]· Música:[/COLOR] Mario Grigorov.
-[COLOR teal]· Producción:[/COLOR] Lee Daniels, Lisa Cortés.</desc>
-    <category lang="es">Cine, Suspense</category>
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306224000 +0200" stop="20250307001900 +0200" channel="BOM Cine">
-    <title lang="es">Cuatro vidas</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Drama/Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.7/10[/COLOR]</sub-title>
-    <desc lang="es">· Cuatro vidas se basa en un proverbio chino según el cual la existencia humana se divide en cuatro emociones: felicidad, placer, pena y amor. Estas emociones acaban cruzándose a través de cuatro personajes.
-[COLOR teal]· País:[/COLOR] MEX 
-[COLOR teal]· Dirección:[/COLOR] Jieho Lee.
-[COLOR teal]· Reparto:[/COLOR] Sarah Michelle Gellar, Kevin Bacon, Brendan Fraser, Forest Whitaker, Andy García, Emile Hirsch, Clark Gregg, Julie Delpy.
-[COLOR teal]· Guion:[/COLOR] Jieho Lee, Bob DeRosa.
-[COLOR teal]· Música:[/COLOR] Marcelo Zarvos.
-[COLOR teal]· Producción:[/COLOR] Darlene Caamano, Emilio Diez Barroso.</desc>
-    <category lang="es">Cine, Policíaco, Drama, Suspense</category>
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.7/10</value>
-    </star-rating>
-  </programme>
   <programme start="20250307001900 +0200" stop="20250307015600 +0200" channel="BOM Cine">
     <title lang="es">Comando águila roja</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.4/10[/COLOR]</sub-title>
@@ -1183,6 +938,54 @@
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
   </programme>
   <programme start="20250310220000 +0200" stop="20250311020000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
+  </programme>
+  <programme start="20250311020000 +0200" stop="20250311060000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
+  </programme>
+  <programme start="20250311060000 +0200" stop="20250311100000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
+  </programme>
+  <programme start="20250311100000 +0200" stop="20250311140000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
+  </programme>
+  <programme start="20250311140000 +0200" stop="20250311180000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
+  </programme>
+  <programme start="20250311180000 +0200" stop="20250311220000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
+  </programme>
+  <programme start="20250311220000 +0200" stop="20250312020000 +0200" channel="BOM Cine">
     <title lang="es">Parón de emisiones</title>
     <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
     <desc lang="es">· Actualmente el canal no se está emitiendo.
