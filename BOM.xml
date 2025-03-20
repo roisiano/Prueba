@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 20/03/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 20/03/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -62,7 +62,7 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320044800 +0200" stop="20250320050000 +0200" channel="BOM Cine">
+  <programme start="20250320044800 +0200" stop="20250320054700 +0200" channel="BOM Cine">
     <title lang="es">Gaudí</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
@@ -77,7 +77,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250320050000 +0200" stop="20250320062800 +0200" channel="BOM Cine">
+  <programme start="20250320054700 +0200" stop="20250320071500 +0200" channel="BOM Cine">
     <title lang="es">Crepúsculo Rojo</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
     <desc lang="es">· Michel, hijo de un francés nacido al otro lado del mundo, llega a París para rehacer su vida lejos de las crisis económicas de América del Sur.
@@ -94,7 +94,7 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320062800 +0200" stop="20250320075300 +0200" channel="BOM Cine">
+  <programme start="20250320071500 +0200" stop="20250320084000 +0200" channel="BOM Cine">
     <title lang="es">C.S.A.: The Confederate States of America</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Falso documental que muestra las posibles consecuencias para los Estados Unidos si el sur hubiese ganado la guerra de Secesión.
@@ -110,7 +110,18 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250320075300 +0200" stop="20250320093900 +0200" channel="BOM Cine">
+  <programme start="20250320084000 +0200" stop="20250320095700 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+</desc>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686898.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250320095700 +0200" stop="20250320100900 +0200" channel="BOM Cine">
     <title lang="es">Mucho más que cine [COLOR tomato]T2025 E2[/COLOR] [COLOR goldenrod]Lee Miller[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Programa/Entretenimiento[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Programa que ofrece las últimas novedades y tendencias del mundo del cine.
@@ -121,7 +132,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250320093900 +0200" stop="20250320110100 +0200" channel="BOM Cine">
+  <programme start="20250320100900 +0200" stop="20250320113600 +0200" channel="BOM Cine">
     <title lang="es">Shadrach, sueño prohibido</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
     <desc lang="es">· En una pequeña localidad sureña de Virginia, Paul pasa todo el tiempo que puede en casa de los Dabney, una humilde familia numerosa de las afueras.
@@ -140,7 +151,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320110100 +0200" stop="20250320121700 +0200" channel="BOM Cine">
+  <programme start="20250320113600 +0200" stop="20250320125500 +0200" channel="BOM Cine">
     <title lang="es">Madron</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1970[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.2/10[/COLOR]</sub-title>
     <desc lang="es">· Una monja es la única superviviente de una matanza a manos de los indios. Después de escapar se encuentra con Madron, un viejo pistolero que le ayudará.
@@ -157,21 +168,21 @@
       <value>5.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320121700 +0200" stop="20250320135700 +0200" channel="BOM Cine">
+  <programme start="20250320125500 +0200" stop="20250320143800 +0200" channel="BOM Cine">
     <title lang="es">El príncipe y el mendigo</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama[/COLOR] | [COLOR cadetblue]1977[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc lang="es">· Un ladrón que huye de la policía se refugia sin saberlo en unos aposentos reales. Al entrar, se encuentra cara a cara con el príncipe Eduardo y ambos se percatan del gran parecido que tienen. Una terrible equivocación provoca el intercambio de sus vidas.
+    <desc lang="es">· Un ladrón que huye de la policía se refugia en un aposento real. Al entrar, se encuentra con el príncipe y se percatan del gran parecido que tienen.
 [COLOR teal]· País:[/COLOR] R.U., EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Richard Fleischer.
 [COLOR teal]· Reparto:[/COLOR] Oliver Reed, Raquel Welch, Mark Lester, Ernest Borgnine, George C. Scott.
 [COLOR teal]· Guion:[/COLOR] Berta Domínguez D, Pierre Spengler, Mark Twain.</desc>
     <category lang="es">Cine, Aventuras, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763836.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3778010.jpg" />
     <rating system="ES">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250320135700 +0200" stop="20250320152100 +0200" channel="BOM Cine">
+  <programme start="20250320143800 +0200" stop="20250320160700 +0200" channel="BOM Cine">
     <title lang="es">Un dólar entre los dientes</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Western[/COLOR] | [COLOR cadetblue]1967[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Un enigmático pistolero le propone al jefe de un grupo de forajidos mejicanos robar un cargamento de oro custodiado por el ejército estadounidense a cambio de quedarse con la mitad del botín.
@@ -180,7 +191,7 @@
 [COLOR teal]· Reparto:[/COLOR] Tony Anthony, Jolanda Modio, Raf Baldassarre, Aldo Berti, Enrico Capoleoni.
 [COLOR teal]· Guion:[/COLOR] Warren Garfield, Giuseppe Mangione.</desc>
     <category lang="es">Cine, Acción, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763843.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3778013.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
@@ -188,7 +199,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320152100 +0200" stop="20250320164600 +0200" channel="BOM Cine">
+  <programme start="20250320160700 +0200" stop="20250320173800 +0200" channel="BOM Cine">
     <title lang="es">USS Seaviper</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Acción[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★2.4/10[/COLOR]</sub-title>
     <desc lang="es">· En plena Segunda Guerra Mundial, con el fin de evitar un intercambio entre alemanes y japoneses, se envió un submarino estadounidense, el USS Seaviper, para interceptar el buque alemán.
@@ -205,7 +216,7 @@
       <value>2.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320164600 +0200" stop="20250320182600 +0200" channel="BOM Cine">
+  <programme start="20250320173800 +0200" stop="20250320192400 +0200" channel="BOM Cine">
     <title lang="es">Ulises</title>
     <sub-title lang="es">[COLOR teal]Cine/Fantasía/Acción/Aventuras[/COLOR] | [COLOR cadetblue]1954[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
     <desc lang="es">· Terminada la guerra de Troya con la victoria de los griegos, Ulises navegará durante diez largos años antes de llegar a su palacio de Ítaca.
@@ -224,7 +235,7 @@
       <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320182600 +0200" stop="20250320210000 +0200" channel="BOM Cine">
+  <programme start="20250320192400 +0200" stop="20250320210100 +0200" channel="BOM Cine">
     <title lang="es">El especialista</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
     <desc lang="es">· Hud está decidido a vengará la muerte de su hermano Charlie, linchado sin sentido por una turba que sospechaba que había robado.
@@ -233,12 +244,12 @@
 [COLOR teal]· Reparto:[/COLOR] Gastone Moschin, Johnny Hallyday, Françoise Fabian, Sylvie Fennec, Angela Luce, Serge Marquand, Gino Pernice.
 [COLOR teal]· Guion:[/COLOR] Sabatino Ciuffini.</desc>
     <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763850.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3778016.jpg" />
     <rating system="ES">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250320210000 +0200" stop="20250320222300 +0200" channel="BOM Cine">
+  <programme start="20250320210100 +0200" stop="20250320223300 +0200" channel="BOM Cine">
     <title lang="es">Venganza ciega</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.4/10[/COLOR]</sub-title>
     <desc lang="es">· Sofía, Bulgaria: Dos agentes de la DEA llegan a un club en el que se ha producido una matanza. La mafia china ha llegado a Europa del este.
@@ -249,7 +260,7 @@
 [COLOR teal]· Música:[/COLOR] Roy Hay.
 [COLOR teal]· Producción:[/COLOR] George Furla, Randall Emmett.</desc>
     <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3746249.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3778021.jpg" />
     <rating system="ES">
       <value>18</value>
     </rating>
@@ -257,7 +268,7 @@
       <value>3.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320222300 +0200" stop="20250320234500 +0200" channel="BOM Cine">
+  <programme start="20250320223300 +0200" stop="20250321000100 +0200" channel="BOM Cine">
     <title lang="es">The Order</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Aventuras/Comedia[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Rudy viaja a Israel a rescatar a su padre, que ha sido secuestrado tras haber descubierto un manuscrito perteneciente a una peligrosa secta.
@@ -276,7 +287,7 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250320234500 +0200" stop="20250321011600 +0200" channel="BOM Cine">
+  <programme start="20250321000100 +0200" stop="20250321013600 +0200" channel="BOM Cine">
     <title lang="es">Jugando con la muerte</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· El agente de operaciones secretas, Marcus, es enviado a Detroit para atrapar a un traficante de armas y a su proveedor. El refuerzo de la CIA tendrá otros planes para él.
@@ -292,7 +303,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250321011600 +0200" stop="20250321024900 +0200" channel="BOM Cine">
+  <programme start="20250321013600 +0200" stop="20250321031000 +0200" channel="BOM Cine">
     <title lang="es">5 es el número perfecto</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Negro[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Nápoles, década de 1970. Peppino, un asesino a sueldo retirado, descubre que su hijo ha sido asesinado. Comenzará la represalia.
@@ -309,7 +320,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321024900 +0200" stop="20250321042300 +0200" channel="BOM Cine">
+  <programme start="20250321031000 +0200" stop="20250321044300 +0200" channel="BOM Cine">
     <title lang="es">Ave María</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
     <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
@@ -327,7 +338,7 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321042300 +0200" stop="20250321062200 +0200" channel="BOM Cine">
+  <programme start="20250321044300 +0200" stop="20250321062200 +0200" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR teal]Cine/Suspense/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
