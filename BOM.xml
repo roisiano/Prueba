@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 21/03/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 21/03/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -62,7 +62,7 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321044300 +0200" stop="20250321062200 +0200" channel="BOM Cine">
+  <programme start="20250321044300 +0200" stop="20250321061100 +0200" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR teal]Cine/Suspense/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
@@ -81,10 +81,10 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321062200 +0200" stop="20250321082200 +0200" channel="BOM Cine">
+  <programme start="20250321061100 +0200" stop="20250321081000 +0200" channel="BOM Cine">
     <title lang="es">Sitiados</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1950[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Durante la Segunda Guerra Mundial, dos soldados estadounidenses designados al puente aéreo de Berlín ceden ante los encantos de una alemana misteriosa...
+    <desc lang="es">· En la Segunda Guerra Mundial, dos soldados estadounidenses designados al puente aéreo de Berlín ceden ante los encantos de una alemana misteriosa.
 [COLOR teal]· País:[/COLOR] EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] George Seaton.
 [COLOR teal]· Reparto:[/COLOR] Montgomery Clift, Paul Douglas, Cornell Borchers, Bruni Löbel, O.E. Hasse.
@@ -92,12 +92,12 @@
 [COLOR teal]· Música:[/COLOR] Alfred Newman.
 [COLOR teal]· Producción:[/COLOR] William Perlberg.</desc>
     <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763867.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3782801.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250321082200 +0200" stop="20250321084600 +0200" channel="BOM Cine">
+  <programme start="20250321081000 +0200" stop="20250321083400 +0200" channel="BOM Cine">
     <title lang="es">Automobile Barcelona 2023</title>
     <sub-title lang="es">[COLOR teal]Programa/Entretenimiento[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Salón del automóvil de Barcelona del año 2023.
@@ -108,18 +108,18 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250321084600 +0200" stop="20250321093800 +0200" channel="BOM Cine">
+  <programme start="20250321083400 +0200" stop="20250321101100 +0200" channel="BOM Cine">
     <title lang="es">Teletienda</title>
-    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
-</desc>
-    <category lang="es">Programa, Consumo</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686898.jpg" />
+    <sub-title lang="es">[COLOR teal]Cine/Español[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Teletienda.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Cine, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3705702.jpg" />
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250321093800 +0200" stop="20250321094900 +0200" channel="BOM Cine">
+  <programme start="20250321101100 +0200" stop="20250321102300 +0200" channel="BOM Cine">
     <title lang="es">Mucho más que cine [COLOR tomato]T2025 E2[/COLOR] [COLOR goldenrod]Lee Miller[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Programa/Entretenimiento[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Programa que ofrece las últimas novedades y tendencias del mundo del cine.
@@ -130,10 +130,10 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250321094900 +0200" stop="20250321113600 +0200" channel="BOM Cine">
+  <programme start="20250321102300 +0200" stop="20250321120400 +0200" channel="BOM Cine">
     <title lang="es">Zeppelin</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
-    <desc lang="es">· El estallido de la I Guerra Mundial deja al oficial Geoffrey Richter-Douglas en una incómoda posición. Aunque debe guardar lealtad a Gran Bretaña, posee ascendencia bávara, y en Alemania pasaba las vacaciones de verano cuando era niño.
+    <desc lang="es">· Durante la Primera Guerra Mundial, el ejército alemán desarrolló una nueva arma mortífera: el Zeppelin.
 [COLOR teal]· País:[/COLOR] R.U., REE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Étienne Périer.
 [COLOR teal]· Reparto:[/COLOR] Michael York, Elke Sommer, Peter Carsten, Marius Goring, Anton Diffring, Andrew Keir, Rupert Davies.
@@ -141,7 +141,7 @@
 [COLOR teal]· Música:[/COLOR] Roy Budd.
 [COLOR teal]· Producción:[/COLOR] Owen Crump, Leon Fromkess.</desc>
     <category lang="es">Cine, Aventuras, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763874.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3775315.jpg" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -149,7 +149,7 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321113600 +0200" stop="20250321132700 +0200" channel="BOM Cine">
+  <programme start="20250321120400 +0200" stop="20250321135100 +0200" channel="BOM Cine">
     <title lang="es">Prince of Jutland</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
     <desc lang="es">· La vida es apacible para Amled, hijo de Hardvendel y Geruth, los reyes de Jutlandia. El joven ignora las intrigas que urde su tío Fenge para convertirse en rey.
@@ -168,7 +168,7 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321132700 +0200" stop="20250321150100 +0200" channel="BOM Cine">
+  <programme start="20250321135100 +0200" stop="20250321152200 +0200" channel="BOM Cine">
     <title lang="es">Mayday, alas de mariposa</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★4.5/10[/COLOR]</sub-title>
     <desc lang="es">· Dos años atrás el avión del capitán Tom Hutton se estrelló. En el accidente, del que él consiguió escapar, fallecieron 169 personas. Ahora vive en una cabaña en Florida, atormentado por los recuerdos y el sentimiento de culpa.
@@ -186,7 +186,7 @@
       <value>4.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321150100 +0200" stop="20250321164300 +0200" channel="BOM Cine">
+  <programme start="20250321152200 +0200" stop="20250321165900 +0200" channel="BOM Cine">
     <title lang="es">Aladino</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Comedia[/COLOR] | [COLOR cadetblue]1986[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
     <desc lang="es">· Un muchacho pobre de nombre Al haddin encuentra una lámpara con la que invoca a un todopoderoso genio, que le concederá todos sus deseos, desde ligarse a la chica que le gusta hasta poder ganar un campeonato de ski acuático.
@@ -203,10 +203,10 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321164300 +0200" stop="20250321191400 +0200" channel="BOM Cine">
-    <title lang="es">El secreto de Santa Victoria</title>
+  <programme start="20250321165900 +0200" stop="20250321192200 +0200" channel="BOM Cine">
+    <title lang="es">El secreto de Santa Vittoria</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Acción[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.2/10[/COLOR]</sub-title>
-    <desc lang="es">· Durante la II Guerra Mundial, los vecinos de Santa Vittoria intentan evitar que las tropas alemanas requisen su afamado vino.Premios: Nominada al Oscar al Mejor Montaje y a la Mejor Música Original.Globo de Oro a la Mejor Película de Comedia o Musical.
+    <desc lang="es">· Durante la II Guerra Mundial, los vecinos de Santa Vittoria intentan evitar que las tropas alemanas requisen su afamado vino.
 [COLOR teal]· País:[/COLOR] EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Stanley Kramer.
 [COLOR teal]· Reparto:[/COLOR] Giancarlo Giannini, Virna Lisi, Anthony Quinn, Anna Magnani, Hardy Krüger, Sergio Franchi, Renato Rascel.
@@ -214,7 +214,7 @@
 [COLOR teal]· Música:[/COLOR] Ernest Gold.
 [COLOR teal]· Producción:[/COLOR] Stanley Kramer, George Glass.</desc>
     <category lang="es">Cine, Comedia, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3716651.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3782804.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
@@ -222,7 +222,7 @@
       <value>7.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321191400 +0200" stop="20250321210100 +0200" channel="BOM Cine">
+  <programme start="20250321192200 +0200" stop="20250321210100 +0200" channel="BOM Cine">
     <title lang="es">Eminence Hill</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Suspense[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.4/10[/COLOR]</sub-title>
     <desc lang="es">· El deseo de venganza llevará a un asesino y a un agente de la ley a una ciudad llena fanáticos donde se derrama demasiada sangre.
@@ -239,10 +239,10 @@
       <value>4.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321210100 +0200" stop="20250321224000 +0200" channel="BOM Cine">
-    <title lang="es">Hyde Park</title>
+  <programme start="20250321210100 +0200" stop="20250321223200 +0200" channel="BOM Cine">
+    <title lang="es">El último hombre</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Biográfico/Suspense[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.8/10[/COLOR]</sub-title>
-    <desc lang="es">· Basado en uno de los tiroteos más intensos en la historia del salvaje Oeste, esta es la historia de los sheriffs rivales Mike McCluskie y Billy Bailey y la guerra que se libró en un pueblo de Kansas.
+    <desc lang="es">· Mike McCluskie, un abogado, enfrenta un conflicto en Hyde Park entre trabajadores del ferrocarril y creadores de Texas, mientras la violencia amenaza a la ciudad.
 [COLOR teal]· País:[/COLOR] EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Nicholas Barton.
 [COLOR teal]· Reparto:[/COLOR] C. Thomas Howell, Luke Arnold, Viva Bianca, Richard Riehle, M.C. Gainey.
@@ -256,7 +256,7 @@
       <value>4.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250321224000 +0200" stop="20250322004400 +0200" channel="BOM Cine">
+  <programme start="20250321223200 +0200" stop="20250322003100 +0200" channel="BOM Cine">
     <title lang="es">La leyenda de Ben Hall</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Western/Acción[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
     <desc lang="es">· Ben Hall vuelve al bandolerismo con su viejo amigo John Gilbert. Juntos reforman su banda y se convierten en los forajidos más buscados de Australia.
@@ -275,7 +275,7 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322004400 +0200" stop="20250322022800 +0200" channel="BOM Cine">
+  <programme start="20250322003100 +0200" stop="20250322021800 +0200" channel="BOM Cine">
     <title lang="es">El caso Slevin</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.7/10[/COLOR]</sub-title>
     <desc lang="es">· A Slevin la vida no le va nada bien. En un intento por desconectar de todo, toma prestado el apartamento de su amigo Nick Fisher en Nueva York. Pero las cosas están a punto de empeorar.
@@ -294,7 +294,7 @@
       <value>7.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322022800 +0200" stop="20250322034400 +0200" channel="BOM Cine">
+  <programme start="20250322021800 +0200" stop="20250322033500 +0200" channel="BOM Cine">
     <title lang="es">Moscow Zero</title>
     <sub-title lang="es">[COLOR teal]Cine/Terror/Suspense/Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
     <desc lang="es">· Owen, un investigador estadounidense, busca a su amigo desaparecido en las catacumbas de Moscú, donde se enfrenta al guardián del Infierno, Andrey. Para continuar su misión, hace un trato que podría ser un pacto con el Diablo.
@@ -312,7 +312,7 @@
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322034400 +0200" stop="20250322050900 +0200" channel="BOM Cine">
+  <programme start="20250322033500 +0200" stop="20250322050000 +0200" channel="BOM Cine">
     <title lang="es">Torremolinos 73</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
     <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
@@ -331,7 +331,7 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322050900 +0200" stop="20250322064100 +0200" channel="BOM Cine">
+  <programme start="20250322050000 +0200" stop="20250322063200 +0200" channel="BOM Cine">
     <title lang="es">Hércules y la reina de Lidia</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Acción/Español[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Mientras negocia la paz entre dos hermanos que se disputan el trono de Tebas, un Hércules amnésico es seducido por la malvada reina Onfalia.
@@ -350,7 +350,7 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322064100 +0200" stop="20250322080900 +0200" channel="BOM Cine">
+  <programme start="20250322063200 +0200" stop="20250322080000 +0200" channel="BOM Cine">
     <title lang="es">Cosas insignificantes</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
     <desc lang="es">· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
@@ -367,7 +367,7 @@
       <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322080900 +0200" stop="20250322082100 +0200" channel="BOM Cine">
+  <programme start="20250322080000 +0200" stop="20250322081200 +0200" channel="BOM Cine">
     <title lang="es">Mucho más que cine [COLOR tomato]T2025 E2[/COLOR] [COLOR goldenrod]Lee Miller[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Programa/Entretenimiento[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Programa que ofrece las últimas novedades y tendencias del mundo del cine.
@@ -378,18 +378,18 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250322082100 +0200" stop="20250322091200 +0200" channel="BOM Cine">
+  <programme start="20250322081200 +0200" stop="20250322094600 +0200" channel="BOM Cine">
     <title lang="es">Teletienda</title>
-    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
-</desc>
-    <category lang="es">Programa, Consumo</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686898.jpg" />
+    <sub-title lang="es">[COLOR teal]Cine/Español[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Teletienda.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Cine, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3705702.jpg" />
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250322091200 +0200" stop="20250322104100 +0200" channel="BOM Cine">
+  <programme start="20250322094600 +0200" stop="20250322111200 +0200" channel="BOM Cine">
     <title lang="es">Bullet Head: Trampa mortal</title>
     <sub-title lang="es">[COLOR teal]Cine/Policíaco/Drama/Suspense[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
     <desc lang="es">· Tras un atraco que sale mal, tres criminales se encuentran atrapados en un almacén con la policía cercándoles. Pero, dentro del almacén, una amenaza aún más peligrosa hará que los fugitivos tengan que comenzar una furiosa batalla por salvar sus vidas.
@@ -406,7 +406,7 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322104100 +0200" stop="20250322121300 +0200" channel="BOM Cine">
+  <programme start="20250322111200 +0200" stop="20250322123900 +0200" channel="BOM Cine">
     <title lang="es">Los padrinos del novio</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Comedia[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
     <desc lang="es">· De camino a la capilla, el novio y sus cuatro padrinos paran en un banco y se ven involucrados en un robo.
@@ -422,10 +422,10 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250322121300 +0200" stop="20250322135500 +0200" channel="BOM Cine">
+  <programme start="20250322123900 +0200" stop="20250322141600 +0200" channel="BOM Cine">
     <title lang="es">Replicant</title>
     <sub-title lang="es">[COLOR teal]Cine/Suspense/Ciencia Ficción/Acción[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Historia de un loco asesino en serie, Garrotte, y Jake Riley, un veterano inspector de policía. Una de las películas más destacadas de Jean-Claude Van Damme.
+    <desc lang="es">· Un loco asesino en serie que es investigado por un veterano inspector de policía.
 [COLOR teal]· País:[/COLOR] EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Ringo Lam.
 [COLOR teal]· Reparto:[/COLOR] Catherine Dent, Jean Claude Van Damme, Michael Rooker, Brandon James Olson, Pam Hyatt, Marnie Alton, Paul McGillion, Allan Gray, James Hutson, Ian Robison, Jayme Knox, Lillian Carlson, Margaret Ryan, Chris Kelly, Peter Flemming.
@@ -433,7 +433,7 @@
 [COLOR teal]· Música:[/COLOR] Guy Zerafa, Alex Khaskin.
 [COLOR teal]· Producción:[/COLOR] David Dadon, Danny Lerner, John Thompson.</desc>
     <category lang="es">Cine, Suspense, Ciencia Ficción, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763898.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3778028.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
@@ -441,7 +441,7 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322135500 +0200" stop="20250322154300 +0200" channel="BOM Cine">
+  <programme start="20250322141600 +0200" stop="20250322155800 +0200" channel="BOM Cine">
     <title lang="es">Al caer la noche</title>
     <sub-title lang="es">[COLOR teal]Cine/Policíaco/Drama[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
     <desc lang="es">· Darl Hardwick es el sheriff de una pequeña población de Estados Unidos. Un día, encuentra el cuerpo muerto de un transexual en una cuneta y empieza a investigarlo. Pronto descubrirá complicaciones políticas relacionadas con el caso.
@@ -460,7 +460,7 @@
       <value>7.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322154300 +0200" stop="20250322173600 +0200" channel="BOM Cine">
+  <programme start="20250322155800 +0200" stop="20250322174700 +0200" channel="BOM Cine">
     <title lang="es">La verdad oculta</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco/Biográfico[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
     <desc lang="es">· Acabada la guerra de los Balcanes, una policía de Nebraska viaja a Bosnia como observadora de las Naciones Unidas. Allí descubre que una multinacional ha encubierto varios casos de tráfico sexual.
@@ -477,7 +477,7 @@
       <value>7.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322173600 +0200" stop="20250322192000 +0200" channel="BOM Cine">
+  <programme start="20250322174700 +0200" stop="20250322192600 +0200" channel="BOM Cine">
     <title lang="es">La odisea de los pioneros</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.7/10[/COLOR]</sub-title>
     <desc lang="es">· Año 1755, las colonias inglesas están siendo devastadas por las atrocidades de la guerra. Las potencias europeas rivales se han enfrentado en el fértil valle de Ohio, y familias enteras están devastadas por la violencia desencadenada.
@@ -494,7 +494,7 @@
       <value>4.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322192000 +0200" stop="20250322210100 +0200" channel="BOM Cine">
+  <programme start="20250322192600 +0200" stop="20250322210000 +0200" channel="BOM Cine">
     <title lang="es">Su nombre gritaba venganza</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
     <desc lang="es">· Después de sufrir un disparo en la cabeza, el veterano Flannagan olvida su pasado reciente en la guerra. Al regresar a su pueblo, lo han declarado desertor y el juez se ofrece a limpiar su nombre.
@@ -503,7 +503,7 @@
 [COLOR teal]· Reparto:[/COLOR] Anthony Steffen, William Berger, Mario Brega, Ida Galli, Eleonora Vargas, Evelyn Stewart, Robert Hundar, Raf Baldassarre, Jean Louis.
 [COLOR teal]· Guion:[/COLOR] Mario Caiano, Tito Carpi.</desc>
     <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763905.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3782807.jpg" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -511,7 +511,7 @@
       <value>5.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322210100 +0200" stop="20250322223600 +0200" channel="BOM Cine">
+  <programme start="20250322210000 +0200" stop="20250322222600 +0200" channel="BOM Cine">
     <title lang="es">Cleaner</title>
     <sub-title lang="es">[COLOR teal]Cine/Policíaco/Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.3/10[/COLOR]</sub-title>
     <desc lang="es">· Un brillante reparto de actores encabezado por el nominado a un Oscar Samuel L. Jackson, protagoniza esta historia sobre un ex policía que ahora se dedica a limpiar escenas de crímenes.
@@ -530,7 +530,7 @@
       <value>4.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20250322223600 +0200" stop="20250323003900 +0200" channel="BOM Cine">
+  <programme start="20250322222600 +0200" stop="20250323002000 +0200" channel="BOM Cine">
     <title lang="es">Mr. Brooks</title>
     <sub-title lang="es">[COLOR teal]Cine/Policíaco/Suspense/Drama[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
     <desc lang="es">· Mr. Brooks es un hombre torturado incapaz de controlar sus emociones. Tiene una mitad diabólica, un alter ego amante del asesinato y del caos.
@@ -549,7 +549,7 @@
       <value>7.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20250323003900 +0200" stop="20250323021000 +0200" channel="BOM Cine">
+  <programme start="20250323002000 +0200" stop="20250323015100 +0200" channel="BOM Cine">
     <title lang="es">Un bombo en el camino</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
     <desc lang="es">· Una madre soltera de 44 años se queda embarazada de una aventura de una noche, para vergüenza de su hija adolescente.
@@ -566,7 +566,7 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250323021000 +0200" stop="20250323034500 +0200" channel="BOM Cine">
+  <programme start="20250323015100 +0200" stop="20250323032600 +0200" channel="BOM Cine">
     <title lang="es">Las salvajes en Puente San Gil</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1966[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Una compañía de revista quiere actuar a Puente San Gil, pero su mala fama hace que la gente del pueblo quiera suspender el espectáculo.
@@ -581,7 +581,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250323034500 +0200" stop="20250323052900 +0200" channel="BOM Cine">
+  <programme start="20250323032600 +0200" stop="20250323051100 +0200" channel="BOM Cine">
     <title lang="es">DALÍ</title>
     <sub-title lang="es">[COLOR teal]Cine/Biográfico/Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
@@ -599,7 +599,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250323052900 +0200" stop="20250323064700 +0200" channel="BOM Cine">
+  <programme start="20250323051100 +0200" stop="20250323062900 +0200" channel="BOM Cine">
     <title lang="es">Un milagro muy ¡Guau!</title>
     <sub-title lang="es">[COLOR teal]Cine/Familiar[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.7/10[/COLOR]</sub-title>
     <desc lang="es">· Zack encuentra en el bosque a dos perritos y decide llevarlos a casa. Todo cambiará cuando descubra que los dos perros tienen poderes curativos.
@@ -617,6 +617,14 @@
     <star-rating system="ES">
       <value>4.7/10</value>
     </star-rating>
+  </programme>
+  <programme start="20250323062900 +0200" stop="20250323064700 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
   </programme>
   <programme start="20250323064700 +0200" stop="20250323075800 +0200" channel="BOM Cine">
     <title lang="es">La increíble pero cierta historia de Caperucita Roja</title>
