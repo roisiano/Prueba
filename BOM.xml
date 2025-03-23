@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 22/03/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 23/03/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,280 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250322003100 +0200" stop="20250322021800 +0200" channel="BOM Cine">
-    <title lang="es">El caso Slevin</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.7/10[/COLOR]</sub-title>
-    <desc lang="es">· A Slevin la vida no le va nada bien. En un intento por desconectar de todo, toma prestado el apartamento de su amigo Nick Fisher en Nueva York. Pero las cosas están a punto de empeorar.
-[COLOR teal]· País:[/COLOR] Alemania, R.U., EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Paul McGuigan.
-[COLOR teal]· Reparto:[/COLOR] Josh Hartnett, Ben Kingsley, Morgan Freeman, Lucy Liu, Bruce Willis, Stanley Tucci, Danny Aiello, Dorian Missick.
-[COLOR teal]· Guion:[/COLOR] Jason Smilovic.
-[COLOR teal]· Música:[/COLOR] J. Ralph.
-[COLOR teal]· Producción:[/COLOR] Christopher Eberts, Andreas Grosch, Kia Jam.</desc>
-    <category lang="es">Cine, Acción, Suspense, Policíaco</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3620596.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322021800 +0200" stop="20250322033500 +0200" channel="BOM Cine">
-    <title lang="es">Moscow Zero</title>
-    <sub-title lang="es">[COLOR teal]Cine/Terror/Suspense/Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
-    <desc lang="es">· Owen, un investigador estadounidense, busca a su amigo desaparecido en las catacumbas de Moscú, donde se enfrenta al guardián del Infierno, Andrey. Para continuar su misión, hace un trato que podría ser un pacto con el Diablo.
-[COLOR teal]· País:[/COLOR] España, R.U., JPN 
-[COLOR teal]· Dirección:[/COLOR] María Lidón, Luna.
-[COLOR teal]· Reparto:[/COLOR] Vincent Gallo, Rade Serbedzija, Joaquim de Almeida, Val Kilmer, Joss Ackland, Álex O'Dogherty, Oksana Akinshina, Sage Stallone, Rade Sherbedgia, Julio Perillán, Borja Romaniv, Juan Carlos Guerrero, Roman Shamko, Marilo Muñoz, Alejandro Horeyda, Ekaterina Vovenko.
-[COLOR teal]· Guion:[/COLOR] Adela Ibañez.
-[COLOR teal]· Producción:[/COLOR] Dolo Magan.</desc>
-    <category lang="es">Cine, Terror, Suspense, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683786.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322033500 +0200" stop="20250322050000 +0200" channel="BOM Cine">
-    <title lang="es">Torremolinos 73</title>
-    <sub-title lang="es">[COLOR teal]Cine/Comedia/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
-[COLOR teal]· País:[/COLOR] DNK, España 
-[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
-[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González, Ramón Barea, Bjarne Henriksen, Mari-Anne Jespersen, Tom Jacobson, Germán Montañer, Jaime Blanch, Máximo Valverde.
-[COLOR teal]· Guion:[/COLOR] Pablo Berger.
-[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
-[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
-    <category lang="es">Cine, Comedia, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3671403.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322050000 +0200" stop="20250322063200 +0200" channel="BOM Cine">
-    <title lang="es">Hércules y la reina de Lidia</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Acción/Español[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Mientras negocia la paz entre dos hermanos que se disputan el trono de Tebas, un Hércules amnésico es seducido por la malvada reina Onfalia.
-[COLOR teal]· País:[/COLOR] España, Francia, Italia 
-[COLOR teal]· Dirección:[/COLOR] Pietro Francisci, Mario Bava.
-[COLOR teal]· Reparto:[/COLOR] Steve Reeves, Sylva Koscina, Sylvia Lopez, Gabriele Antonini, Primo Carnera, Sergio Fantoni, Fulvia Franco, Patrizia Della Rovere.
-[COLOR teal]· Guion:[/COLOR] Ennio De Concini, Pietro Francisci.
-[COLOR teal]· Música:[/COLOR] Enzo Masetti.
-[COLOR teal]· Producción:[/COLOR] Bruno Vailati.</desc>
-    <category lang="es">Cine, Aventuras, Fantasía, Acción, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3671406.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322063200 +0200" stop="20250322080000 +0200" channel="BOM Cine">
-    <title lang="es">Cosas insignificantes</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="es">· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
-[COLOR teal]· País:[/COLOR] España, MEX 
-[COLOR teal]· Dirección:[/COLOR] Andrea Martínez Crowther.
-[COLOR teal]· Reparto:[/COLOR] Jonathan Bravo, Regina De Los Cobos, Fátima Díaz, Carmelo Gómez, Fernando Luján, Lucía Jiménez, Bárbara Mori, Paulina Gaitán.
-[COLOR teal]· Guion:[/COLOR] Andrea Martínez Crowther.</desc>
-    <category lang="es">Cine, Drama, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3661441.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322080000 +0200" stop="20250322081200 +0200" channel="BOM Cine">
-    <title lang="es">Mucho más que cine [COLOR tomato]T2025 E2[/COLOR] [COLOR goldenrod]Lee Miller[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Programa/Entretenimiento[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa que ofrece las últimas novedades y tendencias del mundo del cine.
-[COLOR teal]· País:[/COLOR] España </desc>
-    <category lang="es">Programa, Entretenimiento</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3688853.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250322081200 +0200" stop="20250322094600 +0200" channel="BOM Cine">
-    <title lang="es">Teletienda</title>
-    <sub-title lang="es">[COLOR teal]Cine/Español[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Teletienda.
-[COLOR teal]· País:[/COLOR] España </desc>
-    <category lang="es">Cine, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3705702.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250322094600 +0200" stop="20250322111200 +0200" channel="BOM Cine">
-    <title lang="es">Bullet Head: Trampa mortal</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Drama/Suspense[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Tras un atraco que sale mal, tres criminales se encuentran atrapados en un almacén con la policía cercándoles. Pero, dentro del almacén, una amenaza aún más peligrosa hará que los fugitivos tengan que comenzar una furiosa batalla por salvar sus vidas.
-[COLOR teal]· País:[/COLOR] BGR, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Paul Solet.
-[COLOR teal]· Reparto:[/COLOR] Adrien Brody, Rory Culkin, Antonio Banderas, John Malkovich, Alexandra Dinu, Ori Pfeffer, James Robinson, Velizar Binev, Owen Davis, Deyan Petrov, Jay Bogoslovov, Clive Sawyer, Keith D. Evans, Kitodar Todorov Todorov, Mark Theodore Richards, Tihomir Vinchev.
-[COLOR teal]· Guion:[/COLOR] Paul Solet.</desc>
-    <category lang="es">Cine, Policíaco, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683797.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322111200 +0200" stop="20250322123900 +0200" channel="BOM Cine">
-    <title lang="es">Los padrinos del novio</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Comedia[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc lang="es">· De camino a la capilla, el novio y sus cuatro padrinos paran en un banco y se ven involucrados en un robo.
-[COLOR teal]· País:[/COLOR] R.U., EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Tamra Davis.
-[COLOR teal]· Reparto:[/COLOR] Dean Cain, Drew Barrymore, Andy Dick, Sean Patrick Flanery, Mitchell Whitfield, Luke Wilson.
-[COLOR teal]· Guion:[/COLOR] Art Edler Brown, Tracy Fraim.
-[COLOR teal]· Música:[/COLOR] Mark Mothersbaugh.
-[COLOR teal]· Producción:[/COLOR] Steven Stabler, Deborah Ridpath, Brad Krevoy, Bradley Jenkel.</desc>
-    <category lang="es">Cine, Acción, Comedia</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763891.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20250322123900 +0200" stop="20250322141600 +0200" channel="BOM Cine">
-    <title lang="es">Replicant</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense/Ciencia Ficción/Acción[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Un loco asesino en serie que es investigado por un veterano inspector de policía.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Ringo Lam.
-[COLOR teal]· Reparto:[/COLOR] Catherine Dent, Jean Claude Van Damme, Michael Rooker, Brandon James Olson, Pam Hyatt, Marnie Alton, Paul McGillion, Allan Gray, James Hutson, Ian Robison, Jayme Knox, Lillian Carlson, Margaret Ryan, Chris Kelly, Peter Flemming.
-[COLOR teal]· Guion:[/COLOR] Lawrence Riggins, Les Weldon.
-[COLOR teal]· Música:[/COLOR] Guy Zerafa, Alex Khaskin.
-[COLOR teal]· Producción:[/COLOR] David Dadon, Danny Lerner, John Thompson.</desc>
-    <category lang="es">Cine, Suspense, Ciencia Ficción, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3778028.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322141600 +0200" stop="20250322155800 +0200" channel="BOM Cine">
-    <title lang="es">Al caer la noche</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Drama[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Darl Hardwick es el sheriff de una pequeña población de Estados Unidos. Un día, encuentra el cuerpo muerto de un transexual en una cuneta y empieza a investigarlo. Pronto descubrirá complicaciones políticas relacionadas con el caso.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Robby Henson.
-[COLOR teal]· Reparto:[/COLOR] Billy Bob Thornton, Julie Hagerty, Sela Ward, Patricia Arquette, William Devane, Audrey Marie Anderson, John McConnell, Ray McKinnon, Tom Bower, Marcus Lyle Brown, Ron Flagge, J.C. Sealy, Mark Krasnoff, Huey Alexander, Deana Carter.
-[COLOR teal]· Guion:[/COLOR] Robby Henson.
-[COLOR teal]· Música:[/COLOR] David Bergeaud.
-[COLOR teal]· Producción:[/COLOR] John Morrissey.</desc>
-    <category lang="es">Cine, Policíaco, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3681035.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322155800 +0200" stop="20250322174700 +0200" channel="BOM Cine">
-    <title lang="es">La verdad oculta</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco/Biográfico[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Acabada la guerra de los Balcanes, una policía de Nebraska viaja a Bosnia como observadora de las Naciones Unidas. Allí descubre que una multinacional ha encubierto varios casos de tráfico sexual.
-[COLOR teal]· País:[/COLOR] Canada, Alemania, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Larysa Kondracki.
-[COLOR teal]· Reparto:[/COLOR] Rachel Weisz, Vanessa Redgrave, David Strathairn, Monica Bellucci, Nikolaj Lie Kaas.
-[COLOR teal]· Guion:[/COLOR] Larysa Kondracki, Eilis Kirwan.</desc>
-    <category lang="es">Cine, Drama, Policíaco, Biográfico</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3661420.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322174700 +0200" stop="20250322192600 +0200" channel="BOM Cine">
-    <title lang="es">La odisea de los pioneros</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.7/10[/COLOR]</sub-title>
-    <desc lang="es">· Año 1755, las colonias inglesas están siendo devastadas por las atrocidades de la guerra. Las potencias europeas rivales se han enfrentado en el fértil valle de Ohio, y familias enteras están devastadas por la violencia desencadenada.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Ray Bengston, George D. Escobar.
-[COLOR teal]· Reparto:[/COLOR] Kelly Greyson, Natalie Racoosin, Clay Walker, Tony Wade, Ozzie Torres, Jenn Gotzon.
-[COLOR teal]· Guion:[/COLOR] James Richards, George D. Escobar, Tracy Leininger Craven, Heather Hughes.</desc>
-    <category lang="es">Cine, Acción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3513984.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322192600 +0200" stop="20250322210000 +0200" channel="BOM Cine">
-    <title lang="es">Su nombre gritaba venganza</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Después de sufrir un disparo en la cabeza, el veterano Flannagan olvida su pasado reciente en la guerra. Al regresar a su pueblo, lo han declarado desertor y el juez se ofrece a limpiar su nombre.
-[COLOR teal]· País:[/COLOR] Italia 
-[COLOR teal]· Dirección:[/COLOR] Mario Caiano, William Hawkins.
-[COLOR teal]· Reparto:[/COLOR] Anthony Steffen, William Berger, Mario Brega, Ida Galli, Eleonora Vargas, Evelyn Stewart, Robert Hundar, Raf Baldassarre, Jean Louis.
-[COLOR teal]· Guion:[/COLOR] Mario Caiano, Tito Carpi.</desc>
-    <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3782807.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322210000 +0200" stop="20250322222600 +0200" channel="BOM Cine">
-    <title lang="es">Cleaner</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Un brillante reparto de actores encabezado por el nominado a un Oscar Samuel L. Jackson, protagoniza esta historia sobre un ex policía que ahora se dedica a limpiar escenas de crímenes.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Renny Harlin.
-[COLOR teal]· Reparto:[/COLOR] Luis Guzmán, Eva Mendes, Christa Campbell, Robert Forster, Ed Harris, Samuel L. Jackson, Maggie Lawson, Keke Palmer, José Pablo Cantillo, Marc Macaulay, Edrick Browne, Rosalind Rubin, James Barnes, Mike Guy, Richard Folmer, Linda Leonard.
-[COLOR teal]· Guion:[/COLOR] Matthew Aldrich.
-[COLOR teal]· Música:[/COLOR] Richard Gibbs.
-[COLOR teal]· Producción:[/COLOR] Samuel L. Jackson, Avi Lerner, Lati Grobman, Steve Golin, Michael P. Flannigan.</desc>
-    <category lang="es">Cine, Policíaco, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3662692.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250322222600 +0200" stop="20250323002000 +0200" channel="BOM Cine">
-    <title lang="es">Mr. Brooks</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Suspense/Drama[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Mr. Brooks es un hombre torturado incapaz de controlar sus emociones. Tiene una mitad diabólica, un alter ego amante del asesinato y del caos.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Bruce A. Evans.
-[COLOR teal]· Reparto:[/COLOR] Aisha Hinds, William Hurt, Kevin Costner, Matt Schulze, Marg Helgenberger, Lindsay Crouse, Demi Moore, Jason Lewis, Jamie McShane, Steve Coulter, Marcus Hester, Laura Bailey, Dane Cook, Danielle Panabaker, Ariel Winter, Chevy Chase, Coltrane Ellar, Clark Duke, Burt Reynolds, Nikki Blonsky, Ruben Santiago-Hudson, Reiko Aylesworth, Michael Cole Cole, Traci Dinwiddie, Yasmine Delawari.
-[COLOR teal]· Guion:[/COLOR] Bruce A. Evans, Raynold Gideon.
-[COLOR teal]· Música:[/COLOR] Ramin Djawadi.
-[COLOR teal]· Producción:[/COLOR] Jim Wilson, Kevin Costner, Raynold Gideon.</desc>
-    <category lang="es">Cine, Policíaco, Suspense, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3662724.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.3/10</value>
-    </star-rating>
-  </programme>
   <programme start="20250323002000 +0200" stop="20250323015100 +0200" channel="BOM Cine">
     <title lang="es">Un bombo en el camino</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
@@ -963,5 +689,47 @@
 </desc>
     <category lang="es">Programa, Otros</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3631463.jpg" />
+  </programme>
+  <programme start="20250327021000 +0200" stop="20250327060000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250327060000 +0200" stop="20250327100000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250327100000 +0200" stop="20250327140000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250327140000 +0200" stop="20250327180000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250327180000 +0200" stop="20250327220000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250327220000 +0200" stop="20250328020000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Actualmente el canal no se está emitiendo.
+</desc>
+    <category lang="es">Programa, Otros</category>
   </programme>
 </tv>
