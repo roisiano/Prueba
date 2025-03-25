@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/03/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 25/03/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -953,15 +953,23 @@
     </star-rating>
   </programme>
   <programme start="20250328104100 +0200" stop="20250328122000 +0200" channel="BOM Cine">
-    <title lang="es">Largo camino a casa</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">
+    <title lang="es">El largo camino a casa</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1990[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
+    <desc lang="es">· En los años 50, en Montgomery, un pueblecito de Alabama, los prejuicios raciales y sociales están a la orden del día.
+[COLOR teal]· País:[/COLOR] EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Richard Pearce.
-[COLOR teal]· Reparto:[/COLOR] Whoopi Goldberg, Sissy Spacek, Dwight Schultz, Ving Rhames.</desc>
-    <category lang="es">Programa, Otros</category>
+[COLOR teal]· Reparto:[/COLOR] Sissy Spacek, Whoopi Goldberg, Ving Rhames, Dylan Baker, Dwight Schultz, Erika Alexander.
+[COLOR teal]· Guion:[/COLOR] John Cork.
+[COLOR teal]· Música:[/COLOR] George Fenton.
+[COLOR teal]· Producción:[/COLOR] Dave Bell, Howard Koch.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3708472.jpg" />
     <rating system="ES">
-      <value>7</value>
+      <value>13</value>
     </rating>
+    <star-rating system="ES">
+      <value>7.3/10</value>
+    </star-rating>
   </programme>
   <programme start="20250328122000 +0200" stop="20250328135900 +0200" channel="BOM Cine">
     <title lang="es">En busca del tesoro del amazonas</title>
