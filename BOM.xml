@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/04/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 01/04/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -1068,59 +1068,202 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250405042500 +0200" stop="20250405060000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">
+  <programme start="20250405042500 +0200" stop="20250405045600 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 </desc>
-    <category lang="es">Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3800580.jpg" />
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686898.jpg" />
     <rating system="ES">
-      <value>7</value>
+      <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250405060000 +0200" stop="20250405100000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3800580.jpg" />
+  <programme start="20250405045600 +0200" stop="20250405062300 +0200" channel="BOM Cine">
+    <title lang="es">El asesinato de Richard Nixon</title>
+    <sub-title lang="es">[COLOR teal]Cine/Biográfico[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.9/10[/COLOR]</sub-title>
+    <desc lang="es">· Para Samuel Bicke, el presidente Richard Nixon es la personificación de todo lo que no funciona en el mundo y decide que la única manera de dar sentido a su insignificante vida es realizar un gesto magnífico e histórico.
+[COLOR teal]· País:[/COLOR] MEX, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Niels Mueller.
+[COLOR teal]· Reparto:[/COLOR] Sean Penn, Don Cheadle, Naomi Watts, Jack Thompson, Nick Searcy, Brad William Henke, Mykelti Williamson, Michael Wincott, Lily Knight, April Grace, Eileen Ryan Ryan, Jared Dorrance, Jenna Milton, Mariah Massa, Derek Greene.
+[COLOR teal]· Guion:[/COLOR] Kevin Kennedy, Niels Mueller.
+[COLOR teal]· Música:[/COLOR] Steven M. Stern.
+[COLOR teal]· Producción:[/COLOR] Alfonso Cuarón, Jorge Vergara.</desc>
+    <category lang="es">Cine, Biográfico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3774963.jpg" />
     <rating system="ES">
-      <value>7</value>
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250405062300 +0200" stop="20250405071600 +0200" channel="BOM Cine">
+    <title lang="es">Un día en... Salón Internacional Náutico de Barcelona [COLOR tomato]T2025 E8[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Deportes/Programa Deportivo/Vela[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· A day at...International Barcelona Boat Show. During the 4 days of the exhibition, you can discover more than 275 international exhibitors and almost 700 boats on the water, and many more boats at the show.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Deportes, Programa Deportivo, Vela</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3662717.jpg" />
+    <rating system="ES">
+      <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250405100000 +0200" stop="20250405140000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3800580.jpg" />
+  <programme start="20250405071600 +0200" stop="20250405084600 +0200" channel="BOM Cine">
+    <title lang="es">Once In A Lifetime</title>
+    <sub-title lang="es">[COLOR teal]Cine/Documentales[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Corría el año 1977 cuando el Cosmos de Nueva York asciende de la mano de la mayor estrella de todos los tiempos: Pelé.
+[COLOR teal]· País:[/COLOR] R.U., EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] John Dower, Paul Crowder.
+[COLOR teal]· Reparto:[/COLOR] Steve Ross Ross, Franz Beckenbauer, Johan Cruyff, Clive Toye, Giorgio Chinaglia, Ahmet Ertegun, Nesuhi Ertegün, Matt Dillon, Jay Emmett, Raphael de la Sierra, Phil Woosnam, Werner Roth.
+[COLOR teal]· Guion:[/COLOR] Mark Monroe.</desc>
+    <category lang="es">Cine, Documentales</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3678166.jpg" />
     <rating system="ES">
-      <value>7</value>
+      <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250405140000 +0200" stop="20250405180000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3800580.jpg" />
+  <programme start="20250405084600 +0200" stop="20250405101900 +0200" channel="BOM Cine">
+    <title lang="es">Un oso llamado Winnie</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
+    <desc lang="es">· En White River, Ontario, en ruta a un campo de entrenamiento, el Teniente del ejército Harry Colebourn, de la sección de Winnipeg del Cuerpo Veterinario del Ejército Canadiense, salva a un oso negro de ser asesinado por un cazador.
+[COLOR teal]· País:[/COLOR] Canada 
+[COLOR teal]· Dirección:[/COLOR] John Kent Harrison.
+[COLOR teal]· Reparto:[/COLOR] Michael Fassbender, Gil Belows, Stephen Fry, David Suchet, Jonathon Young, Gil Bellows, Aaron Ashmore, Ted Atherton.
+[COLOR teal]· Guion:[/COLOR] John Kent Harrison, John Goldsmith.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3687809.jpg" />
     <rating system="ES">
-      <value>7</value>
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250405101900 +0200" stop="20250405115800 +0200" channel="BOM Cine">
+    <title lang="es">El diplomático [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Parte 1[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Programa/Crimen[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Scotland Yard detiene a un diplomático en el aeropuerto de Londres, acusado de dirigir una operación fallida de tráfico de drogas.
+[COLOR teal]· País:[/COLOR] AEE.UU., R.U. 
+[COLOR teal]· Dirección:[/COLOR] Peter Andrikis, Peter Andrikidis.
+[COLOR teal]· Reparto:[/COLOR] Dougray Scott, Rachael Blake, Jeremy Lindsay Taylor, Richard Roxburgh, Claire Forlani, Don Hany, Shane Briant, Alin Sumarwata, Jonny Pasvolsky, Elan Zavelsky, Rachel Black.</desc>
+    <category lang="es">Programa, Crimen</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3503840.jpg" />
+    <rating system="ES">
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20250405180000 +0200" stop="20250405220000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3800580.jpg" />
+  <programme start="20250405115800 +0200" stop="20250405133000 +0200" channel="BOM Cine">
+    <title lang="es">El diplomático [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Parte 2[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Programa/Crimen[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Porter y su esposa Pippa, pasan a formar parte de un programa de protección de testigos, y son inmediatamente trasladados a Australia.
+[COLOR teal]· País:[/COLOR] AEE.UU., R.U. 
+[COLOR teal]· Dirección:[/COLOR] Peter Andrikis, Peter Andrikidis.
+[COLOR teal]· Reparto:[/COLOR] Dougray Scott, Rachael Blake, Jeremy Lindsay Taylor, Richard Roxburgh, Claire Forlani, Don Hany, Shane Briant, Alin Sumarwata, Jonny Pasvolsky, Elan Zavelsky, Rachel Black.</desc>
+    <category lang="es">Programa, Crimen</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3503840.jpg" />
     <rating system="ES">
-      <value>7</value>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250405133000 +0200" stop="20250405151200 +0200" channel="BOM Cine">
+    <title lang="es">Aladino</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Comedia[/COLOR] | [COLOR cadetblue]1986[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Un muchacho pobre de nombre Al haddin encuentra una lámpara con la que invoca a un todopoderoso genio, que le concederá todos sus deseos, desde ligarse a la chica que le gusta hasta poder ganar un campeonato de ski acuático.
+[COLOR teal]· País:[/COLOR] Italia, NLD, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Bruno Corbucci.
+[COLOR teal]· Reparto:[/COLOR] Bud Spencer, Luca Venantini, Janet Agren, Julian Voloshin, Diamy Spencer, Umberto Raho.
+[COLOR teal]· Guion:[/COLOR] Dardano Sacchetti, Elisa Briganti, Mario Amendola, Bruno Corbucci, Marcello Fondato.</desc>
+    <category lang="es">Cine, Aventuras, Fantasía, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683963.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250405151200 +0200" stop="20250405164200 +0200" channel="BOM Cine">
+    <title lang="es">Proximity</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Negro[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.8/10[/COLOR]</sub-title>
+    <desc lang="es">· William Connor, un profesor universitario, es encarcelado tras ser acusado injustamente de asesinato, pero decide fugarse de la prisión para poder demostrar su inocencia.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Scott Ziehl.
+[COLOR teal]· Reparto:[/COLOR] Rob Lowe, Jonathan Banks, James Coburn, Kelly Rowan, Joe Santos, Terrence 'T.C.' Carson.
+[COLOR teal]· Guion:[/COLOR] Ben Queen, Seamus Ruane.
+[COLOR teal]· Música:[/COLOR] Stephen Cullo.
+[COLOR teal]· Producción:[/COLOR] Alan Schechter, Joel Silver.</desc>
+    <category lang="es">Cine, Acción, Negro</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3749810.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250405164200 +0200" stop="20250405180600 +0200" channel="BOM Cine">
+    <title lang="es">Distrito 13</title>
+    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Ciencia Ficción/Suspense[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
+    <desc lang="es">· En los guetos de París en 2010, un policía encubierto y un exmatón intentan infiltrarse en una banda para desactivar una bomba de neutrones.
+[COLOR teal]· País:[/COLOR] Francia 
+[COLOR teal]· Dirección:[/COLOR] Pierre Morel.
+[COLOR teal]· Reparto:[/COLOR] Cyril Raffaelli, Bibi Naceri, Dany Verissimo-Petit, David Belle, Tony D'Amario, Dany Verissimo, Samir Guesmi, Ludovic Berthillot, François Chattot, Nicolas Woirion, Grégory Jean, Jérôme Gadner, Tarik Boucekhine, Dominique Dorol, Warren Zavatta, Patrick Olivier.
+[COLOR teal]· Guion:[/COLOR] Luc Besson, Bibi Naceri.
+[COLOR teal]· Música:[/COLOR] Damien Roques, Da Octopuss, Bastide Donny.
+[COLOR teal]· Producción:[/COLOR] Luc Besson.</desc>
+    <category lang="es">Cine, Policíaco, Ciencia Ficción, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3620561.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250405180600 +0200" stop="20250405200100 +0200" channel="BOM Cine">
+    <title lang="es">El gran silencio</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· 1968. Jean-Louis Trintignant, Klaus Kinski, Luigi Pistilli, Marisa Merlini.  Las montañas en el invierno sirven como telón de fondo para la historia de un pistolero mudo que lucha contra una banda de cazadores de recompensas.
+[COLOR teal]· País:[/COLOR] Francia, Italia 
+[COLOR teal]· Dirección:[/COLOR] Sergio Corbucci.
+[COLOR teal]· Reparto:[/COLOR] Jean-Louis Trintignant, Klaus Kinski, Frank Wolff, Marisa Merlín, Luigi Pistilli, Vionetta McGee, Mario Brega, Vonetta McGee.
+[COLOR teal]· Guion:[/COLOR] Mario Amendola, Bruno Corbucci, Sergio Corbucci, Vittoriano Petrilli.
+[COLOR teal]· Música:[/COLOR] Ennio Morricone.</desc>
+    <category lang="es">Cine, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3788306.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250405200100 +0200" stop="20250405213800 +0200" channel="BOM Cine">
+    <title lang="es">Justice</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Acción/Drama[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Un miembro de los US Marshal que busca justicia por el asesinato de su hermano defiende un pequeño pueblo de un alcalde corrupto.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Richard Gabai.
+[COLOR teal]· Reparto:[/COLOR] Stephen Lang, Jamie-Lynn Sigler, Jackson Rathbone, Nathan Parsons, Lesley-Anne Down, Ellen Hollman.
+[COLOR teal]· Guion:[/COLOR] John Lewis, Shawn Justice, D.C. Rahe, Jeff Seats.
+[COLOR teal]· Música:[/COLOR] Boris Zelkin.
+[COLOR teal]· Producción:[/COLOR] John Lewis, AJ Perez, Sean Skelding.</desc>
+    <category lang="es">Cine, Western, Acción, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3749826.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250405213800 +0200" stop="20250405233100 +0200" channel="BOM Cine">
+    <title lang="es">Blood Money</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc lang="es">· Un cartel de drogas colombiano une fuerzas con un grupo de Tríadas de Hong Kong y el sicario más caliente del planeta, para enviar dos toneladas de cocaína a Australia y China.
+[COLOR teal]· País:[/COLOR] AEE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Gregory McQualter, McQualter Gregory.
+[COLOR teal]· Reparto:[/COLOR] Alex Castro, Pauline Egan, Zheng Liu, Toby Barron, Byron J. Brochmann, Jerónimo García.
+[COLOR teal]· Guion:[/COLOR] Gregory McQualter.</desc>
+    <category lang="es">Cine, Acción, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3514152.jpg" />
+    <rating system="ES">
+      <value>18</value>
     </rating>
   </programme>
 </tv>
