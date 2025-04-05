@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 04/04/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 05/04/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,250 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250404005300 +0200" stop="20250404022300 +0200" channel="BOM Cine">
-    <title lang="es">Miedo Punto Com</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense/Terror/Policíaco[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· El policía neoyorquino Mike Reilly y el forense Terry Huston investigan una serie de misteriosas muertes que parecen estar relacionadas con Internet.
-[COLOR teal]· País:[/COLOR] Alemania, LUX, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] William Malone.
-[COLOR teal]· Reparto:[/COLOR] Stephen Rea, Udo Kier, Stephen Dorff, Natascha Mcelhone, Amelia Curtis.
-[COLOR teal]· Guion:[/COLOR] Josephine Coyle, Moshe Diamant, Holly Payberg-Torroija.
-[COLOR teal]· Música:[/COLOR] Nicholas Pike.
-[COLOR teal]· Producción:[/COLOR] Limor Diamant, Moshe Diamant.</desc>
-    <category lang="es">Cine, Suspense, Terror, Policíaco</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3810297.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250404022300 +0200" stop="20250404040800 +0200" channel="BOM Cine">
-    <title lang="es">DALÍ</title>
-    <sub-title lang="es">[COLOR teal]Cine/Biográfico/Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
-[COLOR teal]· País:[/COLOR] BGR, España 
-[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
-[COLOR teal]· Reparto:[/COLOR] Lorenzo Quinn, Sarah Douglas, Valentín Fernández-Tubau, Michael Catlin, Rosa Novell, Francisco Guijar, Katherine Wallach.
-[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Enric Gomà, Temístocles López, Miquel Sanz.
-[COLOR teal]· Música:[/COLOR] Antonio Sechi.</desc>
-    <category lang="es">Cine, Biográfico, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3671387.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250404040800 +0200" stop="20250404054000 +0200" channel="BOM Cine">
-    <title lang="es">Cazadores de mujeres</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
-    <desc lang="es">· El detective privado Mike Hammer investiga el paradero de Velda, su secretaria desaparecida.
-[COLOR teal]· País:[/COLOR] R.U. 
-[COLOR teal]· Dirección:[/COLOR] Roy Rowland, Mickey Spillane.
-[COLOR teal]· Reparto:[/COLOR] Mickey Spillane, Shirley Eaton, Robert Fellows, Lloyd Nolan, Scott Peters, Hy Gardner, James Dyrenforth Dyrenforth, Guy Kingsley Poynter.
-[COLOR teal]· Guion:[/COLOR] Mickey Spillane, Robert Fellows.</desc>
-    <category lang="es">Cine, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683300.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250404054000 +0200" stop="20250404065300 +0200" channel="BOM Cine">
-    <title lang="es">Un día en... Salón Internacional Náutico de Barcelona [COLOR tomato]T2025 E5[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Deportes/Programa Deportivo/Vela[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· A day at...International Barcelona Boat Show. During the 4 days of the exhibition, you can discover more than 275 international exhibitors and almost 700 boats on the water, and many more boats at the show.
-[COLOR teal]· País:[/COLOR] España </desc>
-    <category lang="es">Deportes, Programa Deportivo, Vela</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3662717.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250404065300 +0200" stop="20250404072700 +0200" channel="BOM Cine">
-    <title lang="es">Teletienda</title>
-    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
-</desc>
-    <category lang="es">Programa, Consumo</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3566881.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250404072700 +0200" stop="20250404091800 +0200" channel="BOM Cine">
-    <title lang="es">Una canción del pasado</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Una adolescente regresa a Nueva Orleans tras la muerte de su madre. Una vez allí descubre que en su casa viven dos hombres con los que compartirá todo tipo de recuerdos sobre su madre.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Shainee Gabel.
-[COLOR teal]· Reparto:[/COLOR] John Travolta, Scarlett Johansson, Gabriel Macht, Deborah Kara Unger, Dane Rhodes, David Jensen, Douglas M. Griffin, Sonny Shroyer, Earl Maddox, Walter Breaux, Bernard Johnson, Gina 'Ginger' Bernal, Carol Sutton, Clayne Crawford, Warren Kole.
-[COLOR teal]· Guion:[/COLOR] Shainee Gabel.
-[COLOR teal]· Música:[/COLOR] Nathan Larson.
-[COLOR teal]· Producción:[/COLOR] Shainee Gabel, David Lancaster, Paul Miller, R. Paul Miller, Bob Yari.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683300.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250404091800 +0200" stop="20250404105600 +0200" channel="BOM Cine">
-    <title lang="es">El increíble viaje de Mary Bryant [COLOR tomato]T1 E1[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Series/Drama[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Cornwall, 1786. La hambrienta Mary Broad es condenada a muerte por robar el picnic de una dama pero, a cambio, deberá unirse de por vida al gobernador Phillip para crear una colonia penal en la bahía de Botany, en Nueva Gales del Sur.
-[COLOR teal]· País:[/COLOR] AEE.UU., R.U. 
-[COLOR teal]· Dirección:[/COLOR] Peter Andrikidis.
-[COLOR teal]· Reparto:[/COLOR] Sam Neill, Linal Haft, Brittany Carney, Alice McConnell, Dan Spielman, Stephen Curry, Alex O'Loughlin, Garry McDonald, David Field, Abe Forsythe, Jack Davenport, Romola Garai, Genevieve O'Reilly, Tony Martin, Alex O\u2019Loughlin.</desc>
-    <category lang="es">Series, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3181773.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250404105600 +0200" stop="20250404123600 +0200" channel="BOM Cine">
-    <title lang="es">El increíble viaje de Mary Bryant [COLOR tomato]T1 E2[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Series/Drama[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
-    <desc lang="es">· El grupo de fugitivos se escapa en un barco mal preparado y, tras grandes discusiones, decide arriesgarse a navegar a las Indias Holandesas. A pesar de la falta de viento, finalmente llegan a Timor.
-[COLOR teal]· País:[/COLOR] AEE.UU., R.U. 
-[COLOR teal]· Dirección:[/COLOR] Peter Andrikidis.
-[COLOR teal]· Reparto:[/COLOR] Sam Neill, Linal Haft, Brittany Carney, Alice McConnell, Dan Spielman, Stephen Curry, Alex O'Loughlin, Garry McDonald, David Field, Abe Forsythe, Jack Davenport, Romola Garai, Genevieve O'Reilly, Tony Martin, Alex O\u2019Loughlin.</desc>
-    <category lang="es">Series, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3181773.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250404123600 +0200" stop="20250404141300 +0200" channel="BOM Cine">
-    <title lang="es">La batalla del río Neretva</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc lang="es">· Enero de 1943, 2ª Guerra Mundial, ante la previsible invasión aliada de los Balcanes, los ejércitos alemán e italiano deciden lanzar una ofensiva sobre los partisanos yugoslavos de Tito.
-[COLOR teal]· País:[/COLOR] Alemania, Italia, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Veljko Bulajic.
-[COLOR teal]· Reparto:[/COLOR] Franco Nero, Sylva Koscina, Orson Welles, Yul Brynner, Hardy Krüger, Sergei Bondarchuk, Curd Jürgens, Anthony Dawson.
-[COLOR teal]· Guion:[/COLOR] Stevan Bulajic, Veljko Bulajic, Ratko Djurovic, Ugo Pirro.
-[COLOR teal]· Música:[/COLOR] Bernard Herrmann, Tomislav Pinter, Vladimir Kraus-Rajteric.
-[COLOR teal]· Producción:[/COLOR] Steve Previn.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683300.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20250404141300 +0200" stop="20250404153800 +0200" channel="BOM Cine">
-    <title lang="es">El Zorro y los 3 mosqueteros</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· En la primera mitad del siglo XVII, España está en guerra con Francia. Isabel, prima del rey de España, es retenida por los franceses en un castillo y el conde de Sevilla, que aspira a su mano, se ofrece para liberarla.
-[COLOR teal]· País:[/COLOR] Italia 
-[COLOR teal]· Dirección:[/COLOR] Luigi Capuano, Louis Capuano.
-[COLOR teal]· Reparto:[/COLOR] Jordan Scott, José Greci, Giacomo Rossi-Stuart, Livio Lorenzon, Franco Fantasia, Nazzareno Zamperla, Roberto Risso, Gordon Scott.
-[COLOR teal]· Guion:[/COLOR] Roberto Gianviti, Italo De Tuddo, Johnston McCulley.</desc>
-    <category lang="es">Cine, Aventuras</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683300.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250404153800 +0200" stop="20250404174500 +0200" channel="BOM Cine">
-    <title lang="es">The Edge</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Ambientada en Siberia en 1945, Ignat, un antiguo héroe soviético, llega a un pequeño y curioso pueblo para trabajar como maquinista. Allí conoce a una joven alemana que ha pasado toda la Segunda Guerra Mundial viviendo incomunicada.
-[COLOR teal]· País:[/COLOR] REE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Aleksey Uchitel.
-[COLOR teal]· Reparto:[/COLOR] Vladimir Mashkov, Yulia Peresild, Anjorka Strechel, Aleksey Gorbunov, Sergey Garmash.
-[COLOR teal]· Guion:[/COLOR] Gerard Michael MacCarthy, Aleksandr Gonorovskiy.</desc>
-    <category lang="es">Cine, Aventuras, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683300.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250404174500 +0200" stop="20250404200000 +0200" channel="BOM Cine">
-    <title lang="es">El gran McLintock</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western/Comedia[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Magnate de ganado, banquero y ciudadano modelo; George McLintock tiene el mundo en sus manos; lo único que le falta es su mujer.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Andrew V. McLaglen, Andrew McLaglen.
-[COLOR teal]· Reparto:[/COLOR] Yvonne De Carlo, Maureen O'Hara, Stefanie Powers, Jerry Van Dyke, John Wayne, Chill Wills, Bruce Cabot, Strother Martin, Jack Kruschen, Perry López, Patrick Wayne, Gordon Jones, Hank Worden, Edgar Buchanan, Robert Lowery.
-[COLOR teal]· Guion:[/COLOR] James Edward Grant.
-[COLOR teal]· Música:[/COLOR] Frank De Vol.
-[COLOR teal]· Producción:[/COLOR] Michael Wayne.</desc>
-    <category lang="es">Cine, Western, Comedia</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686901.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250404200000 +0200" stop="20250404214800 +0200" channel="BOM Cine">
-    <title lang="es">Cualquier bala servirá</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Montana, 1876. Un cazador de cabezas despiadado rastrea a su propio hermano a través del país de Big Sky con la ayuda de una joven cazadora de pieles.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Justin Lee.
-[COLOR teal]· Reparto:[/COLOR] Bruce Davison, Meg Foster, Mark Ryan, Kevin Makely, Jenny Curtis, Todd A. Robinson.
-[COLOR teal]· Guion:[/COLOR] Justin Lee.
-[COLOR teal]· Música:[/COLOR] Jared Forman.
-[COLOR teal]· Producción:[/COLOR] Jenny Curtis, Kevin Makely.</desc>
-    <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686901.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250404214800 +0200" stop="20250404233700 +0200" channel="BOM Cine">
-    <title lang="es">Mulholland Falls (La brigada del sombrero)</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]1996[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Los Ángeles, 1954. Max Hoover es el jefe de "La Brigada del Sombrero.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Lee Tamahori.
-[COLOR teal]· Reparto:[/COLOR] Chazz Palminteri, Chris Penn, Michael Madsen, Daniel Baldwin, Andrew McCarthy, John Malkovich, Treat Williams, Nick Nolte, Jennifer Connelly, Melanie Griffith.
-[COLOR teal]· Guion:[/COLOR] Peter Dexter.
-[COLOR teal]· Música:[/COLOR] Dave Grusin.
-[COLOR teal]· Producción:[/COLOR] Lili Fini Zanuck, Richard D. Zanuck.</desc>
-    <category lang="es">Cine, Drama, Suspense, Policíaco</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683300.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250404233700 +0200" stop="20250405011100 +0200" channel="BOM Cine">
-    <title lang="es">La noche de los cristales rotos</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc lang="es">· Tras sufrir un grave accidente de tráfico, Dan Merrick padece amnesia y no es capaz de recordar nada de su pasado.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Wolfgang Petersen.
-[COLOR teal]· Reparto:[/COLOR] Tom Berenger, Corbin Bernsen, Greta Scacchi, Joanne Whalley, Bob Hoskins, Debi A. Monahan, Bert Rosario.
-[COLOR teal]· Guion:[/COLOR] Wolfgang Petersen, Richard Neely.
-[COLOR teal]· Música:[/COLOR] Alan Silvestri.
-[COLOR teal]· Producción:[/COLOR] Wolfgang Petersen, John Davis, David Korda.</desc>
-    <category lang="es">Cine, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683300.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.5/10</value>
-    </star-rating>
-  </programme>
   <programme start="20250405011100 +0200" stop="20250405024200 +0200" channel="BOM Cine">
     <title lang="es">Blood quantum</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Terror/Suspense[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
@@ -922,5 +678,47 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+  </programme>
+  <programme start="20250408220000 +0200" stop="20250409020000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250409020000 +0200" stop="20250409060000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250409060000 +0200" stop="20250409100000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250409100000 +0200" stop="20250409140000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250409140000 +0200" stop="20250409180000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250409180000 +0200" stop="20250409220000 +0200" channel="BOM Cine">
+    <title lang="es">Parón de emisiones</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">
+</desc>
+    <category lang="es">Programa, Otros</category>
   </programme>
 </tv>
