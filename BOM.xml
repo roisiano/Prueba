@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 15/04/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 15/04/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -476,7 +476,7 @@
     </star-rating>
   </programme>
   <programme start="20250416200000 +0200" stop="20250416213900 +0200" channel="BOM Cine">
-    <title lang="es">Venganza roja</title>
+    <title lang="es">The Mechanik</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense/Acción[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
     <desc lang="es">· Nick Cherenko, un ex combatiente de las fuerzas especiales rusas, ha dejado atrás su violento pasado y vive ahora junto a su mujer y su hijo, trabajando como mecánico en un suburbio de San Petesburgo. Pero un hecho desencadenará su furia.
 [COLOR teal]· País:[/COLOR] Alemania, EE.UU. 
@@ -1107,7 +1107,7 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250419034900 +0200" stop="20250419044700 +0200" channel="BOM Cine">
+  <programme start="20250419034900 +0200" stop="20250419044800 +0200" channel="BOM Cine">
     <title lang="es">Gaudí</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
@@ -1122,39 +1122,197 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250419044700 +0200" stop="20250419060000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250419044800 +0200" stop="20250419051500 +0200" channel="BOM Cine">
+    <title lang="es">Un día en... Salón Internacional Náutico de Barcelona [COLOR tomato]T2025 E8[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Deportes/Programa Deportivo/Vela[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· A day at...International Barcelona Boat Show. During the 4 days of the exhibition, you can discover more than 275 international exhibitors and almost 700 boats on the water, and many more boats at the show.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Deportes, Programa Deportivo, Vela</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3662717.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250419060000 +0200" stop="20250419100000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
+  <programme start="20250419051500 +0200" stop="20250419053000 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 </desc>
-    <category lang="es">Programa, Otros</category>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686898.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250419100000 +0200" stop="20250419140000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
+  <programme start="20250419053000 +0200" stop="20250419071500 +0200" channel="BOM Cine">
+    <title lang="es">El enigma de Gaspar Hauser</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]1974[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Nuremberg, 1828. Un joven llamado Gaspar Hauser, apenas capaz de hablar ni caminar, aparece por sorpresa en la ciudad portando una extraña nota.
+[COLOR teal]· País:[/COLOR] Alemania 
+[COLOR teal]· Dirección:[/COLOR] Werner Herzog.
+[COLOR teal]· Reparto:[/COLOR] Bruno S., Walter Ladengast, Brigitte Mira, Willy Semmelrogge, Michael Kroecher, Henry van Lyck, Hans Musäus.
+[COLOR teal]· Guion:[/COLOR] Werner Herzog.
+[COLOR teal]· Producción:[/COLOR] Werner Herzog.</desc>
     <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3810283.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20250419140000 +0200" stop="20250419180000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250419071500 +0200" stop="20250419084000 +0200" channel="BOM Cine">
+    <title lang="es">La séptima espada</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.5/10[/COLOR]</sub-title>
+    <desc lang="es">· En su viaje de regreso a casa, un grupo de cinco soldados supervivientes, piden comida y alojamiento para pasar la noche en un fuerte. Allí se encontrarán con un acontecimiento inesperado.
+[COLOR teal]· País:[/COLOR] MLT 
+[COLOR teal]· Dirección:[/COLOR] Raymond Mizzi.
+[COLOR teal]· Reparto:[/COLOR] Andrei Claude, Lori MacFadyen, Joseph Calleja, Henry Zammit Cordina, Larissa Bonaci.</desc>
+    <category lang="es">Cine, Acción, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3847198.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.5/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250419180000 +0200" stop="20250419220000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250419084000 +0200" stop="20250419100700 +0200" channel="BOM Cine">
+    <title lang="es">Yamakasi</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Policíaco/Drama[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
+    <desc lang="es">· Los Yamakasi han inventado un nuevo deporte callejero e intentan conquistar la ciudad: sus muros, tejados y puentes. Ligeros, rápidos y ágiles, saltan de un edificio a otro y desafían todos los peligros.
+[COLOR teal]· País:[/COLOR] Francia 
+[COLOR teal]· Dirección:[/COLOR] Ariel Zeitoun, Julien Seri.
+[COLOR teal]· Reparto:[/COLOR] Châu Belle Dinh, Williams Belle, Malik Diouf, Yann Hnautra, Guylain N'Guba-Boyeke, Charles Perrière, Laurent Piemontesi, Maher Kamoun, Bruno Flender, Amel Djemel.
+[COLOR teal]· Guion:[/COLOR] Luc Besson, Philippe Lyon, Charles Perrière, Julien Seri.
+[COLOR teal]· Música:[/COLOR] DJ Spank, Joey Starr.
+[COLOR teal]· Producción:[/COLOR] Luc Besson.</desc>
+    <category lang="es">Cine, Acción, Policíaco, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3749807.jpg" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250419100700 +0200" stop="20250419114500 +0200" channel="BOM Cine">
+    <title lang="es">El sonido del trueno</title>
+    <sub-title lang="es">[COLOR teal]Cine/Suspense/Terror/Acción[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.2/10[/COLOR]</sub-title>
+    <desc lang="es">· Un científico y una inventora deben salvar a la humanidad cuando un viajero del espacio altera inadvertidamente la historia de la evolución.
+[COLOR teal]· País:[/COLOR] CZE, R.U., EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Peter Hyams.
+[COLOR teal]· Reparto:[/COLOR] Heike Makatsch, Jemima Rooper, David Oyelowo, Ben Kingsley, Edward Burns, Armin Rohde, Catherine McCormack.
+[COLOR teal]· Guion:[/COLOR] Thomas Dean Donnelly, Joshua Oppenheimer, Gregory Poirier, Ray Bradbury.
+[COLOR teal]· Música:[/COLOR] Nick Glennie-Smith.
+[COLOR teal]· Producción:[/COLOR] Howard Baldwin, Karen Elise Baldwin, Moshe Diamant.</desc>
+    <category lang="es">Cine, Suspense, Terror, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3763925.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250419114500 +0200" stop="20250419134800 +0200" channel="BOM Cine">
+    <title lang="es">The Edge</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Ambientada en Siberia en 1945, Ignat, un antiguo héroe soviético, llega a un pequeño y curioso pueblo para trabajar como maquinista. Allí conoce a una joven alemana que ha pasado toda la Segunda Guerra Mundial viviendo incomunicada.
+[COLOR teal]· País:[/COLOR] REE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Aleksey Uchitel.
+[COLOR teal]· Reparto:[/COLOR] Vladimir Mashkov, Yulia Peresild, Anjorka Strechel, Aleksey Gorbunov, Sergey Garmash.
+[COLOR teal]· Guion:[/COLOR] Gerard Michael MacCarthy, Aleksandr Gonorovskiy.</desc>
+    <category lang="es">Cine, Aventuras, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3705803.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250419134800 +0200" stop="20250419155400 +0200" channel="BOM Cine">
+    <title lang="es">La leyenda de Ben Hall</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Western/Acción[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
+    <desc lang="es">· Ben Hall vuelve al bandolerismo con su viejo amigo John Gilbert. Juntos reforman su banda y se convierten en los forajidos más buscados de Australia.
+[COLOR teal]· País:[/COLOR] AEE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Matthew Holmes.
+[COLOR teal]· Reparto:[/COLOR] Jack Martin, Jamie Coffa, William Lee, Joanne Dobbin, Adam Willson, Erica Field.
+[COLOR teal]· Guion:[/COLOR] Matthew Holmes.
+[COLOR teal]· Música:[/COLOR] Ronnie Minder.
+[COLOR teal]· Producción:[/COLOR] Russell Cunningham, Michael Favelle, Matthew Holmes, Jessica Pearce.</desc>
+    <category lang="es">Cine, Drama, Western, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683812.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250419155400 +0200" stop="20250419174000 +0200" channel="BOM Cine">
+    <title lang="es">Ciudad del silencio</title>
+    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Lauren acude a informar sobre los asesinatos de cientos de mujeres en la frontera de México con los Estados Unidos. La periodista contará con la ayuda de un antiguo colega que trabaja en el periódico local.
+[COLOR teal]· País:[/COLOR] R.U., MEX, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Gregory Nava.
+[COLOR teal]· Reparto:[/COLOR] Martin Sheen, Antonio Banderas, Jennifer López, Julio César Cedillo, Sonia Braga, Maya Zapata, Teresa Ruiz, Juan Diego Botto, Rene Rivera, Irineo Alvarez.
+[COLOR teal]· Guion:[/COLOR] Gregory Nava.
+[COLOR teal]· Música:[/COLOR] Graeme Revell.
+[COLOR teal]· Producción:[/COLOR] David Bergstein, Gregory Nava.</desc>
+    <category lang="es">Cine, Policíaco, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3662713.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250419174000 +0200" stop="20250419200000 +0200" channel="BOM Cine">
+    <title lang="es">El gran McLintock</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Comedia[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
+    <desc lang="es">· Magnate de ganado, banquero y ciudadano modelo; George McLintock tiene el mundo en sus manos; lo único que le falta es su mujer.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Andrew V. McLaglen, Andrew McLaglen.
+[COLOR teal]· Reparto:[/COLOR] Yvonne De Carlo, Maureen O'Hara, Stefanie Powers, Jerry Van Dyke, John Wayne, Chill Wills, Bruce Cabot, Strother Martin, Jack Kruschen, Perry López, Patrick Wayne, Gordon Jones, Hank Worden, Edgar Buchanan, Robert Lowery.
+[COLOR teal]· Guion:[/COLOR] James Edward Grant.
+[COLOR teal]· Música:[/COLOR] Frank De Vol.
+[COLOR teal]· Producción:[/COLOR] Michael Wayne.</desc>
+    <category lang="es">Cine, Western, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3788209.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250419200000 +0200" stop="20250419213200 +0200" channel="BOM Cine">
+    <title lang="es">Hickok: El Pistolero</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Acción[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Hickok es un pistolero legendario que busca dejar atrás su pasado criminal.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Timothy Woodward Jr., Dan Garcia.
+[COLOR teal]· Reparto:[/COLOR] Kris Kristofferson, Bruce Dern, Cameron Richardson, Trace Adkins, Luke Hemsworth, Adkins Trace, Peter Sherayko, Kaiwi Lyman-Mersereau, Jason Lively, Leticia Jimenez, Matthew Ziff, Rob Mello, Mike Mayhall Mayhall, Jaimie Steck.
+[COLOR teal]· Guion:[/COLOR] Michael Lanahan.</desc>
+    <category lang="es">Cine, Western, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3775320.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250419213200 +0200" stop="20250419230500 +0200" channel="BOM Cine">
+    <title lang="es">Ases y ochos</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Western[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
+    <desc lang="es">· De repente, los tranquilos habitantes de una ciudad del Oeste que ha prosperado gracias al ferrocarril son abatidos a tiros. Sin ley y sin orden, el poder cae en manos de un viejo ranchero y de un famoso pistolero retirado.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Craig R. Baxley.
+[COLOR teal]· Reparto:[/COLOR] Casper Van Dien, Bruce Boxleitner, Ernest Borgnine, Jeff Kober, Jack Noseworthy.
+[COLOR teal]· Guion:[/COLOR] Ronald M. Cohen, Dennis Shryack.</desc>
+    <category lang="es">Cine, Acción, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3476405.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.4/10</value>
+    </star-rating>
   </programme>
 </tv>
