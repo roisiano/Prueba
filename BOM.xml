@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 24/04/2025 16:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 24/04/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -22,7 +22,7 @@
 [COLOR teal]· Música:[/COLOR] Serge Colbert, Russell Walker.
 [COLOR teal]· Producción:[/COLOR] Gary Howsam, Danny Lerner, Harry Alan Towers, David Varod.</desc>
     <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3878347.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3898350.jpg" />
     <rating system="ES">
       <value>18</value>
     </rating>
@@ -30,7 +30,7 @@
       <value>3.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424022300 +0200" stop="20250424041600 +0200" channel="BOM Cine">
+  <programme start="20250424022300 +0200" stop="20250424040800 +0200" channel="BOM Cine">
     <title lang="es">DALÍ</title>
     <sub-title lang="es">[COLOR teal]Cine/Biográfico/Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
@@ -48,7 +48,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424041600 +0200" stop="20250424054900 +0200" channel="BOM Cine">
+  <programme start="20250424040800 +0200" stop="20250424054000 +0200" channel="BOM Cine">
     <title lang="es">Hércules y la reina de Lidia</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Acción/Español[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Mientras negocia la paz entre dos hermanos que se disputan el trono de Tebas, un Hércules amnésico es seducido por la malvada reina Onfalia.
@@ -67,7 +67,7 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424054900 +0200" stop="20250424060700 +0200" channel="BOM Cine">
+  <programme start="20250424054000 +0200" stop="20250424061000 +0200" channel="BOM Cine">
     <title lang="es">Teletienda</title>
     <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
@@ -78,17 +78,17 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250424060700 +0200" stop="20250424074100 +0200" channel="BOM Cine">
+  <programme start="20250424061000 +0200" stop="20250424074400 +0200" channel="BOM Cine">
     <title lang="es">Mi enemigo íntimo</title>
     <sub-title lang="es">[COLOR teal]Cine/Documentales[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★7.8/10[/COLOR]</sub-title>
-    <desc lang="es">· Werner Herzog compartía piso con Klaus Kinski, un diabólico ególatra. Kinski padecía repentinos e injustificables arrebatos de ira o locura, durante los cuales podía llegar a destrozar el mobiliario del apartamento.
+    <desc lang="es">· Documental que analiza la peculiar relación entre el cineasta Werner Herzog y el actor Klaus Kinski.
 [COLOR teal]· País:[/COLOR] Alemania, Francia, R.U. 
 [COLOR teal]· Dirección:[/COLOR] Werner Herzog.
 [COLOR teal]· Reparto:[/COLOR] Claudia Cardinale, Justo González, Werner Herzog, Mick Jagger, Klaus Kinski, Eva Mattes, Jason Robards, Beat Presser Presser, Guillermo Ríos.
 [COLOR teal]· Música:[/COLOR] Popol Vuh.
 [COLOR teal]· Producción:[/COLOR] Lucki Stipetic.</desc>
     <category lang="es">Cine, Documentales</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3810273.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3898357.jpg" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -96,7 +96,7 @@
       <value>7.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424074100 +0200" stop="20250424092200 +0200" channel="BOM Cine">
+  <programme start="20250424074400 +0200" stop="20250424092600 +0200" channel="BOM Cine">
     <title lang="es">El ángel y el pistolero</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Drama/Romance[/COLOR] | [COLOR cadetblue]1947[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
     <desc lang="es">· Un malvado pistolero, herido, es socorrido por una familia en un pequeño pueblo. Las atenciones de la hija, hacen que se enamore y que se produzca un cambio en su manera de pensar, queriendo abandonar la vida de pistolero. Pero su enemigo aún le persigue.
@@ -115,7 +115,7 @@
       <value>6.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424092200 +0200" stop="20250424110500 +0200" channel="BOM Cine">
+  <programme start="20250424092600 +0200" stop="20250424111400 +0200" channel="BOM Cine">
     <title lang="es">Requiescant</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1967[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
     <desc lang="es">· El chico mexicano Requiescant es el único superviviente de un ataque del gángster Ferguson y su banda. Años después, busca a Ferguson para vengarse.
@@ -130,7 +130,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250424110500 +0200" stop="20250424124100 +0200" channel="BOM Cine">
+  <programme start="20250424111400 +0200" stop="20250424125000 +0200" channel="BOM Cine">
     <title lang="es">Alias Jesse James</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Romance/Drama[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
     <desc lang="es">· Milford Farsnworth es un agente de seguros novato que vende una póliza a T. J. James, descubriendo luego que se trata del famoso Jesse James.
@@ -149,7 +149,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424124100 +0200" stop="20250424142200 +0200" channel="BOM Cine">
+  <programme start="20250424125000 +0200" stop="20250424142900 +0200" channel="BOM Cine">
     <title lang="es">Seis balas... una venganza... una oración</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· Una pandilla de forajidos, después de asaltar un banco, toman consigo un rehén para poderles facilitar la huida.
@@ -168,7 +168,7 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424142200 +0200" stop="20250424163700 +0200" channel="BOM Cine">
+  <programme start="20250424142900 +0200" stop="20250424164200 +0200" channel="BOM Cine">
     <title lang="es">Rojo atardecer</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
     <desc lang="es">· 1956, invasión de Hungría. Unos ciudadanos intentan huir de Hungría cuando el país es invadido por las tropas soviéticas encargadas de reprimir la revuelta popular contra el gobierno comunista húngaro.
@@ -187,7 +187,7 @@
       <value>6.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424163700 +0200" stop="20250424182000 +0200" channel="BOM Cine">
+  <programme start="20250424164200 +0200" stop="20250424182300 +0200" channel="BOM Cine">
     <title lang="es">Caballos salvajes</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama/Western/Español[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
     <desc lang="es">· El mestizo Chino, cuya única pasión es la cría de caballos, ofrece cobijo y protección en su rancho a Jamie Wagner, un fugitivo de la justicia.
@@ -206,7 +206,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424182000 +0200" stop="20250424200100 +0200" channel="BOM Cine">
+  <programme start="20250424182300 +0200" stop="20250424200000 +0200" channel="BOM Cine">
     <title lang="es">...y dejaron de llamarle camposanto</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
     <desc lang="es">· John y George McIntire son dos hermanos ingenuos que viajan a un pueblo del oeste sin ley para visitar a su padre.
@@ -225,16 +225,16 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424200100 +0200" stop="20250424215600 +0200" channel="BOM Cine">
+  <programme start="20250424200000 +0200" stop="20250424215300 +0200" channel="BOM Cine">
     <title lang="es">Driven: El origen de la leyenda</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense/Humor Negro/Biográfico/Terror[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Después de ser arrestado por contrabando de coca en su avión, Jim Hoffman tiene la oportunidad de comenzar de nuevo en un exuberante y próspero suburbio de San Diego.
+    <sub-title lang="es">[COLOR teal]Cine/Suspense/Humor Negro/Biográfico[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc lang="es">· En los años 80, en la ciudad de California, John DeLorean, un hombre de negocios del mundo automotriz, se involucra con un caso de narcotráfico, luego de ver cómo su empresa se viene a pique.
 [COLOR teal]· País:[/COLOR] R.U., PRI, EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Nick Hamm, Glenn Payne.
 [COLOR teal]· Reparto:[/COLOR] Jason Sudeikis, Lee Pace, Judy Greer, Erin Moriarty, Corey Stoll, Justin Bartha, Michael Cudlitz, Iddo Goldberg, Asher Miles Fallica, Jamey Sheridan, Yuji Okumoto, Tara Summers, Andy Field, Jessica Harthcock, Leah Hudspeth, Isabel Arraiza, Richard Speight Jr, Casey Dillard.
 [COLOR teal]· Guion:[/COLOR] Colin Bateman, Alejandro Carpio, Casey Dillard.</desc>
-    <category lang="es">Cine, Suspense, Humor Negro, Biográfico, Terror</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3798286.jpg" />
+    <category lang="es">Cine, Suspense, Humor Negro, Biográfico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3898360.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
@@ -242,13 +242,13 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424215600 +0200" stop="20250424235200 +0200" channel="BOM Cine">
+  <programme start="20250424215300 +0200" stop="20250424234500 +0200" channel="BOM Cine">
     <title lang="es">Crash (Colisión)</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco/Suspense[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.7/10[/COLOR]</sub-title>
     <desc lang="es">· En una sociedad llena de racismo y prejuicios, un grupo de personajes muy distintos entre sí se entrecruzan en varias situaciones extremas que dejan aflorar lo mejor y lo peor.
 [COLOR teal]· País:[/COLOR] AEE.UU., Alemania, EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Paul Haggis.
-[COLOR teal]· Reparto:[/COLOR] Jennifer Esposito, Don Cheadle, Sandra Bullock, Thandie Newton, Matt Dillon, Karina Arroyave, Dato Bakhtadze, Thandiwe Newton.
+[COLOR teal]· Reparto:[/COLOR] Jennifer Esposito, Don Cheadle, Sandra Bullock, Thandie Newton, Matt Dillon, Karina Arroyave, Dato Bakhtadze, Thandiwe Newton, Sean Cory, Tony Danza, Art Chudabala, Sean C. Cooper.
 [COLOR teal]· Guion:[/COLOR] Paul Haggis, Bobby Moresco.
 [COLOR teal]· Música:[/COLOR] Mark Isham.
 [COLOR teal]· Producción:[/COLOR] Don Cheadle, Paul Haggis, Mark R. Harris, Robert Moresco, Cathy Schulman, Bob Yari, Bobby Moresco.</desc>
@@ -261,7 +261,7 @@
       <value>7.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250424235200 +0200" stop="20250425013500 +0200" channel="BOM Cine">
+  <programme start="20250424234500 +0200" stop="20250425012700 +0200" channel="BOM Cine">
     <title lang="es">Farming</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc lang="es">· Un chico nigeriano negro es entregado por sus padres a una familia blanca británica con la esperanza de que alcance un futuro mejor que el que le depararía su país.
@@ -278,7 +278,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250425013500 +0200" stop="20250425030700 +0200" channel="BOM Cine">
+  <programme start="20250425012700 +0200" stop="20250425025900 +0200" channel="BOM Cine">
     <title lang="es">La sabiduría de los cocodrilos</title>
     <sub-title lang="es">[COLOR teal]Cine/Policíaco/Romance/Suspense[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Steven es un hombre que parece tenerlo todo, es guapo, atractivo e ingenioso, seduce a las mujeres con facilidad. Pero cuando el cuerpo de su última conquista es encontrado en el mar, todas las pruebas apuntan hacia él.
@@ -294,7 +294,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250425030700 +0200" stop="20250425043400 +0200" channel="BOM Cine">
+  <programme start="20250425025900 +0200" stop="20250425043400 +0200" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR teal]Cine/Suspense/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
@@ -1010,7 +1010,7 @@
     </star-rating>
   </programme>
   <programme start="20250427214000 +0200" stop="20250427231600 +0200" channel="BOM Cine">
-    <title lang="es">No Way Back</title>
+    <title lang="es">La fuerza de la sangre</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1995[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.1/10[/COLOR]</sub-title>
     <desc lang="es">· Cuando una operación sale mal y el compañero del agente del FBI Zack muere, su búsqueda del responsable le lleva hasta una yakuza en Japón. Un jefe de la mafia quiere vengarse por la muerte de su hijo y Zack es su objetivo.
 [COLOR teal]· País:[/COLOR] EE.UU. 
