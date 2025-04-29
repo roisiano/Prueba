@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 29/04/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 29/04/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -1039,7 +1039,7 @@
       <value>4.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250503023800 +0200" stop="20250503042300 +0200" channel="BOM Cine">
+  <programme start="20250503023800 +0200" stop="20250503042200 +0200" channel="BOM Cine">
     <title lang="es">DALÍ</title>
     <sub-title lang="es">[COLOR teal]Cine/Biográfico/Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
@@ -1057,39 +1057,210 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250503042300 +0200" stop="20250503060000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
+  <programme start="20250503042200 +0200" stop="20250503043500 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 </desc>
-    <category lang="es">Programa, Otros</category>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686898.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250503060000 +0200" stop="20250503100000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250503043500 +0200" stop="20250503060200 +0200" channel="BOM Cine">
+    <title lang="es">Tres caídas</title>
+    <sub-title lang="es">[COLOR teal]Cine/Documentales/Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· El documental está dividido en tres capítulos -las tres caídas en las que está dividido un combate de lucha libre mexicana.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Nacho Cabana.
+[COLOR teal]· Guion:[/COLOR] Nacho Cabana.</desc>
+    <category lang="es">Cine, Documentales, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683760.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20250503100000 +0200" stop="20250503140000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250503060200 +0200" stop="20250503062500 +0200" channel="BOM Cine">
+    <title lang="es">Un día en... Salón Internacional Náutico de Barcelona [COLOR tomato]T2025 E3[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Deportes/Programa Deportivo/Vela[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· A day at...International Barcelona Boat Show. During the 4 days of the exhibition, you can discover more than 275 international exhibitors and almost 700 boats on the water, and many more boats at the show.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Deportes, Programa Deportivo, Vela</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3662717.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250503140000 +0200" stop="20250503180000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250503062500 +0200" stop="20250503075700 +0200" channel="BOM Cine">
+    <title lang="es">Oh, Jerusalén</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
+    <desc lang="es">· "Oh Jerusalén" revive y dramatiza la lucha histórica por crear el estado de Israel en 1948. El filme alterna puntos de vista de judíos, árabes y británicos de la fuerza de ocupación...
+[COLOR teal]· País:[/COLOR] Francia, R.U., EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Élie Chouraqui.
+[COLOR teal]· Reparto:[/COLOR] JJ Feild, Saïd Taghmaoui, Maria Papas, Patrick Bruel, Ian Holm, Tovah Feldshuh, J.J. Feild, Mel Raido.
+[COLOR teal]· Guion:[/COLOR] Élie Chouraqui, Didier Le Pêcheur.
+[COLOR teal]· Música:[/COLOR] Stephen Endelman.
+[COLOR teal]· Producción:[/COLOR] Élie Chouraqui, Mark Damon, Andreas Grosch.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3856223.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250503180000 +0200" stop="20250503220000 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250503075700 +0200" stop="20250503092700 +0200" channel="BOM Cine">
+    <title lang="es">El último asesino</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Negro[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Un asesino a sueldo (Joe Mantegna) descubre que se está muriendo, pero decide ocultárselo a su hija y cómplice: ella es la que se ocupa de organizarle la huida cada vez que comete un crimen.
+[COLOR teal]· País:[/COLOR] Canada 
+[COLOR teal]· Dirección:[/COLOR] Christopher Warre Smets.
+[COLOR teal]· Reparto:[/COLOR] Joe Mantegna, Elizabeth Whitmere, Marcus Shultz, Romano Orzari, Michael Majeski.</desc>
+    <category lang="es">Cine, Acción, Negro</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3723084.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250503092700 +0200" stop="20250503111100 +0200" channel="BOM Cine">
+    <title lang="es">Hojas de hierba</title>
+    <sub-title lang="es">[COLOR teal]Cine/Humor Negro/Policíaco[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Las vidas de dos gemelos idénticos (interpretados por Edward Norton) dan un giro cuando el primero, un profesor de filosofía, es confundido por el segundo, un traficante de drogas al que varios clanes del narcotráfico quieren ver muerto.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Tim Blake Nelson.
+[COLOR teal]· Reparto:[/COLOR] Susan Sarandon, Melanie Lynskey, Edward Norton, Keri Russell, Henry Max Nelson, Lucy DeVito, Richard Dreyfuss, Tim Blake Nelson, Ty Burrell, Kent Jude Bernard Jude Bernard.
+[COLOR teal]· Guion:[/COLOR] Tim Blake Nelson.</desc>
+    <category lang="es">Cine, Humor Negro, Policíaco</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3762625.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250503111100 +0200" stop="20250503125600 +0200" channel="BOM Cine">
+    <title lang="es">El señor del acero</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Aventuras/Drama[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.1/10[/COLOR]</sub-title>
+    <desc lang="es">· El joven príncipe Yaroslav lucha contra los ladrones, las tribus y los invasores. Él es el primero en unir a tierras rusas y crear un estado ruso primigenio.
+[COLOR teal]· País:[/COLOR] REE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Dmitriy Korobkin.
+[COLOR teal]· Reparto:[/COLOR] Aleksey Kravchenko, Viktor Verzhbitskiy, Aleksey Kravchenco, Svetlana Chuykina, Aleksandr Ivashkevich, Valeriy Zolotukhin, Pavel Khrulyov, Elena Plaksina, Fyodor Shuvalov.
+[COLOR teal]· Guion:[/COLOR] Marina Koshkina, Koshkina Marina, Vanity Vercetti.
+[COLOR teal]· Música:[/COLOR] Dmitriy Dankov.
+[COLOR teal]· Producción:[/COLOR] Oleg Surkov.</desc>
+    <category lang="es">Cine, Acción, Aventuras, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3840254.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250503125600 +0200" stop="20250503143200 +0200" channel="BOM Cine">
+    <title lang="es">Age of the dragons</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.4/10[/COLOR]</sub-title>
+    <desc lang="es">· El Capitán Ahab y su tripulación recorren la tierra cazando dragones por el vitriolo que alimenta su mundo. Decidido a destruir al Dragón Blanco.
+[COLOR teal]· País:[/COLOR] R.U., EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Ryan Little.
+[COLOR teal]· Reparto:[/COLOR] Vinnie Jones, Danny Glover, Corey Sevier, Sofia Pernas, Larry Bagby.
+[COLOR teal]· Guion:[/COLOR] Anne K. Black, McKay Daines, Gil Aglaure.</desc>
+    <category lang="es">Cine, Aventuras, Fantasía</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3749429.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250503143200 +0200" stop="20250503164100 +0200" channel="BOM Cine">
+    <title lang="es">Resistencia Desesperada</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.8/10[/COLOR]</sub-title>
+    <desc lang="es">· Una pequeña guarnición de 2.000 soldados soviéticos sin tanques, pero ayudados por unos milicianos se preparan para defender la ciudad provincial.
+[COLOR teal]· País:[/COLOR] REE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Pavel Drozdov.
+[COLOR teal]· Reparto:[/COLOR] Kseniya Alfyorova, Andrey Chadov, Alyona Chekhova, Egor Beroev, Rodion Dolgirev, Anna Churina.
+[COLOR teal]· Guion:[/COLOR] Alexey A. Petrukhin, Natalya Lebedeva.</desc>
+    <category lang="es">Cine, Drama, Policíaco</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3671398.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250503164100 +0200" stop="20250503181500 +0200" channel="BOM Cine">
+    <title lang="es">Sangre, arena y oro</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Un arqueólogo es asaltado cuando descubre el tesoro perdido de Sir Francis Drake en el desierto del Sahara.
+[COLOR teal]· País:[/COLOR] HKG, MEX, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Gaelan Connell.
+[COLOR teal]· Reparto:[/COLOR] Aaron Costa Ganis, Monica West, Christopher Redman, Jenny Sterlin, Michael Benyaer.
+[COLOR teal]· Guion:[/COLOR] Gaelan Connell, Matt Lazarus.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3688924.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250503181500 +0200" stop="20250503200000 +0200" channel="BOM Cine">
+    <title lang="es">El callejón de la muerte</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Suspense[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.5/10[/COLOR]</sub-title>
+    <desc lang="es">· Los hermanos Dalton asolan los pueblos del oeste americano a finales del siglo XIX, hasta que los habitantes de la zona deciden plantarles cara.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Nicholas Barton.
+[COLOR teal]· Reparto:[/COLOR] Delno Ebie, Sean Gestl, Ryan T. Johnson, Corey Cannon, Carl Bailey, Kaye Brownlee-France, Nicholas Barton, Justin France, Josh Outzen, Tristan Campbell, Jake Washburn, Hannah Smith, Julia Grace Anderson, Joshua R. Outzen.
+[COLOR teal]· Guion:[/COLOR] Nicholas Barton.</desc>
+    <category lang="es">Cine, Western, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3735525.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250503200000 +0200" stop="20250503213200 +0200" channel="BOM Cine">
+    <title lang="es">Código de defensa</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <desc lang="es">· A un agente especial caído en desgracia se le encarga la protección de una joven de veinte años. Después de sufrir un ataque, protegida y protector se pierden en el desierto de Nevada, donde empieza para ellos una auténtica lucha por la supervivencia.
+[COLOR teal]· País:[/COLOR] BEL, R.U., EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Kasper Barfoed.
+[COLOR teal]· Reparto:[/COLOR] John Cusack, Malin Akerman, Liam Cunningham, Richard Brake, Bryan Dick, Hannah Murray.
+[COLOR teal]· Guion:[/COLOR] F. Scott Frazier.
+[COLOR teal]· Música:[/COLOR] Paul Leonard-Morgan.
+[COLOR teal]· Producción:[/COLOR] Bryan Furst, Nigel Thomas, Sean Furst.</desc>
+    <category lang="es">Cine, Acción, Suspense, Policíaco</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3683871.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250503213200 +0200" stop="20250503233200 +0200" channel="BOM Cine">
+    <title lang="es">Combate en el desierto</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense/Aventuras[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Yehia, un exmilitar conocido como Faraón, reúne seis de sus amigos, cada uno con una habilitad de combate única, para viajar a Siria con el pretexto de ser cazarrecompensas.
+[COLOR teal]· País:[/COLOR] EGY, SAustralia 
+[COLOR teal]· Dirección:[/COLOR] Raouf Abd El Aziz.
+[COLOR teal]· Reparto:[/COLOR] Mahmoud Abdulmoghni, Suzan Najm Aldeen, Ramez Amir, Hafþór Júl Björnsson, Ahmed Fahmy, Mike Tyson, Amr Saad, Muhammad Lutfi, Bayoumi Fouad, Hafþór Júlíus Björnsson.
+[COLOR teal]· Guion:[/COLOR] Kareem Hassan Beshir, Karim Hassan Beshir.
+[COLOR teal]· Música:[/COLOR] Khaled Dagher.
+[COLOR teal]· Producción:[/COLOR] Mohamed El Sobky.</desc>
+    <category lang="es">Cine, Acción, Suspense, Aventuras</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3688931.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.0/10</value>
+    </star-rating>
   </programme>
 </tv>
