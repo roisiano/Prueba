@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/05/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 01/05/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,7 +11,7 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250501012500 +0200" stop="20250501030000 +0200" channel="BOM Cine">
+  <programme start="20250501012800 +0200" stop="20250501030300 +0200" channel="BOM Cine">
     <title lang="es">Las salvajes en Puente San Gil</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1966[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Una compañía de revista quiere actuar a Puente San Gil, pero su mala fama hace que la gente del pueblo quiera suspender el espectáculo.
@@ -26,7 +26,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250501030000 +0200" stop="20250501042400 +0200" channel="BOM Cine">
+  <programme start="20250501030300 +0200" stop="20250501042400 +0200" channel="BOM Cine">
     <title lang="es">Torremolinos 73</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
     <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
@@ -305,7 +305,18 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250502041900 +0200" stop="20250502052900 +0200" channel="BOM Cine">
+  <programme start="20250502041900 +0200" stop="20250502042300 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+</desc>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686898.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250502042300 +0200" stop="20250502052900 +0200" channel="BOM Cine">
     <title lang="es">Sherlock holmes: vestida para un asesinato</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]1946[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
     <desc lang="es">· Sherlock Holmes se propone descubrir por qué un trío de villanos asesinos, incluida una mujer peligrosamente atractiva, están desesperados por obtener tres cajitas de música sencillas y económicas.
@@ -479,7 +490,7 @@
 [COLOR teal]· Música:[/COLOR] Jared Forman.
 [COLOR teal]· Producción:[/COLOR] Jenny Curtis, Kevin Makely.</desc>
     <category lang="es">Cine, Acción, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3739220.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3911652.jpg" />
     <rating system="ES">
       <value>18</value>
     </rating>
