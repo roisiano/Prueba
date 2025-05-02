@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 02/05/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 02/05/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -175,7 +175,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250502133900 +0200" stop="20250502150600 +0200" channel="BOM Cine">
+  <programme start="20250502133900 +0200" stop="20250502152200 +0200" channel="BOM Cine">
     <title lang="es">El bombardeo</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.1/10[/COLOR]</sub-title>
     <desc lang="es">· Rotterdam, mayo de 1940. El joven panadero (y aspirante a boxeador) Vicente de Graaf conoce por casualidad a la rica Eva von Heerle. Ella es hija de notables refugiados de Alemania.
@@ -193,7 +193,7 @@
       <value>4.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250502150600 +0200" stop="20250502163600 +0200" channel="BOM Cine">
+  <programme start="20250502152200 +0200" stop="20250502164800 +0200" channel="BOM Cine">
     <title lang="es">Battle of the Bulge: Winter War</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Durante la Segunda Guerra Mundial, los alemanes deciden lanzar una última gran ofensiva. El teniente Robert Cappa y su pelotón reciben el encargo de defender un depósito de suministros clave.
@@ -220,7 +220,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250502183200 +0200" stop="20250502200000 +0200" channel="BOM Cine">
+  <programme start="20250502183200 +0200" stop="20250502200100 +0200" channel="BOM Cine">
     <title lang="es">Un dólar entre los dientes</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Western[/COLOR] | [COLOR cadetblue]1967[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Un enigmático pistolero le propone al jefe de un grupo de forajidos mejicanos robar un cargamento de oro custodiado por el ejército estadounidense a cambio de quedarse con la mitad del botín.
@@ -237,7 +237,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250502200000 +0200" stop="20250502215100 +0200" channel="BOM Cine">
+  <programme start="20250502200100 +0200" stop="20250502214800 +0200" channel="BOM Cine">
     <title lang="es">Cualquier bala servirá</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Suspense[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
     <desc lang="es">· Montana, 1876. Un cazador de cabezas despiadado rastrea a su propio hermano a través del país de Big Sky con la ayuda de una joven cazadora de pieles.
@@ -256,7 +256,7 @@
       <value>4.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250502215100 +0200" stop="20250502232800 +0200" channel="BOM Cine">
+  <programme start="20250502214800 +0200" stop="20250502231900 +0200" channel="BOM Cine">
     <title lang="es">A ambos lados de la ley</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.2/10[/COLOR]</sub-title>
     <desc lang="es">· Tras liderar una redada contra el cártel de San Vicente, William Doyle debe trabajar para ellos para salvar su vida, quedando atrapado entre mafias.
@@ -272,6 +272,20 @@
     <star-rating system="ES">
       <value>4.2/10</value>
     </star-rating>
+  </programme>
+  <programme start="20250502231900 +0200" stop="20250503005900 +0200" channel="BOM Cine">
+    <title lang="es">El cónsul honorario</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Negro[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc lang="es">· El Dr. Eduardo Platt es un angloamericano trabajando en un país latinoamericano. Cuando regresa a su país, después de mucho tiempo, restablece amistades y comienza un affair.
+[COLOR teal]· País:[/COLOR] R.U., MEX 
+[COLOR teal]· Dirección:[/COLOR] John Mackenzie.
+[COLOR teal]· Reparto:[/COLOR] Michael Caine, Richard Gere, Bob Hoskins, Elpidia Carrillo, Joaquim de Almeida.
+[COLOR teal]· Guion:[/COLOR] Graham Greene, Christopher Hampton.</desc>
+    <category lang="es">Cine, Drama, Negro</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3902693.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20250503005900 +0200" stop="20250503022900 +0200" channel="BOM Cine">
     <title lang="es">McCanick</title>
@@ -290,7 +304,7 @@
       <value>4.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250503023800 +0200" stop="20250503041400 +0200" channel="BOM Cine">
+  <programme start="20250503022900 +0200" stop="20250503041400 +0200" channel="BOM Cine">
     <title lang="es">DALÍ</title>
     <sub-title lang="es">[COLOR teal]Cine/Biográfico/Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
@@ -672,7 +686,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250504131900 +0200" stop="20250504143200 +0200" channel="BOM Cine">
+  <programme start="20250504131900 +0200" stop="20250504144900 +0200" channel="BOM Cine">
     <title lang="es">Las crónicas de la Grulla Blanca 2</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Suspense[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Infiltrándose en el decadente inframundo de Shanghái, White Crane conoce a Jane Marshall, una cantante de salón que busca a su hermano perdido.
@@ -685,7 +699,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250504143200 +0200" stop="20250504162000 +0200" channel="BOM Cine">
+  <programme start="20250504144900 +0200" stop="20250504163200 +0200" channel="BOM Cine">
     <title lang="es">Al caer la noche</title>
     <sub-title lang="es">[COLOR teal]Cine/Policíaco/Drama[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.2/10[/COLOR]</sub-title>
     <desc lang="es">· Darl Hardwick es el sheriff de una pequeña población de Estados Unidos. Un día, encuentra el cuerpo muerto de un transexual en una cuneta y empieza a investigarlo. Pronto descubrirá complicaciones políticas relacionadas con el caso.
@@ -704,7 +718,7 @@
       <value>7.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250504162000 +0200" stop="20250504181300 +0200" channel="BOM Cine">
+  <programme start="20250504163200 +0200" stop="20250504182000 +0200" channel="BOM Cine">
     <title lang="es">Efectivo</title>
     <sub-title lang="es">[COLOR teal]Cine/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Un hombre se encuentra con dos "buenos" para recuperar lo que es ilegalmente suyo, llevándolos en su torbellino, haciendo cosas que nunca hubieran imaginado, solo para sobrevivir.
@@ -720,7 +734,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250504181300 +0200" stop="20250504200000 +0200" channel="BOM Cine">
+  <programme start="20250504182000 +0200" stop="20250504200000 +0200" channel="BOM Cine">
     <title lang="es">Union Bound</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Aventuras[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· El sargento Joseph Hoover fue a la guerra para preservar los valores de la Unión. Tras ser capturado y enviado a un campo de prisioneros, consiguió escapar con la ayuda de los esclavos.
@@ -736,7 +750,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250504200000 +0200" stop="20250504213200 +0200" channel="BOM Cine">
+  <programme start="20250504200000 +0200" stop="20250504212600 +0200" channel="BOM Cine">
     <title lang="es">Más allá de la ley</title>
     <sub-title lang="es">[COLOR teal]Cine/Policíaco/Acción/Suspense[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.6/10[/COLOR]</sub-title>
     <desc lang="es">· Un hombre de negocios y un investigador policial se enfrentan a un policía corrupto en la búsqueda del asesino de su hijo.
@@ -755,7 +769,7 @@
       <value>3.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250504213200 +0200" stop="20250504231300 +0200" channel="BOM Cine">
+  <programme start="20250504212600 +0200" stop="20250504230300 +0200" channel="BOM Cine">
     <title lang="es">Comando suicida: special forces</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· En una base nuclear secreta, situada en Rusia, se está fabricando una potente arma nuclear para usarla contra el Pentágono. Estados Unidos envía a un equipo de expertos marines para impedir que los terroristas lleven a cabo su plan.
@@ -772,6 +786,23 @@
     </rating>
     <star-rating system="ES">
       <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250504230300 +0200" stop="20250505004400 +0200" channel="BOM Cine">
+    <title lang="es">Redada mortal</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Nikita es contratado para neutralizar la gran fuerza de seguridad privada en una fábrica local para que su sospechoso empleador pueda extorsionar al dueño, un poderoso señor de la guerra.
+[COLOR teal]· País:[/COLOR] REE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Denis Kryuchkov.
+[COLOR teal]· Reparto:[/COLOR] Ilya Antonenko, Vladimir Chuprikov, Nikita Kologrivyy, Ivan Kotik, Vladimir Mineev, Sofya Ozerova, Sergey Grab.
+[COLOR teal]· Guion:[/COLOR] Denis Kryuchkov, Olga Loyanich, Robert Orr.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3906873.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.4/10</value>
     </star-rating>
   </programme>
   <programme start="20250505004400 +0200" stop="20250505021100 +0200" channel="BOM Cine">
@@ -1166,7 +1197,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250506135700 +0200" stop="20250506145000 +0200" channel="BOM Cine">
+  <programme start="20250506135700 +0200" stop="20250506155000 +0200" channel="BOM Cine">
     <title lang="es">Adiós, Sabata</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Western/Aventuras/Español[/COLOR] | [COLOR cadetblue]1970[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· En el México del emperador Maximiliano, Sabata, un letal pistolero a sueldo, ayuda a un grupo de revolucionarios mexicanos a asaltar un carro blindado que transporta un gran cargamento de oro.
@@ -1185,14 +1216,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250506145000 +0200" stop="20250506161100 +0200" channel="BOM Cine">
-    <title lang="es">El Zorro y los 3 mosqueteros</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras[/COLOR]</sub-title>
-    <desc lang="es">· En la primera mitad del siglo XVII, España está en guerra con Francia. Isabel, prima del rey de España, es retenida por los franceses en un castillo y el conde de Sevilla, que aspira a su mano, se ofrece para liberarla.
-</desc>
-    <category lang="es">Cine, Aventuras</category>
-  </programme>
-  <programme start="20250506161100 +0200" stop="20250506181300 +0200" channel="BOM Cine">
+  <programme start="20250506155000 +0200" stop="20250506175100 +0200" channel="BOM Cine">
     <title lang="es">Fuego escondido</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama/Romance[/COLOR] | [COLOR cadetblue]1957[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
     <desc lang="es">· Tony y Felix Bowers son dos marineros, tienen una pequeña y destartalada embarcación con la que navegan por el Caribe. En el camino conocen a Irena.
@@ -1210,25 +1234,56 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250506181300 +0200" stop="20250506200100 +0200" channel="BOM Cine">
-    <title lang="es">El halcón de invierno</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR]</sub-title>
-    <desc lang="es">· El jefe de los "pies negros" hace todo para comprar la cura de la viruela para su tribu, pero los colonos lo obligan a tomar medidas extremas.
-</desc>
-    <category lang="es">Cine, Western</category>
+  <programme start="20250506175100 +0200" stop="20250506200000 +0200" channel="BOM Cine">
+    <title lang="es">El forastero</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Drama/Romance/Español[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.1/10[/COLOR]</sub-title>
+    <desc lang="es">· Finales del siglo XIX. El ganadero Fergus Hunter hace y deshace a su antojo. Decidido a comprar unas tierras pasará de la extorsión al asesinato.
+[COLOR teal]· País:[/COLOR] España, PER, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Randa Haines, Federico García Hurtado.
+[COLOR teal]· Reparto:[/COLOR] Nacho Duato, Tim Daly, Carlos Sobera, Neus Asensi, David Carradine, Gabriela Velásquez, Tania Helfgott, Naomi Watts, Timothy Daly, Keith Carradine, Thomas Curtis, Brett Tucker, John Noble, Grant Piro.
+[COLOR teal]· Guion:[/COLOR] Penelope Williamson, Federico García Hurtado, Jenny Wingfield, Nieves Olmedo García, María Victoria de Villanueva Suárez.
+[COLOR teal]· Música:[/COLOR] Todd Boekelheide, Manuel Villalta.
+[COLOR teal]· Producción:[/COLOR] Darryl Sheen.</desc>
+    <category lang="es">Cine, Western, Drama, Romance, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3713490.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250506200100 +0200" stop="20250506213100 +0200" channel="BOM Cine">
-    <title lang="es">Time Trap</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Suspense/Ciencia Ficción[/COLOR]</sub-title>
-    <desc lang="es">· Un grupo de estudiantes queda atrapado dentro de una misteriosa cueva donde descubren que el tiempo pasa de manera diferente bajo tierra que en la superficie.
-</desc>
-    <category lang="es">Cine, Aventuras, Suspense, Ciencia Ficción</category>
+  <programme start="20250506200000 +0200" stop="20250506214800 +0200" channel="BOM Cine">
+    <title lang="es">Historias de la puta mili</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1993[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc lang="es">· Arensivia está a cargo de un grupo de soldados en el servicio militar, pero un pequeño error en una misión traerá grandes consecuencias.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Manuel Esteban, Manel Esteban.
+[COLOR teal]· Reparto:[/COLOR] Juan Echanove, Jordi Mollà, Achero Mañas, José Sazatornil, Marc Martínez, Agustín González, David Gil, José María Cañete.
+[COLOR teal]· Guion:[/COLOR] El Gran Wyoming Gran Wyoming, Manuel Esteban, Joan Potau, Enrique Uviedo, Ramón Tosas 'Ivá'.
+[COLOR teal]· Música:[/COLOR] Josep Mas.
+[COLOR teal]· Producción:[/COLOR] Enrique Uviedo.</desc>
+    <category lang="es">Cine, Drama, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3746775.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20250506213100 +0200" stop="20250506232800 +0200" channel="BOM Cine">
-    <title lang="es">Contra la pared</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR]</sub-title>
-    <desc lang="es">· Samuel L. Jackson y Kyle MacLachlan protagonizan este docudrama de HBO inspirado en una de las revueltas carcelarias más violentas en la historia de los EUA, el motín de 1971 en la prisión de Attica, el cual que cobró la vida de 39 hombres.
-</desc>
+  <programme start="20250506214800 +0200" stop="20250506231600 +0200" channel="BOM Cine">
+    <title lang="es">Boone: El cazarrecompensas</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Para conseguir más fama, el caza-recompensas televisivo Boone intenta capturar a un cabecilla de la droga y destruir su imperio, pero los problemas comienzan cuando se da cuenta de que ha descubierto más de lo que buscaba.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Robert Kirbyson.
+[COLOR teal]· Reparto:[/COLOR] John Hennigan, Osric Chau, Jonathan Lipnicki, Richard Tyson, Jane Park Smith, Spencer Grammer, Kevin Sorbo, Nancy Berggren.
+[COLOR teal]· Guion:[/COLOR] John Hennigan, Josh Burnell, Franco Movsesian.</desc>
     <category lang="es">Cine, Acción, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3514012.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.0/10</value>
+    </star-rating>
   </programme>
 </tv>
