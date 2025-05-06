@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 06/05/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 06/05/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -1033,7 +1033,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250510024000 +0200" stop="20250510040500 +0200" channel="BOM Cine">
+  <programme start="20250510024000 +0200" stop="20250510040400 +0200" channel="BOM Cine">
     <title lang="es">Torremolinos 73</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
     <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
@@ -1052,12 +1052,34 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250510040500 +0200" stop="20250510052800 +0200" channel="BOM Cine">
-    <title lang="es">Parón de emisiones</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">
+  <programme start="20250510040400 +0200" stop="20250510051400 +0200" channel="BOM Cine">
+    <title lang="es">Espíritu del bosque</title>
+    <sub-title lang="es">[COLOR teal]Cine/Animación/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.3/10[/COLOR]</sub-title>
+    <desc lang="es">· Un poderoso hombre de negocios pretende construir una carretera y la Sra. D'Abondo ve su oportunidad para acabar con el bosque.
+[COLOR teal]· País:[/COLOR] España, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] David Rubín, Julio Diez, Juan C. Peña, Juan C.Pena.
+[COLOR teal]· Reparto:[/COLOR] Damián Mollá Hermán, Juan Ibáñez Pérez, Luis Merlo, María Adánez, Actor Desconocido, Juan Ibáñez, Lucía Cid Cabido, Ignacio Castaño Gómez, Andrés Bellas Carballo, Carlos Jiménez Díaz, Ana Lemoms Correa, Manuel Pombal Pérez, Miguel López Varela, Fermín Encinar Arias, Alfonso Agra Tato, Carmen Rodríguez Dorado, Antón Cancelas Padín, Consuelo Díaz Isorna, Jesús Ángel Rosado Soto, Ramiro Taboada Turnes, Xosé M. Vázquez Martínez, Lucía Cid.
+[COLOR teal]· Guion:[/COLOR] Beatriz Iso.
+[COLOR teal]· Producción:[/COLOR] Manolo Gómez.</desc>
+    <category lang="es">Cine, Animación, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3662695.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250510051400 +0200" stop="20250510052800 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 </desc>
-    <category lang="es">Programa, Otros</category>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3686898.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20250510052800 +0200" stop="20250510064700 +0200" channel="BOM Cine">
     <title lang="es">Vamos a la luna</title>
