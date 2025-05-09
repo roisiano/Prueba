@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/05/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 09/05/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,7 +11,7 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250509005800 +0200" stop="20250509023800 +0200" channel="BOM Cine">
+  <programme start="20250509005100 +0200" stop="20250509023100 +0200" channel="BOM Cine">
     <title lang="es">Una mafia de locos</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Comedia[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
     <desc lang="es">· Georgie Hung es encantador, guaperas y muy estilizado, pero tiene un secreto que su padre Hung, capo de una de las familias mafiosas más importantes de Hong Kong no podrá olvidar.
@@ -28,7 +28,7 @@
       <value>5.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509023800 +0200" stop="20250509041100 +0200" channel="BOM Cine">
+  <programme start="20250509023100 +0200" stop="20250509040500 +0200" channel="BOM Cine">
     <title lang="es">Ave María</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
     <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
@@ -46,7 +46,7 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509041100 +0200" stop="20250509042300 +0200" channel="BOM Cine">
+  <programme start="20250509040500 +0200" stop="20250509043900 +0200" channel="BOM Cine">
     <title lang="es">Teletienda</title>
     <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
@@ -57,7 +57,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250509042300 +0200" stop="20250509060500 +0200" channel="BOM Cine">
+  <programme start="20250509043900 +0200" stop="20250509062100 +0200" channel="BOM Cine">
     <title lang="es">Lejos de ella</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Romance[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.5/10[/COLOR]</sub-title>
     <desc lang="es">· "Lejos de ella" narra la historia de Fiona y Grant, un matrimonio estable cuya vida cambia cuando ella comienza a perder la memoria. Fiona decide ingresar en una residencia, lo que transforma por completo la vida de Grant.
@@ -76,7 +76,7 @@
       <value>7.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509060500 +0200" stop="20250509074100 +0200" channel="BOM Cine">
+  <programme start="20250509062100 +0200" stop="20250509075700 +0200" channel="BOM Cine">
     <title lang="es">Duelo en las profundidades</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Suspense[/COLOR] | [COLOR cadetblue]1982[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.7/10[/COLOR]</sub-title>
     <desc lang="es">· Es el oro de Silas McGee. Aún no lo ha encontrado, aunque lleva más de 30 años buscando su veta madre en las remotas tierras altas de la Columbia Británica.
@@ -95,7 +95,7 @@
       <value>5.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509074100 +0200" stop="20250509095200 +0200" channel="BOM Cine">
+  <programme start="20250509075700 +0200" stop="20250509100700 +0200" channel="BOM Cine">
     <title lang="es">I... como ícaro</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.8/10[/COLOR]</sub-title>
     <desc lang="es">· Un ilustre jefe de Estado es asesinado durante una ceremonia. Al final de una larga investigación, la comisión Heiniger emite su informe: el asesino, un desequilibrado, actuó solo. El fiscal Volney, miembro de la comisión, duda de estas conclusiones.
@@ -113,7 +113,7 @@
       <value>7.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509095200 +0200" stop="20250509113900 +0200" channel="BOM Cine">
+  <programme start="20250509100700 +0200" stop="20250509115300 +0200" channel="BOM Cine">
     <title lang="es">La sombra del delator</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense[/COLOR] | [COLOR cadetblue]1986[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc lang="es">· Un veterano de guerra intenta investigar el asesinato de su hijo, que trabajaba como traductor ruso para el servicio de inteligencia británico.
@@ -132,7 +132,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509113900 +0200" stop="20250509133200 +0200" channel="BOM Cine">
+  <programme start="20250509115300 +0200" stop="20250509134500 +0200" channel="BOM Cine">
     <title lang="es">X-15</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]1961[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
     <desc lang="es">· El teniente coronel Lee Brandon y sus hombres son los encargados de probar un nuevo avión experimental destinado a surcar los límites del espacio.
@@ -149,7 +149,7 @@
       <value>5.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509133200 +0200" stop="20250509153000 +0200" channel="BOM Cine">
+  <programme start="20250509134500 +0200" stop="20250509154100 +0200" channel="BOM Cine">
     <title lang="es">La selva esmeralda</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Acción/Aventuras/Español[/COLOR] | [COLOR cadetblue]1985[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.9/10[/COLOR]</sub-title>
     <desc lang="es">· El hijo de un ingeniero americano que está construyendo una presa en la selva amazónica, desaparece en la jungla sin dejar rastro. Su padre, convencido de que ha sido raptado por una tribu indígena, lo busca durante años.
@@ -168,7 +168,7 @@
       <value>6.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509153000 +0200" stop="20250509171500 +0200" channel="BOM Cine">
+  <programme start="20250509154100 +0200" stop="20250509172200 +0200" channel="BOM Cine">
     <title lang="es">Lassiter</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1984[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
     <desc lang="es">· Un ladrón de joyas debe robar millones en gemas de la embajada alemana para evitar ir a prisión.
@@ -185,7 +185,7 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509171500 +0200" stop="20250509183600 +0200" channel="BOM Cine">
+  <programme start="20250509172200 +0200" stop="20250509184200 +0200" channel="BOM Cine">
     <title lang="es">Madron</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1970[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.2/10[/COLOR]</sub-title>
     <desc lang="es">· Una monja es la única superviviente de una matanza a manos de los indios. Después de escapar se encuentra con Madron, un viejo pistolero que le ayudará.
@@ -202,7 +202,7 @@
       <value>5.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509183600 +0200" stop="20250509200000 +0200" channel="BOM Cine">
+  <programme start="20250509184200 +0200" stop="20250509200300 +0200" channel="BOM Cine">
     <title lang="es">El jinete solitario</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.2/10[/COLOR]</sub-title>
     <desc lang="es">· Bobby Hattaway, un heroico soldado, vuelve a casa una vez terminada la Guerra Civil (1861-1865). Cuando llega, descubre que su padre está endeudado hasta las cejas con el despiadado Stu Crocker.
@@ -219,7 +219,7 @@
       <value>5.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250509200000 +0200" stop="20250509213400 +0200" channel="BOM Cine">
+  <programme start="20250509200300 +0200" stop="20250509213500 +0200" channel="BOM Cine">
     <title lang="es">Manifiesto negro</title>
     <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">
@@ -230,7 +230,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250509213400 +0200" stop="20250509230700 +0200" channel="BOM Cine">
+  <programme start="20250509213500 +0200" stop="20250509230600 +0200" channel="BOM Cine">
     <title lang="es">Icon - Manifiesto negro [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Parte 2[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Ell ex-agente de la CIA Jason Monk recibe el encargo de investigar a Igor Komarov.
@@ -243,7 +243,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250509230700 +0200" stop="20250510010500 +0200" channel="BOM Cine">
+  <programme start="20250509230600 +0200" stop="20250510010300 +0200" channel="BOM Cine">
     <title lang="es">Carga maldita</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama/Suspense[/COLOR] | [COLOR cadetblue]1977[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Un grupo de excluidos, de diferentes orígenes y nacionalidades, se ven obligados a viajar a Sudamérica para trabajar en una perforación petrolífera.
@@ -257,7 +257,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250510010500 +0200" stop="20250510024000 +0200" channel="BOM Cine">
+  <programme start="20250510010300 +0200" stop="20250510023600 +0200" channel="BOM Cine">
     <title lang="es">5 es el número perfecto</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Negro[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Nápoles, década de 1970. Peppino, un asesino a sueldo retirado, descubre que su hijo ha sido asesinado. Comenzará la represalia.
@@ -274,7 +274,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250510024000 +0200" stop="20250510040400 +0200" channel="BOM Cine">
+  <programme start="20250510023600 +0200" stop="20250510040400 +0200" channel="BOM Cine">
     <title lang="es">Torremolinos 73</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
     <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
@@ -671,7 +671,7 @@
     </star-rating>
   </programme>
   <programme start="20250511143100 +0200" stop="20250511161600 +0200" channel="BOM Cine">
-    <title lang="es">Diamond 13</title>
+    <title lang="es">Diamante 13</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.1/10[/COLOR]</sub-title>
     <desc lang="es">· Matt es un tipo duro y solitario que trabaja en la división número 13 de la policía criminal. Su vida pasa tristemente hasta que recibe una llamada quproponerle algo muy interesante.
 [COLOR teal]· País:[/COLOR] BEL, Francia, LUX 
