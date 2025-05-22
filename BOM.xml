@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 22/05/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 22/05/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,7 +11,7 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250522004900 +0200" stop="20250522022300 +0200" channel="BOM Cine">
+  <programme start="20250522004500 +0200" stop="20250522021600 +0200" channel="BOM Cine">
     <title lang="es">La gran hambruna</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Acción/Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
     <desc lang="es">· Un Ranger irlandés abandona al ejército británico para reunirse con su familia.
@@ -30,7 +30,7 @@
       <value>6.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250522022300 +0200" stop="20250522035100 +0200" channel="BOM Cine">
+  <programme start="20250522021600 +0200" stop="20250522034400 +0200" channel="BOM Cine">
     <title lang="es">Un bombo en el camino</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
     <desc lang="es">· Una madre soltera de 44 años se queda embarazada de una aventura de una noche, para vergüenza de su hija adolescente.
@@ -47,7 +47,7 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250522035100 +0200" stop="20250522052400 +0200" channel="BOM Cine">
+  <programme start="20250522034400 +0200" stop="20250522051800 +0200" channel="BOM Cine">
     <title lang="es">Ave María</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
     <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
@@ -65,7 +65,18 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250522052700 +0200" stop="20250522081400 +0200" channel="BOM Cine">
+  <programme start="20250522051800 +0200" stop="20250522052800 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+</desc>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3994160.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250522052800 +0200" stop="20250522081500 +0200" channel="BOM Cine">
     <title lang="es">Mahoma, el mensajero de Dios</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Biográfico[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★8.1/10[/COLOR]</sub-title>
     <desc lang="es">· Siglo VII. Férreamente determinado a acabar con las injusticias de los líderes de la Meca, Mohammad, que afirma haber tenido una visión del ángel Gabriel, les persuade para que abandonen la adoración de los 300 ídolos de Kaaba en favor de uno sólo.
@@ -84,7 +95,7 @@
       <value>8.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250522081400 +0200" stop="20250522095400 +0200" channel="BOM Cine">
+  <programme start="20250522081500 +0200" stop="20250522095500 +0200" channel="BOM Cine">
     <title lang="es">Only the Brave</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Acción[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.2/10[/COLOR]</sub-title>
     <desc lang="es">· Sigue el inquietante viaje a los corazones y las mentes de los héroes olvidados de la Segunda Guerra Mundial, los japoneses-estadounidenses.
@@ -101,7 +112,7 @@
       <value>5.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250522095400 +0200" stop="20250522114100 +0200" channel="BOM Cine">
+  <programme start="20250522095500 +0200" stop="20250522114200 +0200" channel="BOM Cine">
     <title lang="es">El bombardeo</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.1/10[/COLOR]</sub-title>
     <desc lang="es">· Rotterdam, mayo de 1940. El joven panadero (y aspirante a boxeador) Vicente de Graaf conoce por casualidad a la rica Eva von Heerle. Ella es hija de notables refugiados de Alemania.
@@ -119,7 +130,7 @@
       <value>4.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250522114100 +0200" stop="20250522130000 +0200" channel="BOM Cine">
+  <programme start="20250522114200 +0200" stop="20250522130200 +0200" channel="BOM Cine">
     <title lang="es">Los hombres del bosque de Sherwood</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras[/COLOR] | [COLOR cadetblue]1954[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
     <desc lang="es">· Inglaterra. 1194. El rey Ricardo está prisionero en Alemania. Un hombre es asesinado en el bosque de Sherwood y se culpa a Robin Hood.
@@ -138,7 +149,7 @@
       <value>5.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250522130000 +0200" stop="20250522145000 +0200" channel="BOM Cine">
+  <programme start="20250522130200 +0200" stop="20250522145300 +0200" channel="BOM Cine">
     <title lang="es">Halcones de mar</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1992[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Hammer y Dean son S.E.A.L.S. por pasión. Esto les une durante su entrenamiento. Pero entonces ocurre: ambos se enamoran de la misma mujer.
@@ -154,7 +165,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250522145000 +0200" stop="20250522164000 +0200" channel="BOM Cine">
+  <programme start="20250522145300 +0200" stop="20250522164200 +0200" channel="BOM Cine">
     <title lang="es">Patrulla de rescate</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1964[/COLOR] | [COLOR yellow]⑬[/COLOR]</sub-title>
     <desc lang="es">· La acción se desarrolla en torno a una operación de rescate para salvar a los supervivientes de un tifón que afecta a la costa japonesa.
@@ -169,7 +180,7 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20250522164000 +0200" stop="20250522181700 +0200" channel="BOM Cine">
+  <programme start="20250522164200 +0200" stop="20250522181900 +0200" channel="BOM Cine">
     <title lang="es">Submarino x-1</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
     <desc lang="es">· El Comandante Bolton (James Caan) pierde su submarino, el Gauntlet, y parte de su tripulación en una batalla naval contra los Nazis en el año 1943.
@@ -184,7 +195,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250522181700 +0200" stop="20250522200100 +0200" channel="BOM Cine">
+  <programme start="20250522181900 +0200" stop="20250522200000 +0200" channel="BOM Cine">
     <title lang="es">El jugador</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR yellow]⑬[/COLOR]</sub-title>
     <desc lang="es">· Brady Hawkes, un jugador experto, viaja al Viejo Oeste para ayudar a su hijo. En el camino, encuentra a Billy Montana y enfrenta grandes desafíos.
@@ -198,7 +209,7 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20250522200100 +0200" stop="20250522213500 +0200" channel="BOM Cine">
+  <programme start="20250522200000 +0200" stop="20250522213200 +0200" channel="BOM Cine">
     <title lang="es">Revenge (Venganza)</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1990[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc lang="es">· Un piloto de combate de los Estados Unidos se licencia con honores después de doce años de servicio y decide pasar unas vacaciones en Puerto Vallarta.
@@ -215,7 +226,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250522213500 +0200" stop="20250522230400 +0200" channel="BOM Cine">
+  <programme start="20250522213200 +0200" stop="20250522230000 +0200" channel="BOM Cine">
     <title lang="es">Lobo de guerra</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· El Equipo de Neutralización Táctica, o T.N.T., es un escuadrón de soldados de élite enviados a misiones altamente secretas y casi suicidas en todo el mundo.
@@ -231,7 +242,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250522230400 +0200" stop="20250523004200 +0200" channel="BOM Cine">
+  <programme start="20250522230000 +0200" stop="20250523003700 +0200" channel="BOM Cine">
     <title lang="es">Redada mortal</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
     <desc lang="es">· Nikita es contratado para neutralizar la gran fuerza de seguridad privada en una fábrica local para que su sospechoso empleador pueda extorsionar al dueño, un poderoso señor de la guerra.
@@ -248,7 +259,7 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523004200 +0200" stop="20250523020800 +0200" channel="BOM Cine">
+  <programme start="20250523003700 +0200" stop="20250523020200 +0200" channel="BOM Cine">
     <title lang="es">El secreto</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Romance[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc lang="es">· La vida de un hombre cambia repentinamente cuando el autobús que llevaba a su hija y su esposa cae por un barranco. La esposa muere en el hospital, pero su hija continúa con vida.
@@ -267,7 +278,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523020800 +0200" stop="20250523033900 +0200" channel="BOM Cine">
+  <programme start="20250523020200 +0200" stop="20250523033300 +0200" channel="BOM Cine">
     <title lang="es">Blood quantum</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Terror/Suspense[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
     <desc lang="es">· Los muertos se alzan como zombis en las afueras de la aislada reserva del noreste de Canadá.
@@ -284,7 +295,7 @@
       <value>5.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523033900 +0200" stop="20250523043700 +0200" channel="BOM Cine">
+  <programme start="20250523033300 +0200" stop="20250523043700 +0200" channel="BOM Cine">
     <title lang="es">Gaudí</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
