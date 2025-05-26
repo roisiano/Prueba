@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/05/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 26/05/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,262 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250525005100 +0200" stop="20250525022700 +0200" channel="BOM Cine">
-    <title lang="es">Good Kill</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Acción/Suspense[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Un padre de familia comienza a cuestionar la moralidad de su trabajo en el ejército, donde trabaja como piloto de drones, desde los que dispara misiles a objetivos terroristas pero que matan a multitud de personas.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Andrew Niccol.
-[COLOR teal]· Reparto:[/COLOR] Ethan Hawke, Bruce Greenwood, January Jones, Peter Coyote, Douglas Stafford, Sisneros Alma, Kristen Rakes, Jake Abel, Zoë Kravitz, Fatima El Bahraouy, El Khttabi Abdelouahab, Ryan Montano, Stafford Douglas.
-[COLOR teal]· Guion:[/COLOR] Andrew Niccol.
-[COLOR teal]· Música:[/COLOR] Christophe Beck.
-[COLOR teal]· Producción:[/COLOR] Mark Amin, Nicolas Chartier, Zev Foreman, Andrew Niccol.</desc>
-    <category lang="es">Cine, Drama, Acción, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027557.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250525022700 +0200" stop="20250525040100 +0200" channel="BOM Cine">
-    <title lang="es">Ave María</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
-    <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
-[COLOR teal]· País:[/COLOR] MEX 
-[COLOR teal]· Dirección:[/COLOR] Eduardo Rossoff.
-[COLOR teal]· Reparto:[/COLOR] Juan Diego Botto, Ana Torrent, Ana Ofelia Murguía, Teresa López Tarín, Demián Bichir, Damián Alcázar, Fernando Torre Laphame, Gabriela Canudas, Carlos Arau Arau, Tere Tarin.
-[COLOR teal]· Guion:[/COLOR] Camille Thomasson.
-[COLOR teal]· Música:[/COLOR] Carles Cases.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008944.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525040100 +0200" stop="20250525052800 +0200" channel="BOM Cine">
-    <title lang="es">Cosas insignificantes</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="es">· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
-[COLOR teal]· País:[/COLOR] España, MEX 
-[COLOR teal]· Dirección:[/COLOR] Andrea Martínez Crowther.
-[COLOR teal]· Reparto:[/COLOR] Jonathan Bravo, Regina De Los Cobos, Fátima Díaz, Carmelo Gómez, Fernando Luján, Lucía Jiménez, Bárbara Mori, Paulina Gaitán.
-[COLOR teal]· Guion:[/COLOR] Andrea Martínez Crowther.</desc>
-    <category lang="es">Cine, Drama, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027562.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525052800 +0200" stop="20250525054600 +0200" channel="BOM Cine">
-    <title lang="es">Teletienda</title>
-    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
-</desc>
-    <category lang="es">Programa, Consumo</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3994160.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250525054600 +0200" stop="20250525064100 +0200" channel="BOM Cine">
-    <title lang="es">Sunshine tour</title>
-    <sub-title lang="es">[COLOR teal]Deportes/Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">
-</desc>
-    <category lang="es">Deportes, Equitación</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4013004.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250525064100 +0200" stop="20250525080700 +0200" channel="BOM Cine">
-    <title lang="es">El Engaño</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Suspense[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· El detective Mike Santini está disfrutando de unas agradables vacaciones con su familia cuando topa con Eddie Meyers, uno de los hombres más buscados por la justicia.
-[COLOR teal]· País:[/COLOR] Canada, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Daniel Petrie Jr..
-[COLOR teal]· Reparto:[/COLOR] Alicia Coppola, Chad Bruce, Sam Neill, Rob Lowe, Dorian Harewood, Peter MacNeill, Sam Neil.
-[COLOR teal]· Guion:[/COLOR] Daniel Petrie Jr., Lynda La Plante.
-[COLOR teal]· Música:[/COLOR] Joe Kraemer.</desc>
-    <category lang="es">Cine, Acción, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002123.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250525080700 +0200" stop="20250525093900 +0200" channel="BOM Cine">
-    <title lang="es">La mujer mosquetero [COLOR tomato]T1 E1[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
-    <desc lang="es">· Jacques D'Artagnan envía a su hija a París para cumplir su sueño, cosa nada fácil por tratarse de una mujer.
-[COLOR teal]· País:[/COLOR] Alemania, HRV, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Steve Boyum.
-[COLOR teal]· Reparto:[/COLOR] Gérard Depardieu, Michael York, Nastassja Kinski, Susie Amy, John Rhys-Davies, Christopher Cazenove, Clemency Burton-Hill, Allan Corduner, Marcus Jean Pirae, Caspar Zafer, Freddie Sayers.
-[COLOR teal]· Guion:[/COLOR] Sandra Weintraub, Boris Gregoric, Juan A. Mas, Fred Weintraub.
-[COLOR teal]· Música:[/COLOR] Mader.</desc>
-    <category lang="es">Series, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4017654.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525093900 +0200" stop="20250525110800 +0200" channel="BOM Cine">
-    <title lang="es">La mujer mosquetero [COLOR tomato]T1 E2[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
-    <desc lang="es">· Para mostrar su talento, Valentine se une a los hijos de los antiguos compañeros de su padre.
-[COLOR teal]· País:[/COLOR] Alemania, HRV, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Steve Boyum.
-[COLOR teal]· Reparto:[/COLOR] Gérard Depardieu, Michael York, Nastassja Kinski, Susie Amy, John Rhys-Davies, Christopher Cazenove, Clemency Burton-Hill, Allan Corduner, Marcus Jean Pirae, Caspar Zafer, Freddie Sayers.
-[COLOR teal]· Guion:[/COLOR] Sandra Weintraub, Boris Gregoric, Juan A. Mas, Fred Weintraub.
-[COLOR teal]· Música:[/COLOR] Mader.</desc>
-    <category lang="es">Series, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4017654.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525110800 +0200" stop="20250525124500 +0200" channel="BOM Cine">
-    <title lang="es">El día de los trífidos [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]The Day of the Triffids - Episode 1[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Series/Acción/Terror/Ciencia Ficción[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Gran parte de la población ha quedado ciega y son liberados los trífidos, plantas carnívoras que pican y que se utilizan como fuente de combustible, dándoles movilidad.
-[COLOR teal]· País:[/COLOR] Canada, R.U. 
-[COLOR teal]· Dirección:[/COLOR] Nick Corpus.
-[COLOR teal]· Reparto:[/COLOR] Brian Cox, Vanessa Redgrave, Ewen Bremner, Shane Taylor, Troy Glasgow, Andreas Hoppe, Jason Priestley, Dougray Scott, Joely Richardson, Eddie Izzard, Suzy Izzard.</desc>
-    <category lang="es">Series, Acción, Terror, Ciencia Ficción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027566.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525124500 +0200" stop="20250525142300 +0200" channel="BOM Cine">
-    <title lang="es">El día de los trífidos [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]The Day of the Triffids - Episode 2[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Series/Acción/Terror/Ciencia Ficción[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Gran parte de la población ha quedado ciega y son liberados los trífidos, plantas carnívoras que pican y que se utilizan como fuente de combustible, dándoles movilidad.
-[COLOR teal]· País:[/COLOR] Canada, R.U. 
-[COLOR teal]· Dirección:[/COLOR] Nick Corpus.
-[COLOR teal]· Reparto:[/COLOR] Brian Cox, Vanessa Redgrave, Ewen Bremner, Shane Taylor, Troy Glasgow, Andreas Hoppe, Jason Priestley, Dougray Scott, Joely Richardson, Eddie Izzard, Suzy Izzard.</desc>
-    <category lang="es">Series, Acción, Terror, Ciencia Ficción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027566.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525142300 +0200" stop="20250525161300 +0200" channel="BOM Cine">
-    <title lang="es">Mis Dos Amores</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Romance[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
-    <desc lang="es">· Leonard, un soltero que ha regresado al piso de sus padres en Brooklyn, empieza a salir con Sandra, una joven encantadora. Pero aparece en su vida una nueva vecina, Michelle, de la que se enamora locamente.
-[COLOR teal]· País:[/COLOR] Francia, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] James Gray.
-[COLOR teal]· Reparto:[/COLOR] Joaquin Phoenix, Vinessa Shaw, Isabella Rossellini, Gwyneth Paltrow, Elias Koteas, Moni Moshonov Moshonov, Bob Ari, Craig Walker, Anne Joyce Joyce, Donald John Hewitt, Christian Albrizio, Iain J. Bopp, Samantha Ivers, Carmen M. Herlihy, Julie Rudd, Elliot Villar, Christian Albrizo.
-[COLOR teal]· Guion:[/COLOR] James Gray, Ric Menello.
-[COLOR teal]· Producción:[/COLOR] Donna Gigliotti, James Gray, Anthony Katagas.</desc>
-    <category lang="es">Cine, Drama, Romance</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050052.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525161300 +0200" stop="20250525180700 +0200" channel="BOM Cine">
-    <title lang="es">El demonio bajo la piel</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Drama/Suspense[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Un thriller ambientado en un pequeño pueblo del oeste de Texas a mediados de la década de 1950 y protagonizado por Casey Affleck como el ayudante del alguacil cuya mente criminal comienza a salir a la luz.
-[COLOR teal]· País:[/COLOR] Canada, SWE, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Michael Winterbottom.
-[COLOR teal]· Reparto:[/COLOR] Ned Beatty, Jay Ferguson, Simon Baker, Jessica Alba, Brent Briscoe, Kate Hudson, Elias Koteas, Bill Pullman, Casey Affleck, Tom Bower.
-[COLOR teal]· Guion:[/COLOR] John Curran.
-[COLOR teal]· Música:[/COLOR] Joel Cadbury, Melissa Parmenter.
-[COLOR teal]· Producción:[/COLOR] Andrew Eaton, Chris Hanley, Bradford L. Schlei.</desc>
-    <category lang="es">Cine, Policíaco, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027574.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525180700 +0200" stop="20250525200100 +0200" channel="BOM Cine">
-    <title lang="es">Tres sargentos</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1962[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Tres sargentos de caballería reciben la orden de averiguar los motivos del corte de la línea telegráfica a Medicine Bend.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] John Sturges.
-[COLOR teal]· Reparto:[/COLOR] Frank Sinatra, Dean Martin, Sammy Davis Jr., Peter Lawford, Joey Bishop, Henry Silva, Ruta Lee, Buddy Lester, Sammy Davis Jr.
-[COLOR teal]· Guion:[/COLOR] W.R. Burnett, Rudyard Kipling.
-[COLOR teal]· Música:[/COLOR] Billy May.
-[COLOR teal]· Producción:[/COLOR] Frank Sinatra.</desc>
-    <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027578.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250525200100 +0200" stop="20250525213500 +0200" channel="BOM Cine">
-    <title lang="es">I am Vengeance</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Aventuras/Suspense[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Cuando el ex-soldado convertido en mercenario, John Gold, se entera del asesinato de su mejor amigo, emprende una misión para averiguar lo sucedido.
-[COLOR teal]· País:[/COLOR] R.U. 
-[COLOR teal]· Dirección:[/COLOR] Ross Boyask.
-[COLOR teal]· Reparto:[/COLOR] Stu Bennett, Fleur Keith, Alan Calton, Gary Daniels, Keith Allen, Sebastian Knapp, Mark Griffin, Stu Benett, Wade Barrett.
-[COLOR teal]· Guion:[/COLOR] Ross Boyask.</desc>
-    <category lang="es">Cine, Acción, Aventuras, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027582.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250525213500 +0200" stop="20250525231300 +0200" channel="BOM Cine">
-    <title lang="es">Bala expansiva</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense/Acción/Drama[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· El sheriff de un pequeño pueblo en la frontera entre Estados Unidos y México, debe investigar un asunto relacionado con el tráfico de droga.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Gonzalo López-Gallego.
-[COLOR teal]· Reparto:[/COLOR] Lynn Collins, Ian McShane, John Leguizamo, Patrick Wilson, Jim Belushi, Heather Beers, James Belushi, Karli Hall.
-[COLOR teal]· Guion:[/COLOR] Nils Lyew.
-[COLOR teal]· Música:[/COLOR] Juan Navazo.
-[COLOR teal]· Producción:[/COLOR] William Green, Andy Horwitz, Aaron L. Ginsburg.</desc>
-    <category lang="es">Cine, Suspense, Acción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027586.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250525231300 +0200" stop="20250526005600 +0200" channel="BOM Cine">
-    <title lang="es">Robot de compañía</title>
-    <sub-title lang="es">[COLOR teal]Cine/Fantasía/Ciencia Ficción/Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Un hombre de familia que lucha por mantener todo unido descubre un salón oculto que ofrece una solución... sexbots.
-[COLOR teal]· País:[/COLOR] CHN, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Princeton Holt.
-[COLOR teal]· Reparto:[/COLOR] Irina Abraham, Devin Fuller, Dean Cain, Stefanie Bloom, David Vaughn, Stormi Maya, Hope Blackstock, Chris Riquinha, Jace Nicole, Shannone Holt.
-[COLOR teal]· Guion:[/COLOR] Brian Ackley, David Vaughn.</desc>
-    <category lang="es">Cine, Fantasía, Ciencia Ficción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027590.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
   <programme start="20250526005600 +0200" stop="20250526024500 +0200" channel="BOM Cine">
     <title lang="es">Historia de un crimen</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco/Biográfico[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
@@ -703,13 +447,13 @@
   </programme>
   <programme start="20250527181500 +0200" stop="20250527200100 +0200" channel="BOM Cine">
     <title lang="es">El callejón de la muerte</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western/Suspense[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.5/10[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Acción/Histórico/Drama[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.5/10[/COLOR]</sub-title>
     <desc lang="es">· Los hermanos Dalton asolan los pueblos del oeste americano a finales del siglo XIX, hasta que los habitantes de la zona deciden plantarles cara.
 [COLOR teal]· País:[/COLOR] EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Nicholas Barton.
 [COLOR teal]· Reparto:[/COLOR] Delno Ebie, Sean Gestl, Ryan T. Johnson, Corey Cannon, Carl Bailey, Kaye Brownlee-France, Nicholas Barton, Justin France, Josh Outzen, Tristan Campbell, Jake Washburn, Hannah Smith, Julia Grace Anderson, Joshua R. Outzen.
 [COLOR teal]· Guion:[/COLOR] Nicholas Barton.</desc>
-    <category lang="es">Cine, Western, Suspense</category>
+    <category lang="es">Cine, Western, Acción, Histórico, Drama</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050108.jpg" />
     <rating system="ES">
       <value>16</value>
@@ -1267,6 +1011,272 @@
 [COLOR teal]· Reparto:[/COLOR] Stephen Dorff, Caterina Murino, Greg Bryk, Stephen McHattie, Lucinda Davis.</desc>
     <category lang="es">Series, Acción, Suspense</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049433.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250529231400 +0200" stop="20250530004400 +0200" channel="BOM Cine">
+    <title lang="es">XIII: La Conspiración [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Todas las lágrimas del infierno[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Series/Acción/Suspense[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc lang="es">· La presidenta de los Estados Unidos, Sheridan, es asesinada a una milla de distancia por un francotirador que no deja rastro. El asesinato es el primero de una serie de ataques terroristas.
+[COLOR teal]· País:[/COLOR] Canada, Francia 
+[COLOR teal]· Reparto:[/COLOR] Stephen Dorff, Caterina Murino, Greg Bryk, Stephen McHattie, Lucinda Davis.</desc>
+    <category lang="es">Series, Acción, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049433.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530004400 +0200" stop="20250530022700 +0200" channel="BOM Cine">
+    <title lang="es">Sonny</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Nueva Orleans, 1981. Sonny Phillips, ha pasado toda su vida trabajando como gigoló a las órdenes de su madre.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Nicolas Cage.
+[COLOR teal]· Reparto:[/COLOR] James Franco, Brenda Blethyn, Harry Dean Stanton, Mena Suvari, Seymour Cassel, Nicolas Cage, Scott Caan, Brenda Vaccaro, Janet Shea, Willie Metcalf, Cary Wilmot Alden, Graham Timbes, Doug Barden, Wallace Merck, Josie Davis.
+[COLOR teal]· Guion:[/COLOR] John Carlen.
+[COLOR teal]· Música:[/COLOR] Clint Mansell.
+[COLOR teal]· Producción:[/COLOR] Nicolas Cage, Paul Brooks, Norman Golightly.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050156.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530022700 +0200" stop="20250530040100 +0200" channel="BOM Cine">
+    <title lang="es">Ave María</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
+    <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
+[COLOR teal]· País:[/COLOR] MEX 
+[COLOR teal]· Dirección:[/COLOR] Eduardo Rossoff.
+[COLOR teal]· Reparto:[/COLOR] Juan Diego Botto, Ana Torrent, Ana Ofelia Murguía, Teresa López Tarín, Demián Bichir, Damián Alcázar, Fernando Torre Laphame, Gabriela Canudas, Carlos Arau Arau, Tere Tarin.
+[COLOR teal]· Guion:[/COLOR] Camille Thomasson.
+[COLOR teal]· Música:[/COLOR] Carles Cases.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008944.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530040100 +0200" stop="20250530053400 +0200" channel="BOM Cine">
+    <title lang="es">Hércules y la reina de Lidia</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Acción/Español[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Mientras negocia la paz entre dos hermanos que se disputan el trono de Tebas, un Hércules amnésico es seducido por la malvada reina Onfalia.
+[COLOR teal]· País:[/COLOR] España, Francia, Italia 
+[COLOR teal]· Dirección:[/COLOR] Pietro Francisci, Mario Bava.
+[COLOR teal]· Reparto:[/COLOR] Steve Reeves, Sylva Koscina, Sylvia Lopez, Gabriele Antonini, Primo Carnera, Sergio Fantoni, Fulvia Franco, Patrizia Della Rovere.
+[COLOR teal]· Guion:[/COLOR] Ennio De Concini, Pietro Francisci.
+[COLOR teal]· Música:[/COLOR] Enzo Masetti.
+[COLOR teal]· Producción:[/COLOR] Bruno Vailati.</desc>
+    <category lang="es">Cine, Aventuras, Fantasía, Acción, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4040082.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530053400 +0200" stop="20250530055300 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+</desc>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3994160.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250530055300 +0200" stop="20250530061700 +0200" channel="BOM Cine">
+    <title lang="es">Automobile Barcelona 2023</title>
+    <sub-title lang="es">[COLOR teal]Programa/Entretenimiento[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Salón del automóvil de Barcelona del año 2023.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Programa, Entretenimiento</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4058947.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250530061700 +0200" stop="20250530080300 +0200" channel="BOM Cine">
+    <title lang="es">Grandes familias</title>
+    <sub-title lang="es">[COLOR teal]Cine/Romance/Comedia[/COLOR] | [COLOR cadetblue]2015[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.7/10[/COLOR]</sub-title>
+    <desc lang="es">· Jerome Varenne es un financiero francés que vive en Shanghái con su compañera sentimental y profesional Chen-Li. En un breve viaje de negocios a París, se entera de que la casa de su infancia se va a vender...
+[COLOR teal]· País:[/COLOR] Francia 
+[COLOR teal]· Dirección:[/COLOR] Jean-Paul Rappeneau.
+[COLOR teal]· Reparto:[/COLOR] Mathieu Amalric, Marine Vacth, Gilles Lellouche, Guillaume de Tonquedec, Nicole García, Karin Viard.
+[COLOR teal]· Guion:[/COLOR] Jean-Paul Rappeneau, Julien Rappeneau, Philippe Le Guay.</desc>
+    <category lang="es">Cine, Romance, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059142.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530080300 +0200" stop="20250530093200 +0200" channel="BOM Cine">
+    <title lang="es">Un océano entre nosotros</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Biográfico[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
+    <desc lang="es">· En 1968 el navegante aficionado Donald Crowhurst se impone un objetivo: ganar la Sunday Times Golden Globe Race dando la vuelta al mundo en su velero.
+[COLOR teal]· País:[/COLOR] Francia, R.U., EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] James Marsh.
+[COLOR teal]· Reparto:[/COLOR] Rachel Weisz, Colin Firth, David Thewlis, Mark Gatiss, Andrew Buchan, Kerry Godliman, Simon McBurney, Ken Stott, Finn Elliot, Genevieve Gaunt, Jonathan Bailey, Sebastian Armesto, Laurence Spellman, Adrian Schiller, Oliver Maltman, Anna Madeley, Tim Downie, Sam Hoare Hoare, Kit Connor, Eleanor Stagg Stagg, Zara Prassinot, Sam Hoare.
+[COLOR teal]· Guion:[/COLOR] Scott Z. Burns.</desc>
+    <category lang="es">Cine, Drama, Biográfico</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059146.jpg" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530093200 +0200" stop="20250530113000 +0200" channel="BOM Cine">
+    <title lang="es">La modista</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Drama[/COLOR] | [COLOR cadetblue]2015[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Una exitosa modista regresa a su pueblo natal, de donde se marchó herida y ofendida tiempo atrás.
+[COLOR teal]· País:[/COLOR] AEE.UU., R.U. 
+[COLOR teal]· Dirección:[/COLOR] Jocelyn Moorhouse.
+[COLOR teal]· Reparto:[/COLOR] Sarah Snook, Judy Davis, Kerry Fox, Caroline Goodall, Liam Hemsworth, Hugo Weaving, Kate Winslet, Sacha Horler, Shane Bourne, Rebecca Gibney, Julia Blake.
+[COLOR teal]· Guion:[/COLOR] P.J. Hogan, Jocelyn Moorhouse, Rosalie Ham.</desc>
+    <category lang="es">Cine, Western, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059150.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530113000 +0200" stop="20250530130400 +0200" channel="BOM Cine">
+    <title lang="es">Hielo [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Hielo - Parte uno[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Año 2020. El calentamiento global ha convertido en desiertos las regiones del sur de Europa. Hay una crisis de refugiados a escala sin precedentes.
+[COLOR teal]· País:[/COLOR] R.U., NZL, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Nick Corpus, Nick Copus.
+[COLOR teal]· Reparto:[/COLOR] Sam Neill, Ben Cross, Patrick Bergin, Richard Roxburgh, Simon Callow, Erin Mullally, Daniel Sing, Jaime Passier-Armstrong, Tom Hern, Gareth Reeves, Claire Forlani, Frances O'Connor, Stephen Moyer, Nathaniel Lees, Werner Daehn.
+[COLOR teal]· Música:[/COLOR] David Long.
+[COLOR teal]· Producción:[/COLOR] Riccardo Pellizzeri.</desc>
+    <category lang="es">Series, Acción</category>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530130400 +0200" stop="20250530144500 +0200" channel="BOM Cine">
+    <title lang="es">Hielo [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Hielo - Parte dos[/COLOR]</title>
+    <sub-title lang="es">[COLOR teal]Series/Acción[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Al llegar allí se da cuenta de que la humanidad está bajo amenaza inmediata. El glaciar se derrumba con devastadoras consecuencias. Thom deberá luchar por su supervivencia y la supervivencia de la propia Tierra.
+[COLOR teal]· País:[/COLOR] R.U., NZL, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Nick Corpus, Nick Copus.
+[COLOR teal]· Reparto:[/COLOR] Sam Neill, Ben Cross, Patrick Bergin, Richard Roxburgh, Simon Callow, Erin Mullally, Daniel Sing, Jaime Passier-Armstrong, Tom Hern, Gareth Reeves, Claire Forlani, Frances O'Connor, Stephen Moyer, Nathaniel Lees, Werner Daehn.
+[COLOR teal]· Música:[/COLOR] David Long.
+[COLOR teal]· Producción:[/COLOR] Riccardo Pellizzeri.</desc>
+    <category lang="es">Series, Acción</category>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530144500 +0200" stop="20250530163100 +0200" channel="BOM Cine">
+    <title lang="es">El estilo de la serpiente y la grulla de Shaolin</title>
+    <sub-title lang="es">[COLOR teal]Cine/Clásico/Acción/Artes Marciales[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc lang="es">· "El Estilo de la Serpiente y la Grulla de Shaolin" (1978) sigue a Hsu Yin-Fung, quien posee un libro de artes marciales y es perseguido por varios clanes mientras busca a alguien.
+[COLOR teal]· País:[/COLOR] HKG, TWN 
+[COLOR teal]· Dirección:[/COLOR] Chi-Hwa Chen, Chen Chi-Hwa.
+[COLOR teal]· Reparto:[/COLOR] Jackie Chan, Nora Miao, Cheng-Lan Chin, Yung-Kuo Li, Ya Ying Liu, Hsin-Yi Chen.
+[COLOR teal]· Guion:[/COLOR] Hsin-Yi Chang.</desc>
+    <category lang="es">Cine, Clásico, Acción, Artes Marciales</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059154.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530163100 +0200" stop="20250530181300 +0200" channel="BOM Cine">
+    <title lang="es">Aladino</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Comedia[/COLOR] | [COLOR cadetblue]1986[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Un muchacho pobre de nombre Al haddin encuentra una lámpara con la que invoca a un todopoderoso genio, que le concederá todos sus deseos, desde ligarse a la chica que le gusta hasta poder ganar un campeonato de ski acuático.
+[COLOR teal]· País:[/COLOR] Italia, NLD, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Bruno Corbucci.
+[COLOR teal]· Reparto:[/COLOR] Bud Spencer, Luca Venantini, Janet Agren, Julian Voloshin, Diamy Spencer, Umberto Raho.
+[COLOR teal]· Guion:[/COLOR] Dardano Sacchetti, Elisa Briganti, Mario Amendola, Bruno Corbucci, Marcello Fondato.</desc>
+    <category lang="es">Cine, Aventuras, Fantasía, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059158.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530181300 +0200" stop="20250530200100 +0200" channel="BOM Cine">
+    <title lang="es">Union Bound</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Aventuras[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· El sargento Joseph Hoover fue a la guerra para preservar los valores de la Unión. Tras ser capturado y enviado a un campo de prisioneros, consiguió escapar con la ayuda de los esclavos.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Harvey Lowry.
+[COLOR teal]· Reparto:[/COLOR] Seeley Drew, Isaac C. Singleton Jr., Randy Wayne, Matthew Ziff, Sean Stone, Andrew Seeley, Trish Cook, Tank Jones, Christian Fortune, Isaac C. Singleton Jr.
+[COLOR teal]· Guion:[/COLOR] John Errington.
+[COLOR teal]· Música:[/COLOR] Craig Brandwein, Cactus Moser, Dane Bryant Frazier.
+[COLOR teal]· Producción:[/COLOR] Michael Davis.</desc>
+    <category lang="es">Cine, Acción, Drama, Aventuras</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4001991.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250530200100 +0200" stop="20250530215200 +0200" channel="BOM Cine">
+    <title lang="es">Cualquier bala servirá</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Suspense[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
+    <desc lang="es">· Montana, 1876. Un cazador de cabezas despiadado rastrea a su propio hermano a través del país de Big Sky con la ayuda de una joven cazadora de pieles.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Justin Lee.
+[COLOR teal]· Reparto:[/COLOR] Bruce Davison, Meg Foster, Mark Ryan, Kevin Makely, Jenny Curtis, Todd A. Robinson, Bob Olin, Randy Ryan, Ian Gary, Sean Cook.
+[COLOR teal]· Guion:[/COLOR] Justin Lee.
+[COLOR teal]· Música:[/COLOR] Jared Forman.
+[COLOR teal]· Producción:[/COLOR] Jenny Curtis, Kevin Makely.</desc>
+    <category lang="es">Cine, Acción, Drama, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059162.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250530215200 +0200" stop="20250530234800 +0200" channel="BOM Cine">
+    <title lang="es">Hostage</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc lang="es">· Cuando una familia es tomada como rehén, el exnegociador de rehenes Jeff Talley llega a la escena. Su propia familia es secuestrada, así que debe decidir entre salvar a una familia que ni siquiera conoce o salvar a su propia familia.
+[COLOR teal]· País:[/COLOR] Alemania, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Florent-Emilio Siri.
+[COLOR teal]· Reparto:[/COLOR] Bruce Willis, Robert Knepper, Kevin Pollak, Ben Foster, Jimmy Bennett, Marshall Allman, Kim Coates, Michelle Horn, Jonathan Tucker, Serena Scott Thomas, Rumer Willis.
+[COLOR teal]· Guion:[/COLOR] Doug Richardson, Robert Crais.
+[COLOR teal]· Música:[/COLOR] Alexandre Desplat.
+[COLOR teal]· Producción:[/COLOR] Bruce Willis, Bob Yari, Arnold Rifkin.</desc>
+    <category lang="es">Cine, Acción, Suspense, Policíaco</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059166.jpg" />
     <rating system="ES">
       <value>18</value>
     </rating>
