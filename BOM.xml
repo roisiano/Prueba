@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 07/06/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 07/06/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -1101,12 +1101,21 @@
     </star-rating>
   </programme>
   <programme start="20250611073700 +0200" stop="20250611091100 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-</desc>
-    <category lang="es">Programa, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+    <title lang="es">Operación Delta Force 4</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.8/10[/COLOR]</sub-title>
+    <desc lang="es">· El equipo Delta Force tiene que rescatar unos rehenes de unos súper villanos que quieren utilizar bombas nucleares para provocar terremotos en todo el planeta, y así sembrar el pánico y el caos.
+[COLOR teal]· País:[/COLOR] BGR, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Mark Roper.
+[COLOR teal]· Reparto:[/COLOR] Greg Collins, Joe Lara, Justin Williams, Johnny Messner, Gary Hudson, Hayley DuMond.
+[COLOR teal]· Guion:[/COLOR] Danny Lerner, David Sparling.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4149407.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.8/10</value>
+    </star-rating>
   </programme>
   <programme start="20250611091100 +0200" stop="20250611110400 +0200" channel="BOM Cine">
     <title lang="es">X-15</title>
