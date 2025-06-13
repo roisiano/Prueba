@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 13/06/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 13/06/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,7 +11,7 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250613010700 +0200" stop="20250613023800 +0200" channel="BOM Cine">
+  <programme start="20250613010600 +0200" stop="20250613023700 +0200" channel="BOM Cine">
     <title lang="es">La gran hambruna</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Acción/Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
     <desc lang="es">· Un Ranger irlandés abandona al ejército británico para reunirse con su familia.
@@ -30,7 +30,7 @@
       <value>6.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250613023800 +0200" stop="20250613040600 +0200" channel="BOM Cine">
+  <programme start="20250613023700 +0200" stop="20250613040500 +0200" channel="BOM Cine">
     <title lang="es">Pathfinders</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.4/10[/COLOR]</sub-title>
     <desc lang="es">· Paracaidistas estadounidenses de la 82ª División Aerotransportada se embarcan en una misión secreta para guiar a aviones aliados.
@@ -47,7 +47,7 @@
       <value>3.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250613040600 +0200" stop="20250613041200 +0200" channel="BOM Cine">
+  <programme start="20250613040500 +0200" stop="20250613043000 +0200" channel="BOM Cine">
     <title lang="es">Teletienda</title>
     <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
@@ -58,7 +58,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250613041200 +0200" stop="20250613051100 +0200" channel="BOM Cine">
+  <programme start="20250613043000 +0200" stop="20250613052800 +0200" channel="BOM Cine">
     <title lang="es">Gaudí</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
@@ -73,7 +73,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250613051100 +0200" stop="20250613063400 +0200" channel="BOM Cine">
+  <programme start="20250613052800 +0200" stop="20250613065200 +0200" channel="BOM Cine">
     <title lang="es">La madre de él</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Romance[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Cuando le despiden de su trabajo como fisioterapeuta, Noah piensa que su día no puede ser peor. Al llegar a casa, su hogar se vuelve aún más caótico.
@@ -92,7 +92,7 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250613063400 +0200" stop="20250613082200 +0200" channel="BOM Cine">
+  <programme start="20250613065200 +0200" stop="20250613083900 +0200" channel="BOM Cine">
     <title lang="es">Madame Bovary</title>
     <sub-title lang="es">[COLOR teal]Cine/Romance/Drama[/COLOR] | [COLOR cadetblue]2000[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
     <desc lang="es">· Adaptación que Vincente Minelli hizo de la novela clásica de Flaubert sobre las infidelidades de la soñadora esposa de un aburrido doctor del campo.
@@ -108,7 +108,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250613082200 +0200" stop="20250613100000 +0200" channel="BOM Cine">
+  <programme start="20250613083900 +0200" stop="20250613101500 +0200" channel="BOM Cine">
     <title lang="es">El diplomático [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Parte 1[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Programa/Crimen[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Scotland Yard detiene a un diplomático en el aeropuerto de Londres, acusado de dirigir una operación fallida de tráfico de drogas.
@@ -121,7 +121,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250613100000 +0200" stop="20250613113600 +0200" channel="BOM Cine">
+  <programme start="20250613101500 +0200" stop="20250613114900 +0200" channel="BOM Cine">
     <title lang="es">El diplomático [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Parte 2[/COLOR]</title>
     <sub-title lang="es">[COLOR teal]Programa/Crimen[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Porter y su esposa Pippa, pasan a formar parte de un programa de protección de testigos, y son inmediatamente trasladados a Australia.
@@ -134,7 +134,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250613113600 +0200" stop="20250613134200 +0200" channel="BOM Cine">
+  <programme start="20250613114900 +0200" stop="20250613135100 +0200" channel="BOM Cine">
     <title lang="es">El Maquinista</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Ambientada en Siberia en 1945, Ignat, un antiguo héroe soviético, llega a un pequeño y curioso pueblo para trabajar como maquinista. Allí conoce a una joven alemana que ha pasado toda la Segunda Guerra Mundial viviendo incomunicada.
@@ -148,7 +148,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250613134200 +0200" stop="20250613152100 +0200" channel="BOM Cine">
+  <programme start="20250613135100 +0200" stop="20250613152400 +0200" channel="BOM Cine">
     <title lang="es">Hiena salvaje II</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Dos maestros en kung-fu, llamados Cielo y Tierra, están arrasando los pueblos y matando a todos los miembros de la hermandad Yin-Yang.
@@ -162,7 +162,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250613152100 +0200" stop="20250613174000 +0200" channel="BOM Cine">
+  <programme start="20250613152400 +0200" stop="20250613173900 +0200" channel="BOM Cine">
     <title lang="es">F.I.S.T.</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Negro[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
     <desc lang="es">· Crónica de un joven inocente e idealista, corrompido por el poder y el éxito, en la época de la aparición del movimiento obrero en Estados Unidos.
@@ -179,7 +179,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250613174000 +0200" stop="20250613200100 +0200" channel="BOM Cine">
+  <programme start="20250613173900 +0200" stop="20250613200000 +0200" channel="BOM Cine">
     <title lang="es">El gran McLintock</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Comedia[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
     <desc lang="es">· Magnate de ganado, banquero y ciudadano modelo; George McLintock tiene el mundo en sus manos; lo único que le falta es su mujer.
@@ -198,7 +198,7 @@
       <value>7.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250613200100 +0200" stop="20250613213800 +0200" channel="BOM Cine">
+  <programme start="20250613200000 +0200" stop="20250613213900 +0200" channel="BOM Cine">
     <title lang="es">El último hombre</title>
     <sub-title lang="es">[COLOR teal]Cine/Western/Biográfico/Suspense[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.8/10[/COLOR]</sub-title>
     <desc lang="es">· Mike McCluskie, un abogado, enfrenta un conflicto en Hyde Park entre trabajadores del ferrocarril y creadores de Texas, mientras la violencia amenaza a la ciudad.
@@ -215,7 +215,7 @@
       <value>4.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250613213800 +0200" stop="20250613232400 +0200" channel="BOM Cine">
+  <programme start="20250613213900 +0200" stop="20250613232200 +0200" channel="BOM Cine">
     <title lang="es">Mátalos y vuelve</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Western/Aventuras/Español[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Durante la Guerra Civil Americana, un mercenario lidera una misión para infiltrarse en territorio enemigo y robar oro.
@@ -231,7 +231,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250613232400 +0200" stop="20250614004800 +0200" channel="BOM Cine">
+  <programme start="20250613232200 +0200" stop="20250614004600 +0200" channel="BOM Cine">
     <title lang="es">Dura recompensa</title>
     <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1995[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Kanning, cazador de reocmpensas, decide dejar su ocupación cuando fracasa en una de sus misiones. Decide entonces comprar un salón de juego, donde su esposa Donnie trabaja como prostituta.
@@ -247,7 +247,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250614004800 +0200" stop="20250614021800 +0200" channel="BOM Cine">
+  <programme start="20250614004600 +0200" stop="20250614021600 +0200" channel="BOM Cine">
     <title lang="es">Aguirre, la cólera de Dios</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Acción[/COLOR] | [COLOR cadetblue]1972[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.8/10[/COLOR]</sub-title>
     <desc lang="es">· En 1560 una expedición española parte de las montañas de Perú rumbo a las selvas del Amazonas, en busca de El Dorado.
@@ -266,7 +266,7 @@
       <value>7.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250614021800 +0200" stop="20250614035100 +0200" channel="BOM Cine">
+  <programme start="20250614021600 +0200" stop="20250614034900 +0200" channel="BOM Cine">
     <title lang="es">Hércules y la reina de Lidia</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Acción/Español[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Mientras negocia la paz entre dos hermanos que se disputan el trono de Tebas, un Hércules amnésico es seducido por la malvada reina Onfalia.
@@ -285,7 +285,7 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250614035100 +0200" stop="20250614051500 +0200" channel="BOM Cine">
+  <programme start="20250614034900 +0200" stop="20250614051500 +0200" channel="BOM Cine">
     <title lang="es">Torremolinos 73</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
     <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
