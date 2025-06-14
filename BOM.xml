@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 13/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 14/06/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,242 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250613010600 +0200" stop="20250613023700 +0200" channel="BOM Cine">
-    <title lang="es">La gran hambruna</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western/Acción/Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
-    <desc lang="es">· Un Ranger irlandés abandona al ejército británico para reunirse con su familia.
-[COLOR teal]· País:[/COLOR] Francia, IRL, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Lance Daly.
-[COLOR teal]· Reparto:[/COLOR] Hugo Weaving, James Frecheville, Stephen Rea, Freddie Fox, Barry Keoghan, Moe Dunford, Jim Broadbent, Sarah Greene, Andrew Bennett.
-[COLOR teal]· Guion:[/COLOR] Lance Daly, P.J. Dillon, Pierce Ryan, Eugene O'Brien.
-[COLOR teal]· Música:[/COLOR] Brian Byrne.
-[COLOR teal]· Producción:[/COLOR] Arcadiy Golubovich, Tim O'Hair, Macdara Kelleher, Jonathan Loughran.</desc>
-    <category lang="es">Cine, Western, Acción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012908.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250613023700 +0200" stop="20250613040500 +0200" channel="BOM Cine">
-    <title lang="es">Pathfinders</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Paracaidistas estadounidenses de la 82ª División Aerotransportada se embarcan en una misión secreta para guiar a aviones aliados.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Curt A. Sindelar.
-[COLOR teal]· Reparto:[/COLOR] Christopher Serrone, Philip de Lorenzo, Kyle Erickson, Ryan Findley, Michael Conner Humphreys, Eric V. Jones, Dan Limb.
-[COLOR teal]· Guion:[/COLOR] Charlie Armstrong, Curt A. Sindelar.</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4026082.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250613040500 +0200" stop="20250613043000 +0200" channel="BOM Cine">
-    <title lang="es">Teletienda</title>
-    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
-</desc>
-    <category lang="es">Programa, Consumo</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3994160.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250613043000 +0200" stop="20250613052800 +0200" channel="BOM Cine">
-    <title lang="es">Gaudí</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] José María Argemí, Manuel Huerga.
-[COLOR teal]· Reparto:[/COLOR] Maria Matilde Almendros, Rafael Anglada, José María Caffarel, Mario Beut, Carles Sabater, Luis Padrós, Jesús Orús, Elisabeth Escayola, Santi Claramunt.
-[COLOR teal]· Guion:[/COLOR] José María Argemí, Mario Lacruz, Dolores Payás, Carles Hac Mor.
-[COLOR teal]· Música:[/COLOR] Xavier Montsalvatge.</desc>
-    <category lang="es">Cine, Drama, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008992.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250613052800 +0200" stop="20250613065200 +0200" channel="BOM Cine">
-    <title lang="es">La madre de él</title>
-    <sub-title lang="es">[COLOR teal]Cine/Comedia/Romance[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Cuando le despiden de su trabajo como fisioterapeuta, Noah piensa que su día no puede ser peor. Al llegar a casa, su hogar se vuelve aún más caótico.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Vince Di Meglio.
-[COLOR teal]· Reparto:[/COLOR] Diane Keaton, Omar Epps, Masaya Kato, Royale Watkins, Kuroudo Maki, Liv Tyler, Dax Shepard, Jerry Lambert, Ken Howard, Mike White, Tara Moore, Steven Christopher Parker, Selma Stern, Frank Crim Crim, Eddie Frierson, Henriette Ivanans, Rachel Cannon, Matt Steinauer, James Taku Leung.
-[COLOR teal]· Guion:[/COLOR] Tim Rasmussen, Vince Di Meglio.
-[COLOR teal]· Música:[/COLOR] Manish Raval, Tom Wolfe.
-[COLOR teal]· Producción:[/COLOR] Bill Johnson, Johnson Chan, Tim Rasmussen, Jay Roach.</desc>
-    <category lang="es">Cine, Comedia, Romance</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109389.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250613065200 +0200" stop="20250613083900 +0200" channel="BOM Cine">
-    <title lang="es">Madame Bovary</title>
-    <sub-title lang="es">[COLOR teal]Cine/Romance/Drama[/COLOR] | [COLOR cadetblue]2000[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">· Adaptación que Vincente Minelli hizo de la novela clásica de Flaubert sobre las infidelidades de la soñadora esposa de un aburrido doctor del campo.
-[COLOR teal]· País:[/COLOR] BEL, Alemania, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Tim Fywell.
-[COLOR teal]· Reparto:[/COLOR] Frances O'Connor, Hugh Bonneville, Eileen Atkins, Hugh Dancy, Greg Wise, Rhys Ifans, Ezra Miller, Mia Wasikowska, Henry Lloyd-Hughes, Logan Marshall-Green, Laura Carmichael, Olivier Gourmet.
-[COLOR teal]· Guion:[/COLOR] Heidi Thomas, Gustave Flaubert, Sophie Barthes, Felipe Marino.
-[COLOR teal]· Música:[/COLOR] John Lunn.
-[COLOR teal]· Producción:[/COLOR] Tony Redston.</desc>
-    <category lang="es">Cine, Romance, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4151198.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20250613083900 +0200" stop="20250613101500 +0200" channel="BOM Cine">
-    <title lang="es">El diplomático [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Parte 1[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Programa/Crimen[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Scotland Yard detiene a un diplomático en el aeropuerto de Londres, acusado de dirigir una operación fallida de tráfico de drogas.
-[COLOR teal]· País:[/COLOR] AEE.UU., R.U. 
-[COLOR teal]· Dirección:[/COLOR] Peter Andrikis, Peter Andrikidis.
-[COLOR teal]· Reparto:[/COLOR] Dougray Scott, Rachael Blake, Jeremy Lindsay Taylor, Richard Roxburgh, Claire Forlani, Don Hany, Shane Briant, Alin Sumarwata, Jonny Pasvolsky, Elan Zavelsky, Rachel Black.</desc>
-    <category lang="es">Programa, Crimen</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109079.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250613101500 +0200" stop="20250613114900 +0200" channel="BOM Cine">
-    <title lang="es">El diplomático [COLOR tomato]T1 E2[/COLOR] [COLOR goldenrod]Parte 2[/COLOR]</title>
-    <sub-title lang="es">[COLOR teal]Programa/Crimen[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Porter y su esposa Pippa, pasan a formar parte de un programa de protección de testigos, y son inmediatamente trasladados a Australia.
-[COLOR teal]· País:[/COLOR] AEE.UU., R.U. 
-[COLOR teal]· Dirección:[/COLOR] Peter Andrikis, Peter Andrikidis.
-[COLOR teal]· Reparto:[/COLOR] Dougray Scott, Rachael Blake, Jeremy Lindsay Taylor, Richard Roxburgh, Claire Forlani, Don Hany, Shane Briant, Alin Sumarwata, Jonny Pasvolsky, Elan Zavelsky, Rachel Black.</desc>
-    <category lang="es">Programa, Crimen</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109079.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250613114900 +0200" stop="20250613135100 +0200" channel="BOM Cine">
-    <title lang="es">El Maquinista</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Ambientada en Siberia en 1945, Ignat, un antiguo héroe soviético, llega a un pequeño y curioso pueblo para trabajar como maquinista. Allí conoce a una joven alemana que ha pasado toda la Segunda Guerra Mundial viviendo incomunicada.
-[COLOR teal]· País:[/COLOR] REE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Aleksey Uchitel.
-[COLOR teal]· Reparto:[/COLOR] Vladimir Mashkov, Yulia Peresild, Anjorka Strechel, Aleksey Gorbunov, Sergey Garmash.
-[COLOR teal]· Guion:[/COLOR] Gerard Michael MacCarthy, Aleksandr Gonorovskiy.</desc>
-    <category lang="es">Cine, Aventuras, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049485.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250613135100 +0200" stop="20250613152400 +0200" channel="BOM Cine">
-    <title lang="es">Hiena salvaje II</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Dos maestros en kung-fu, llamados Cielo y Tierra, están arrasando los pueblos y matando a todos los miembros de la hermandad Yin-Yang.
-[COLOR teal]· País:[/COLOR] HKG 
-[COLOR teal]· Dirección:[/COLOR] Chuan Chen, LOU WEI, Chan Chuen, Lo Wei, Wei Lo.
-[COLOR teal]· Reparto:[/COLOR] Jackie Chan, Hui Lou Chen, Dean Shek, James Tien, Austin Wai, Yen Shi-Kwan, Chen Hui-Lou, Eun-ju Im, Wing Man Kuen, Hon Kwok-Choi, Ma Chi, Cheng Ka-Sang, Shi-Kwan Yen, Eun-joo Im, Yeong-moon Kwon.
-[COLOR teal]· Guion:[/COLOR] Wei Lo.</desc>
-    <category lang="es">Cine, Acción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4151202.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250613152400 +0200" stop="20250613173900 +0200" channel="BOM Cine">
-    <title lang="es">F.I.S.T.</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Negro[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Crónica de un joven inocente e idealista, corrompido por el poder y el éxito, en la época de la aparición del movimiento obrero en Estados Unidos.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Norman Jewison.
-[COLOR teal]· Reparto:[/COLOR] Sylvester Stallone, Melinda Dillon, David Huffman, Rod Steiger, Peter Boyle, Tony Lo Bianco, Henry Wilcoxon, Cassie Yates, Kevin Conway, Peter Donat.
-[COLOR teal]· Guion:[/COLOR] Sylvester Stallone, Joe Eszterhas.</desc>
-    <category lang="es">Cine, Drama, Negro</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009084.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250613173900 +0200" stop="20250613200000 +0200" channel="BOM Cine">
-    <title lang="es">El gran McLintock</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western/Comedia[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Magnate de ganado, banquero y ciudadano modelo; George McLintock tiene el mundo en sus manos; lo único que le falta es su mujer.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Andrew V. McLaglen, Andrew McLaglen.
-[COLOR teal]· Reparto:[/COLOR] Yvonne De Carlo, Maureen O'Hara, Stefanie Powers, Jerry Van Dyke, John Wayne, Chill Wills, Bruce Cabot, Strother Martin, Jack Kruschen, Perry López, Patrick Wayne, Gordon Jones, Hank Worden, Edgar Buchanan, Robert Lowery.
-[COLOR teal]· Guion:[/COLOR] James Edward Grant.
-[COLOR teal]· Música:[/COLOR] Frank De Vol.
-[COLOR teal]· Producción:[/COLOR] Michael Wayne.</desc>
-    <category lang="es">Cine, Western, Comedia</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002731.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250613200000 +0200" stop="20250613213900 +0200" channel="BOM Cine">
-    <title lang="es">El último hombre</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western/Biográfico/Suspense[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.8/10[/COLOR]</sub-title>
-    <desc lang="es">· Mike McCluskie, un abogado, enfrenta un conflicto en Hyde Park entre trabajadores del ferrocarril y creadores de Texas, mientras la violencia amenaza a la ciudad.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Nicholas Barton.
-[COLOR teal]· Reparto:[/COLOR] C. Thomas Howell, Luke Arnold, Viva Bianca, Richard Riehle, M.C. Gainey, Monique Candelaria, Douglas Bennett, Christopher Hagen, Quinn Lord.
-[COLOR teal]· Guion:[/COLOR] Nicholas Barton, August Benassi.</desc>
-    <category lang="es">Cine, Western, Biográfico, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050514.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250613213900 +0200" stop="20250613232200 +0200" channel="BOM Cine">
-    <title lang="es">Mátalos y vuelve</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Western/Aventuras/Español[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Durante la Guerra Civil Americana, un mercenario lidera una misión para infiltrarse en territorio enemigo y robar oro.
-[COLOR teal]· País:[/COLOR] España, Italia 
-[COLOR teal]· Dirección:[/COLOR] Enzo G. Castellari.
-[COLOR teal]· Reparto:[/COLOR] Chuck Connors, Frank Wolff, Franco Citti, Alberto Dell'Acqua, Antonio Molino Rojo, Giovanni Cianfriglia, Leo Anchóriz, Furio Meniconi, Chuck Conners.
-[COLOR teal]· Guion:[/COLOR] Enzo G. Castellari, Joaquín Romero Hernández, Francesco Scardamaglia, Tito Carpi.
-[COLOR teal]· Música:[/COLOR] Francesco De Masi.
-[COLOR teal]· Producción:[/COLOR] Edmondo Amati.</desc>
-    <category lang="es">Cine, Acción, Western, Aventuras, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4151206.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250613232200 +0200" stop="20250614004600 +0200" channel="BOM Cine">
-    <title lang="es">Dura recompensa</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1995[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Kanning, cazador de reocmpensas, decide dejar su ocupación cuando fracasa en una de sus misiones. Decide entonces comprar un salón de juego, donde su esposa Donnie trabaja como prostituta.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Jim Wynorski.
-[COLOR teal]· Reparto:[/COLOR] Matt McCoy, Kelly LeBrock, John Terlesky, Kimberly Kelley, Rochelle Swanson.
-[COLOR teal]· Guion:[/COLOR] Karen Kelly.
-[COLOR teal]· Música:[/COLOR] Taj.
-[COLOR teal]· Producción:[/COLOR] Jim Wynorski.</desc>
-    <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4151210.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
   <programme start="20250614004600 +0200" stop="20250614021600 +0200" channel="BOM Cine">
     <title lang="es">Aguirre, la cólera de Dios</title>
     <sub-title lang="es">[COLOR teal]Cine/Aventuras/Acción[/COLOR] | [COLOR cadetblue]1972[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.8/10[/COLOR]</sub-title>
@@ -693,7 +457,7 @@
   <programme start="20250615145100 +0200" stop="20250615163300 +0200" channel="BOM Cine">
     <title lang="es">Jet Li es el mejor luchador</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Acción[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.5/10[/COLOR]</sub-title>
-    <desc lang="es">· En una China ocupada por los japoneses, un karateca regresa para vengar la muerte de su mentor que fue asesinado.
+    <desc lang="es">· En 1937, un artista marcial chino regresa a Shanghai para encontrar a su maestro muerto y su escuela acosada por los japoneses.
 [COLOR teal]· País:[/COLOR] HKG 
 [COLOR teal]· Dirección:[/COLOR] Gordon Chan, Gordon Chan Ka-Seung.
 [COLOR teal]· Reparto:[/COLOR] Jet Li, Paul Chiang, Siu-hou Chin, Ada Choi, Billy Chow, Yasuaki Kurata, Jackson Liu, Shinobu Nakayama, Siu-Ho Chin.
@@ -910,5 +674,47 @@
 </desc>
     <category lang="es">Programa, Otros</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250617220000 +0200" stop="20250618020000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250618020000 +0200" stop="20250618060000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250618060000 +0200" stop="20250618100000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250618100000 +0200" stop="20250618140000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250618140000 +0200" stop="20250618180000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250618180000 +0200" stop="20250618220000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
   </programme>
 </tv>
