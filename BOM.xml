@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/06/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 17/06/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -1039,7 +1039,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250621035500 +0200" stop="20250621052300 +0200" channel="BOM Cine">
+  <programme start="20250621035500 +0200" stop="20250621052200 +0200" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR teal]Cine/Suspense/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
@@ -1058,39 +1058,185 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250621052300 +0200" stop="20250621060000 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+  <programme start="20250621052200 +0200" stop="20250621053800 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 </desc>
-    <category lang="es">Programa, Otros</category>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3994160.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20250621060000 +0200" stop="20250621100000 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250621053800 +0200" stop="20250621075500 +0200" channel="BOM Cine">
+    <title lang="es">Baaria</title>
+    <sub-title lang="es">[COLOR teal]Cine/Romance/Drama[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
+    <desc lang="es">· La vida en Baaria en los años 30. Un joven proveniente de una familia pobre de pastores de ovejas lucha por los derechos de los agricultores.
+[COLOR teal]· País:[/COLOR] Francia, Italia 
+[COLOR teal]· Dirección:[/COLOR] Giuseppe Tornatore.
+[COLOR teal]· Reparto:[/COLOR] Margareth Madè, Francesco Scianna, Lina Sastri, Nicole Grimaudo, Raoul Bova, Ángela Molina, Giorgio Faletti, Valentino Picone, Salvatore Ficarra, Lollo Franco, Alfio Sorbello, Salvo Ficarra Ficarra, Gaetano Aronica.
+[COLOR teal]· Guion:[/COLOR] Giuseppe Tornatore.
+[COLOR teal]· Música:[/COLOR] Ennio Morricone.
+[COLOR teal]· Producción:[/COLOR] Tarak Ben Ammar.</desc>
+    <category lang="es">Cine, Romance, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101610.jpg" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20250621100000 +0200" stop="20250621140000 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250621075500 +0200" stop="20250621094000 +0200" channel="BOM Cine">
+    <title lang="es">Dos razones para morir</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.1/10[/COLOR]</sub-title>
+    <desc lang="es">· Una joven presidiaria recién escapada de la cárcel se camela a un grupo de adolescentes para conseguir dinero y un coche.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Sondra Locke.
+[COLOR teal]· Reparto:[/COLOR] Rosanna Arquette, George Dzundza, Julie Ariola, Frances Fisher, Jason Hervey, Cuba Gooding Jr., Devon Gummersall, Craig Nigh.
+[COLOR teal]· Guion:[/COLOR] Timothy Albaugh, Tag Mendillo.
+[COLOR teal]· Música:[/COLOR] Jeff Rona.
+[COLOR teal]· Producción:[/COLOR] Andrew Form, Rick Lashbrook, Tag Mendillo.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012960.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250621140000 +0200" stop="20250621180000 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250621094000 +0200" stop="20250621112100 +0200" channel="BOM Cine">
+    <title lang="es">The golden job</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Un grupo de mercenarios se reúnen para planear un último gran robo: un cargamento de medicamentos que ayudará a un grupo de niños refugiados en África. Pero una traición hace fracasar la operación.
+[COLOR teal]· País:[/COLOR] CHN, HKG 
+[COLOR teal]· Dirección:[/COLOR] Kar Lok Chin.
+[COLOR teal]· Reparto:[/COLOR] Ekin Cheng, Jordan Chan, Michael Tse, Kar Lok Chin, Eric Tsang, Jerry Lamb Lamb.
+[COLOR teal]· Guion:[/COLOR] Susan Chan, Kar Lok Chin, Chi-Yin Cheung.
+[COLOR teal]· Música:[/COLOR] Kwong Wing Chan.
+[COLOR teal]· Producción:[/COLOR] Eric Tsang, Zsófia Kende.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4017147.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.6/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250621180000 +0200" stop="20250621220000 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-</desc>
-    <category lang="es">Programa, Otros</category>
+  <programme start="20250621112100 +0200" stop="20250621130300 +0200" channel="BOM Cine">
+    <title lang="es">El aprendiz de Kung Fu</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Comedia[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· El joven y torpe Jiang se las arregla para hacer trampas y llegar a lugares y a la fama con los que sólo podía soñar.
+[COLOR teal]· País:[/COLOR] HKG, TWN 
+[COLOR teal]· Dirección:[/COLOR] Chi-Hwa Chen.
+[COLOR teal]· Reparto:[/COLOR] Jackie Chan, Chung-erh Lung, Dean Shek, James Tien, Ma Wu, Cheng-Lan Chin, Chih-Ping Chiang, Chun-Erh Lung, Chin-Chu Chen, Kang Chin, Kang Ho.
+[COLOR teal]· Guion:[/COLOR] Ming Chi Tang, Jackie Chan.
+[COLOR teal]· Música:[/COLOR] Frankie Chan.</desc>
+    <category lang="es">Cine, Acción, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4200400.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250621130300 +0200" stop="20250621144800 +0200" channel="BOM Cine">
+    <title lang="es">Juntos para vencer</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1992[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Un adolescente acosado que sueña con ser el compañero de Chuck Norris se entrena en artes marciales para hacer realidad sus sueños.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Aaron Norris.
+[COLOR teal]· Reparto:[/COLOR] Beau Bridges, Jonathan Brandis, Mako, Chuck Norris, Julia Nickson-Soul, Danica McKellar, Julia Nickson, Joe Piscopo.
+[COLOR teal]· Guion:[/COLOR] Galen Thompson, Lou Illar.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049557.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250621144800 +0200" stop="20250621163300 +0200" channel="BOM Cine">
+    <title lang="es">El callejón de la muerte</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Suspense[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.5/10[/COLOR]</sub-title>
+    <desc lang="es">· Los hermanos Dalton asolan los pueblos del oeste americano a finales del siglo XIX, hasta que los habitantes de la zona deciden plantarles cara.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Nicholas Barton.
+[COLOR teal]· Reparto:[/COLOR] Delno Ebie, Sean Gestl, Ryan T. Johnson, Corey Cannon, Carl Bailey, Kaye Brownlee-France, Nicholas Barton, Justin France, Josh Outzen, Tristan Campbell, Jake Washburn, Hannah Smith, Julia Grace Anderson, Joshua R. Outzen.
+[COLOR teal]· Guion:[/COLOR] Nicholas Barton.</desc>
+    <category lang="es">Cine, Western, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050108.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250621163300 +0200" stop="20250621182000 +0200" channel="BOM Cine">
+    <title lang="es">Union Bound</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama/Aventuras[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· El sargento Joseph Hoover fue a la guerra para preservar los valores de la Unión. Tras ser capturado y enviado a un campo de prisioneros, consiguió escapar con la ayuda de los esclavos.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Harvey Lowry.
+[COLOR teal]· Reparto:[/COLOR] Seeley Drew, Isaac C. Singleton Jr., Randy Wayne, Matthew Ziff, Sean Stone, Andrew Seeley, Trish Cook, Tank Jones, Christian Fortune, Isaac C. Singleton Jr.
+[COLOR teal]· Guion:[/COLOR] John Errington.
+[COLOR teal]· Música:[/COLOR] Craig Brandwein, Cactus Moser, Dane Bryant Frazier.
+[COLOR teal]· Producción:[/COLOR] Michael Davis.</desc>
+    <category lang="es">Cine, Acción, Drama, Aventuras</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4001991.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250621182000 +0200" stop="20250621200100 +0200" channel="BOM Cine">
+    <title lang="es">...y dejaron de llamarle camposanto</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
+    <desc lang="es">· John y George McIntire son dos hermanos ingenuos que viajan a un pueblo del oeste sin ley para visitar a su padre.
+[COLOR teal]· País:[/COLOR] Italia 
+[COLOR teal]· Dirección:[/COLOR] Giuliano Carnimeo.
+[COLOR teal]· Reparto:[/COLOR] Gianni Garko, William Berger, Chris Chittell, John Fordyce, Franco Ressel, Ugo Fangareggi, Christopher Chittell.
+[COLOR teal]· Guion:[/COLOR] Enzo Barboni.
+[COLOR teal]· Música:[/COLOR] Bruno Nicolai.
+[COLOR teal]· Producción:[/COLOR] Mino Loy.</desc>
+    <category lang="es">Cine, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012976.jpg" />
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250621200100 +0200" stop="20250621213600 +0200" channel="BOM Cine">
+    <title lang="es">Justice</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Acción/Drama[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Un miembro de los US Marshal que busca justicia por el asesinato de su hermano defiende un pequeño pueblo de un alcalde corrupto.
+[COLOR teal]· País:[/COLOR] MEX, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Richard Gabai.
+[COLOR teal]· Reparto:[/COLOR] Stephen Lang, Jamie-Lynn Sigler, Jackson Rathbone, Nathan Parsons, Lesley-Anne Down, Ellen Hollman, Robert Carradine.
+[COLOR teal]· Guion:[/COLOR] John Lewis, Shawn Justice, D.C. Rahe, Jeff Seats.
+[COLOR teal]· Música:[/COLOR] Boris Zelkin.
+[COLOR teal]· Producción:[/COLOR] John Lewis, AJ Perez, Sean Skelding.</desc>
+    <category lang="es">Cine, Western, Acción, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012984.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250621213600 +0200" stop="20250621233200 +0200" channel="BOM Cine">
+    <title lang="es">Crash (Colisión)</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco/Suspense[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.7/10[/COLOR]</sub-title>
+    <desc lang="es">· En una sociedad llena de racismo y prejuicios, un grupo de personajes muy distintos entre sí se entrecruzan en varias situaciones extremas que dejan aflorar lo mejor y lo peor.
+[COLOR teal]· País:[/COLOR] AEE.UU., Alemania, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Paul Haggis.
+[COLOR teal]· Reparto:[/COLOR] Jennifer Esposito, Don Cheadle, Sandra Bullock, Thandie Newton, Matt Dillon, Karina Arroyave, Dato Bakhtadze, Thandiwe Newton, Sean Cory, Tony Danza, Art Chudabala, Sean C. Cooper.
+[COLOR teal]· Guion:[/COLOR] Paul Haggis, Bobby Moresco.
+[COLOR teal]· Música:[/COLOR] Mark Isham.
+[COLOR teal]· Producción:[/COLOR] Don Cheadle, Paul Haggis, Mark R. Harris, Robert Moresco, Cathy Schulman, Bob Yari, Bobby Moresco.</desc>
+    <category lang="es">Cine, Drama, Policíaco, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4074989.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.7/10</value>
+    </star-rating>
   </programme>
 </tv>
