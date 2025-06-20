@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 19/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 20/06/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,241 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250619012800 +0200" stop="20250619025600 +0200" channel="BOM Cine">
-    <title lang="es">Cosas insignificantes</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="es">· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
-[COLOR teal]· País:[/COLOR] España, MEX 
-[COLOR teal]· Dirección:[/COLOR] Andrea Martínez Crowther.
-[COLOR teal]· Reparto:[/COLOR] Jonathan Bravo, Regina De Los Cobos, Fátima Díaz, Carmelo Gómez, Fernando Luján, Lucía Jiménez, Bárbara Mori, Paulina Gaitán.
-[COLOR teal]· Guion:[/COLOR] Andrea Martínez Crowther.</desc>
-    <category lang="es">Cine, Drama, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027562.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619025600 +0200" stop="20250619043100 +0200" channel="BOM Cine">
-    <title lang="es">Ave María</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
-    <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
-[COLOR teal]· País:[/COLOR] MEX 
-[COLOR teal]· Dirección:[/COLOR] Eduardo Rossoff.
-[COLOR teal]· Reparto:[/COLOR] Juan Diego Botto, Ana Torrent, Ana Ofelia Murguía, Teresa López Tarín, Demián Bichir, Damián Alcázar, Fernando Torre Laphame, Gabriela Canudas, Carlos Arau Arau, Tere Tarin.
-[COLOR teal]· Guion:[/COLOR] Camille Thomasson.
-[COLOR teal]· Música:[/COLOR] Carles Cases.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008944.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619043100 +0200" stop="20250619063300 +0200" channel="BOM Cine">
-    <title lang="es">Blaze</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="es">· La vida del artista del country Blaze Foley en una historia de amor texana.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Ethan Hawke.
-[COLOR teal]· Reparto:[/COLOR] Ben Dickey, Alia Shawkat, Charlie Sexton, Josh Hamilton, Kris Kristofferson, Richard Linklater, Sam Rockwell, Steve Zahn, Ethan Hawke, Ritchie Montgomery, Wyatt Russell, Jenn Lyon, Lloyd Teddy Johnson Jr.
-[COLOR teal]· Guion:[/COLOR] Ethan Hawke, Sybil Rosen.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4210667.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619063300 +0200" stop="20250619081600 +0200" channel="BOM Cine">
-    <title lang="es">Se busca mujer</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Emma, un ama de llaves divorciada, es contratada por Richard Goddard, un profesor de universidad viudo de mediana edad.
-[COLOR teal]· País:[/COLOR] Canada, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Kiefer Sutherland.
-[COLOR teal]· Reparto:[/COLOR] Holly Hunter, Kiefer Sutherland, Michael Moriarty, Carrie Preston, Allegra Fulton, Shirley Douglas.
-[COLOR teal]· Guion:[/COLOR] Joanna McClelland Glass.
-[COLOR teal]· Música:[/COLOR] Jude Cole.
-[COLOR teal]· Producción:[/COLOR] Christopher Eberts, Damian Lee.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012964.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619081600 +0200" stop="20250619110800 +0200" channel="BOM Cine">
-    <title lang="es">El león del desierto</title>
-    <sub-title lang="es">[COLOR teal]Cine/Biográfico/Drama[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★8.2/10[/COLOR]</sub-title>
-    <desc lang="es">· 1929. Enfurecido y harto por los 20 años de lucha entre los patriotas beduinos y los colonizadores italianos, Benito Mussolini ordena al general Graziani capturar al líder de la resistencia: Omar Mukhtar.
-[COLOR teal]· País:[/COLOR] R.U., LBY, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Moustapha Akkad.
-[COLOR teal]· Reparto:[/COLOR] Anthony Quinn, Oliver Reed, Rod Steiger, Irene Papas, John Gielgud, Raf Vallone.
-[COLOR teal]· Guion:[/COLOR] H.A.L. Craig, David Butler, Paul Thompson.
-[COLOR teal]· Música:[/COLOR] Maurice Jarre.
-[COLOR teal]· Producción:[/COLOR] Moustapha Akkad.</desc>
-    <category lang="es">Cine, Biográfico, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050084.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>8.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619110800 +0200" stop="20250619124800 +0200" channel="BOM Cine">
-    <title lang="es">El reportero de la calle 42</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense[/COLOR] | [COLOR cadetblue]1987[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Jonathan Fisher, es un periodista sin dinero, que queriendo conseguir que le asignen algún reportaje, le cuenta al editor de su revista, que él conoce a un chulo de la calle, de Times Square, al que puede entrevistar.
-[COLOR teal]· País:[/COLOR] Canada, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Jerry Schatzberg.
-[COLOR teal]· Reparto:[/COLOR] Mimi Rogers, Jay Patterson, Kathy Baker, Christopher Reeve, Morgan Freeman, Andre Gregory, Anna Maria Horsford, Rick Aviles, Shari Hilton, Donna Bailey, Ed Van Nuys, Leslie Carlson, Michael J. Reynolds, Erik King, Frederick Rolf.
-[COLOR teal]· Guion:[/COLOR] David Freeman.
-[COLOR teal]· Música:[/COLOR] Miles Davis, Robert Irving.
-[COLOR teal]· Producción:[/COLOR] Yoram Globus, Menahem Golan.</desc>
-    <category lang="es">Cine, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4192805.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619124800 +0200" stop="20250619142500 +0200" channel="BOM Cine">
-    <title lang="es">En defensa propia</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1995[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc lang="es">· En la segunda guerra mundial, un capitán del ejército conduce a la caballería por un tortuoso camino hasta un arroyo para capturar ganado enemigo.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Robby Henson.
-[COLOR teal]· Reparto:[/COLOR] Patricia Clarkson, Kris Kristofferson, Chris Cooper, Robert Joy, Richard Tyson.
-[COLOR teal]· Guion:[/COLOR] Robby Henson.
-[COLOR teal]· Producción:[/COLOR] Robby Henson, Doug Lodato.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008956.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619142500 +0200" stop="20250619155700 +0200" channel="BOM Cine">
-    <title lang="es">Si te encuentras con Sartana... ruega por tu muerte</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western/Acción/Drama[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc lang="es">· En el Oeste, el forastero de túnica negra Sartana, anuncia su llegada con la lúgubre melodía de una caja de música, causando problemas y cadáveres.
-[COLOR teal]· País:[/COLOR] Alemania, Italia 
-[COLOR teal]· Dirección:[/COLOR] Gianfranco Parolini.
-[COLOR teal]· Reparto:[/COLOR] Klaus Kinski, William Berger, Sydney Chaplin, Heidi Fischer, Gianni Rizzo, Fernando Sancho, Carlo Tamberlani, Gianni Garko, Andrea Scotti, Franco Pesce.
-[COLOR teal]· Guion:[/COLOR] Werner Hauff, Renato Izzo, Gianfranco Parolini, Fabio Piccioni, Luigi De Santis, Adolfo Cagnacci.
-[COLOR teal]· Música:[/COLOR] Piero Piccioni.
-[COLOR teal]· Producción:[/COLOR] Aldo Addobbati, Theo Maria Werner.</desc>
-    <category lang="es">Cine, Western, Acción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4192809.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20250619155700 +0200" stop="20250619181500 +0200" channel="BOM Cine">
-    <title lang="es">Rojo atardecer</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
-    <desc lang="es">· 1956, invasión de Hungría. Unos ciudadanos intentan huir de Hungría cuando el país es invadido por las tropas soviéticas encargadas de reprimir la revuelta popular contra el gobierno comunista húngaro.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Anatole Litvak.
-[COLOR teal]· Reparto:[/COLOR] Deborah Kerr, Yul Brynner, Jason Robards, Robert Morley, E.G. Marshall, Anne Jackson, Ron Howard, Flip Mark, Kurt Kasznar, David Kossoff, Gerard Oury, Marie Daëms.
-[COLOR teal]· Guion:[/COLOR] George Tabori.
-[COLOR teal]· Música:[/COLOR] Georges Auric, Michel Michelet.
-[COLOR teal]· Producción:[/COLOR] Anatole Litvak.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012888.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619181500 +0200" stop="20250619200100 +0200" channel="BOM Cine">
-    <title lang="es">Caballos salvajes</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Drama/Western/Español[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="es">· El mestizo Chino, cuya única pasión es la cría de caballos, ofrece cobijo y protección en su rancho a Jamie Wagner, un fugitivo de la justicia.
-[COLOR teal]· País:[/COLOR] España, Francia, Italia 
-[COLOR teal]· Dirección:[/COLOR] John Sturges, Duilio Coletti.
-[COLOR teal]· Reparto:[/COLOR] John Sturges, Charles Bronson, Jill Ireland, Marcel Bozzuffi, Fausto Tozzi, Duilio Coletti, Vincent Van Patten, Ettore Manni, Corrado Gaipa Gaipa, Melissa Chimenti.
-[COLOR teal]· Guion:[/COLOR] Clair Huffaker.
-[COLOR teal]· Música:[/COLOR] Guido De Angelis, Maurizio De Angelis.
-[COLOR teal]· Producción:[/COLOR] John Sturges, Duilio Coletti, Dino De Laurentiis.</desc>
-    <category lang="es">Cine, Aventuras, Drama, Western, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012980.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619200100 +0200" stop="20250619214100 +0200" channel="BOM Cine">
-    <title lang="es">Mercenario De La Justicia</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Suspense/Acción[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
-    <desc lang="es">· John Seeger es contratado por una Empresa clandestina de la CIA para rescatar al hijo y a la esposa de un mercenario amigo suyo.
-[COLOR teal]· País:[/COLOR] ABW, EE.UU., ZAF 
-[COLOR teal]· Dirección:[/COLOR] Don E. FauntLeRoy.
-[COLOR teal]· Reparto:[/COLOR] Steven Seagal, Luke Goss, Roger Smith, Adrian Galley, Jacqueline Lord, Zaa Nkweta, Faye Peters, Bruce Young, Langley Kirkwood, Verity Price Price, Vivian Bieldt Bieldt, Peter Butler Butler, Farouk Valley-Omar, Tumi Mogoje, Michael K. Williams, Michael Kenneth Williams, Roger Guenveur Smith.
-[COLOR teal]· Guion:[/COLOR] Steve Collins, Danny Lerner, Steven Collins, Joe Halpin.
-[COLOR teal]· Música:[/COLOR] Stephen Edwards.
-[COLOR teal]· Producción:[/COLOR] Randall Emmett, George Furla.</desc>
-    <category lang="es">Cine, Drama, Suspense, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012848.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250619214100 +0200" stop="20250619231700 +0200" channel="BOM Cine">
-    <title lang="es">La máscara del ninja</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Una finca privada de Malibu Hills es asaltada por una banda enmascarada de asesinos ninja. Kenji Takeo, el propietario, es asesinado y Miko, su hija, es el único testigo vivo.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Bradford May.
-[COLOR teal]· Reparto:[/COLOR] Casper Van Dien, Bellamy Young, Anthony Wong Chau-Sang, Kristy Wu Wu, Anthony Brandon Wong, Ron Yuan.
-[COLOR teal]· Guion:[/COLOR] Brian Katkin.
-[COLOR teal]· Música:[/COLOR] Jonathan Snipes.
-[COLOR teal]· Producción:[/COLOR] Brian Martinez, Erik Olson.</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012852.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250619231700 +0200" stop="20250620010200 +0200" channel="BOM Cine">
-    <title lang="es">Resurrección</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Terror/Suspense[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Los detectives de homicidios de Chicago, Prudhome y Hollingsworth, son asignados para investigar un asesinato. Ambos se enredan en la trama de un asesino en serie cuyo objetivo es recrear el cuerpo de Cristo.
-[COLOR teal]· País:[/COLOR] Canada, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Russell Mulcahy, Stephen Gyllenhaal.
-[COLOR teal]· Reparto:[/COLOR] Christopher Lambert, David Cronenberg, Leland Orser, Rock Fox, James Kidnie, Barbara Tyson, Philip Williams, Rita Moreno, Nick Chinlund, Dana Delany, Brenda Fricker, Mitchell Kosterman, Jeff J.J. Authors, Mike Anscombe, Grace Kaufman, Patrick Chilvers.
-[COLOR teal]· Guion:[/COLOR] Christopher Lambert, Brad Mirman, Lewis John Carlino, Peachy Markowitz.
-[COLOR teal]· Música:[/COLOR] Jim McGrath, Debbie Wiseman.
-[COLOR teal]· Producción:[/COLOR] Christopher Lambert, Howard Baldwin, Karen Elise Baldwin, Patrick D. Choi, Richard Cohen, Jack Gilardi Jr., Nile Niami, Paul Pompia, John V. Stuckmeyer.</desc>
-    <category lang="es">Cine, Policíaco, Terror, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002819.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.3/10</value>
-    </star-rating>
-  </programme>
   <programme start="20250620010200 +0200" stop="20250620023000 +0200" channel="BOM Cine">
     <title lang="es">Un bombo en el camino</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
@@ -311,7 +76,7 @@
       <value>3.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250620062800 +0200" stop="20250620074900 +0200" channel="BOM Cine">
+  <programme start="20250620064800 +0200" stop="20250620080900 +0200" channel="BOM Cine">
     <title lang="es">Bienvenidos a Grecia</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia[/COLOR] | [COLOR cadetblue]2015[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
     <desc lang="es">· Jörg Geissner trabaja para un banco alemán que va a financiar la construcción de un hospital y una planta energética en Paladiki, una pequeña isla griega.
@@ -328,7 +93,7 @@
       <value>5.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250620074900 +0200" stop="20250620095100 +0200" channel="BOM Cine">
+  <programme start="20250620080900 +0200" stop="20250620100900 +0200" channel="BOM Cine">
     <title lang="es">El balneario de Battle Creek</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Biográfico/Clásico[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· El excéntrico doctor John Harvey Kellog (A. Hopkins), un defensor acérrimo de la vida natural, regenta un lujoso balneario en Battle Creek.
@@ -347,7 +112,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250620095100 +0200" stop="20250620112200 +0200" channel="BOM Cine">
+  <programme start="20250620100900 +0200" stop="20250620113800 +0200" channel="BOM Cine">
     <title lang="es">Shadrach, sueño prohibido</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
     <desc lang="es">· En una pequeña localidad sureña de Virginia, Paul pasa todo el tiempo que puede en casa de los Dabney, una humilde familia numerosa de las afueras.
@@ -366,7 +131,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250620112200 +0200" stop="20250620130000 +0200" channel="BOM Cine">
+  <programme start="20250620113800 +0200" stop="20250620131300 +0200" channel="BOM Cine">
     <title lang="es">Alias Jesse James</title>
     <sub-title lang="es">[COLOR teal]Cine/Comedia/Western/Romance[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
     <desc lang="es">· Milford Farsnworth es un agente de seguros novato que vende una póliza a T. J. James, descubriendo luego que se trata del famoso Jesse James.
@@ -385,7 +150,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250620130000 +0200" stop="20250620145100 +0200" channel="BOM Cine">
+  <programme start="20250620131300 +0200" stop="20250620145100 +0200" channel="BOM Cine">
     <title lang="es">Halcones de mar</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1992[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Hammer y Dean son S.E.A.L.S. por pasión. Esto les une durante su entrenamiento. Pero entonces ocurre: ambos se enamoran de la misma mujer.
@@ -471,7 +236,7 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250620213800 +0200" stop="20250620233300 +0200" channel="BOM Cine">
+  <programme start="20250620213900 +0200" stop="20250620233500 +0200" channel="BOM Cine">
     <title lang="es">Hostage</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense/Policíaco[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
     <desc lang="es">· Cuando una familia es tomada como rehén, el exnegociador de rehenes Jeff Talley llega a la escena. Su propia familia es secuestrada, así que debe decidir entre salvar a una familia que ni siquiera conoce o salvar a su propia familia.
@@ -490,7 +255,7 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250620233300 +0200" stop="20250621004600 +0200" channel="BOM Cine">
+  <programme start="20250620233500 +0200" stop="20250621004900 +0200" channel="BOM Cine">
     <title lang="es">Fuego en el Amazonas</title>
     <sub-title lang="es">[COLOR teal]Cine/Acción/Aventuras/Drama[/COLOR] | [COLOR cadetblue]1993[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.5/10[/COLOR]</sub-title>
     <desc lang="es">· El líder del movimiento nativo antidesforestación es asesinado. Un periodista se interna en la selva para investigar su muerte.
@@ -509,7 +274,7 @@
       <value>3.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250621004600 +0200" stop="20250621022200 +0200" channel="BOM Cine">
+  <programme start="20250621004900 +0200" stop="20250621022500 +0200" channel="BOM Cine">
     <title lang="es">Nosferatu, el vampiro de la noche</title>
     <sub-title lang="es">[COLOR teal]Cine/Terror/Drama[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
     <desc lang="es">· Adaptación de la famosa novela de Bram Stoker que toma como punto de referencia la insuperable adaptación de Murnau.
@@ -528,7 +293,7 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250621022200 +0200" stop="20250621035500 +0200" channel="BOM Cine">
+  <programme start="20250621022500 +0200" stop="20250621035800 +0200" channel="BOM Cine">
     <title lang="es">Cazadores de mujeres</title>
     <sub-title lang="es">[COLOR teal]Cine/Suspense[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· El detective privado Mike Hammer investiga el paradero de Velda, su secretaria desaparecida.
@@ -545,7 +310,7 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250621035500 +0200" stop="20250621052200 +0200" channel="BOM Cine">
+  <programme start="20250621035800 +0200" stop="20250621052600 +0200" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR teal]Cine/Suspense/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
@@ -564,7 +329,7 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250621052200 +0200" stop="20250621053800 +0200" channel="BOM Cine">
+  <programme start="20250621052600 +0200" stop="20250621055800 +0200" channel="BOM Cine">
     <title lang="es">Teletienda</title>
     <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
@@ -575,7 +340,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250621053800 +0200" stop="20250621075500 +0200" channel="BOM Cine">
+  <programme start="20250621055800 +0200" stop="20250621075500 +0200" channel="BOM Cine">
     <title lang="es">Baaria</title>
     <sub-title lang="es">[COLOR teal]Cine/Romance/Drama[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
     <desc lang="es">· La vida en Baaria en los años 30. Un joven proveniente de una familia pobre de pastores de ovejas lucha por los derechos de los agricultores.
@@ -1100,5 +865,47 @@
 </desc>
     <category lang="es">Programa, Otros</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250623220000 +0200" stop="20250624020000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250624020000 +0200" stop="20250624060000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250624060000 +0200" stop="20250624100000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250624100000 +0200" stop="20250624140000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250624140000 +0200" stop="20250624180000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250624180000 +0200" stop="20250624220000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
   </programme>
 </tv>
