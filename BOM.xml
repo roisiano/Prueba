@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 22/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 23/06/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,267 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250622010400 +0200" stop="20250622023200 +0200" channel="BOM Cine">
-    <title lang="es">La ciudad del miedo</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.7/10[/COLOR]</sub-title>
-    <desc lang="es">· El reportero Steve Roberts viaja a La Habana donde le espera su amigo el Dr. Charlie Venco, para revelarle sus descubrimientos científicos...
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Mark Roper.
-[COLOR teal]· Reparto:[/COLOR] Gary Daniels, Carol Campbell, Richard Clarkin, Meglena Karalambova, Bashar Rahal.
-[COLOR teal]· Guion:[/COLOR] Harry Alan Towers, Les Weldon.
-[COLOR teal]· Música:[/COLOR] Serge Colbert, Russell Walker.
-[COLOR teal]· Producción:[/COLOR] Gary Howsam, Danny Lerner, Harry Alan Towers, David Varod.</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012996.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622023200 +0200" stop="20250622041700 +0200" channel="BOM Cine">
-    <title lang="es">DALÍ</title>
-    <sub-title lang="es">[COLOR teal]Cine/Biográfico/Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
-[COLOR teal]· País:[/COLOR] BGR, España 
-[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
-[COLOR teal]· Reparto:[/COLOR] Lorenzo Quinn, Sarah Douglas, Valentín Fernández-Tubau, Michael Catlin, Rosa Novell, Francisco Guijar, Katherine Wallach.
-[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Enric Gomà, Temístocles López, Miquel Sanz.
-[COLOR teal]· Música:[/COLOR] Antonio Sechi.</desc>
-    <category lang="es">Cine, Biográfico, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009068.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622041700 +0200" stop="20250622055600 +0200" channel="BOM Cine">
-    <title lang="es">Trece Entre Mil</title>
-    <sub-title lang="es">[COLOR teal]Cine/Documentales[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Testimonios de hombres, mujeres y niños cuyas vidas se vieron trágicamente destrozadas por la violencia de la banda terrorista ETA.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Iñaki Arteta.
-[COLOR teal]· Guion:[/COLOR] Iñaki Arteta, Alfonso Galletero.
-[COLOR teal]· Música:[/COLOR] Eduardo Basterra, Pat Metheny, Monserrat Obeso.</desc>
-    <category lang="es">Cine, Documentales</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050056.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622055600 +0200" stop="20250622070500 +0200" channel="BOM Cine">
-    <title lang="es">Flirteando con el amor</title>
-    <sub-title lang="es">[COLOR teal]Cine/Comedia[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.5/10[/COLOR]</sub-title>
-    <desc lang="es">· Guionistas novatos se retiran a una tranquila casa de campo para trabajar en un libreto, pero una constelación de personajes necesarios produce constantes interrupciones.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Adam Rapp.
-[COLOR teal]· Reparto:[/COLOR] Iván Martín, Marisa Tomei, Sam Rockwell, Natasha Lyonne, Michael Godere, Brian Geraghty.
-[COLOR teal]· Guion:[/COLOR] Iván Martín, Michael Godere.</desc>
-    <category lang="es">Cine, Comedia</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109730.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622070500 +0200" stop="20250622084400 +0200" channel="BOM Cine">
-    <title lang="es">Tercera identidad</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Romance/Suspense[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Años 60. Sally Cauffield es una estadounidense casada con Leo Cauffield, un inglés con doble vida: es periodista y agente de la KGB. Tras varios años de matrimonio, Leo desaparece, Sally lo busca y cuando lo encuentra se entera de que es un espía.
-[COLOR teal]· País:[/COLOR] Canada, R.U., EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Marek Kanievska.
-[COLOR teal]· Reparto:[/COLOR] Sharon Stone, Rupert Everett, John Bourgeois, Julian Wadham, Michael Cochrane, Anne Lambton, Jim Piddock, Emily VanCamp, Mark Rendall, Mimi Kuzyk, Richard McMillan, Tamara Hope, Edward Hibbert, Damir Andrei, Sonja Smits.
-[COLOR teal]· Guion:[/COLOR] Jim Piddock.
-[COLOR teal]· Música:[/COLOR] Normand Corbeil.
-[COLOR teal]· Producción:[/COLOR] Michael Cowan, Richard Lalonde, Jason Piette, Jan H. Vocke.</desc>
-    <category lang="es">Cine, Drama, Romance, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4028270.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622084400 +0200" stop="20250622110900 +0200" channel="BOM Cine">
-    <title lang="es">Trece días</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense/Biográfico/Drama[/COLOR] | [COLOR cadetblue]2000[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
-    <desc lang="es">· En 1962, fotografías aéreas obtenidas por un avión del ejército norteamericano sobre Cuba revelan que los soviéticos están colocando armas nucleares en el país caribeño. El presidente Kennedy y sus colaboradores ordenan el bloqueo de la isla.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Roger Donaldson.
-[COLOR teal]· Reparto:[/COLOR] Kevin Costner, Jon Foster, Bruce Greenwood, Dylan Baker, Caitlin Wachs, Stephanie Romanov, Matthew Dunn, Drake Cook, Lucinda Jenney, Shawn Driscoll, Henry Strozier, Frank Wood, Michael Fairman, Steven Culp, Tim Jerome, Boris Krutonog, Kelly Connell, Peter White, Robert Munstis, Kevin Conway, Vivien Straus, Todd Sible, Tim Kelleher, Marya Kazakova, Joseph Repoff, Ben Koldyke, Colette O'Connell, Zitto Kazann, Amari Smith, Alan Francis, Marliese Schnieder, Karl Makinen, David O'Donnell, Alex Veadov, Daniel Ziskie, Darryl Smith, Kevin O'Donnell, Walter Adrian, Audrey Rapoport, Reuben Moreno, J. Smith, Oleg Vidov, Jack Blessing, Christopher Lawford, Len Cariou, Alan Graf, Charles Barrett, Gene Del Bianco, Elya Baskin, Cliff Fleming, John Aylward, Chris Coffey, Craig Hosking, Thomas Roberts, Tom Everett, Karen Ludwig, Janet Coleman, James Karen, Sean Bergin, Daniel Vergara, Liz Sinclair, Radu Gavor, Bill Smitrovich, Bruce Thomas, Michael Gaston, Olek Krupa, Charles Esten, Dakin Matthews, Madison Mason, Jack McGee, Robert Miranda.
-[COLOR teal]· Guion:[/COLOR] David Self, Philip D. Zelikow, Ernest R. May.
-[COLOR teal]· Música:[/COLOR] Trevor Jones.
-[COLOR teal]· Producción:[/COLOR] Peter O. Almond, Armyan Bernstein, Kevin Costner.</desc>
-    <category lang="es">Cine, Suspense, Biográfico, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4083549.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622110900 +0200" stop="20250622124800 +0200" channel="BOM Cine">
-    <title lang="es">El guerrero del bosque</title>
-    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Familiar[/COLOR] | [COLOR cadetblue]1996[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★3.7/10[/COLOR]</sub-title>
-    <desc lang="es">· Unos niños amantes de la naturaleza escuchan atentamente el relato de un anciano al calor de una hoguera. El hombre cuenta la leyenda de Jeremiah McKenna, un hombre que habitaba en las montañas a finales del siglo pasado.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Aaron Norris.
-[COLOR teal]· Reparto:[/COLOR] Chuck Norris, William Sanderson, Terry Kiser, Max Gail, Roscoe Lee Browne, Megan Paul, Trenton Knight.
-[COLOR teal]· Guion:[/COLOR] Ron Swanson, Galen Thompson.
-[COLOR teal]· Música:[/COLOR] Bill Elliott.
-[COLOR teal]· Producción:[/COLOR] Andy Howard.</desc>
-    <category lang="es">Cine, Aventuras, Familiar</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4140024.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622124800 +0200" stop="20250622145700 +0200" channel="BOM Cine">
-    <title lang="es">Dos ladrones y medio</title>
-    <sub-title lang="es">[COLOR teal]Cine/Comedia/Acción/Policíaco[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Fong es un ladrón que siempre pierde todo lo ganado en las apuestas. Su gran oportunidad llegará de la mano de un mafioso que le pide que secuestre al bebé.
-[COLOR teal]· País:[/COLOR] HKG 
-[COLOR teal]· Dirección:[/COLOR] Benny Chan.
-[COLOR teal]· Reparto:[/COLOR] Jackie Chan, Michael Hui, Louis Koo, Charlene Choi, Biao Yuen, Yuanyuan Gao Gao, Teresa Carpio, Andrew Lin, Conroy Chan Chi-Chung, Ken Wong, Ken Lo (Ken Low), Hiro Hayama, Cherrie Ying, On-on Yu, Terence Yin.
-[COLOR teal]· Guion:[/COLOR] Jackie Chan, Alan Yuen.
-[COLOR teal]· Música:[/COLOR] Fai Young Chan.
-[COLOR teal]· Producción:[/COLOR] Benny Chan.</desc>
-    <category lang="es">Cine, Comedia, Acción, Policíaco</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4013016.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622145700 +0200" stop="20250622163200 +0200" channel="BOM Cine">
-    <title lang="es">Invicto</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Policíaco/Drama[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
-    <desc lang="es">· El campeón mundial de boxeo en la categoría de pesos pesados George 'Iceman' Chambers es enviado a prisión acusado de violación.
-[COLOR teal]· País:[/COLOR] Alemania, JPN, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Walter Hill.
-[COLOR teal]· Reparto:[/COLOR] Peter Falk, Wes Studi, Wesley Snipes, Ving Rhames, Michael Rooker, Fisher Stevens, Jon Seda, Johnny Williams, Denis Arndt, Nils Allen Stewart, Amy Aquino, Jim Lampley, Joe D'Angerio, Ed Lover, Dayton Callie.
-[COLOR teal]· Guion:[/COLOR] Walter Hill, David Giler.
-[COLOR teal]· Música:[/COLOR] Stanley Clarke.
-[COLOR teal]· Producción:[/COLOR] Walter Hill, Brad Krevoy, David Giler, Andrew Sugerman.</desc>
-    <category lang="es">Cine, Acción, Policíaco, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4013028.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622163200 +0200" stop="20250622181400 +0200" channel="BOM Cine">
-    <title lang="es">Air Rage</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Aventuras[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.3/10[/COLOR]</sub-title>
-    <desc lang="es">· El vuelo comercial 777 de Atlantic Airways ha sido secuestrado. El coronel Skyes y sus marines rebeldes buscan vengarse de uno de los pasajeros, el jefe del Consejo de Seguridad Nacional.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Fred Olen Ray.
-[COLOR teal]· Reparto:[/COLOR] Ice-T, Cyril O'Reilly, Rick Cramer, Kimberly Oja, Alexandra Raines, Gil Gerard, Steve Hytner, Glynn Turman.
-[COLOR teal]· Guion:[/COLOR] Sean O'Bannon.
-[COLOR teal]· Música:[/COLOR] Eric Wurst, David Wurst.
-[COLOR teal]· Producción:[/COLOR] Don Key Jr., Alison Semenza.</desc>
-    <category lang="es">Cine, Acción, Aventuras</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4013020.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622181400 +0200" stop="20250622200100 +0200" channel="BOM Cine">
-    <title lang="es">La leyenda del Llanero Solitario</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western/Acción[/COLOR] | [COLOR cadetblue]1981[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
-    <desc lang="es">· John Reid sobrevive a una emboscada y, junto a su amigo Tonto, caza a la banda de Cabendish, volviéndose un héroe conocido como el Llanero Solitario.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] William A. Fraker.
-[COLOR teal]· Reparto:[/COLOR] Matt Clark, Michael Horse, Juanin Clay, Klinton Spilsbury, Christopher Lloyd, Jason Robards, David Hayward, Richard Farnsworth, Theodore J. Flicker, John Bennett Perry, John Hart, Lincoln Tate.
-[COLOR teal]· Guion:[/COLOR] Ivan Goff, Ben Roberts, Michael Kane, William Roberts.
-[COLOR teal]· Música:[/COLOR] John Barry.
-[COLOR teal]· Producción:[/COLOR] Walter Coblenz, Martin Starger, Jack Wrather, Dick Gallegly.</desc>
-    <category lang="es">Cine, Western, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012836.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622200100 +0200" stop="20250622214100 +0200" channel="BOM Cine">
-    <title lang="es">The Contract</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco/Suspense[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Un padre y un hijo de acampada en el bosque, deben rescatar de un coche que ha sufrido un accidente a un asesino a sueldo y al agente que lo custodiaba.
-[COLOR teal]· País:[/COLOR] Alemania, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Bruce Beresford.
-[COLOR teal]· Reparto:[/COLOR] Morgan Freeman, John Cusack, Alice Krige, Megan Dodds, Jonathan Hyde, Jamie Anderson, Corey Johnson.
-[COLOR teal]· Guion:[/COLOR] Stephen M. Katz, John Darrouzet, Stephen Katz.
-[COLOR teal]· Música:[/COLOR] Normand Corbeil.
-[COLOR teal]· Producción:[/COLOR] Randall Emmett, George Furla, Avi Lerner, Danny Lerner, Andreas Schmid, Les Weldon.</desc>
-    <category lang="es">Cine, Drama, Policíaco, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059557.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622214100 +0200" stop="20250622234000 +0200" channel="BOM Cine">
-    <title lang="es">Combate en el desierto</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense/Aventuras[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
-    <desc lang="es">· Yehia, un exmilitar conocido como Faraón, reúne seis de sus amigos, cada uno con una habilitad de combate única, para viajar a Siria con el pretexto de ser cazarrecompensas.
-[COLOR teal]· País:[/COLOR] EGY, SAustralia 
-[COLOR teal]· Dirección:[/COLOR] Raouf Abd El Aziz.
-[COLOR teal]· Reparto:[/COLOR] Mahmoud Abdulmoghni, Suzan Najm Aldeen, Ramez Amir, Hafþór Júl Björnsson, Ahmed Fahmy, Mike Tyson, Amr Saad, Muhammad Lutfi, Bayoumi Fouad, Hafþór Júlíus Björnsson.
-[COLOR teal]· Guion:[/COLOR] Kareem Hassan Beshir, Karim Hassan Beshir.
-[COLOR teal]· Música:[/COLOR] Khaled Dagher.
-[COLOR teal]· Producción:[/COLOR] Mohamed El Sobky.</desc>
-    <category lang="es">Cine, Acción, Suspense, Aventuras</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049561.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250622234000 +0200" stop="20250623010900 +0200" channel="BOM Cine">
-    <title lang="es">Galveston</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco/Acción[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="es">· Roy Cady (Ben Foster) es un asesino a sueldo en New Orleans cuya vida da un giro radical el día que le diagnostican un cáncer de pulmón.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Mélanie Laurent.
-[COLOR teal]· Reparto:[/COLOR] Ben Foster, Elle Fanning, Lili Reinhart, María Valverde, Beau Bridges, Robert Aramayo, Mark Hicks, Adepero Oduye, Michael Ray Escamilla, C.K. McFarland McFarland, Jeffrey Grover, Christopher Amitrano, Rob Steinberg, G. Peter King Peter King, Jimmie Lee Sessoms, Don A. King, Sean Von Buseck, Michael John Lane.
-[COLOR teal]· Guion:[/COLOR] Nic Pizzolatto.
-[COLOR teal]· Música:[/COLOR] Marc Chouarain, Eugenie Jacobson.
-[COLOR teal]· Producción:[/COLOR] Tyler Davidson.</desc>
-    <category lang="es">Cine, Drama, Policíaco, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4200404.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
   <programme start="20250623010900 +0200" stop="20250623024000 +0200" channel="BOM Cine">
     <title lang="es">Blood quantum</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama/Terror/Suspense[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
@@ -1297,6 +1036,260 @@
     </rating>
     <star-rating system="ES">
       <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250626233800 +0200" stop="20250627010600 +0200" channel="BOM Cine">
+    <title lang="es">Alta tensión</title>
+    <sub-title lang="es">[COLOR teal]Cine/Suspense[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.7/10[/COLOR]</sub-title>
+    <desc lang="es">· Marie va con su amiga Alex a pasar un fin de semana en la casa de campo de los padres de esta. Esa misma noche, un solitario psicópata fetichista penetra en la mansión, mata a la familia de Alex y la secuestra para torturarla.
+[COLOR teal]· País:[/COLOR] Francia, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Alexandre Aja.
+[COLOR teal]· Reparto:[/COLOR] Cécile De France, Philippe Nahon, Maïwenn Le Besco, Franck Khalfoun, Andrei Finti, Oana Pellea, Gabriel Spahiu, Bogdan Uritescu, Jean-Claude de Goros de Goros, Marco Claudiu Pascu.
+[COLOR teal]· Guion:[/COLOR] Alexandre Aja, Grégory Levasseur.
+[COLOR teal]· Música:[/COLOR] François Eudes.
+[COLOR teal]· Producción:[/COLOR] Alexandre Arcady, Robert Benmussa.</desc>
+    <category lang="es">Cine, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4058306.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627010600 +0200" stop="20250627022200 +0200" channel="BOM Cine">
+    <title lang="es">Guía sexual para una segunda cita</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Comedia Romántica[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Tras conocerse en una noche de fiesta, dos jóvenes quedan en la casa de uno de ellos como segunda cita. El objetivo es ver una película en el dormitorio y salir luego a cenar.
+[COLOR teal]· País:[/COLOR] R.U., REE.UU., EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Rachel Hirons.
+[COLOR teal]· Reparto:[/COLOR] Naomi Willow, Alexandra Roach, George MacKay, Michael Socha, Gillian Elisa, Tom Bell, Emma Rigby, Kae Alexander.
+[COLOR teal]· Guion:[/COLOR] Rachel Hirons.</desc>
+    <category lang="es">Cine, Drama, Comedia Romántica</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012864.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627022200 +0200" stop="20250627033700 +0200" channel="BOM Cine">
+    <title lang="es">Moscow Zero</title>
+    <sub-title lang="es">[COLOR teal]Cine/Terror/Suspense/Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Owen, un investigador estadounidense, busca a su amigo desaparecido en las catacumbas de Moscú, donde se enfrenta al guardián del Infierno, Andrey. Para continuar su misión, hace un trato que podría ser un pacto con el Diablo.
+[COLOR teal]· País:[/COLOR] España, R.U., JPN 
+[COLOR teal]· Dirección:[/COLOR] María Lidón, Luna.
+[COLOR teal]· Reparto:[/COLOR] Vincent Gallo, Rade Serbedzija, Joaquim de Almeida, Val Kilmer, Joss Ackland, Álex O'Dogherty, Oksana Akinshina, Sage Stallone, Rade Sherbedgia, Julio Perillán, Borja Romaniv, Juan Carlos Guerrero, Roman Shamko, Marilo Muñoz, Alejandro Horeyda, Ekaterina Vovenko.
+[COLOR teal]· Guion:[/COLOR] Adela Ibañez.
+[COLOR teal]· Producción:[/COLOR] Dolo Magan.</desc>
+    <category lang="es">Cine, Terror, Suspense, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049465.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627033700 +0200" stop="20250627052100 +0200" channel="BOM Cine">
+    <title lang="es">DALÍ</title>
+    <sub-title lang="es">[COLOR teal]Cine/Biográfico/Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
+    <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
+[COLOR teal]· País:[/COLOR] BGR, España 
+[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
+[COLOR teal]· Reparto:[/COLOR] Lorenzo Quinn, Sarah Douglas, Valentín Fernández-Tubau, Michael Catlin, Rosa Novell, Francisco Guijar, Katherine Wallach.
+[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Enric Gomà, Temístocles López, Miquel Sanz.
+[COLOR teal]· Música:[/COLOR] Antonio Sechi.</desc>
+    <category lang="es">Cine, Biográfico, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009068.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627052100 +0200" stop="20250627052500 +0200" channel="BOM Cine">
+    <title lang="es">Teletienda</title>
+    <sub-title lang="es">[COLOR teal]Programa/Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+</desc>
+    <category lang="es">Programa, Consumo</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3994160.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250627052500 +0200" stop="20250627063100 +0200" channel="BOM Cine">
+    <title lang="es">Locos del aire</title>
+    <sub-title lang="es">[COLOR teal]Cine/Comedia/Familiar[/COLOR] | [COLOR cadetblue]1939[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· 1939. Ollie se enamora de la hija del posadero en París. El único problema es que ella está muy enamorada de su marido. Para olvidarla, se une a la Legión Extranjera con Stan. Mala idea.
+[COLOR teal]· País:[/COLOR] R.U., EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] A. Edward Sutherland.
+[COLOR teal]· Reparto:[/COLOR] Stan Laurel, Oliver Hardy, Jean Parker, Reginald Gardiner, Charles Middleton.
+[COLOR teal]· Guion:[/COLOR] Ralph Spence, Charley Rogers, Alfred Schiller, Harry Langdon, Fred Schiller.
+[COLOR teal]· Música:[/COLOR] John Leipold, Leo Shuken.
+[COLOR teal]· Producción:[/COLOR] Boris Morros.</desc>
+    <category lang="es">Cine, Comedia, Familiar</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4083006.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250627063100 +0200" stop="20250627080000 +0200" channel="BOM Cine">
+    <title lang="es">African express</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1990[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★3.3/10[/COLOR]</sub-title>
+    <desc lang="es">· Las aventuras de tres amigos que manejan un negocio de vuelos aéreos en África.
+[COLOR teal]· País:[/COLOR] ZAF 
+[COLOR teal]· Dirección:[/COLOR] Bruce McFarlane.
+[COLOR teal]· Reparto:[/COLOR] Megan Davis, Patrick Dollaghan, Monthy Egnos, Graham Hopkins, Elliot Joseph, Danny Keogh, Karen Mayo-Chandler, Trish Downing, Russel Savadier.
+[COLOR teal]· Guion:[/COLOR] Mario Amendola, Sergio Corbucci, Gabriele Marlin, Terry Asbury.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050064.jpg" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627080000 +0200" stop="20250627094500 +0200" channel="BOM Cine">
+    <title lang="es">El ángel y el pistolero</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Drama/Romance[/COLOR] | [COLOR cadetblue]1947[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
+    <desc lang="es">· Un malvado pistolero, herido, es socorrido por una familia en un pequeño pueblo. Las atenciones de la hija, hacen que se enamore y que se produzca un cambio en su manera de pensar, queriendo abandonar la vida de pistolero. Pero su enemigo aún le persigue.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] James Edward Grant.
+[COLOR teal]· Reparto:[/COLOR] John Wayne, Gail Russell, Harry Carey, Bruce Cabot, Irene Rich, Lee Dixon, Stephen Grant, Tom Powers, Paul Hurst, Olin Howlin, Olin Howland, John Halloran, Craig Woods, Joan Barton, Marshall Reed.
+[COLOR teal]· Guion:[/COLOR] James Edward Grant.
+[COLOR teal]· Música:[/COLOR] Richard Hageman.
+[COLOR teal]· Producción:[/COLOR] John Wayne.</desc>
+    <category lang="es">Cine, Western, Drama, Romance</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049417.jpg" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627094500 +0200" stop="20250627112500 +0200" channel="BOM Cine">
+    <title lang="es">Reza al muerto, mata al vivo</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Western[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
+    <desc lang="es">· La familia del aventurero John Webb ha sido asesinada por el Ku Klux Klan. Webb busca al asesino.
+[COLOR teal]· País:[/COLOR] Italia 
+[COLOR teal]· Dirección:[/COLOR] Giuseppe Vari.
+[COLOR teal]· Reparto:[/COLOR] Dino Strano, Dante Maggio, Victoria Zinny, Klaus Kinski, Paolo Casella, Antonio La Raina, Patrizia Adiutori, Anna Zinnemann, Fortunato Arena.
+[COLOR teal]· Guion:[/COLOR] Adriano Bolzoni.</desc>
+    <category lang="es">Cine, Acción, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4220642.jpg" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627112500 +0200" stop="20250627124600 +0200" channel="BOM Cine">
+    <title lang="es">El Zorro y los 3 mosqueteros</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· En la primera mitad del siglo XVII, España está en guerra con Francia. Isabel, prima del rey de España, es retenida por los franceses en un castillo y el conde de Sevilla, que aspira a su mano, se ofrece para liberarla.
+[COLOR teal]· País:[/COLOR] Italia 
+[COLOR teal]· Dirección:[/COLOR] Luigi Capuano, Louis Capuano.
+[COLOR teal]· Reparto:[/COLOR] Jordan Scott, José Greci, Giacomo Rossi-Stuart, Livio Lorenzon, Franco Fantasia, Nazzareno Zamperla, Roberto Risso, Gordon Scott.
+[COLOR teal]· Guion:[/COLOR] Roberto Gianviti, Italo De Tuddo, Johnston McCulley.</desc>
+    <category lang="es">Cine, Aventuras</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4220646.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250627124600 +0200" stop="20250627142800 +0200" channel="BOM Cine">
+    <title lang="es">Aladino</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras/Fantasía/Comedia[/COLOR] | [COLOR cadetblue]1986[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Un muchacho pobre de nombre Al haddin encuentra una lámpara con la que invoca a un todopoderoso genio, que le concederá todos sus deseos, desde ligarse a la chica que le gusta hasta poder ganar un campeonato de ski acuático.
+[COLOR teal]· País:[/COLOR] Italia, NLD, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Bruno Corbucci.
+[COLOR teal]· Reparto:[/COLOR] Bud Spencer, Luca Venantini, Janet Agren, Julian Voloshin, Diamy Spencer, Umberto Raho.
+[COLOR teal]· Guion:[/COLOR] Dardano Sacchetti, Elisa Briganti, Mario Amendola, Bruno Corbucci, Marcello Fondato.</desc>
+    <category lang="es">Cine, Aventuras, Fantasía, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059158.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627142800 +0200" stop="20250627160800 +0200" channel="BOM Cine">
+    <title lang="es">Cabeza de pelotón</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]1988[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.3/10[/COLOR]</sub-title>
+    <desc lang="es">· Un joven oficial que acaba de salir de la academia de West Point es enviado a la guerra de Vietnam como líder de un pelotón.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Aaron Norris.
+[COLOR teal]· Reparto:[/COLOR] Michael Dudikoff, Robert F. Lyons, Michael DeLorenzo, Jesse Dabson, Daniel Demorest, Tony Pierce.
+[COLOR teal]· Guion:[/COLOR] Andrew Deutsch, Rick Marx, Harry Alan Towers, David L. Walker.
+[COLOR teal]· Música:[/COLOR] George S. Clinton.
+[COLOR teal]· Producción:[/COLOR] Harry Alan Towers.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4220650.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627160800 +0200" stop="20250627175900 +0200" channel="BOM Cine">
+    <title lang="es">Adiós al rey</title>
+    <sub-title lang="es">[COLOR teal]Cine/Aventuras[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Durante la II Guerra Mundial, los japoneses capturan a un soldado estadounidense. Este consigue escapar y se esconde en la jungla de Borneo, donde en dos años llegará a convertirse en rey de la tribu.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] John Milius.
+[COLOR teal]· Reparto:[/COLOR] Frank McRae, Nick Nolte, James Fox, Nigel Havers, Marius Weyers, Gerry Lopez, Marilyn Tokuda.
+[COLOR teal]· Guion:[/COLOR] John Milius, Pierre Schoendoerffer.</desc>
+    <category lang="es">Cine, Aventuras</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4220654.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250627175900 +0200" stop="20250627200100 +0200" channel="BOM Cine">
+    <title lang="es">Héroes sin patria</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Español[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Año 1846. John Riley, oficial norteamericano con raíces irlandesas, está al mando de un pelotón formado en su mayoría por soldados inmigrantes. Se dirigen a luchar cuando deciden que esa no es su guerra.
+[COLOR teal]· País:[/COLOR] España, MEX, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Lance Hool.
+[COLOR teal]· Reparto:[/COLOR] Tom Berenger, Joaquim de Almeida, Daniela Romo, Mark Moses, Stuart Graham, Gregg Fitzgerald, Don Wycherley.
+[COLOR teal]· Guion:[/COLOR] Milton S. Gelman.
+[COLOR teal]· Música:[/COLOR] Ernest Troost.
+[COLOR teal]· Producción:[/COLOR] Conrad Hool, Lance Hool, William J. MacDonald.</desc>
+    <category lang="es">Cine, Acción, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4126950.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250627200100 +0200" stop="20250627220000 +0200" channel="BOM Cine">
+    <title lang="es">Sol rojo</title>
+    <sub-title lang="es">[COLOR teal]Cine/Western/Acción/Español[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
+    <desc lang="es">· En 1860, un tren que cruza Arizona es asaltado. Los ladrones se llevan oro y una valiosa espada japonés que era regalo para el presidente.
+[COLOR teal]· País:[/COLOR] España, Francia, Italia 
+[COLOR teal]· Dirección:[/COLOR] Terence Young.
+[COLOR teal]· Reparto:[/COLOR] Charles Bronson, Ursula Andress, Alain Delon, Toshiro Mifune, Capucine, Julio Peña, Luc Merenda, Anthony Dawson, John Hamilton, Mónica Randall, Bart Barry, Lee Burton, Guido Lollobrigida, Barta Barri.
+[COLOR teal]· Guion:[/COLOR] Laird Koenig, Denne Bart Petitclerc, William Roberts, Lawrence Roman.
+[COLOR teal]· Música:[/COLOR] Maurice Jarre.
+[COLOR teal]· Producción:[/COLOR] Ted Richmond.</desc>
+    <category lang="es">Cine, Western, Acción, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009048.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.8/10</value>
     </star-rating>
   </programme>
 </tv>
