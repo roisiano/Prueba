@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 05/07/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 05/07/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -410,7 +410,7 @@
   </programme>
   <programme start="20250706145700 +0200" stop="20250706162800 +0200" channel="BOM Cine">
     <title lang="es">Sin control</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.9/10[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.9/10[/COLOR]</sub-title>
     <desc lang="es">· El agente secreto Jacques Kristoff recibe un encargo: escoltar a la ladrona de un mortífero virus, quien va a venderlo al gobierno estadounidense.
 [COLOR teal]· País:[/COLOR] ABW, EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Bob Misiorowski.
@@ -418,7 +418,7 @@
 [COLOR teal]· Guion:[/COLOR] Jace Anderson, Adam Gierasch, Boaz Davidson.
 [COLOR teal]· Música:[/COLOR] Serge Colbert.
 [COLOR teal]· Producción:[/COLOR] Boaz Davidson, Danny Lerner, Scott Putman.</desc>
-    <category lang="es">Cine, Acción</category>
+    <category lang="es">Cine, Acción, Suspense</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4139892.jpg" />
     <rating system="ES">
       <value>18</value>
