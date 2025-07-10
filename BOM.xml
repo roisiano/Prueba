@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/07/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/07/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,256 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250709004300 +0200" stop="20250709021900 +0200" channel="BOM Cine">
-    <title lang="es">Nosferatu, el vampiro de la noche</title>
-    <sub-title lang="es">[COLOR teal]Cine/Terror/Drama[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Adaptación de la famosa novela de Bram Stoker que toma como punto de referencia la insuperable adaptación de Murnau.
-[COLOR teal]· País:[/COLOR] Alemania, Francia 
-[COLOR teal]· Dirección:[/COLOR] Werner Herzog.
-[COLOR teal]· Reparto:[/COLOR] Klaus Kinski, Isabelle Adjani, Bruno Ganz, Roland Topor, Walter Ladengast, Dan van Husen, Clemens Scheitz, Rijk de Gooyer, Jan Groth Groth, Martje Grohmann Grohmann, Carsten Bodinus, Lo van Hensbergen, John Leddy, Tim Beekman, Margiet van Hartingsveld.
-[COLOR teal]· Guion:[/COLOR] Werner Herzog, Bram Stoker, Tom Shachtman, Martje Grohmann Grohmann.
-[COLOR teal]· Música:[/COLOR] Popol Vuh.
-[COLOR teal]· Producción:[/COLOR] Michael Gruskoff, Werner Herzog.</desc>
-    <category lang="es">Cine, Terror, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012860.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709021900 +0200" stop="20250709033500 +0200" channel="BOM Cine">
-    <title lang="es">Moscow Zero</title>
-    <sub-title lang="es">[COLOR teal]Cine/Terror/Suspense/Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
-    <desc lang="es">· Owen, un investigador estadounidense, busca a su amigo desaparecido en las catacumbas de Moscú, donde se enfrenta al guardián del Infierno, Andrey. Para continuar su misión, hace un trato que podría ser un pacto con el Diablo.
-[COLOR teal]· País:[/COLOR] España, R.U., JPN 
-[COLOR teal]· Dirección:[/COLOR] María Lidón, Luna.
-[COLOR teal]· Reparto:[/COLOR] Vincent Gallo, Rade Serbedzija, Joaquim de Almeida, Val Kilmer, Joss Ackland, Álex O'Dogherty, Oksana Akinshina, Sage Stallone, Rade Sherbedgia, Julio Perillán, Borja Romaniv, Juan Carlos Guerrero, Roman Shamko, Marilo Muñoz, Alejandro Horeyda, Ekaterina Vovenko.
-[COLOR teal]· Guion:[/COLOR] Adela Ibañez.
-[COLOR teal]· Producción:[/COLOR] Dolo Magan.</desc>
-    <category lang="es">Cine, Terror, Suspense, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049465.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709033500 +0200" stop="20250709050300 +0200" channel="BOM Cine">
-    <title lang="es">Enloquecidas</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense/Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
-    <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Juan Luis Iborra.
-[COLOR teal]· Reparto:[/COLOR] Silvia Abascal, Concha Velasco, Asunción Balaguer, Iván Sánchez, Verónica Forqué, Cesáreo Estébanez, Jordi Rebellón, Juli Mira, Javier Blanes, Valeria Arribas, Manu Berastegui.
-[COLOR teal]· Guion:[/COLOR] Juan Luis Iborra, Antonio Albert.
-[COLOR teal]· Música:[/COLOR] José Reinoso.
-[COLOR teal]· Producción:[/COLOR] Marc Cases, Sergio Castellote, Óscar del Caz, Carlos Ibáñez, Beatriz Navarrete, Miguel Ángel Poveda.</desc>
-    <category lang="es">Cine, Suspense, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012808.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709050300 +0200" stop="20250709062400 +0200" channel="BOM Cine">
-    <title lang="es">Las minas del rey Salmonete</title>
-    <sub-title lang="es">[COLOR teal]Cine/Comedia/Aventuras/Acción[/COLOR] | [COLOR cadetblue]1949[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="es">· Buzz Johnson y Stanley Livington tienen una vida tranquila trabajando como dependientes en una librería. Un día entra en la tienda una atractiva mujer, buscando un libro titulado 'África Negra'...
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Charles Barton.
-[COLOR teal]· Reparto:[/COLOR] Bud Abbott, Lou Costello, Clyde Beatty, Frank Buck, Max Baer, Hillary Brooke.
-[COLOR teal]· Guion:[/COLOR] Earl Baldwin, Leonard Stern, Martin Ragaway.
-[COLOR teal]· Música:[/COLOR] Walter Schumann.
-[COLOR teal]· Producción:[/COLOR] Huntington Hartford, Edward Nassour.</desc>
-    <category lang="es">Cine, Comedia, Aventuras, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4242343.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709062400 +0200" stop="20250709075500 +0200" channel="BOM Cine">
-    <title lang="es">U-Boat</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense/Drama[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="es">· El submarino estadounidense Swordfish es atacado por torpedos y los supervivientes son encontrados por un submarino alemán que pretende entregarlos como prisioneros de guerra a sus autoridades, pero un brote de meningitis a bordo lo cambiará todo.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Tony Giglio.
-[COLOR teal]· Reparto:[/COLOR] Til Schweiger, William H. Macy, Jeremy Sisto, Thomas Kretschmann, Lauren Holly, Scott Caan, Clark Gregg, Rene Heger.
-[COLOR teal]· Guion:[/COLOR] Tony Giglio, John E. Deaver.
-[COLOR teal]· Música:[/COLOR] Steven Bramson.
-[COLOR teal]· Producción:[/COLOR] John H. Brister.</desc>
-    <category lang="es">Cine, Suspense, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4139896.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709075500 +0200" stop="20250709104100 +0200" channel="BOM Cine">
-    <title lang="es">Fitzcarraldo</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Aventuras[/COLOR] | [COLOR cadetblue]1982[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Un hombre capaz de hacer cualquier cosa por conseguir su sueño de llevar el arte a un lejano pueblo en plena selva. Una historia fascinante sobre la ilusión y los deseos.
-[COLOR teal]· País:[/COLOR] Alemania, PER 
-[COLOR teal]· Dirección:[/COLOR] Werner Herzog.
-[COLOR teal]· Reparto:[/COLOR] Klaus Kinski, José Lewgoy, Miguel Ángel Fuentes, Paul Hittscher, Huerequeque Enrique Bohorquez, Claudia Cardinale, Peter Berling, William Rose, Grande Otelo Otelo, David Pérez Espinosa, Milton Nascimento, Ruy Polanah, Salvador Godínez, Dieter Milz, Leoncio Bueno.
-[COLOR teal]· Guion:[/COLOR] Werner Herzog.
-[COLOR teal]· Música:[/COLOR] Popol Vuh.
-[COLOR teal]· Producción:[/COLOR] Werner Herzog, Lucki Stipetic.</desc>
-    <category lang="es">Cine, Drama, Aventuras</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050144.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709104100 +0200" stop="20250709123300 +0200" channel="BOM Cine">
-    <title lang="es">Cita con la muerte</title>
-    <sub-title lang="es">[COLOR teal]Cine/Suspense/Drama[/COLOR] | [COLOR cadetblue]1988[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
-    <desc lang="es">· Poirot se encuentra de viaje en Tierra Santa y se ve obligado a investigar un caso cuando Lady Boynton aparece muerta.
-[COLOR teal]· País:[/COLOR] R.U., EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Michael Winner.
-[COLOR teal]· Reparto:[/COLOR] Lauren Bacall, John Gielgud, Carrie Fisher, Piper Laurie, Peter Ustinov, David Soul.
-[COLOR teal]· Guion:[/COLOR] Michael Winner, Anthony Shaffer, Peter Buckman, Agatha Christie.
-[COLOR teal]· Música:[/COLOR] Pino Donaggio.
-[COLOR teal]· Producción:[/COLOR] Michael Winner.</desc>
-    <category lang="es">Cine, Suspense, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049398.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709123300 +0200" stop="20250709144500 +0200" channel="BOM Cine">
-    <title lang="es">La cuadrilla de los once</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Drama/Acción[/COLOR] | [COLOR cadetblue]1960[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc lang="es">· Un grupo de once amigos, ex compañeros de armas durante la II Guerra Mundial, se reúnen bajo la dirección del magnate del juego Danny Ocean.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Lewis Milestone.
-[COLOR teal]· Reparto:[/COLOR] Sammy Davis Jr., Peter Lawford, Frank Sinatra, Richard Conte, Dean Martin, Angie Dickinson, César Romero, Jr., Sammy Davis, Sammy Davis Jr.
-[COLOR teal]· Guion:[/COLOR] George Clayton Johnson, Harry Brown, Charles Lederer.
-[COLOR teal]· Música:[/COLOR] Nelson Riddle, Jimmy Van Heusen.</desc>
-    <category lang="es">Cine, Policíaco, Drama, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101662.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709144500 +0200" stop="20250709162200 +0200" channel="BOM Cine">
-    <title lang="es">Submarino x-1</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Drama[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">· El Comandante Bolton (James Caan) pierde su submarino, el Gauntlet, y parte de su tripulación en una batalla naval contra los Nazis en el año 1943.
-[COLOR teal]· País:[/COLOR] R.U. 
-[COLOR teal]· Dirección:[/COLOR] William A. Graham.
-[COLOR teal]· Reparto:[/COLOR] James Caan, Brian Grellis, Nick Tate, David Sumner, Norman Bowler, Paul Young.
-[COLOR teal]· Guion:[/COLOR] Donald S. Sanford, Guy Elmes.
-[COLOR teal]· Música:[/COLOR] Ron Goodwin.</desc>
-    <category lang="es">Cine, Acción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012936.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20250709162200 +0200" stop="20250709180700 +0200" channel="BOM Cine">
-    <title lang="es">El regreso del río kwai</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
-    <desc lang="es">· Prisioneros de guerra del campo de construcción del puente de Kwai emprenden una difícil travesía a Japón.
-[COLOR teal]· País:[/COLOR] R.U. 
-[COLOR teal]· Dirección:[/COLOR] Andrew V. McLaglen.
-[COLOR teal]· Reparto:[/COLOR] Timothy Bottoms, George Takei, Edward Fox, Chris Penn, Nick Tate, Richard Graham, Denholm Elliott, Tatsuya Nakadai, Roonie Lazaro, Masato Nagamori, Paul Holm.
-[COLOR teal]· Guion:[/COLOR] Sargon Tamimi, Paul Mayersberg, Joan Blair.
-[COLOR teal]· Producción:[/COLOR] Kurt Unger.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101694.jpg" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709180700 +0200" stop="20250709200100 +0200" channel="BOM Cine">
-    <title lang="es">El gran silencio</title>
-    <sub-title lang="es">[COLOR teal]Cine/Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· 1968. Jean-Louis Trintignant, Klaus Kinski, Luigi Pistilli, Marisa Merlini.  Las montañas en el invierno sirven como telón de fondo para la historia de un pistolero mudo que lucha contra una banda de cazadores de recompensas.
-[COLOR teal]· País:[/COLOR] Francia, Italia 
-[COLOR teal]· Dirección:[/COLOR] Sergio Corbucci.
-[COLOR teal]· Reparto:[/COLOR] Jean-Louis Trintignant, Klaus Kinski, Frank Wolff, Marisa Merlín, Luigi Pistilli, Vionetta McGee, Mario Brega, Vonetta McGee.
-[COLOR teal]· Guion:[/COLOR] Mario Amendola, Bruno Corbucci, Sergio Corbucci, Vittoriano Petrilli.
-[COLOR teal]· Música:[/COLOR] Ennio Morricone.</desc>
-    <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012844.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250709200100 +0200" stop="20250709215400 +0200" channel="BOM Cine">
-    <title lang="es">Blood Money</title>
-    <sub-title lang="es">[COLOR teal]Cine/Acción/Suspense[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Un cartel de drogas colombiano une fuerzas con un grupo de Tríadas de Hong Kong y el sicario más caliente del planeta, para enviar dos toneladas de cocaína a Australia y China.
-[COLOR teal]· País:[/COLOR] AEE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Gregory McQualter, McQualter Gregory.
-[COLOR teal]· Reparto:[/COLOR] Alex Castro, Pauline Egan, Zheng Liu, Toby Barron, Byron J. Brochmann, Jerónimo García.
-[COLOR teal]· Guion:[/COLOR] Gregory McQualter.</desc>
-    <category lang="es">Cine, Acción, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002891.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250709215400 +0200" stop="20250709232800 +0200" channel="BOM Cine">
-    <title lang="es">Quicksand, juego sucio</title>
-    <sub-title lang="es">[COLOR teal]Cine/Drama/Policíaco[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Un banquero adicto al trabajo viaja a Mónaco para investigar las actividades de una empresa y se encuentra culpado de un asesinato y corriendo por su vida.
-[COLOR teal]· País:[/COLOR] Alemania, Francia, R.U. 
-[COLOR teal]· Dirección:[/COLOR] John Mackenzie.
-[COLOR teal]· Reparto:[/COLOR] Michael Keaton, Michael Caine, Judith Godrèche, Rade Serbedzija, Matthew Marsh, Xander Berkeley, Kathleen Wilhoite, Rave Serbedzija.
-[COLOR teal]· Guion:[/COLOR] Timothy Prager, Desmond Lowden.
-[COLOR teal]· Música:[/COLOR] Hal Lindes, Anthony Marinelli.
-[COLOR teal]· Producción:[/COLOR] Jim Reeve.</desc>
-    <category lang="es">Cine, Drama, Policíaco</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009012.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250709232800 +0200" stop="20250710011000 +0200" channel="BOM Cine">
-    <title lang="es">Resurrección</title>
-    <sub-title lang="es">[COLOR teal]Cine/Policíaco/Terror/Suspense[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Los detectives de homicidios de Chicago, Prudhome y Hollingsworth, son asignados para investigar un asesinato. Ambos se enredan en la trama de un asesino en serie cuyo objetivo es recrear el cuerpo de Cristo.
-[COLOR teal]· País:[/COLOR] Canada, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Russell Mulcahy, Stephen Gyllenhaal.
-[COLOR teal]· Reparto:[/COLOR] Christopher Lambert, David Cronenberg, Leland Orser, Rock Fox, James Kidnie, Barbara Tyson, Philip Williams, Rita Moreno, Nick Chinlund, Dana Delany, Brenda Fricker, Mitchell Kosterman, Jeff J.J. Authors, Mike Anscombe, Grace Kaufman, Patrick Chilvers.
-[COLOR teal]· Guion:[/COLOR] Christopher Lambert, Brad Mirman, Lewis John Carlino, Peachy Markowitz.
-[COLOR teal]· Música:[/COLOR] Jim McGrath, Debbie Wiseman.
-[COLOR teal]· Producción:[/COLOR] Christopher Lambert, Howard Baldwin, Karen Elise Baldwin, Patrick D. Choi, Richard Cohen, Jack Gilardi Jr., Nile Niami, Paul Pompia, John V. Stuckmeyer.</desc>
-    <category lang="es">Cine, Policíaco, Terror, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002819.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.3/10</value>
-    </star-rating>
-  </programme>
   <programme start="20250710011000 +0200" stop="20250710023800 +0200" channel="BOM Cine">
     <title lang="es">Un bombo en el camino</title>
     <sub-title lang="es">[COLOR teal]Cine/Drama[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
@@ -1285,5 +1035,116 @@
     <star-rating system="ES">
       <value>6.5/10</value>
     </star-rating>
+  </programme>
+  <programme start="20250713233300 +0200" stop="20250714004600 +0200" channel="BOM Cine">
+    <title lang="es">Fuego en el Amazonas</title>
+    <sub-title lang="es">[COLOR teal]Cine/Acción/Aventuras/Drama[/COLOR] | [COLOR cadetblue]1993[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.5/10[/COLOR]</sub-title>
+    <desc lang="es">· El líder del movimiento nativo antidesforestación es asesinado. Un periodista se interna en la selva para investigar su muerte.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Luis Llosa.
+[COLOR teal]· Reparto:[/COLOR] Craig Sheffer, Juan Fernández, Sandra Bullock, Judith Chapman, Jorge García Bustamante, Baldomero Cáceres, Carlos Victoria, Reynaldo Arenas, David Elkin, Natalia Torres, Ramsay Ross, Eduardo Cesti, Ramón García.
+[COLOR teal]· Guion:[/COLOR] Catherine Cyran, Margo Blue, Jane Grey, Luana Anders, Beverly Gray.
+[COLOR teal]· Música:[/COLOR] Roy J. Ravio.
+[COLOR teal]· Producción:[/COLOR] Luis Llosa.</desc>
+    <category lang="es">Cine, Acción, Aventuras, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4075017.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250714004600 +0200" stop="20250714021700 +0200" channel="BOM Cine">
+    <title lang="es">Blood quantum</title>
+    <sub-title lang="es">[COLOR teal]Cine/Drama/Terror/Suspense[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <desc lang="es">· Los muertos se alzan como zombis en las afueras de la aislada reserva del noreste de Canadá.
+[COLOR teal]· País:[/COLOR] Canada 
+[COLOR teal]· Dirección:[/COLOR] Jeff Barnaby.
+[COLOR teal]· Reparto:[/COLOR] Michael Greyeyes, Forrest Goodluck, Elle-Máijá Tailfeathers, Kiowa Gordon, Olivia Scriven, Maija Tailfeathers, Brandon Oakes, Stonehorse Lone Goeman, William Belleau.
+[COLOR teal]· Guion:[/COLOR] Jeff Barnaby.</desc>
+    <category lang="es">Cine, Drama, Terror, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012956.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250714021700 +0200" stop="20250714034700 +0200" channel="BOM Cine">
+    <title lang="es">Miedo Punto Com</title>
+    <sub-title lang="es">[COLOR teal]Cine/Terror/Policíaco/Suspense[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc lang="es">· El policía neoyorquino Mike Reilly y el forense Terry Huston investigan una serie de misteriosas muertes que parecen estar relacionadas con Internet.
+[COLOR teal]· País:[/COLOR] Alemania, LUX, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] William Malone.
+[COLOR teal]· Reparto:[/COLOR] Stephen Rea, Udo Kier, Stephen Dorff, Natascha Mcelhone, Amelia Curtis.
+[COLOR teal]· Guion:[/COLOR] Josephine Coyle, Moshe Diamant, Holly Payberg-Torroija.
+[COLOR teal]· Música:[/COLOR] Nicholas Pike.
+[COLOR teal]· Producción:[/COLOR] Limor Diamant, Moshe Diamant.</desc>
+    <category lang="es">Cine, Terror, Policíaco, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4074997.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20250714034700 +0200" stop="20250714051200 +0200" channel="BOM Cine">
+    <title lang="es">Torremolinos 73</title>
+    <sub-title lang="es">[COLOR teal]Cine/Comedia/Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
+[COLOR teal]· País:[/COLOR] DNK, España 
+[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
+[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González, Ramón Barea, Bjarne Henriksen, Mari-Anne Jespersen, Tom Jacobson, Germán Montañer, Jaime Blanch, Máximo Valverde.
+[COLOR teal]· Guion:[/COLOR] Pablo Berger.
+[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
+[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
+    <category lang="es">Cine, Comedia, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008900.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250714051200 +0200" stop="20250714060000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250714060000 +0200" stop="20250714100000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250714100000 +0200" stop="20250714140000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250714140000 +0200" stop="20250714180000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250714180000 +0200" stop="20250714220000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
   </programme>
 </tv>
