@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 27/07/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 27/07/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -805,11 +805,12 @@
     </star-rating>
   </programme>
   <programme start="20250730045000 +0200" stop="20250730054500 +0200" channel="BOM Cine">
-    <title lang="es">Sunshine tour 2025</title>
-    <sub-title lang="es">[COLOR teal]Programa/Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· El Sunshine Tour junta a más de 2000 caballos y a 400 jinetes de 40 nacionalidades diferentes durante siete semanas de competición en el tour de Salto más importante de Europa.
-</desc>
-    <category lang="es">Programa, Otros</category>
+    <title lang="es">Sunshine Tour - Circuito Hípico del Sol</title>
+    <sub-title lang="es">[COLOR teal]Deportes/Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Certamen hípico que comprende las disciplinas de salto de obstáculos y doma clásica.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Deportes, Equitación</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4034745.jpg" />
     <rating system="ES">
       <value>TP</value>
     </rating>
