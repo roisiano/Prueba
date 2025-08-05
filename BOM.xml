@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 04/08/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 05/08/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,258 +11,6 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250804004400 +0200" stop="20250804021900 +0200" channel="BOM Cine">
-    <title lang="es">Las salvajes en Puente San Gil</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]1966[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Una compañía de revista quiere actuar a Puente San Gil, pero su mala fama hace que la gente del pueblo quiera suspender el espectáculo.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
-[COLOR teal]· Reparto:[/COLOR] Adolfo Marsillach, Nuria Torray, María Silva, Rosanna Yanni, Elena María Tejeiro, Vicky Lagos, Luis Marín.
-[COLOR teal]· Guion:[/COLOR] Miguel Sanz, José Martín Recuerda, Antoni Ribas.
-[COLOR teal]· Música:[/COLOR] Carmelo A. Bernaola.</desc>
-    <category lang="es">Cine, Drama, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4013000.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250804021900 +0200" stop="20250804034700 +0200" channel="BOM Cine">
-    <title lang="es">Enloquecidas</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Juan Luis Iborra.
-[COLOR teal]· Reparto:[/COLOR] Silvia Abascal, Concha Velasco, Asunción Balaguer, Iván Sánchez, Verónica Forqué, Cesáreo Estébanez, Jordi Rebellón, Juli Mira, Javier Blanes, Valeria Arribas, Manu Berastegui.
-[COLOR teal]· Guion:[/COLOR] Juan Luis Iborra, Antonio Albert.
-[COLOR teal]· Música:[/COLOR] José Reinoso.
-[COLOR teal]· Producción:[/COLOR] Marc Cases, Sergio Castellote, Óscar del Caz, Carlos Ibáñez, Beatriz Navarrete, Miguel Ángel Poveda.</desc>
-    <category lang="es">Cine, Suspense, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012808.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250804034700 +0200" stop="20250804052000 +0200" channel="BOM Cine">
-    <title lang="es">Hércules y la reina de Lidia</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Aventuras,Fantasía,Español[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Mientras negocia la paz entre dos hermanos que se disputan el trono de Tebas, un Hércules amnésico es seducido por la malvada reina Onfalia.
-[COLOR teal]· País:[/COLOR] España, Francia, Italia 
-[COLOR teal]· Dirección:[/COLOR] Pietro Francisci, Mario Bava.
-[COLOR teal]· Reparto:[/COLOR] Steve Reeves, Sylva Koscina, Sylvia Lopez, Gabriele Antonini, Primo Carnera, Sergio Fantoni, Fulvia Franco, Patrizia Della Rovere.
-[COLOR teal]· Guion:[/COLOR] Ennio De Concini, Pietro Francisci.
-[COLOR teal]· Música:[/COLOR] Enzo Masetti.
-[COLOR teal]· Producción:[/COLOR] Bruno Vailati.</desc>
-    <category lang="es">Cine, Acción, Aventuras, Fantasía, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4040082.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250804052000 +0200" stop="20250804065900 +0200" channel="BOM Cine">
-    <title lang="es">Woyzeck</title>
-    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Historia sobre un infeliz soldado continuamente humillado por sus superiores que, presa de los celos y de su continua sensación de fracaso, desembocará en una tragedia de locura y sangre.
-[COLOR teal]· Dirección:[/COLOR] Werner Herzog.
-[COLOR teal]· Reparto:[/COLOR] Klaus Kinski, Eva Mattes, Wolfgang Reichmann.</desc>
-    <category lang="es">Programa, Otros</category>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250804065900 +0200" stop="20250804080700 +0200" channel="BOM Cine">
-    <title lang="es">Las colinas pintadas</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Western,Aventuras,Drama[/COLOR] | [COLOR cadetblue]1951[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★4.2/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· 1951. Paul Kelly, Bruce Cowling, Gary Gray.   Dirigida por Harold F. Kress, es una de las muchas películas producidas por la Metro Goldwyn Mayer sobre la famosa perra Lassie.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Harold F. Kress, Harold Kress.
-[COLOR teal]· Reparto:[/COLOR] Paul Kelly, Bruce Cowling, Gary Gray, Art Smith, Ann Doran.
-[COLOR teal]· Guion:[/COLOR] True Boardman, Alexander Hull.
-[COLOR teal]· Música:[/COLOR] Daniele Amfitheatrof.
-[COLOR teal]· Producción:[/COLOR] Chester M. Franklin.</desc>
-    <category lang="es">Cine, Western, Aventuras, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4126946.jpg" />
-    <rating system="ES">
-      <value>13</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250804080700 +0200" stop="20250804095200 +0200" channel="BOM Cine">
-    <title lang="es">Siete mares a Calais</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Aventuras[/COLOR] | [COLOR cadetblue]1962[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Sir Francis Drake, fundó la supremacía naval de Inglaterra y fue nombrado caballero por sus hazañas al servicio de la Corona.
-[COLOR teal]· País:[/COLOR] Italia 
-[COLOR teal]· Dirección:[/COLOR] Primo Zeglio.
-[COLOR teal]· Reparto:[/COLOR] Terence Hill, Keith Michell, Edy Vessel, Rod Taylor, Basil Dignam.
-[COLOR teal]· Guion:[/COLOR] Filippo Sanjust.</desc>
-    <category lang="es">Cine, Aventuras</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101634.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250804095200 +0200" stop="20250804114000 +0200" channel="BOM Cine">
-    <title lang="es">Cita con la muerte</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Suspense[/COLOR] | [COLOR cadetblue]1988[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.1/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Poirot se encuentra de viaje en Tierra Santa y se ve obligado a investigar un caso cuando Lady Boynton aparece muerta.
-[COLOR teal]· País:[/COLOR] R.U., EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Michael Winner.
-[COLOR teal]· Reparto:[/COLOR] Lauren Bacall, John Gielgud, Carrie Fisher, Piper Laurie, Peter Ustinov, David Soul.
-[COLOR teal]· Guion:[/COLOR] Michael Winner, Anthony Shaffer, Peter Buckman, Agatha Christie.
-[COLOR teal]· Música:[/COLOR] Pino Donaggio.
-[COLOR teal]· Producción:[/COLOR] Michael Winner.</desc>
-    <category lang="es">Cine, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049398.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250804114000 +0200" stop="20250804125700 +0200" channel="BOM Cine">
-    <title lang="es">Los hombres del bosque de Sherwood</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Aventuras[/COLOR] | [COLOR cadetblue]1954[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★5.6/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Inglaterra. 1194. El rey Ricardo está prisionero en Alemania. Un hombre es asesinado en el bosque de Sherwood y se culpa a Robin Hood.
-[COLOR teal]· País:[/COLOR] R.U. 
-[COLOR teal]· Dirección:[/COLOR] Val Guest.
-[COLOR teal]· Reparto:[/COLOR] Don Taylor, Reginald Beckwith, Eileen Moore, David King-Wood, Douglas Wilmer, Wensley Pithey Pithey, Patrick Holt, Harold Lang, Ballard Berkeley.
-[COLOR teal]· Guion:[/COLOR] Allan MacKinnon.
-[COLOR teal]· Música:[/COLOR] Doreen Carwithen.
-[COLOR teal]· Producción:[/COLOR] Michael Carreras.</desc>
-    <category lang="es">Cine, Aventuras</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012924.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250804125700 +0200" stop="20250804142900 +0200" channel="BOM Cine">
-    <title lang="es">Eclipse total</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Ciencia Ficción,Drama,Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.6/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· John Brighton, científico de la NASA, descubre que un grupo de meteoritos se dirige hacia la Tierra.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Rex Piano.
-[COLOR teal]· Reparto:[/COLOR] Thomas Calabro, Cynthia Gibb, William Gregory Lee, Jon Briddell, Brett Chukerman, Randy Crowder.
-[COLOR teal]· Guion:[/COLOR] John Cleland, Matthew Jason Walsh.
-[COLOR teal]· Música:[/COLOR] Eric Allaman.
-[COLOR teal]· Producción:[/COLOR] Paul Colichman, Stephen P. Jarchow.</desc>
-    <category lang="es">Cine, Ciencia Ficción, Drama, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4033442.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250804142900 +0200" stop="20250804162400 +0200" channel="BOM Cine">
-    <title lang="es">Requiescant</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1967[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">· El chico mexicano Requiescant es el único superviviente de un ataque del gángster Ferguson y su banda. Años después, busca a Ferguson para vengarse.
-[COLOR teal]· País:[/COLOR] Alemania, Italia 
-[COLOR teal]· Dirección:[/COLOR] Carlo Lizanni, Carlo Lizzani.
-[COLOR teal]· Reparto:[/COLOR] Mark Damon, Lou Castel, Mirella Maravidi, Rossana Martini, Ferruccio Viotti, Alan M. Harris, Franco Citti, Pier Paolo Pasolini, Barbara Frey, Vittorio Duse, Luisa Baratto, Ninetto Davoli, Carlo Palmucci.
-[COLOR teal]· Guion:[/COLOR] Franco Bucceri, Adriano Bolzoni, Armando Crispino, Lucio Battistrada, Renato Izzo.
-[COLOR teal]· Producción:[/COLOR] Renato Izzi.</desc>
-    <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4338750.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20250804162400 +0200" stop="20250804181000 +0200" channel="BOM Cine">
-    <title lang="es">Halcones de mar</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]1992[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Hammer y Dean son S.E.A.L.S. por pasión. Esto les une durante su entrenamiento. Pero entonces ocurre: ambos se enamoran de la misma mujer.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Shimon Dotan.
-[COLOR teal]· Reparto:[/COLOR] Rob Lowe, Gale Hansen, Tracy Griffith, Eb Lottimer, Baruch Dror, Daniel Dieker, Michael Cornelison, Gale Hanson.
-[COLOR teal]· Guion:[/COLOR] Shimon Dotan, Stuart Schoffman, Stuart Schoffmann.
-[COLOR teal]· Música:[/COLOR] Walter Christian Rothe.
-[COLOR teal]· Producción:[/COLOR] Menahem Golan.</desc>
-    <category lang="es">Cine, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012928.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250804181000 +0200" stop="20250804200100 +0200" channel="BOM Cine">
-    <title lang="es">A 20 millas de la justicia</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Acción[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Una organización mafiosa se dedica a introducir inmigrantes en Estados Unidos, burlando a la policía fronteriza. Un día dicha organización comete un error y asesina a sangre fría a uno de los policías.
-[COLOR teal]· País:[/COLOR] MEX, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Jerrold Freedman.
-[COLOR teal]· Reparto:[/COLOR] Charles Bronson, Bruno Kirby, Bert Remsen, Michael Lerner, Ed Harris, Kenneth McMillan.
-[COLOR teal]· Guion:[/COLOR] Jerrold Freedman, Steve Kline.</desc>
-    <category lang="es">Cine, Drama, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049493.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250804200100 +0200" stop="20250804220600 +0200" channel="BOM Cine">
-    <title lang="es">Dossier K.</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Policíaco[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.7/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Vincke y Verstuyft son detectives del departamento de policía de Amberes. Esta vez tienen que lidiar con la mafia albanesa y con algunos problemas en su propia división de la policía.
-[COLOR teal]· País:[/COLOR] BEL, NLD 
-[COLOR teal]· Dirección:[/COLOR] Jan Verheyen.
-[COLOR teal]· Reparto:[/COLOR] Blerim Destani, Werner De Smedt, Hilde De Baerdemaeker, Koen De Bouw, Filip Peeters, R. Kan Albay.
-[COLOR teal]· Guion:[/COLOR] Carl Joos, Erik Van Looy, Jef Geeraerts.</desc>
-    <category lang="es">Cine, Acción, Policíaco</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002071.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250804220600 +0200" stop="20250804233700 +0200" channel="BOM Cine">
-    <title lang="es">Palm swings</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia,Romance[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Tras mudarse a Palm Springs, un joven matrimonio pone a prueba su amor cuando descubre que sus vecinos son swingers.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Sean Hoessli.
-[COLOR teal]· Reparto:[/COLOR] Tia Carrere, Diane Farr, Jason Lewis, Sugar Lyn Beard, Madison McKinley McKinley, Trish Cook, Madison McKinley, Gentry White, Danny Pardo, Antonimar Murphy, Jackson Davis.
-[COLOR teal]· Guion:[/COLOR] Amanda Lockhart.</desc>
-    <category lang="es">Cine, Comedia, Romance</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002371.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250804233700 +0200" stop="20250805011000 +0200" channel="BOM Cine">
-    <title lang="es">La ciudad del crimen</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Acción[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.7/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Ray Mercer, un ex convicto, se dirige a Las Vegas para divorciarse de su mujer, que trabaja en un casino. Allí irrumpirá un grupo armado para cometer un espectacular atraco.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Sidney J. Furie.
-[COLOR teal]· Reparto:[/COLOR] Peter Weller, Dennis Hopper, Tia Carrere, Joe Pantoliano, Peter Coyote, Martin Kove, Kevin Bernhardt, David Alan Grier.
-[COLOR teal]· Guion:[/COLOR] Bart Madison.
-[COLOR teal]· Música:[/COLOR] Robert O. Ragland.
-[COLOR teal]· Producción:[/COLOR] Avi Lerner, Elie Samaha.</desc>
-    <category lang="es">Cine, Suspense, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008936.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.7/10</value>
-    </star-rating>
-  </programme>
   <programme start="20250805011000 +0200" stop="20250805023800 +0200" channel="BOM Cine">
     <title lang="es">Un bombo en el camino</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/₁₀[/COLOR]</sub-title>
@@ -280,7 +28,7 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250805023800 +0200" stop="20250805041400 +0200" channel="BOM Cine">
+  <programme start="20250805023800 +0200" stop="20250805040600 +0200" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
@@ -299,7 +47,7 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250805041400 +0200" stop="20250805055400 +0200" channel="BOM Cine">
+  <programme start="20250805040600 +0200" stop="20250805054600 +0200" channel="BOM Cine">
     <title lang="es">En la línea de ataque</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1992[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.1/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Con un reparto estelar encabezado por Ethan Hawke, Gary Sinise, Kevin Dillon y Peter Berg, "Frente de batalla" es un tratado sobre la locura de la guerra. Soldados estadounidenses y alemanes se enfrentan al final de la Segunda Guerra Mundial.
@@ -317,7 +65,7 @@
       <value>7.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250805055400 +0200" stop="20250805073200 +0200" channel="BOM Cine">
+  <programme start="20250805054600 +0200" stop="20250805073200 +0200" channel="BOM Cine">
     <title lang="es">Océanos</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Documentales,Español[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★7.7/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Imágenes insólitas de lo que ocurre en las profundidades de los océanos.
@@ -336,7 +84,7 @@
   </programme>
   <programme start="20250805073200 +0200" stop="20250805091000 +0200" channel="BOM Cine">
     <title lang="es">Cazadores de mujeres</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.9/₁₀[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense[/COLOR] | [COLOR cadetblue]1963[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/₁₀[/COLOR]</sub-title>
     <desc lang="es">· El detective privado Mike Hammer investiga el paradero de Velda, su secretaria desaparecida.
 [COLOR teal]· País:[/COLOR] R.U. 
 [COLOR teal]· Dirección:[/COLOR] Roy Rowland, Mickey Spillane.
@@ -345,7 +93,7 @@
     <category lang="es">Cine, Suspense</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4192785.jpg" />
     <rating system="ES">
-      <value>12</value>
+      <value>16</value>
     </rating>
     <star-rating system="ES">
       <value>5.9/10</value>
@@ -486,21 +234,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250805225900 +0200" stop="20250806002700 +0200" channel="BOM Cine">
-    <title lang="es">The Babysitters: Las niñeras</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Shirley Lyner (Katherine Waterston) es una joven estudiante que trabaja como niñera para ganar un dinero extra. Pero, tras tener una relación con uno de los padres, comienza a convertirse en dama de compañía de hombres casados.
-[COLOR teal]· País:[/COLOR] Canada, EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] David Ross.
-[COLOR teal]· Reparto:[/COLOR] Katherine Waterston, Cynthia Nixon, John Leguizamo, Andy Comeau, Lauren Birkell, Alexandra Daddario, Ann Dowd, Spencer Treat Clark, Chira Cassel, Paul Borghese, Anthony Cirillo.
-[COLOR teal]· Guion:[/COLOR] David Ross.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4335360.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250806002700 +0200" stop="20250806015800 +0200" channel="BOM Cine">
+  <programme start="20250806002000 +0200" stop="20250806015000 +0200" channel="BOM Cine">
     <title lang="es">Diario de un adicto al sexo</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.4/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Sammy Horn, un hombre ejemplar, padre cariñoso y devoto marido, pone en riesgo su vida perfecta por la obsesión que tiene con el sexo.
@@ -519,7 +253,7 @@
       <value>3.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806015800 +0200" stop="20250806032500 +0200" channel="BOM Cine">
+  <programme start="20250806015000 +0200" stop="20250806031800 +0200" channel="BOM Cine">
     <title lang="es">Cosas insignificantes</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/₁₀[/COLOR]</sub-title>
     <desc lang="es">· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
@@ -536,7 +270,7 @@
       <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806032500 +0200" stop="20250806045000 +0200" channel="BOM Cine">
+  <programme start="20250806031800 +0200" stop="20250806045000 +0200" channel="BOM Cine">
     <title lang="es">Torremolinos 73</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia,Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/₁₀[/COLOR]</sub-title>
     <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
@@ -721,7 +455,7 @@
 [COLOR teal]· Guion:[/COLOR] Gianfranco Baldanello, Alfonso Brescia, Giovanni Canevari, Adriano Micantoni, Alfredo Varelli.
 [COLOR teal]· Música:[/COLOR] Ghant.</desc>
     <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4139928.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4344952.jpg" />
     <rating system="ES">
       <value>13</value>
     </rating>
@@ -1236,5 +970,94 @@
     <rating system="ES">
       <value>18</value>
     </rating>
+  </programme>
+  <programme start="20250808231400 +0200" stop="20250809010000 +0200" channel="BOM Cine">
+    <title lang="es">Resurrección</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Policíaco,Terror,Suspense[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.3/₁₀[/COLOR]</sub-title>
+    <desc lang="es">· Los detectives de homicidios de Chicago, Prudhome y Hollingsworth, son asignados para investigar un asesinato. Ambos se enredan en la trama de un asesino en serie cuyo objetivo es recrear el cuerpo de Cristo.
+[COLOR teal]· País:[/COLOR] Canada, EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Russell Mulcahy, Stephen Gyllenhaal.
+[COLOR teal]· Reparto:[/COLOR] Christopher Lambert, David Cronenberg, Leland Orser, Rock Fox, James Kidnie, Barbara Tyson, Philip Williams, Rita Moreno, Nick Chinlund, Dana Delany, Brenda Fricker, Mitchell Kosterman, Jeff J.J. Authors, Mike Anscombe, Grace Kaufman, Patrick Chilvers.
+[COLOR teal]· Guion:[/COLOR] Christopher Lambert, Brad Mirman, Lewis John Carlino, Peachy Markowitz.
+[COLOR teal]· Música:[/COLOR] Jim McGrath, Debbie Wiseman.
+[COLOR teal]· Producción:[/COLOR] Christopher Lambert, Howard Baldwin, Karen Elise Baldwin, Patrick D. Choi, Richard Cohen, Jack Gilardi Jr., Nile Niami, Paul Pompia, John V. Stuckmeyer.</desc>
+    <category lang="es">Cine, Policíaco, Terror, Suspense</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002819.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250809010000 +0200" stop="20250809022700 +0200" channel="BOM Cine">
+    <title lang="es">Cosas insignificantes</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/₁₀[/COLOR]</sub-title>
+    <desc lang="es">· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
+[COLOR teal]· País:[/COLOR] España, MEX 
+[COLOR teal]· Dirección:[/COLOR] Andrea Martínez Crowther.
+[COLOR teal]· Reparto:[/COLOR] Jonathan Bravo, Regina De Los Cobos, Fátima Díaz, Carmelo Gómez, Fernando Luján, Lucía Jiménez, Bárbara Mori, Paulina Gaitán.
+[COLOR teal]· Guion:[/COLOR] Andrea Martínez Crowther.</desc>
+    <category lang="es">Cine, Drama, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027562.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250809022700 +0200" stop="20250809041200 +0200" channel="BOM Cine">
+    <title lang="es">DALÍ</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Biográfico,Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/₁₀[/COLOR]</sub-title>
+    <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
+[COLOR teal]· País:[/COLOR] BGR, España 
+[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
+[COLOR teal]· Reparto:[/COLOR] Lorenzo Quinn, Sarah Douglas, Valentín Fernández-Tubau, Michael Catlin, Rosa Novell, Francisco Guijar, Katherine Wallach.
+[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Enric Gomà, Temístocles López, Miquel Sanz.
+[COLOR teal]· Música:[/COLOR] Antonio Sechi.</desc>
+    <category lang="es">Cine, Biográfico, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009068.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250809041200 +0200" stop="20250809060000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250809060000 +0200" stop="20250809100000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250809100000 +0200" stop="20250809140000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250809140000 +0200" stop="20250809180000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
+  </programme>
+  <programme start="20250809180000 +0200" stop="20250809220000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+</desc>
+    <category lang="es">Programa, Otros</category>
   </programme>
 </tv>
