@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 06/08/2025 08:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 06/08/2025 12:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -85,7 +85,15 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806060100 +0200" stop="20250806072100 +0200" channel="BOM Cine">
+  <programme start="20250806060100 +0200" stop="20250806063900 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250806063900 +0200" stop="20250806075600 +0200" channel="BOM Cine">
     <title lang="es">Los reyes del Ártico</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Documentales[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.9/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Documental que sigue la vida de una morsa y un oso polar cuya tierra helada donde viven se está derritiendo, amenazando su hogar y su existencia.
@@ -104,7 +112,7 @@
       <value>6.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806072100 +0200" stop="20250806090600 +0200" channel="BOM Cine">
+  <programme start="20250806075600 +0200" stop="20250806093900 +0200" channel="BOM Cine">
     <title lang="es">La pasión de dawson</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Londres, 1970. Eddie Dawson, sacerdote católico, cae en desgracia y desciende a un mundo de amor prohibido.
@@ -121,10 +129,10 @@
       <value>5.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806090600 +0200" stop="20250806102900 +0200" channel="BOM Cine">
-    <title lang="es">Bala Blindada</title>
+  <programme start="20250806093900 +0200" stop="20250806110000 +0200" channel="BOM Cine">
+    <title lang="es">Bala blindada</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Clásico[/COLOR] | [COLOR cadetblue]1987[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.8/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Primera adaptación cinematográfica de la novela "Man on Fire.
+    <desc lang="es">· Un agente retirado de la CIA es guardaespaldas de un empresario italiano.
 [COLOR teal]· País:[/COLOR] Francia, Italia, EE.UU. 
 [COLOR teal]· Dirección:[/COLOR] Élie Chouraqui.
 [COLOR teal]· Reparto:[/COLOR] Scott Glenn, Joe Pesci, Brooke Adams, Jonathan Pryce, Jade Malle, Paul Shenar.
@@ -140,7 +148,7 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806102900 +0200" stop="20250806115200 +0200" channel="BOM Cine">
+  <programme start="20250806110000 +0200" stop="20250806122100 +0200" channel="BOM Cine">
     <title lang="es">Proximity</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Negro[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.8/₁₀[/COLOR]</sub-title>
     <desc lang="es">· William Connor, un profesor universitario, es encarcelado tras ser acusado injustamente de asesinato, pero decide fugarse de la prisión para poder demostrar su inocencia.
@@ -159,7 +167,7 @@
       <value>4.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806115200 +0200" stop="20250806130600 +0200" channel="BOM Cine">
+  <programme start="20250806122100 +0200" stop="20250806133400 +0200" channel="BOM Cine">
     <title lang="es">Ruckus el alborotador</title>
     <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">
@@ -170,7 +178,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250806130600 +0200" stop="20250806145600 +0200" channel="BOM Cine">
+  <programme start="20250806133400 +0200" stop="20250806151800 +0200" channel="BOM Cine">
     <title lang="es">Sesenta segundos</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Aventuras,Suspense[/COLOR] | [COLOR cadetblue]2000[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/₁₀[/COLOR]</sub-title>
     <desc lang="es">· El legendario ladrón de coches Randall Memphis Raines creía que había dejado atrás su antiguo estilo de vida, pero tendrá que volver a la acción si quiere salvar a su hermano pequeño de la ira de un malvado mafioso.
@@ -187,7 +195,7 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806145600 +0200" stop="20250806164100 +0200" channel="BOM Cine">
+  <programme start="20250806151800 +0200" stop="20250806165600 +0200" channel="BOM Cine">
     <title lang="es">Detective privado</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Policíaco,Drama,Suspense[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.8/₁₀[/COLOR]</sub-title>
     <desc lang="es">· El detective Philip Marlowe investiga un caso de chantaje donde el general Smallwood busca hallar al esposo desaparecido de su hija.
@@ -206,7 +214,7 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806164100 +0200" stop="20250806182100 +0200" channel="BOM Cine">
+  <programme start="20250806165600 +0200" stop="20250806182800 +0200" channel="BOM Cine">
     <title lang="es">Cerco roto</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR yellow]⑬[/COLOR]</sub-title>
     <desc lang="es">· (TDT) Rusia, junio de 1944. La ofensiva rusa obliga al ejército alemán a abandonar la cabeza del puente Kwai y la Península de Crimea. Aunque la división del sargento Steiner ha sufrido terribles bajas...
@@ -222,7 +230,7 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20250806182100 +0200" stop="20250806200100 +0200" channel="BOM Cine">
+  <programme start="20250806182800 +0200" stop="20250806200300 +0200" channel="BOM Cine">
     <title lang="es">30 Winchester para El Diablo</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1965[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★4.7/₁₀[/COLOR]</sub-title>
     <desc lang="es">· El Sheriff Webb no puede con la banda de "El Diablo". Las cosas empeoran cuando debe proteger un valioso cargamento de oro con destino a México.
@@ -240,7 +248,7 @@
       <value>4.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806200100 +0200" stop="20250806213700 +0200" channel="BOM Cine">
+  <programme start="20250806200300 +0200" stop="20250806213400 +0200" channel="BOM Cine">
     <title lang="es">Juego de dragones</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Ciencia Ficción,Suspense[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.7/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Tras una guerra devastadora, dos naciones al borde del conflicto total amenazan con acabar con toda vida en el planeta.
@@ -258,7 +266,7 @@
       <value>4.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806213700 +0200" stop="20250806231900 +0200" channel="BOM Cine">
+  <programme start="20250806213400 +0200" stop="20250806231000 +0200" channel="BOM Cine">
     <title lang="es">Desactivador</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.3/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Christian Erikson trabaja en una ONG que se encarga de eliminar minas antipersonas en Angola, tras la muerte de su hijo por una de ellas, se retira, pero una nueva forma de bomba hace que regrese para ponerle fin a la situación.
@@ -277,7 +285,7 @@
       <value>4.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20250806231900 +0200" stop="20250807005800 +0200" channel="BOM Cine">
+  <programme start="20250806231000 +0200" stop="20250807004500 +0200" channel="BOM Cine">
     <title lang="es">A la caza</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Drama,Policíaco[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.5/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Al Pacino interpreta a un policía infiltrado en el sórdido ambiente S&amp;M gay de Nueva York para encontrar a un asesino en serie. Dirigida por William Friedkin.
@@ -296,7 +304,7 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250807005800 +0200" stop="20250807032600 +0200" channel="BOM Cine">
+  <programme start="20250807004500 +0200" stop="20250807031200 +0200" channel="BOM Cine">
     <title lang="es">La ciudad quemada</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Dirigida por Antoni Ribas y protagonizada por Xabier Elorriaga, Francisco Casares y Ángela Molina, entre otros.
@@ -311,7 +319,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250807032600 +0200" stop="20250807051000 +0200" channel="BOM Cine">
+  <programme start="20250807031200 +0200" stop="20250807051000 +0200" channel="BOM Cine">
     <title lang="es">DALÍ</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Biográfico,Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
