@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 28/08/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 29/08/2025 08:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -11,263 +11,7 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
-  <programme start="20250828005200 +0200" stop="20250828023000 +0200" channel="BOM Cine">
-    <title lang="es">Enter the Phoenix</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia,Acción[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.5/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Georgie Hung es encantador, guaperas y muy estilizado, pero tiene un secreto que su padre Hung, capo de una de las familias mafiosas más importantes de Hong Kong no podrá olvidar.
-[COLOR teal]· País:[/COLOR] CHN, HKG 
-[COLOR teal]· Dirección:[/COLOR] Stephen Fung.
-[COLOR teal]· Reparto:[/COLOR] Eason Chan, Daniel Wu, Karen Mok, Chapman To, Kar-Ying Law.
-[COLOR teal]· Guion:[/COLOR] Stephen Fung, Yiu Fai Lo, Helen To.</desc>
-    <category lang="es">Cine, Comedia, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101670.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828023000 +0200" stop="20250828034600 +0200" channel="BOM Cine">
-    <title lang="es">Moscow Zero</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Terror,Suspense,Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Owen, un investigador estadounidense, busca a su amigo desaparecido en las catacumbas de Moscú, donde se enfrenta al guardián del Infierno, Andrey. Para continuar su misión, hace un trato que podría ser un pacto con el Diablo.
-[COLOR teal]· País:[/COLOR] España, R.U., JPN 
-[COLOR teal]· Dirección:[/COLOR] María Lidón, Luna.
-[COLOR teal]· Reparto:[/COLOR] Vincent Gallo, Rade Serbedzija, Joaquim de Almeida, Val Kilmer, Joss Ackland, Álex O'Dogherty, Oksana Akinshina, Sage Stallone, Rade Sherbedgia, Julio Perillán, Borja Romaniv, Juan Carlos Guerrero, Roman Shamko, Marilo Muñoz, Alejandro Horeyda, Ekaterina Vovenko.
-[COLOR teal]· Guion:[/COLOR] Adela Ibañez.
-[COLOR teal]· Producción:[/COLOR] Dolo Magan.</desc>
-    <category lang="es">Cine, Terror, Suspense, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049465.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828034600 +0200" stop="20250828051500 +0200" channel="BOM Cine">
-    <title lang="es">Enloquecidas</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Juan Luis Iborra.
-[COLOR teal]· Reparto:[/COLOR] Silvia Abascal, Concha Velasco, Asunción Balaguer, Iván Sánchez, Verónica Forqué, Cesáreo Estébanez, Jordi Rebellón, Juli Mira, Javier Blanes, Valeria Arribas, Manu Berastegui.
-[COLOR teal]· Guion:[/COLOR] Juan Luis Iborra, Antonio Albert.
-[COLOR teal]· Música:[/COLOR] José Reinoso.
-[COLOR teal]· Producción:[/COLOR] Marc Cases, Sergio Castellote, Óscar del Caz, Carlos Ibáñez, Beatriz Navarrete, Miguel Ángel Poveda.</desc>
-    <category lang="es">Cine, Suspense, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012808.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828051500 +0200" stop="20250828062400 +0200" channel="BOM Cine">
-    <title lang="es">Miedo a la muerte</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Terror[/COLOR] | [COLOR cadetblue]1946[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· El Dr. Josef Van Ee dirige una institución mental privada en donde él y su hijo, Ward, mantienen a su nuera, Laura, en contra de su voluntad. Laura está convencida de que su marido intenta aterrorizarla, pero Ward asegura que necesita de su ayuda.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Christy Cabanne.
-[COLOR teal]· Reparto:[/COLOR] George Zucco, Bela Lugosi, Douglas Fowley, Molly Lamont, Nat Pendleton, Joyce Compton.
-[COLOR teal]· Guion:[/COLOR] Walter Abbott.</desc>
-    <category lang="es">Cine, Terror</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4386768.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250828062400 +0200" stop="20250828075000 +0200" channel="BOM Cine">
-    <title lang="es">El viaje</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
-    <desc lang="es">· Cuarenta años de violencia, 3.500 muertes, dos enemigos implacables y 85 kilómetros en coche para conseguir una paz duradera en Irlanda del Norte.
-[COLOR teal]· País:[/COLOR] R.U. 
-[COLOR teal]· Dirección:[/COLOR] Nick Hamm.
-[COLOR teal]· Reparto:[/COLOR] Timothy Spall, Colm Meaney, John Hurt, Toby Stephens, Freddie Highmore, Catherine McCormack, Barry Ward, Ian Beattie.
-[COLOR teal]· Guion:[/COLOR] Colin Bateman.</desc>
-    <category lang="es">Cine, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009072.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20250828075000 +0200" stop="20250828092300 +0200" channel="BOM Cine">
-    <title lang="es">La hora del cambio</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.4/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Los vecinos del pequeño pueblo siciliano de Pietrammare viven acostumbrados al caos que conlleva 'saltarse la ley', pero están hartos.
-[COLOR teal]· País:[/COLOR] Italia 
-[COLOR teal]· Dirección:[/COLOR] Salvatore Ficarra, Valentino Picone, Ficarra.
-[COLOR teal]· Reparto:[/COLOR] Vincenzo Amato, Valentino Picone, Antonio Catania, Sergio Friscia, Eleonora De Luca, Salvatore Ficarra, Leo Gullotta, Salvo Ficarra Ficarra.
-[COLOR teal]· Guion:[/COLOR] Valentino Picone, Edoardo De Angelis, Fabrizio Testini, Salvatore Ficarra, Nicola Guaglianone.</desc>
-    <category lang="es">Cine, Comedia</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4150925.jpg" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828092300 +0200" stop="20250828110000 +0200" channel="BOM Cine">
-    <title lang="es">A fuego lento</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense[/COLOR] | [COLOR cadetblue]2000[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.9/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Trina sigue obsesionada en la búsqueda de unos diamantes en el desierto de México desde que sus padres la llevaron allí. Unos convictos los encuentran por casualidad.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Christian Ford.
-[COLOR teal]· Reparto:[/COLOR] Minnie Driver, Stuart Wilson, James Spader, Josh Brolin, Chris Mulkey, Caprice Benedetti, Jennifer Ann Evans.
-[COLOR teal]· Guion:[/COLOR] Christian Ford, Roger Soffer.
-[COLOR teal]· Música:[/COLOR] Anthony Marinelli.
-[COLOR teal]· Producción:[/COLOR] Kate Driver, Roger Soffer, Robert Swanson.</desc>
-    <category lang="es">Cine, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009044.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828110000 +0200" stop="20250828130200 +0200" channel="BOM Cine">
-    <title lang="es">El juramento del Corsario Negro</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Aventuras,Acción[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.1/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· El Corsario Negro, un pirata de noble cuna, jura no descansar hasta vengar el asesinato de su familia.
-[COLOR teal]· País:[/COLOR] Italia 
-[COLOR teal]· Dirección:[/COLOR] Sergio Sollima.
-[COLOR teal]· Reparto:[/COLOR] Kabir Bedi, Carole André, Mel Ferrer, Angelo Infanti, Sonja Jeannine, Nicolò Piccolomini, Franco Fantasia, Guido Alberti, Sal Borgese, Jackie Basehart.
-[COLOR teal]· Guion:[/COLOR] Alberto Silvestri, Sergio Sollima, Emilio Salgari.
-[COLOR teal]· Música:[/COLOR] Guido De Angelis, Maurizio De Angelis.
-[COLOR teal]· Producción:[/COLOR] Luigi Rovere.</desc>
-    <category lang="es">Cine, Aventuras, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009004.jpg" />
-    <rating system="ES">
-      <value>13</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828130200 +0200" stop="20250828143900 +0200" channel="BOM Cine">
-    <title lang="es">Hiena salvaje II</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Drama[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· Dos maestros en kung-fu, llamados Cielo y Tierra, están arrasando los pueblos y matando a todos los miembros de la hermandad Yin-Yang.
-[COLOR teal]· País:[/COLOR] HKG 
-[COLOR teal]· Dirección:[/COLOR] Chuan Chen, LOU WEI, Chan Chuen, Lo Wei, Wei Lo.
-[COLOR teal]· Reparto:[/COLOR] Jackie Chan, Hui Lou Chen, Dean Shek, James Tien, Austin Wai, Yen Shi-Kwan, Chen Hui-Lou, Eun-ju Im, Wing Man Kuen, Hon Kwok-Choi, Ma Chi, Cheng Ka-Sang, Shi-Kwan Yen, Eun-joo Im, Yeong-moon Kwon.
-[COLOR teal]· Guion:[/COLOR] Wei Lo.</desc>
-    <category lang="es">Cine, Acción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4151202.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250828143900 +0200" stop="20250828161300 +0200" channel="BOM Cine">
-    <title lang="es">La reina de Montana</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1954[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★5.6/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Sierra Nevada Jones lucha por su rancho en Montana tras la muerte de su padre, enfrentando a invasores con la ayuda de Farrell, un policía encubierto.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Allan Dwan, Alan Dwan.
-[COLOR teal]· Reparto:[/COLOR] Gene Evans, Anthony Caruso, Barbara Stanwyck, Ronald Reagan, Lance Fuller.
-[COLOR teal]· Guion:[/COLOR] Robert Blees, Howard Estabrook, Thomas W. Blackburn.
-[COLOR teal]· Música:[/COLOR] Louis Forbes, Howard Jackson, William Lava.
-[COLOR teal]· Producción:[/COLOR] Benedict Bogeaus.</desc>
-    <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3994225.jpg" />
-    <rating system="ES">
-      <value>13</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828161300 +0200" stop="20250828181000 +0200" channel="BOM Cine">
-    <title lang="es">La selva esmeralda</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Aventuras,Drama,Acción,Español[/COLOR] | [COLOR cadetblue]1985[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.9/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· El hijo de un ingeniero americano que está construyendo una presa en la selva amazónica, desaparece en la jungla sin dejar rastro. Su padre, convencido de que ha sido raptado por una tribu indígena, lo busca durante años.
-[COLOR teal]· País:[/COLOR] España, R.U., EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] John Boorman.
-[COLOR teal]· Reparto:[/COLOR] Meg Foster, Powers Boothe, William Rodriguez, Yara Vaneau, Estee Chandler, Charley Boorman, Dira Paes, Eduardo Conde, Ariel Coelho, Peter Marinker.
-[COLOR teal]· Guion:[/COLOR] Rospo Pallenberg, Leonard Greenwood.
-[COLOR teal]· Música:[/COLOR] Brian Gascoigne, Junior Homrich.
-[COLOR teal]· Producción:[/COLOR] John Boorman.</desc>
-    <category lang="es">Cine, Aventuras, Drama, Acción, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008920.jpg" />
-    <rating system="ES">
-      <value>13</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828181000 +0200" stop="20250828200100 +0200" channel="BOM Cine">
-    <title lang="es">El gran silencio</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· 1968. Jean-Louis Trintignant, Klaus Kinski, Luigi Pistilli, Marisa Merlini.  Las montañas en el invierno sirven como telón de fondo para la historia de un pistolero mudo que lucha contra una banda de cazadores de recompensas.
-[COLOR teal]· País:[/COLOR] Francia, Italia 
-[COLOR teal]· Dirección:[/COLOR] Sergio Corbucci.
-[COLOR teal]· Reparto:[/COLOR] Jean-Louis Trintignant, Klaus Kinski, Frank Wolff, Marisa Merlín, Luigi Pistilli, Vionetta McGee, Mario Brega, Vonetta McGee.
-[COLOR teal]· Guion:[/COLOR] Mario Amendola, Bruno Corbucci, Sergio Corbucci, Vittoriano Petrilli.
-[COLOR teal]· Música:[/COLOR] Ennio Morricone.</desc>
-    <category lang="es">Cine, Western</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012844.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20250828200100 +0200" stop="20250828213000 +0200" channel="BOM Cine">
-    <title lang="es">Ninja</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Drama,Suspense[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.5/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Casey es un chico occidental cuya pasión por la filosofía ninja lo lleva hasta Japón para estudiar Ninjutsu.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Isaac Florentine.
-[COLOR teal]· Reparto:[/COLOR] Scott Adkins, Tsuyoshi Ihara, Mika Hijii, Togo Igawa, Garrick Hagon, Todd Jensen, Miles Anderson, Fumio Demura, Valentin Ganev, Atanas Srebrev.
-[COLOR teal]· Guion:[/COLOR] Boaz Davidson, Michael Hurst.
-[COLOR teal]· Música:[/COLOR] Stephen Edwards.
-[COLOR teal]· Producción:[/COLOR] Boaz Davidson, Danny Lerner, Les Weldon.</desc>
-    <category lang="es">Cine, Acción, Drama, Suspense</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050136.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828213000 +0200" stop="20250828231500 +0200" channel="BOM Cine">
-    <title lang="es">Los mánagers</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia,Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.3/₁₀[/COLOR]</sub-title>
-    <desc lang="es">· Maca y Rena, dos cuarentones desahuciados, quieren salir de la ruina convirtiéndose en managers de dos hermanos que trabajan en un desguace, a partir del anuncio de un concurso de televisión.
-[COLOR teal]· País:[/COLOR] España 
-[COLOR teal]· Dirección:[/COLOR] Fernando Guillen Cuervo.
-[COLOR teal]· Reparto:[/COLOR] Fran Perea, Paco León, Sancho Gracia, Manuel Tallafé, Enrique Villén, Mariano Pena, Manuel Manquiña, Alba Flores, Celine Tyll, María Jiménez, Susan Mallinson, Álex O'Dogherty, Francisco Maestre, Toby Harper, Lauren Postigo, Balbina del Rosario.
-[COLOR teal]· Guion:[/COLOR] Miguel Ángel Fernández, Fernando Guillen Cuervo, Joaquín Górriz.
-[COLOR teal]· Música:[/COLOR] Juan Maya, Juanjo Valmorisco, Adriana Villamarín.
-[COLOR teal]· Producción:[/COLOR] Álvaro Augustín, Julio Fernández, Pedro Olea.</desc>
-    <category lang="es">Cine, Comedia, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4230674.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250828231500 +0200" stop="20250829005400 +0200" channel="BOM Cine">
-    <title lang="es">The Devil's in the Details</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Acción,Drama[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc lang="es">· Después de cumplir un brutal período de servicio, el veterano soldado Thomas Conrad está deseando llevar una vida tranquila en casa con su familia. Pero el despiadado matón de un cártel de la droga tiene otros planes para él.
-[COLOR teal]· País:[/COLOR] EE.UU. 
-[COLOR teal]· Dirección:[/COLOR] Waymon Boone.
-[COLOR teal]· Reparto:[/COLOR] Ray Liotta, Emilio Rivera, Noel Gugliemi, Tina Ivlev, Raymond J. Barry, Lane Garrison, Joel Mathews, Jake Jacobson.
-[COLOR teal]· Guion:[/COLOR] Waymon Boone.</desc>
-    <category lang="es">Cine, Suspense, Acción, Drama</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002791.jpg" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20250829005400 +0200" stop="20250829023000 +0200" channel="BOM Cine">
+  <programme start="20250829005200 +0200" stop="20250829022800 +0200" channel="BOM Cine">
     <title lang="es">Nosferatu, el vampiro de la noche</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Terror,Drama[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Adaptación de la famosa novela de Bram Stoker que toma como punto de referencia la insuperable adaptación de Murnau.
@@ -286,7 +30,7 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829023000 +0200" stop="20250829034600 +0200" channel="BOM Cine">
+  <programme start="20250829022800 +0200" stop="20250829034400 +0200" channel="BOM Cine">
     <title lang="es">Guía sexual para una segunda cita</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Comedia Romántica[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.5/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Tras conocerse en una noche de fiesta, dos jóvenes quedan en la casa de uno de ellos como segunda cita. El objetivo es ver una película en el dormitorio y salir luego a cenar. Sin el efecto del alcohol, la situación resulta incómoda.
@@ -303,7 +47,7 @@
       <value>5.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829034600 +0200" stop="20250829051100 +0200" channel="BOM Cine">
+  <programme start="20250829034400 +0200" stop="20250829050900 +0200" channel="BOM Cine">
     <title lang="es">Torremolinos 73</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia,Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/₁₀[/COLOR]</sub-title>
     <desc lang="es">· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
@@ -322,7 +66,7 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829051100 +0200" stop="20250829063900 +0200" channel="BOM Cine">
+  <programme start="20250829050900 +0200" stop="20250829063400 +0200" channel="BOM Cine">
     <title lang="es">C.S.A.: The Confederate States of America</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Falso documental que muestra las posibles consecuencias para los Estados Unidos si el sur hubiese ganado la guerra de Secesión.
@@ -338,7 +82,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250829063900 +0200" stop="20250829080700 +0200" channel="BOM Cine">
+  <programme start="20250829063400 +0200" stop="20250829080200 +0200" channel="BOM Cine">
     <title lang="es">Alias Jesse James</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia,Romance,Drama[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.4/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Milford Farsnworth es un agente de seguros novato que vende una póliza a T. J. James, descubriendo luego que se trata del famoso Jesse James.
@@ -357,7 +101,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829080700 +0200" stop="20250829095500 +0200" channel="BOM Cine">
+  <programme start="20250829080200 +0200" stop="20250829100000 +0200" channel="BOM Cine">
     <title lang="es">Una jornada particular</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1977[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★8.1/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Emocionante historia del romance sin futuro que en unas pocas horas, el día que se celebra un desfile por la llegada de Hitler a Italia, viven una sacrificada madre de familia y un locutor de radio que ha sido despedido por homosexual.
@@ -376,7 +120,7 @@
       <value>8.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829095500 +0200" stop="20250829120000 +0200" channel="BOM Cine">
+  <programme start="20250829100000 +0200" stop="20250829120400 +0200" channel="BOM Cine">
     <title lang="es">Tensa espera</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Romance[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
     <desc lang="es">· Durante la Segunda Guerra Mundial, una mujer llamada Lill ve su corazón dividido entre su marido, que lucha en el frente, y un atractivo piloto de bombardero al que conoce por casualidad.
@@ -392,7 +136,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250829120000 +0200" stop="20250829133600 +0200" channel="BOM Cine">
+  <programme start="20250829120400 +0200" stop="20250829133800 +0200" channel="BOM Cine">
     <title lang="es">Ataque Fuerza Z</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Drama[/COLOR] | [COLOR cadetblue]1981[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Un comando de soldados australianos se lanzan a una misión secreta con el objetivo de mermar las tropas japonesas durante la Segunda Guerra Mundial.
@@ -408,7 +152,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250829133600 +0200" stop="20250829151400 +0200" channel="BOM Cine">
+  <programme start="20250829133800 +0200" stop="20250829151700 +0200" channel="BOM Cine">
     <title lang="es">Cabeza de pelotón</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]1988[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.3/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Un joven oficial que acaba de salir de la academia de West Point es enviado a la guerra de Vietnam como líder de un pelotón.
@@ -427,7 +171,7 @@
       <value>5.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829151400 +0200" stop="20250829165300 +0200" channel="BOM Cine">
+  <programme start="20250829151700 +0200" stop="20250829165500 +0200" channel="BOM Cine">
     <title lang="es">Cadence</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1990[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.5/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Bean es un díscolo soldado de una base armada estadounidense en Alemania. Como castigo por estar borracho y por su comportamiento rebelde es enviado a una prisión formada íntegramente por reos negros.
@@ -444,7 +188,7 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829165300 +0200" stop="20250829183600 +0200" channel="BOM Cine">
+  <programme start="20250829165500 +0200" stop="20250829183700 +0200" channel="BOM Cine">
     <title lang="es">El callejón de la muerte</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Western,Suspense[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.5/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Los hermanos Dalton asolan los pueblos del oeste americano a finales del siglo XIX, hasta que los habitantes de la zona deciden plantarles cara.
@@ -461,7 +205,7 @@
       <value>3.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829183600 +0200" stop="20250829200100 +0200" channel="BOM Cine">
+  <programme start="20250829183700 +0200" stop="20250829200200 +0200" channel="BOM Cine">
     <title lang="es">El jinete solitario</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Western,Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.2/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Bobby Hattaway, un heroico soldado, vuelve a casa una vez terminada la Guerra Civil (1861-1865). Cuando llega, descubre que su padre está endeudado hasta las cejas con el despiadado Stu Crocker.
@@ -478,7 +222,7 @@
       <value>5.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829200100 +0200" stop="20250829213100 +0200" channel="BOM Cine">
+  <programme start="20250829200200 +0200" stop="20250829213500 +0200" channel="BOM Cine">
     <title lang="es">Hickok: El Pistolero</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Western,Acción[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.6/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Hickok es un pistolero legendario que busca dejar atrás su pasado criminal.
@@ -495,7 +239,7 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829213100 +0200" stop="20250829232100 +0200" channel="BOM Cine">
+  <programme start="20250829213500 +0200" stop="20250829232700 +0200" channel="BOM Cine">
     <title lang="es">Cualquier bala servirá</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Drama,Suspense[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.8/₁₀[/COLOR]</sub-title>
     <desc lang="es">· Montana, 1876. Un cazador de cabezas despiadado rastrea a su propio hermano a través del país de Big Sky con la ayuda de una joven cazadora de pieles.
@@ -514,7 +258,7 @@
       <value>4.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250829232100 +0200" stop="20250830005500 +0200" channel="BOM Cine">
+  <programme start="20250829232700 +0200" stop="20250830005800 +0200" channel="BOM Cine">
     <title lang="es">El último cazador</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Dos soldados y un periodista emprenden la difícil misión de destruir una emisora de radio del Viet Cong.
@@ -528,7 +272,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250830005500 +0200" stop="20250830023700 +0200" channel="BOM Cine">
+  <programme start="20250830005800 +0200" stop="20250830023900 +0200" channel="BOM Cine">
     <title lang="es">El caso Slevin</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Policíaco,Acción[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.7/₁₀[/COLOR]</sub-title>
     <desc lang="es">· A Slevin la vida no le va nada bien. En un intento por desconectar de todo, toma prestado el apartamento de su amigo Nick Fisher en Nueva York. Pero las cosas están a punto de empeorar.
@@ -547,7 +291,7 @@
       <value>7.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250830023700 +0200" stop="20250830041000 +0200" channel="BOM Cine">
+  <programme start="20250830023900 +0200" stop="20250830041000 +0200" channel="BOM Cine">
     <title lang="es">Ave María</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/₁₀[/COLOR]</sub-title>
     <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
@@ -1279,5 +1023,98 @@
     <star-rating system="ES">
       <value>5.3/10</value>
     </star-rating>
+  </programme>
+  <programme start="20250901231900 +0200" stop="20250902003200 +0200" channel="BOM Cine">
+    <title lang="es">Fuego en el Amazonas</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]1993[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.5/₁₀[/COLOR]</sub-title>
+    <desc lang="es">· El líder del movimiento nativo antidesforestación es asesinado. Un periodista se interna en la selva para investigar su muerte.
+[COLOR teal]· País:[/COLOR] EE.UU. 
+[COLOR teal]· Dirección:[/COLOR] Luis Llosa.
+[COLOR teal]· Reparto:[/COLOR] Craig Sheffer, Juan Fernández, Sandra Bullock, Judith Chapman, Jorge García Bustamante, Baldomero Cáceres, Carlos Victoria, Reynaldo Arenas, David Elkin, Natalia Torres, Ramsay Ross, Eduardo Cesti, Ramón García.
+[COLOR teal]· Guion:[/COLOR] Catherine Cyran, Margo Blue, Jane Grey, Luana Anders, Beverly Gray.
+[COLOR teal]· Música:[/COLOR] Roy J. Ravio.
+[COLOR teal]· Producción:[/COLOR] Luis Llosa.</desc>
+    <category lang="es">Cine, Acción, Aventuras, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4075017.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250902003200 +0200" stop="20250902030200 +0200" channel="BOM Cine">
+    <title lang="es">La ciudad quemada</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc lang="es">· Dirigida por Antoni Ribas y protagonizada por Xabier Elorriaga, Francisco Casares y Ángela Molina, entre otros.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
+[COLOR teal]· Reparto:[/COLOR] Xabier Elorriaga, Francisco Casares, Ángela Molina, Pau Garsaball, Jeannine Mestre, Montserrat Salvador.
+[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Miquel Sanz.
+[COLOR teal]· Música:[/COLOR] Manuel Valls i Gorina.</desc>
+    <category lang="es">Cine, Drama, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012804.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20250902030200 +0200" stop="20250902043000 +0200" channel="BOM Cine">
+    <title lang="es">Enloquecidas</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/₁₀[/COLOR]</sub-title>
+    <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
+[COLOR teal]· País:[/COLOR] España 
+[COLOR teal]· Dirección:[/COLOR] Juan Luis Iborra.
+[COLOR teal]· Reparto:[/COLOR] Silvia Abascal, Concha Velasco, Asunción Balaguer, Iván Sánchez, Verónica Forqué, Cesáreo Estébanez, Jordi Rebellón, Juli Mira, Javier Blanes, Valeria Arribas, Manu Berastegui.
+[COLOR teal]· Guion:[/COLOR] Juan Luis Iborra, Antonio Albert.
+[COLOR teal]· Música:[/COLOR] José Reinoso.
+[COLOR teal]· Producción:[/COLOR] Marc Cases, Sergio Castellote, Óscar del Caz, Carlos Ibáñez, Beatriz Navarrete, Miguel Ángel Poveda.</desc>
+    <category lang="es">Cine, Suspense, Español</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012808.jpg" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250902043000 +0200" stop="20250902060000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250902060000 +0200" stop="20250902100000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250902100000 +0200" stop="20250902140000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250902140000 +0200" stop="20250902180000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  </programme>
+  <programme start="20250902180000 +0200" stop="20250902220000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España </desc>
+    <category lang="es">Programa, Otros</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
   </programme>
 </tv>
