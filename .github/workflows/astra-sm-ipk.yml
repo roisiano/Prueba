@@ -24,28 +24,22 @@ jobs:
           libdvbcsa-dev \
           libssl-dev
 
-    - name: Clone and prepare astra-sm (compile + log)
+    - name: Compile astra-sm and save log
       run: |
         set -e
-        # Clonar repositorio
-        git clone https://github.com/crazycat69/astra-sm.git
         mkdir -p ipk-root/opt/bin
-
-        # Crear log vacío en el workspace
         : > build.log
-
-        # Compilar dentro del repo y redirigir salida al log
-        cd astra-sm
-        libtoolize --force
-        aclocal
-        autoheader
-        automake --add-missing
-        autoconf
-        make -j$(nproc) 2>&1 | tee ../build.log || true
-
-        # Copiar binario al directorio de instalación temporal
-        cp src/astra/astra ../ipk-root/opt/bin/astra-sm || true
-        cd ..
+        git clone https://github.com/crazycat69/astra-sm.git temp-build
+        (
+          cd temp-build
+          libtoolize --force
+          aclocal
+          autoheader
+          automake --add-missing
+          autoconf
+          make -j$(nproc) 2>&1 | tee ../build.log || true
+          cp src/astra/astra ../ipk-root/opt/bin/astra-sm || true
+        )
 
     - name: Upload build log (aarch64)
       uses: actions/upload-artifact@v4
@@ -62,7 +56,6 @@ jobs:
       run: |
         mkdir -p ipk-package/control
         mkdir -p ipk-package/data
-
         echo "Package: astra-sm" > ipk-package/control/control
         echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
         echo "Architecture: aarch64" >> ipk-package/control/control
@@ -72,12 +65,10 @@ jobs:
         echo "Priority: optional" >> ipk-package/control/control
         echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
         echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
-
         if [ ! -d "ipk-root/opt" ]; then
           echo "❌ Error: ipk-root no contiene archivos instalados."
           exit 1
         fi
-
         cd ipk-root
         tar czf ../ipk-package/data.tar.gz .
         cd ../ipk-package/control
@@ -117,28 +108,22 @@ jobs:
           libdvbcsa-dev \
           libssl-dev
 
-    - name: Clone and prepare astra-sm (compile + log)
+    - name: Compile astra-sm and save log
       run: |
         set -e
-        # Clonar repositorio
-        git clone https://github.com/crazycat69/astra-sm.git
         mkdir -p ipk-root/opt/bin
-
-        # Crear log vacío en el workspace
         : > build.log
-
-        # Compilar dentro del repo y redirigir salida al log
-        cd astra-sm
-        libtoolize --force
-        aclocal
-        autoheader
-        automake --add-missing
-        autoconf
-        make -j$(nproc) 2>&1 | tee ../build.log || true
-
-        # Copiar binario al directorio de instalación temporal
-        cp src/astra/astra ../ipk-root/opt/bin/astra-sm || true
-        cd ..
+        git clone https://github.com/crazycat69/astra-sm.git temp-build
+        (
+          cd temp-build
+          libtoolize --force
+          aclocal
+          autoheader
+          automake --add-missing
+          autoconf
+          make -j$(nproc) 2>&1 | tee ../build.log || true
+          cp src/astra/astra ../ipk-root/opt/bin/astra-sm || true
+        )
 
     - name: Upload build log (armv7)
       uses: actions/upload-artifact@v4
@@ -155,7 +140,6 @@ jobs:
       run: |
         mkdir -p ipk-package/control
         mkdir -p ipk-package/data
-
         echo "Package: astra-sm" > ipk-package/control/control
         echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
         echo "Architecture: armv7" >> ipk-package/control/control
@@ -165,12 +149,10 @@ jobs:
         echo "Priority: optional" >> ipk-package/control/control
         echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
         echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
-
         if [ ! -d "ipk-root/opt" ]; then
           echo "❌ Error: ipk-root no contiene archivos instalados."
           exit 1
         fi
-
         cd ipk-root
         tar czf ../ipk-package/data.tar.gz .
         cd ../ipk-package/control
@@ -188,4 +170,5 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
+
 
