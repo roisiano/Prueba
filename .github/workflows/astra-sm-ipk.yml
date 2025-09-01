@@ -24,7 +24,7 @@ jobs:
           libdvbcsa-dev \
           libssl-dev
 
-    - name: Clone and prepare astra-sm
+    - name: Clone and prepare astra-sm (verbose + log)
       run: |
         set -x
         set -e
@@ -36,20 +36,16 @@ jobs:
         automake --add-missing
         autoconf
         ./configure --prefix=/opt
-        make -j$(nproc) 2>&1 | tee ../build.log || true
-
-        # Crear destino en el paquete
+        make -j$(nproc) 2>&1 | tee $GITHUB_WORKSPACE/build.log || true
         mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
-
-        # Copiar binario compilado
-        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm || true
+        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm
 
     - name: Upload build log (on failure)
       if: failure()
       uses: actions/upload-artifact@v4
       with:
         name: build-log-aarch64
-        path: build.log
+        path: ${{ github.workspace }}/build.log
 
     - name: Verify installation output
       run: |
@@ -120,7 +116,7 @@ jobs:
           libdvbcsa-dev \
           libssl-dev
 
-    - name: Clone and prepare astra-sm
+    - name: Clone and prepare astra-sm (verbose + log)
       run: |
         set -x
         set -e
@@ -132,20 +128,16 @@ jobs:
         automake --add-missing
         autoconf
         ./configure --prefix=/opt CC=arm-linux-gnueabihf-gcc
-        make -j$(nproc) 2>&1 | tee ../build.log || true
-
-        # Crear destino en el paquete
+        make -j$(nproc) 2>&1 | tee $GITHUB_WORKSPACE/build.log || true
         mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
-
-        # Copiar binario compilado
-        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm || true
+        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm
 
     - name: Upload build log (on failure)
       if: failure()
       uses: actions/upload-artifact@v4
       with:
         name: build-log-armv7
-        path: build.log
+        path: ${{ github.workspace }}/build.log
 
     - name: Verify installation output
       run: |
@@ -194,6 +186,5 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
-
 
 
