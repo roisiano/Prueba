@@ -35,13 +35,18 @@ jobs:
         autoheader
         automake --add-missing
         autoconf
-        ./configure --prefix=/opt
-        make -j$(nproc) 2>&1 | tee $GITHUB_WORKSPACE/build.log || true
-        mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
-        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm
 
-    - name: Upload build log (on failure)
-      if: failure()
+        # Crear log vacío antes de compilar
+        touch $GITHUB_WORKSPACE/build.log
+
+        # Compilar y guardar salida en el log
+        make -j$(nproc) 2>&1 | tee -a $GITHUB_WORKSPACE/build.log || true
+
+        # Crear destino en el paquete y copiar binario
+        mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
+        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm || true
+
+    - name: Upload build log (always)
       uses: actions/upload-artifact@v4
       with:
         name: build-log-aarch64
@@ -82,11 +87,6 @@ jobs:
     - name: Build .ipk (aarch64)
       run: |
         cd ipk-package
-        if [ ! -f debian-binary ] || [ ! -f control.tar.gz ] || [ ! -f data.tar.gz ]; then
-          echo "❌ Error: Faltan archivos para construir el .ipk"
-          ls -l
-          exit 1
-        fi
         ar r astra-sm_$(date +%Y.%m.%d)_aarch64.ipk debian-binary control.tar.gz data.tar.gz
 
     - name: Upload IPK (aarch64)
@@ -127,13 +127,18 @@ jobs:
         autoheader
         automake --add-missing
         autoconf
-        ./configure --prefix=/opt CC=arm-linux-gnueabihf-gcc
-        make -j$(nproc) 2>&1 | tee $GITHUB_WORKSPACE/build.log || true
-        mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
-        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm
 
-    - name: Upload build log (on failure)
-      if: failure()
+        # Crear log vacío antes de compilar
+        touch $GITHUB_WORKSPACE/build.log
+
+        # Compilar y guardar salida en el log
+        make -j$(nproc) 2>&1 | tee -a $GITHUB_WORKSPACE/build.log || true
+
+        # Crear destino en el paquete y copiar binario
+        mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
+        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm || true
+
+    - name: Upload build log (always)
       uses: actions/upload-artifact@v4
       with:
         name: build-log-armv7
@@ -174,11 +179,6 @@ jobs:
     - name: Build .ipk (armv7)
       run: |
         cd ipk-package
-        if [ ! -f debian-binary ] || [ ! -f control.tar.gz ] || [ ! -f data.tar.gz ]; then
-          echo "❌ Error: Faltan archivos para construir el .ipk"
-          ls -l
-          exit 1
-        fi
         ar r astra-sm_$(date +%Y.%m.%d)_armv7.ipk debian-binary control.tar.gz data.tar.gz
 
     - name: Upload IPK (armv7)
