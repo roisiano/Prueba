@@ -26,25 +26,25 @@ jobs:
 
     - name: Compile astra-sm and save log
       run: |
-        set -e
         mkdir -p ipk-root/opt/bin
         : > build.log
 
         # Clonar rama correcta
         git clone --branch event_monitor https://github.com/crazycat69/astra-sm.git temp-build
 
-        # Compilar dentro de src/astra y guardar log
+        # Compilar desde la raíz del repositorio
         (
-          cd temp-build/src/astra
+          cd temp-build
           libtoolize --force
           aclocal
           autoheader
           automake --add-missing
           autoconf
-          make -j$(nproc) 2>&1 | tee ../../../../build.log || true
+          ./configure --prefix=/opt
+          make -j$(nproc) 2>&1 | tee ../build.log || true
         )
 
-        # Copiar binario si existe
+        # Copiar el binario si existe
         if [ -f temp-build/src/astra/astra ]; then
           cp temp-build/src/astra/astra ipk-root/opt/bin/astra-sm
         else
@@ -120,20 +120,20 @@ jobs:
 
     - name: Compile astra-sm and save log
       run: |
-        set -e
         mkdir -p ipk-root/opt/bin
         : > build.log
 
         git clone --branch event_monitor https://github.com/crazycat69/astra-sm.git temp-build
 
         (
-          cd temp-build/src/astra
+          cd temp-build
           libtoolize --force
           aclocal
           autoheader
           automake --add-missing
           autoconf
-          make -j$(nproc) 2>&1 | tee ../../../../build.log || true
+          ./configure --prefix=/opt CC=arm-linux-gnueabihf-gcc
+          make -j$(nproc) 2>&1 | tee ../build.log || true
         )
 
         if [ -f temp-build/src/astra/astra ]; then
@@ -187,4 +187,3 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
-
