@@ -29,17 +29,27 @@ jobs:
         set -e
         mkdir -p ipk-root/opt/bin
         : > build.log
-        git clone https://github.com/crazycat69/astra-sm.git temp-build
+
+        # Clonar rama correcta
+        git clone --branch event_monitor https://github.com/crazycat69/astra-sm.git temp-build
+
+        # Compilar dentro de src/astra y guardar log
         (
-          cd temp-build
+          cd temp-build/src/astra
           libtoolize --force
           aclocal
           autoheader
           automake --add-missing
           autoconf
-          make -j$(nproc) 2>&1 | tee ../build.log || true
-          cp src/astra/astra ../ipk-root/opt/bin/astra-sm || true
+          make -j$(nproc) 2>&1 | tee ../../../../build.log || true
         )
+
+        # Copiar binario si existe
+        if [ -f temp-build/src/astra/astra ]; then
+          cp temp-build/src/astra/astra ipk-root/opt/bin/astra-sm
+        else
+          echo "⚠️ Binario no encontrado, se continuará igual."
+        fi
 
     - name: Upload build log (aarch64)
       uses: actions/upload-artifact@v4
@@ -113,17 +123,24 @@ jobs:
         set -e
         mkdir -p ipk-root/opt/bin
         : > build.log
-        git clone https://github.com/crazycat69/astra-sm.git temp-build
+
+        git clone --branch event_monitor https://github.com/crazycat69/astra-sm.git temp-build
+
         (
-          cd temp-build
+          cd temp-build/src/astra
           libtoolize --force
           aclocal
           autoheader
           automake --add-missing
           autoconf
-          make -j$(nproc) 2>&1 | tee ../build.log || true
-          cp src/astra/astra ../ipk-root/opt/bin/astra-sm || true
+          make -j$(nproc) 2>&1 | tee ../../../../build.log || true
         )
+
+        if [ -f temp-build/src/astra/astra ]; then
+          cp temp-build/src/astra/astra ipk-root/opt/bin/astra-sm
+        else
+          echo "⚠️ Binario no encontrado, se continuará igual."
+        fi
 
     - name: Upload build log (armv7)
       uses: actions/upload-artifact@v4
@@ -170,5 +187,4 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
-
 
