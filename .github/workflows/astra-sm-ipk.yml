@@ -9,6 +9,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Create build.log
+      run: touch $GITHUB_WORKSPACE/build.log
+
     - name: Install dependencies
       run: |
         sudo apt update
@@ -103,6 +106,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Create build.log
+      run: touch $GITHUB_WORKSPACE/build.log
+
     - name: Install dependencies
       run: |
         sudo apt update
