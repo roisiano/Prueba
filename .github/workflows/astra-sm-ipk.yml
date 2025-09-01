@@ -68,7 +68,7 @@ jobs:
         cd ../ipk-package/control
         tar czf ../control.tar.gz .
         cd ../
-        echo "2.0" > debian-binary
+        echo "2.0" > ipk-package/debian-binary
 
     - name: Build .ipk (aarch64)
       run: |
@@ -151,7 +151,7 @@ jobs:
         cd ../ipk-package/control
         tar czf ../control.tar.gz .
         cd ../
-        echo "2.0" > debian-binary
+        echo "2.0" > ipk-package/debian-binary
 
     - name: Build .ipk (armv7)
       run: |
