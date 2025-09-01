@@ -1,0 +1,121 @@
+name: Build astra-sm IPK for CoreELEC (aarch64 & armv7)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-aarch64:
+    name: Build for aarch64
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Install dependencies
+      run: |
+        sudo apt update
+        sudo apt install -y \
+          build-essential \
+          autoconf \
+          automake \
+          libtool \
+          pkg-config \
+          fakeroot \
+          git \
+          binutils
+
+    - name: Clone astra-sm repo
+      run: |
+        git clone https://github.com/crazycat69/astra-sm.git
+        cd astra-sm
+        ./autogen.sh
+        ./configure --prefix=/opt
+        make -j$(nproc)
+        make DESTDIR=$GITHUB_WORKSPACE/ipk-root install
+
+    - name: Create IPK structure (aarch64)
+      run: |
+        mkdir -p ipk-package/control
+        mkdir -p ipk-package/data
+
+        echo "Package: astra-sm" > ipk-package/control/control
+        echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
+        echo "Architecture: aarch64" >> ipk-package/control/control
+        echo "Maintainer: CrazyCat <crazycat69@github>" >> ipk-package/control/control
+        echo "Description: Astra Streaming Manager (crazycat69 fork)" >> ipk-package/control/control
+        echo "Section: net" >> ipk-package/control/control
+        echo "Priority: optional" >> ipk-package/control/control
+        echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
+
+        cd ipk-root
+        tar czf ../ipk-package/data.tar.gz .
+        cd ../ipk-package/control
+        tar czf ../control.tar.gz .
+        echo "2.0" > ../debian-binary
+
+    - name: Build .ipk (aarch64)
+      run: |
+        cd ipk-package
+        ar r astra-sm_$(date +%Y.%m.%d)_aarch64.ipk debian-binary control.tar.gz data.tar.gz
+
+    - name: Upload IPK (aarch64)
+      uses: actions/upload-artifact@v3
+      with:
+        name: astra-sm-aarch64
+        path: ipk-package/*.ipk
+
+  build-armv7:
+    name: Build for armv7
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Install dependencies
+      run: |
+        sudo apt update
+        sudo apt install -y \
+          build-essential \
+          autoconf \
+          automake \
+          libtool \
+          pkg-config \
+          fakeroot \
+          git \
+          binutils
+
+    - name: Clone astra-sm repo
+      run: |
+        git clone https://github.com/crazycat69/astra-sm.git
+        cd astra-sm
+        ./autogen.sh
+        ./configure --prefix=/opt CC=arm-linux-gnueabihf-gcc
+        make -j$(nproc)
+        make DESTDIR=$GITHUB_WORKSPACE/ipk-root install
+
+    - name: Create IPK structure (armv7)
+      run: |
+        mkdir -p ipk-package/control
+        mkdir -p ipk-package/data
+
+        echo "Package: astra-sm" > ipk-package/control/control
+        echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
+        echo "Architecture: armv7" >> ipk-package/control/control
+        echo "Maintainer: CrazyCat <crazycat69@github>" >> ipk-package/control/control
+        echo "Description: Astra Streaming Manager (crazycat69 fork)" >> ipk-package/control/control
+        echo "Section: net" >> ipk-package/control/control
+        echo "Priority: optional" >> ipk-package/control/control
+        echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
+
+        cd ipk-root
+        tar czf ../ipk-package/data.tar.gz .
+        cd ../ipk-package/control
+        tar czf ../control.tar.gz .
+        echo "2.0" > ../debian-binary
+
+    - name: Build .ipk (armv7)
+      run: |
+        cd ipk-package
+        ar r astra-sm_$(date +%Y.%m.%d)_armv7.ipk debian-binary control.tar.gz data.tar.gz
+
+    - name: Upload IPK (armv7)
+      uses: actions/upload-artifact@v3
+      with:
+        name: astra-sm-armv7
+        path: ipk-package/*.ipk
