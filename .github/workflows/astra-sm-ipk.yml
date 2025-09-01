@@ -20,7 +20,9 @@ jobs:
           pkg-config \
           fakeroot \
           git \
-          binutils
+          binutils \
+          libdvbcsa-dev \
+          libssl-dev
 
     - name: Clone and prepare astra-sm
       run: |
@@ -42,12 +44,13 @@ jobs:
 
         echo "Package: astra-sm" > ipk-package/control/control
         echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
-        echo "Architecture: aarch64" >> ipk-package/control/control
+        echo "Architecture: aarch64-3.10_kn" >> ipk-package/control/control
         echo "Maintainer: CrazyCat <crazycat69@github>" >> ipk-package/control/control
         echo "Description: Astra Streaming Manager (crazycat69 fork)" >> ipk-package/control/control
         echo "Section: net" >> ipk-package/control/control
         echo "Priority: optional" >> ipk-package/control/control
         echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
+        echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
 
         cd ipk-root
         tar czf ../ipk-package/data.tar.gz .
@@ -58,7 +61,7 @@ jobs:
     - name: Build .ipk (aarch64)
       run: |
         cd ipk-package
-        ar r astra-sm_$(date +%Y.%m.%d)_aarch64.ipk debian-binary control.tar.gz data.tar.gz
+        ar r astra-sm_$(date +%Y.%m.%d)_aarch64-3.10_kn.ipk debian-binary control.tar.gz data.tar.gz
 
     - name: Upload IPK (aarch64)
       uses: actions/upload-artifact@v4
@@ -83,7 +86,9 @@ jobs:
           fakeroot \
           git \
           binutils \
-          gcc-arm-linux-gnueabihf
+          gcc-arm-linux-gnueabihf \
+          libdvbcsa-dev \
+          libssl-dev
 
     - name: Clone and prepare astra-sm
       run: |
@@ -105,12 +110,13 @@ jobs:
 
         echo "Package: astra-sm" > ipk-package/control/control
         echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
-        echo "Architecture: armv7" >> ipk-package/control/control
+        echo "Architecture: armv7-3.10_kn" >> ipk-package/control/control
         echo "Maintainer: CrazyCat <crazycat69@github>" >> ipk-package/control/control
         echo "Description: Astra Streaming Manager (crazycat69 fork)" >> ipk-package/control/control
         echo "Section: net" >> ipk-package/control/control
         echo "Priority: optional" >> ipk-package/control/control
         echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
+        echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
 
         cd ipk-root
         tar czf ../ipk-package/data.tar.gz .
@@ -121,7 +127,7 @@ jobs:
     - name: Build .ipk (armv7)
       run: |
         cd ipk-package
-        ar r astra-sm_$(date +%Y.%m.%d)_armv7.ipk debian-binary control.tar.gz data.tar.gz
+        ar r astra-sm_$(date +%Y.%m.%d)_armv7-3.10_kn.ipk debian-binary control.tar.gz data.tar.gz
 
     - name: Upload IPK (armv7)
       uses: actions/upload-artifact@v4
