@@ -26,6 +26,8 @@ jobs:
 
     - name: Clone and prepare astra-sm
       run: |
+        set -x
+        set -e
         git clone https://github.com/crazycat69/astra-sm.git
         cd astra-sm
         libtoolize --force
@@ -113,6 +115,8 @@ jobs:
 
     - name: Clone and prepare astra-sm
       run: |
+        set -x
+        set -e
         git clone https://github.com/crazycat69/astra-sm.git
         cd astra-sm
         libtoolize --force
