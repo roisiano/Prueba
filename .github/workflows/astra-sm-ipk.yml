@@ -46,7 +46,6 @@ jobs:
       run: |
         mkdir -p ipk-package/control
         mkdir -p ipk-package/data
-        mkdir -p ipk-root
 
         echo "Package: astra-sm" > ipk-package/control/control
         echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
@@ -129,7 +128,6 @@ jobs:
       run: |
         mkdir -p ipk-package/control
         mkdir -p ipk-package/data
-        mkdir -p ipk-root
 
         echo "Package: astra-sm" > ipk-package/control/control
         echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
@@ -168,5 +166,6 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
+
 
 
