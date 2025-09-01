@@ -36,13 +36,20 @@ jobs:
         automake --add-missing
         autoconf
         ./configure --prefix=/opt
-        make -j$(nproc)
+        make -j$(nproc) 2>&1 | tee ../build.log || true
 
         # Crear destino en el paquete
         mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
 
         # Copiar binario compilado
-        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm
+        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm || true
+
+    - name: Upload build log (on failure)
+      if: failure()
+      uses: actions/upload-artifact@v4
+      with:
+        name: build-log-aarch64
+        path: build.log
 
     - name: Verify installation output
       run: |
@@ -125,13 +132,20 @@ jobs:
         automake --add-missing
         autoconf
         ./configure --prefix=/opt CC=arm-linux-gnueabihf-gcc
-        make -j$(nproc)
+        make -j$(nproc) 2>&1 | tee ../build.log || true
 
         # Crear destino en el paquete
         mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
 
         # Copiar binario compilado
-        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm
+        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm || true
+
+    - name: Upload build log (on failure)
+      if: failure()
+      uses: actions/upload-artifact@v4
+      with:
+        name: build-log-armv7
+        path: build.log
 
     - name: Verify installation output
       run: |
@@ -180,7 +194,6 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
-
 
 
 
