@@ -57,7 +57,7 @@ jobs:
         ar r astra-sm_$(date +%Y.%m.%d)_aarch64.ipk debian-binary control.tar.gz data.tar.gz
 
     - name: Upload IPK (aarch64)
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: astra-sm-aarch64
         path: ipk-package/*.ipk
@@ -78,7 +78,8 @@ jobs:
           pkg-config \
           fakeroot \
           git \
-          binutils
+          binutils \
+          gcc-arm-linux-gnueabihf
 
     - name: Clone astra-sm repo
       run: |
@@ -115,7 +116,8 @@ jobs:
         ar r astra-sm_$(date +%Y.%m.%d)_armv7.ipk debian-binary control.tar.gz data.tar.gz
 
     - name: Upload IPK (armv7)
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
+
