@@ -67,11 +67,17 @@ jobs:
         tar czf ../ipk-package/data.tar.gz .
         cd ../ipk-package/control
         tar czf ../control.tar.gz .
-        echo "2.0" > ../debian-binary
+        cd ../
+        echo "2.0" > debian-binary
 
     - name: Build .ipk (aarch64)
       run: |
         cd ipk-package
+        if [ ! -f debian-binary ] || [ ! -f control.tar.gz ] || [ ! -f data.tar.gz ]; then
+          echo "❌ Error: Faltan archivos para construir el .ipk"
+          ls -l
+          exit 1
+        fi
         ar r astra-sm_$(date +%Y.%m.%d)_aarch64.ipk debian-binary control.tar.gz data.tar.gz
 
     - name: Upload IPK (aarch64)
@@ -144,11 +150,17 @@ jobs:
         tar czf ../ipk-package/data.tar.gz .
         cd ../ipk-package/control
         tar czf ../control.tar.gz .
-        echo "2.0" > ../debian-binary
+        cd ../
+        echo "2.0" > debian-binary
 
     - name: Build .ipk (armv7)
       run: |
         cd ipk-package
+        if [ ! -f debian-binary ] || [ ! -f control.tar.gz ] || [ ! -f data.tar.gz ]; then
+          echo "❌ Error: Faltan archivos para construir el .ipk"
+          ls -l
+          exit 1
+        fi
         ar r astra-sm_$(date +%Y.%m.%d)_armv7.ipk debian-binary control.tar.gz data.tar.gz
 
     - name: Upload IPK (armv7)
