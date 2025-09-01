@@ -52,6 +52,8 @@ jobs:
       run: |
         mkdir -p ipk-package/control
         mkdir -p ipk-package/data
+
+        # Control file
         echo "Package: astra-sm" > ipk-package/control/control
         echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
         echo "Architecture: aarch64" >> ipk-package/control/control
@@ -67,11 +69,14 @@ jobs:
           exit 1
         fi
 
+        # Crear data.tar.gz
         cd ipk-root
         tar czf ../ipk-package/data.tar.gz .
         cd ../ipk-package/control
         tar czf ../control.tar.gz .
         cd ../
+
+        # Crear debian-binary correctamente
         echo "2.0" > ipk-package/debian-binary
 
     - name: Build .ipk (aarch64)
@@ -132,6 +137,7 @@ jobs:
       run: |
         mkdir -p ipk-package/control
         mkdir -p ipk-package/data
+
         echo "Package: astra-sm" > ipk-package/control/control
         echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
         echo "Architecture: armv7" >> ipk-package/control/control
@@ -164,4 +170,3 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
-
