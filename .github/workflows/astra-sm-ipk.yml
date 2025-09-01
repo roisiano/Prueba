@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Create build.log
-      run: touch $GITHUB_WORKSPACE/build.log
-
     - name: Install dependencies
       run: |
         sudo apt update
@@ -27,36 +24,34 @@ jobs:
           libdvbcsa-dev \
           libssl-dev
 
-    - name: Clone and prepare astra-sm (verbose + log)
+    - name: Clone and prepare astra-sm (compile + log)
       run: |
-        set -x
         set -e
+        # Clonar repositorio
         git clone https://github.com/crazycat69/astra-sm.git
+        mkdir -p ipk-root/opt/bin
+
+        # Crear log vacío en el workspace
+        : > build.log
+
+        # Compilar dentro del repo y redirigir salida al log
         cd astra-sm
         libtoolize --force
         aclocal
         autoheader
         automake --add-missing
         autoconf
+        make -j$(nproc) 2>&1 | tee ../build.log || true
 
-        # Crear log vacío
-        touch build.log
+        # Copiar binario al directorio de instalación temporal
+        cp src/astra/astra ../ipk-root/opt/bin/astra-sm || true
+        cd ..
 
-        # Compilar y guardar log
-        make -j$(nproc) 2>&1 | tee -a build.log || true
-
-        # Copiar log al workspace principal para asegurar subida
-        cp build.log $GITHUB_WORKSPACE/build.log
-
-        # Crear destino en el paquete y copiar binario
-        mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
-        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm || true
-
-    - name: Upload build log (always)
+    - name: Upload build log (aarch64)
       uses: actions/upload-artifact@v4
       with:
         name: build-log-aarch64
-        path: ${{ github.workspace }}/build.log
+        path: build.log
 
     - name: Verify installation output
       run: |
@@ -79,7 +74,7 @@ jobs:
         echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
 
         if [ ! -d "ipk-root/opt" ]; then
-          echo "❌ Error: ipk-root no contiene archivos instalados. La compilación puede haber fallado."
+          echo "❌ Error: ipk-root no contiene archivos instalados."
           exit 1
         fi
 
@@ -106,9 +101,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Create build.log
-      run: touch $GITHUB_WORKSPACE/build.log
-
     - name: Install dependencies
       run: |
         sudo apt update
@@ -125,36 +117,34 @@ jobs:
           libdvbcsa-dev \
           libssl-dev
 
-    - name: Clone and prepare astra-sm (verbose + log)
+    - name: Clone and prepare astra-sm (compile + log)
       run: |
-        set -x
         set -e
+        # Clonar repositorio
         git clone https://github.com/crazycat69/astra-sm.git
+        mkdir -p ipk-root/opt/bin
+
+        # Crear log vacío en el workspace
+        : > build.log
+
+        # Compilar dentro del repo y redirigir salida al log
         cd astra-sm
         libtoolize --force
         aclocal
         autoheader
         automake --add-missing
         autoconf
+        make -j$(nproc) 2>&1 | tee ../build.log || true
 
-        # Crear log vacío
-        touch build.log
+        # Copiar binario al directorio de instalación temporal
+        cp src/astra/astra ../ipk-root/opt/bin/astra-sm || true
+        cd ..
 
-        # Compilar y guardar log
-        make -j$(nproc) 2>&1 | tee -a build.log || true
-
-        # Copiar log al workspace principal para asegurar subida
-        cp build.log $GITHUB_WORKSPACE/build.log
-
-        # Crear destino en el paquete y copiar binario
-        mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
-        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm || true
-
-    - name: Upload build log (always)
+    - name: Upload build log (armv7)
       uses: actions/upload-artifact@v4
       with:
         name: build-log-armv7
-        path: ${{ github.workspace }}/build.log
+        path: build.log
 
     - name: Verify installation output
       run: |
@@ -177,7 +167,7 @@ jobs:
         echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
 
         if [ ! -d "ipk-root/opt" ]; then
-          echo "❌ Error: ipk-root no contiene archivos instalados. La compilación puede haber fallado."
+          echo "❌ Error: ipk-root no contiene archivos instalados."
           exit 1
         fi
 
@@ -198,5 +188,4 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
-
 
