@@ -14,10 +14,6 @@ jobs:
         sudo apt update
         sudo apt install -y \
           build-essential \
-          autoconf \
-          automake \
-          libtool \
-          pkg-config \
           fakeroot \
           git \
           binutils \
@@ -29,20 +25,10 @@ jobs:
         mkdir -p ipk-root/opt/bin
         : > build.log
 
-        # Clonar rama correcta
         git clone --branch event_monitor https://github.com/crazycat69/astra-sm.git temp-build
 
-        # Compilar desde la raíz del repositorio
-        (
-          cd temp-build
-          libtoolize --force
-          aclocal
-          autoheader
-          automake --add-missing
-          autoconf
-          ./configure --prefix=/opt
-          make -j$(nproc) 2>&1 | tee ../build.log || true
-        )
+        # Compilar directamente con make en src/astra
+        make -C temp-build/src/astra -j$(nproc) 2>&1 | tee build.log || true
 
         # Copiar el binario si existe
         if [ -f temp-build/src/astra/astra ]; then
@@ -75,10 +61,12 @@ jobs:
         echo "Priority: optional" >> ipk-package/control/control
         echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
         echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
+
         if [ ! -d "ipk-root/opt" ]; then
           echo "❌ Error: ipk-root no contiene archivos instalados."
           exit 1
         fi
+
         cd ipk-root
         tar czf ../ipk-package/data.tar.gz .
         cd ../ipk-package/control
@@ -107,10 +95,6 @@ jobs:
         sudo apt update
         sudo apt install -y \
           build-essential \
-          autoconf \
-          automake \
-          libtool \
-          pkg-config \
           fakeroot \
           git \
           binutils \
@@ -125,16 +109,7 @@ jobs:
 
         git clone --branch event_monitor https://github.com/crazycat69/astra-sm.git temp-build
 
-        (
-          cd temp-build
-          libtoolize --force
-          aclocal
-          autoheader
-          automake --add-missing
-          autoconf
-          ./configure --prefix=/opt CC=arm-linux-gnueabihf-gcc
-          make -j$(nproc) 2>&1 | tee ../build.log || true
-        )
+        make -C temp-build/src/astra CC=arm-linux-gnueabihf-gcc -j$(nproc) 2>&1 | tee build.log || true
 
         if [ -f temp-build/src/astra/astra ]; then
           cp temp-build/src/astra/astra ipk-root/opt/bin/astra-sm
@@ -166,10 +141,12 @@ jobs:
         echo "Priority: optional" >> ipk-package/control/control
         echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
         echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
+
         if [ ! -d "ipk-root/opt" ]; then
           echo "❌ Error: ipk-root no contiene archivos instalados."
           exit 1
         fi
+
         cd ipk-root
         tar czf ../ipk-package/data.tar.gz .
         cd ../ipk-package/control
@@ -187,3 +164,4 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
+
