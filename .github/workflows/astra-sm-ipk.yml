@@ -35,7 +35,12 @@ jobs:
         autoconf
         ./configure --prefix=/opt
         make -j$(nproc)
-        make DESTDIR=$GITHUB_WORKSPACE/ipk-root install
+
+        # Crear destino en el paquete
+        mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
+
+        # Copiar binario compilado
+        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm
 
     - name: Verify installation output
       run: |
@@ -117,7 +122,12 @@ jobs:
         autoconf
         ./configure --prefix=/opt CC=arm-linux-gnueabihf-gcc
         make -j$(nproc)
-        make DESTDIR=$GITHUB_WORKSPACE/ipk-root install
+
+        # Crear destino en el paquete
+        mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
+
+        # Copiar binario compilado
+        cp src/astra/astra $GITHUB_WORKSPACE/ipk-root/opt/bin/astra-sm
 
     - name: Verify installation output
       run: |
@@ -166,6 +176,7 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
+
 
 
 
