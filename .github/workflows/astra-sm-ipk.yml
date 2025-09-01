@@ -36,11 +36,14 @@ jobs:
         automake --add-missing
         autoconf
 
-        # Crear log vacío antes de compilar
-        touch $GITHUB_WORKSPACE/build.log
+        # Crear log vacío
+        touch build.log
 
-        # Compilar y guardar salida en el log
-        make -j$(nproc) 2>&1 | tee -a $GITHUB_WORKSPACE/build.log || true
+        # Compilar y guardar log
+        make -j$(nproc) 2>&1 | tee -a build.log || true
+
+        # Copiar log al workspace principal para asegurar subida
+        cp build.log $GITHUB_WORKSPACE/build.log
 
         # Crear destino en el paquete y copiar binario
         mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
@@ -128,11 +131,14 @@ jobs:
         automake --add-missing
         autoconf
 
-        # Crear log vacío antes de compilar
-        touch $GITHUB_WORKSPACE/build.log
+        # Crear log vacío
+        touch build.log
 
-        # Compilar y guardar salida en el log
-        make -j$(nproc) 2>&1 | tee -a $GITHUB_WORKSPACE/build.log || true
+        # Compilar y guardar log
+        make -j$(nproc) 2>&1 | tee -a build.log || true
+
+        # Copiar log al workspace principal para asegurar subida
+        cp build.log $GITHUB_WORKSPACE/build.log
 
         # Crear destino en el paquete y copiar binario
         mkdir -p $GITHUB_WORKSPACE/ipk-root/opt/bin
@@ -186,5 +192,4 @@ jobs:
       with:
         name: astra-sm-armv7
         path: ipk-package/*.ipk
-
 
