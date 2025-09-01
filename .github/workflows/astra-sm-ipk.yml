@@ -22,11 +22,15 @@ jobs:
           git \
           binutils
 
-    - name: Clone astra-sm repo
+    - name: Clone and prepare astra-sm
       run: |
         git clone https://github.com/crazycat69/astra-sm.git
         cd astra-sm
-        ./autogen.sh
+        libtoolize --force
+        aclocal
+        autoheader
+        automake --add-missing
+        autoconf
         ./configure --prefix=/opt
         make -j$(nproc)
         make DESTDIR=$GITHUB_WORKSPACE/ipk-root install
@@ -81,11 +85,15 @@ jobs:
           binutils \
           gcc-arm-linux-gnueabihf
 
-    - name: Clone astra-sm repo
+    - name: Clone and prepare astra-sm
       run: |
         git clone https://github.com/crazycat69/astra-sm.git
         cd astra-sm
-        ./autogen.sh
+        libtoolize --force
+        aclocal
+        autoheader
+        automake --add-missing
+        autoconf
         ./configure --prefix=/opt CC=arm-linux-gnueabihf-gcc
         make -j$(nproc)
         make DESTDIR=$GITHUB_WORKSPACE/ipk-root install
