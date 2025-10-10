@@ -1,10 +1,10 @@
 name: Transform ClearKeys to M3U
 
 on:
-#  workflow_dispatch:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
+#  push:
+#    branches:
+#      - main
 
 jobs:
   generate-m3u:
