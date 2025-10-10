@@ -2,9 +2,7 @@ name: Transform ClearKeys to M3U
 
 on:
   workflow_dispatch:
-#  push:
-#    branches:
-#      - main
+
 
 jobs:
   generate-m3u:
@@ -21,29 +19,20 @@ jobs:
         run: |
           echo "#EXTM3U" > output.m3u
           python3 - <<EOF
-          import re
+          import json
 
           USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 
           with open("input.json", "r", encoding="utf-8") as f:
-              raw = f.read()
+              content = json.load(f)
 
-          # Extraer bloques JSON individuales
-          blocks = re.findall(r'\{[^{}]*"name"\s*:\s*"[^"]+"[^{}]*"uri"\s*:\s*"[^"]+"[^{}]*"kid"\s*:\s*"[^"]+"[^{}]*"key"\s*:\s*"[^"]+"[^{}]*\}', raw)
-
-          with open("output.m3u", "a", encoding="utf-8") as out:
-              for block in blocks:
-                  try:
-                      # Convertir bloque a dict
-                      block = re.sub(r'(\w+):', r'"\1":', block.replace("'", '"'))  # asegurar comillas
-                      import json
-                      entry = json.loads(block)
-
-                      uri = entry["uri"]
-                      referer = ""
-                      if "|Referer=" in uri:
-                          referer = uri.split("|Referer=")[-1]
-
+          def process(entry):
+              if all(k in entry for k in ("name", "uri", "kid", "key")):
+                  uri = entry["uri"]
+                  referer = ""
+                  if "|Referer=" in uri:
+                      referer = uri.split("|Referer=")[-1]
+                  with open("output.m3u", "a", encoding="utf-8") as out:
                       out.write(f"#EXTINF:-1 , {entry['name']}\n")
                       out.write("#KODIPROP:inputstream.adaptive.manifest_type=mpd\n")
                       out.write("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n")
@@ -52,8 +41,16 @@ jobs:
                       if referer:
                           out.write(f"#KODIPROP:inputstream.adaptive.stream_headers=Referer={referer}\n")
                       out.write(f"{uri}\n\n")
-                  except Exception as e:
-                      print("Error procesando bloque:", e)
+
+          # Recorrer todos los valores del JSON
+          if isinstance(content, dict):
+              for key, value in content.items():
+                  if isinstance(value, list):
+                      for item in value:
+                          process(item)
+          elif isinstance(content, list):
+              for item in content:
+                  process(item)
           EOF
 
       - name: Upload output.m3u as artifact
