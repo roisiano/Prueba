@@ -1,0 +1,62 @@
+name: Transform ClearKeys to M3U
+
+on:
+#  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download input.json
+        run: curl -sSL https://raw.githubusercontent.com/roisiano/Prueba/refs/heads/main/input.json -o input.json
+
+      - name: Generate output.m3u
+        run: |
+          echo "#EXTM3U" > output.m3u
+          python3 - <<EOF
+          import json
+
+          USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+
+          with open("input.json", "r", encoding="utf-8") as f:
+              content = json.load(f)
+
+          def process_entry(entry):
+              if all(k in entry for k in ("name", "uri", "kid", "key")):
+                  uri = entry["uri"]
+                  referer = ""
+                  if "|Referer=" in uri:
+                      referer = uri.split("|Referer=")[-1]
+                  with open("output.m3u", "a", encoding="utf-8") as out:
+                      out.write(f"#EXTINF:-1 , {entry['name']}\n")
+                      out.write("#KODIPROP:inputstream.adaptive.manifest_type=mpd\n")
+                      out.write("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n")
+                      out.write(f"#KODIPROP:inputstream.adaptive.license_key={entry['kid']}:{entry['key']}\n")
+                      out.write(f"#EXTVLCOPT:http-user-agent={USER_AGENT}\n")
+                      if referer:
+                          out.write(f"#KODIPROP:inputstream.adaptive.stream_headers=Referer={referer}\n")
+                      out.write(f"{uri}\n\n")
+
+          # Recorrer todos los objetos JSON (lista o diccionario)
+          if isinstance(content, list):
+              for item in content:
+                  process_entry(item)
+          elif isinstance(content, dict):
+              for value in content.values():
+                  if isinstance(value, list):
+                      for item in value:
+                          process_entry(item)
+          EOF
+
+      - name: Upload output.m3u as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: output-m3u
+          path: output.m3u
