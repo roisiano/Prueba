@@ -24,7 +24,7 @@ jobs:
           USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 
           with open("input.json", "r", encoding="utf-8") as f:
-              content = json.load(f)
+              data = json.load(f)
 
           def process(entry):
               if all(k in entry for k in ("name", "uri", "kid", "key")):
@@ -42,14 +42,13 @@ jobs:
                           out.write(f"#KODIPROP:inputstream.adaptive.stream_headers=Referer={referer}\n")
                       out.write(f"{uri}\n\n")
 
-          # Recorrer todos los valores del JSON
-          if isinstance(content, dict):
-              for key, value in content.items():
-                  if isinstance(value, list):
-                      for item in value:
+          if isinstance(data, dict):
+              for section in data.values():
+                  if isinstance(section, list):
+                      for item in section:
                           process(item)
-          elif isinstance(content, list):
-              for item in content:
+          elif isinstance(data, list):
+              for item in data:
                   process(item)
           EOF
 
