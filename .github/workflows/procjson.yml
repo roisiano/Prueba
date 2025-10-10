@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download input.json
         run: curl -sSL https://raw.githubusercontent.com/roisiano/Prueba/refs/heads/main/input.json -o input.json
@@ -56,7 +56,7 @@ jobs:
           EOF
 
       - name: Upload output.m3u as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: output-m3u
           path: output.m3u
