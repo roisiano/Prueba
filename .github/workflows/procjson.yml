@@ -2,7 +2,9 @@ name: Transform ClearKeys to M3U
 
 on:
   workflow_dispatch:
-
+  push:
+    branches:
+      - main
 
 jobs:
   generate-m3u:
@@ -19,20 +21,34 @@ jobs:
         run: |
           echo "#EXTM3U" > output.m3u
           python3 - <<EOF
-          import json
+          import re
 
           USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 
           with open("input.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
+              lines = f.readlines()
 
-          def process(entry):
-              if all(k in entry for k in ("name", "uri", "kid", "key")):
-                  uri = entry["uri"]
-                  referer = ""
-                  if "|Referer=" in uri:
-                      referer = uri.split("|Referer=")[-1]
-                  with open("output.m3u", "a", encoding="utf-8") as out:
+          # Filtrar solo líneas con claves válidas
+          valid_lines = [line.strip() for line in lines if any(k in line for k in ['"name":', '"uri":', '"kid":', '"key":'])]
+
+          # Agrupar cada 4 líneas como un bloque
+          blocks = [valid_lines[i:i+4] for i in range(0, len(valid_lines), 4)]
+
+          with open("output.m3u", "a", encoding="utf-8") as out:
+              for block in blocks:
+                  entry = {}
+                  for line in block:
+                      match = re.match(r'"(\w+)":\s*"(.+?)"', line)
+                      if match:
+                          key, value = match.groups()
+                          entry[key] = value
+
+                  if all(k in entry for k in ("name", "uri", "kid", "key")):
+                      uri = entry["uri"]
+                      referer = ""
+                      if "|Referer=" in uri:
+                          referer = uri.split("|Referer=")[-1]
+
                       out.write(f"#EXTINF:-1 , {entry['name']}\n")
                       out.write("#KODIPROP:inputstream.adaptive.manifest_type=mpd\n")
                       out.write("#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n")
@@ -41,15 +57,6 @@ jobs:
                       if referer:
                           out.write(f"#KODIPROP:inputstream.adaptive.stream_headers=Referer={referer}\n")
                       out.write(f"{uri}\n\n")
-
-          if isinstance(data, dict):
-              for section in data.values():
-                  if isinstance(section, list):
-                      for item in section:
-                          process(item)
-          elif isinstance(data, list):
-              for item in data:
-                  process(item)
           EOF
 
       - name: Upload output.m3u as artifact
