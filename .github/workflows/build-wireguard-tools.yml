@@ -13,14 +13,15 @@ jobs:
           sudo apt update
           sudo apt install -y build-essential git musl-tools
 
-      - name: Clone wireguard-tools (userland only)
+      - name: Clone wireguard-tools
         run: |
           git clone https://github.com/WireGuard/wireguard-tools.git
 
-      - name: Build static wg and wg-quick
+      - name: Build static wg and wg-quick (manual)
         run: |
           cd wireguard-tools/src
-          make CC=musl-gcc
+          musl-gcc -static -o wg wg.c config.c
+          musl-gcc -static -o wg-quick wg-quick.c
 
       - name: Archive static binaries
         run: |
