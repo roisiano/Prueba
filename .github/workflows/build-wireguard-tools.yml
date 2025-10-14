@@ -6,33 +6,29 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Install dependencies
         run: |
           sudo apt update
-          sudo apt install -y build-essential git musl-tools resolvconf
+          sudo apt install -y build-essential git musl-tools
 
       - name: Clone wireguard-tools
         run: |
           git clone https://git.zx2c4.com/wireguard-tools
           cd wireguard-tools/src
-          make
+          make CC=musl-gcc
 
-      - name: Build static binaries
-        run: |
-          cd wireguard-tools/src
-          musl-gcc -static -o wg wg.c
-          musl-gcc -static -o wg-quick wg-quick.c
-
-      - name: Archive binaries
+      - name: Archive static binaries
         run: |
           mkdir -p output
           cp wireguard-tools/src/wg output/
           cp wireguard-tools/src/wg-quick output/
-          tar -czvf wireguard-tools-static.tar.gz output
+          tar -czvf wireguard-tools-static.tar.gz -C output .
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: wireguard-tools-static
           path: wireguard-tools-static.tar.gz
+
