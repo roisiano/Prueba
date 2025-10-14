@@ -1,4 +1,4 @@
-name: Build WireGuard Tools (Static)
+name: Build wg-quick (Static)
 
 on:
   workflow_dispatch:
@@ -17,23 +17,22 @@ jobs:
         run: |
           git clone https://github.com/WireGuard/wireguard-tools.git
 
-      - name: Build static wg and wg-quick (manual)
+      - name: Build static wg-quick
         run: |
           cd wireguard-tools/src
-          musl-gcc -static -o wg wg.c config.c
           musl-gcc -static -o wg-quick wg-quick.c
 
-      - name: Archive static binaries
+      - name: Archive binary
         run: |
           mkdir -p output
-          cp wireguard-tools/src/wg output/
           cp wireguard-tools/src/wg-quick output/
-          tar -czvf wireguard-tools-static.tar.gz -C output .
+          tar -czvf wg-quick-static.tar.gz -C output .
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: wireguard-tools-static
-          path: wireguard-tools-static.tar.gz
+          name: wg-quick-static
+          path: wg-quick-static.tar.gz
+
 
 
