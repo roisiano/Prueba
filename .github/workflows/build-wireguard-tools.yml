@@ -32,7 +32,7 @@ jobs:
           tar -czvf wireguard-tools-static.tar.gz output
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: wireguard-tools-static
           path: wireguard-tools-static.tar.gz
