@@ -1,0 +1,37 @@
+name: Export AceStream Container
+
+on:
+  workflow_dispatch:
+
+jobs:
+  acestream-export:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Pull AceStream image
+        run: docker pull jopsis/acestream:arm64
+
+      - name: Run AceStream container
+        run: |
+          docker run -d --name acestream jopsis/acestream:arm64
+          sleep 10  # Espera para que se inicialice
+
+      - name: Export container filesystem as TAR
+        run: docker export acestream -o acestream-full.tar
+
+      - name: List contents (opcional)
+        run: |
+          mkdir acestream_fs
+          tar -xf acestream-full.tar -C acestream_fs
+          find acestream_fs | head -n 50  # Muestra primeros 50 archivos
+
+      - name: Upload TAR as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: acestream-full-filesystem
+          path: acestream-full.tar
+
+      - name: Cleanup
+        run: |
+          docker stop acestream
+          docker rm acestream
