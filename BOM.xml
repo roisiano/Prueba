@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 29/10/2025 16:49" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 29/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -45,7 +45,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20251029042700 +0200" stop="20251029053100 +0200" channel="BOM Cine">
+  <programme start="20251029042700 +0200" stop="20251029052600 +0200" channel="BOM Cine">
     <title lang="es">Gaudí</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
@@ -60,29 +60,22 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20251029053100 +0200" stop="20251029065800 +0200" channel="BOM Cine">
-    <title lang="es">Tres caídas</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Documentales,Español[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="es">· El documental está dividido en tres capítulos -las tres caídas en las que está dividido un combate de lucha libre mexicana.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Nacho Cabana.
-[COLOR teal]· Guion:[/COLOR] Nacho Cabana.</desc>
-    <category lang="es">Cine, Documentales, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4074969.jpg" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20251029065800 +0200" stop="20251029071300 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category lang="es">Deportes, Equitación</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  <programme start="20251029052600 +0200" stop="20251029071300 +0200" channel="BOM Cine">
+    <title lang="es">Grandes familias</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia,Romance[/COLOR] | [COLOR cadetblue]2015[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.7/10[/COLOR]</sub-title>
+    <desc lang="es">· Jerome Varenne es un financiero francés que vive en Shanghái con su compañera sentimental y profesional Chen-Li. En un breve viaje de negocios a París, se entera de que la casa de su infancia se va a vender...
+[COLOR teal]· País:[/COLOR] Francia
+[COLOR teal]· Dirección:[/COLOR] Jean-Paul Rappeneau.
+[COLOR teal]· Reparto:[/COLOR] Mathieu Amalric, Marine Vacth, Gilles Lellouche, Guillaume de Tonquedec, Nicole García, Karin Viard.
+[COLOR teal]· Guion:[/COLOR] Jean-Paul Rappeneau, Julien Rappeneau, Philippe Le Guay.</desc>
+    <category lang="es">Cine, Comedia, Romance</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059142.jpg" />
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5.7/10</value>
+    </star-rating>
   </programme>
   <programme start="20251029071300 +0200" stop="20251029085000 +0200" channel="BOM Cine">
     <title lang="es">Océanos</title>
@@ -103,7 +96,7 @@
   </programme>
   <programme start="20251029085000 +0200" stop="20251029101500 +0200" channel="BOM Cine">
     <title lang="es">El secreto</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Romance[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Romance[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc lang="es">· La vida de un hombre cambia repentinamente cuando el autobús que llevaba a su hija y su esposa cae por un barranco. La esposa muere en el hospital, pero su hija continúa con vida.
 [COLOR teal]· País:[/COLOR] Canadá, Francia
 [COLOR teal]· Dirección:[/COLOR] Vincent Pérez.
@@ -368,7 +361,7 @@
   </programme>
   <programme start="20251030100500 +0200" stop="20251030120800 +0200" channel="BOM Cine">
     <title lang="es">Estado de sitio</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★7.7/10[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★7.7/10[/COLOR]</sub-title>
     <desc lang="es">· Uruguay, años 70. Secuestrado por un grupo terrorista, Philip Michael Santore, un alto funcionario estadounidense, resulta ser en realidad integrante de un grupo internacional especializado en la lucha antiterrorista.
 [COLOR teal]· País:[/COLOR] Alemania, Francia, Italia
 [COLOR teal]· Dirección:[/COLOR] Costa-Gavras, Constantin Costa-Gavras.
@@ -378,7 +371,7 @@
     <category lang="es">Cine, Drama, Policíaco, Suspense</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109365.jpg" />
     <rating system="ES">
-      <value>13</value>
+      <value>12</value>
     </rating>
     <star-rating system="ES">
       <value>7.7/10</value>
@@ -386,7 +379,7 @@
   </programme>
   <programme start="20251030120800 +0200" stop="20251030135000 +0200" channel="BOM Cine">
     <title lang="es">La batalla del río Neretva</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR yellow]⑬[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
     <desc lang="es">· Enero de 1943, 2ª Guerra Mundial, ante la previsible invasión aliada de los Balcanes, los ejércitos alemán e italiano deciden lanzar una ofensiva sobre los partisanos yugoslavos de Tito.
 [COLOR teal]· País:[/COLOR] Alemania, Italia, Estados Unidos
 [COLOR teal]· Dirección:[/COLOR] Veljko Bulajic.
@@ -397,7 +390,7 @@
     <category lang="es">Cine, Drama</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008948.jpg" />
     <rating system="ES">
-      <value>13</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20251030135000 +0200" stop="20251030154800 +0200" channel="BOM Cine">
@@ -654,7 +647,7 @@
   </programme>
   <programme start="20251031133900 +0200" stop="20251031150500 +0200" channel="BOM Cine">
     <title lang="es">7 cabalgan hacia la muerte</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Western,Español[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR yellow]⑬[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Western,Español[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
     <desc lang="es">· Un indio nativo mata a un poderoso ranchero en la víspera de su boda. La prometida del ranchero y su familia emprenderán una feroz venganza.
 [COLOR teal]· País:[/COLOR] España
 [COLOR teal]· Dirección:[/COLOR] José Luis Merino.
@@ -663,7 +656,7 @@
     <category lang="es">Cine, Western, Español</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4139879.jpg" />
     <rating system="ES">
-      <value>13</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20251031150500 +0200" stop="20251031163200 +0200" channel="BOM Cine">
