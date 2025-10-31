@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 31/10/2025 08:49" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 31/10/2025 12:49" generator-info-url="t.me/EPG_dobleM">
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -291,7 +291,7 @@
   </programme>
   <programme start="20251101015900 +0200" stop="20251101035300 +0200" channel="BOM Cine">
     <title lang="es">Carga maldita</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Aventuras,Drama,Suspense[/COLOR] | [COLOR cadetblue]1977[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Aventuras,Drama,Suspense[/COLOR] | [COLOR cadetblue]1977[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.7/10[/COLOR]</sub-title>
     <desc lang="es">· Un grupo de excluidos, de diferentes orígenes y nacionalidades, se ven obligados a viajar a Sudamérica para trabajar en una perforación petrolífera.
 [COLOR teal]· País:[/COLOR] México, Estados Unidos
 [COLOR teal]· Dirección:[/COLOR] William Friedkin.
@@ -302,8 +302,11 @@
     <rating system="ES">
       <value>18</value>
     </rating>
+    <star-rating system="ES">
+      <value>7.7/10</value>
+    </star-rating>
   </programme>
-  <programme start="20251101035300 +0200" stop="20251101053700 +0200" channel="BOM Cine">
+  <programme start="20251101035300 +0200" stop="20251101052700 +0200" channel="BOM Cine">
     <title lang="es">Ave María</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.4/10[/COLOR]</sub-title>
     <desc lang="es">· María, la inteligente y bella hija mestiza de un duque español, es despojada de sus bienes a causa de los celos y las envidias que la rodean.
@@ -321,26 +324,24 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20251101053700 +0200" stop="20251101070800 +0200" channel="BOM Cine">
-    <title lang="es">Por fin viuda</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia Romántica[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc lang="es">· Anne-Marie disfruta de una vida cómoda con su marido Gilbert, un rico cirujano. Paralelamente, tiene un amante, Leo, con el que piensa fugarse a China, algo que no sabe cómo decir a su cónyuge.
-[COLOR teal]· País:[/COLOR] Francia
-[COLOR teal]· Dirección:[/COLOR] Isabelle Mergault.
-[COLOR teal]· Reparto:[/COLOR] Michèle Laroque, Jacques Gamblin, Wladimir Yordanoff, Tom Morton, Valérie Mairesse, Eva Darlan, Paul Crauchet, Claire Nadeau.
-[COLOR teal]· Guion:[/COLOR] Isabelle Mergault, Jean-Pierre Hasson.
-[COLOR teal]· Música:[/COLOR] Laurent Marimbert, Étienne Perruchon.
-[COLOR teal]· Producción:[/COLOR] Jean-Louis Livi.</desc>
-    <category lang="es">Cine, Comedia Romántica</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009000.jpg" />
+  <programme start="20251101052700 +0200" stop="20251101072600 +0200" channel="BOM Cine">
+    <title lang="es">Blaze</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc lang="es">· La vida del artista del country Blaze Foley en una historia de amor texana.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Ethan Hawke.
+[COLOR teal]· Reparto:[/COLOR] Ben Dickey, Alia Shawkat, Charlie Sexton, Josh Hamilton, Kris Kristofferson, Richard Linklater, Sam Rockwell, Steve Zahn, Ethan Hawke, Ritchie Montgomery, Wyatt Russell, Jenn Lyon, Lloyd Teddy Johnson Jr.
+[COLOR teal]· Guion:[/COLOR] Ethan Hawke, Sybil Rosen.</desc>
+    <category lang="es">Cine, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4210667.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
     <star-rating system="ES">
-      <value>5.4/10</value>
+      <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20251101070800 +0200" stop="20251101083800 +0200" channel="BOM Cine">
+  <programme start="20251101072600 +0200" stop="20251101085600 +0200" channel="BOM Cine">
     <title lang="es">Once In A Lifetime</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Documentales[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc lang="es">· Corría el año 1977 cuando el Cosmos de Nueva York asciende de la mano de la mayor estrella de todos los tiempos: Pelé.
@@ -354,7 +355,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20251101083800 +0200" stop="20251101100100 +0200" channel="BOM Cine">
+  <programme start="20251101085600 +0200" stop="20251101102000 +0200" channel="BOM Cine">
     <title lang="es">Cazadores de tesoros</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Familiar[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.3/10[/COLOR]</sub-title>
     <desc lang="es">· Josh, un chico de 12 años, busca ayudado con su perro un tesoro legendario. Si no lo encuentran, su padre perderá su negocio y la economía de toda su localidad se verá amenazada de muerte por la construcción de un gran centro comercial.
@@ -371,9 +372,9 @@
       <value>4.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20251101100100 +0200" stop="20251101113400 +0200" channel="BOM Cine">
+  <programme start="20251101102000 +0200" stop="20251101115200 +0200" channel="BOM Cine">
     <title lang="es">La venganza del Ninja</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Clásico,Artes Marciales[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Clásico,Artes Marciales[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
     <desc lang="es">· Tras perder a su familia a manos de una banda de ninjas japoneses, Cho y su hijo parten hacia América en busca de una nueva vida y un nuevo comienzo.
 [COLOR teal]· País:[/COLOR] Estados Unidos
 [COLOR teal]· Dirección:[/COLOR] Sam Firstenberg.
@@ -384,10 +385,13 @@
     <rating system="ES">
       <value>18</value>
     </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20251101113400 +0200" stop="20251101131000 +0200" channel="BOM Cine">
+  <programme start="20251101115200 +0200" stop="20251101132500 +0200" channel="BOM Cine">
     <title lang="es">Hiena salvaje II</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Drama[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Drama[/COLOR] | [COLOR cadetblue]1983[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
     <desc lang="es">· Dos miembros de la hermandad y sus dos hijos son perseguidos, pero logran escapar. Años después, los padres de los niños son asesinados.
 [COLOR teal]· País:[/COLOR] Hong Kong
 [COLOR teal]· Dirección:[/COLOR] Chuan Chen, LOU WEI, Chan Chuen, Lo Wei, Wei Lo.
@@ -398,8 +402,11 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>5.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20251101131000 +0200" stop="20251101143500 +0200" channel="BOM Cine">
+  <programme start="20251101132500 +0200" stop="20251101144700 +0200" channel="BOM Cine">
     <title lang="es">El regreso del samurái</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Policíaco[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.3/10[/COLOR]</sub-title>
     <desc lang="es">· Luego de cumplir 10 años de prisión, Lin vuelve a su hogar para corregir los errores del pasado.
@@ -416,21 +423,21 @@
       <value>5.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20251101143500 +0200" stop="20251101161800 +0200" channel="BOM Cine">
+  <programme start="20251101144700 +0200" stop="20251101162700 +0200" channel="BOM Cine">
     <title lang="es">El rey de los kickboxers</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]1990[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc lang="es">· Jake, un policía de Nueva York, se hace pasar por actor para exponer la realización de películas de artes marciales con escenas de muerte en Tailandia.
 [COLOR teal]· País:[/COLOR] Hong Kong, Estados Unidos
 [COLOR teal]· Dirección:[/COLOR] Lucas Lowe.
 [COLOR teal]· Reparto:[/COLOR] Loren Avedon, Richard Jaeckel, Don Stroud, Sherrie Rose, Billy Blanks.
-[COLOR teal]· Guion:[/COLOR] John Kay, Keith W. Strandberg.</desc>
+[COLOR teal]· Guion:[/COLOR] John K-ay, Keith W. Strandberg.</desc>
     <category lang="es">Cine, Acción</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4654928.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20251101161800 +0200" stop="20251101175300 +0200" channel="BOM Cine">
+  <programme start="20251101162700 +0200" stop="20251101175800 +0200" channel="BOM Cine">
     <title lang="es">El tigre de San Francisco</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Policíaco[/COLOR] | [COLOR cadetblue]1974[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.3/10[/COLOR]</sub-title>
     <desc lang="es">· El jefe de la mafia de San Francisco ve peligrar su poder cuando un joven policía se propone acabar con el crimen organizado.
@@ -446,7 +453,7 @@
       <value>4.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20251101175300 +0200" stop="20251101194100 +0200" channel="BOM Cine">
+  <programme start="20251101175800 +0200" stop="20251101194300 +0200" channel="BOM Cine">
     <title lang="es">Jet Li es el mejor luchador</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Drama[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.5/10[/COLOR]</sub-title>
     <desc lang="es">· En 1937, un artista marcial chino regresa a Shanghai para encontrar a su maestro muerto y su escuela acosada por los japoneses.
@@ -465,7 +472,7 @@
       <value>7.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20251101194100 +0200" stop="20251101210100 +0200" channel="BOM Cine">
+  <programme start="20251101194300 +0200" stop="20251101210100 +0200" channel="BOM Cine">
     <title lang="es">Tiroteo en Rio Bravo</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Western,Drama,Acción[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un misterioso pistolero ruso ayuda a un alguacil en un enfrentamiento con una banda de forajidos conocida como Los Hellhounds.
@@ -482,7 +489,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20251101210100 +0200" stop="20251101223700 +0200" channel="BOM Cine">
+  <programme start="20251101210100 +0200" stop="20251101223500 +0200" channel="BOM Cine">
     <title lang="es">Acariciando la muerte</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Policíaco[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Un oficial de la policía recibe órdenes del FBI de capturar a un amigo suyo, a quien le anexan contactos con la mafia.
@@ -496,7 +503,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20251101223700 +0200" stop="20251102003300 +0200" channel="BOM Cine">
+  <programme start="20251101223500 +0200" stop="20251102002900 +0200" channel="BOM Cine">
     <title lang="es">Contra la pared</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Acción[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc lang="es">· Samuel L. Jackson y Kyle MacLachlan protagonizan este docudrama de HBO inspirado en una de las revueltas carcelarias más violentas en la historia de los EUA, el motín de 1971 en la prisión de Attica, el cual que cobró la vida de 39 hombres.
@@ -505,12 +512,12 @@
 [COLOR teal]· Reparto:[/COLOR] Samuel L. Jackson, Clarence Williams, Frederic Forrest, Harry Dean Stanton, Kyle MacLachlan, Anne Heche, Philip Bosco, Tom Bower, Clarence Williams III Williams III, Steve Harris, Mark Cabus, Carmen Argenziano, Peter Murnik, David Ackroyd.
 [COLOR teal]· Guion:[/COLOR] Ron Hutchinson.</desc>
     <category lang="es">Cine, Drama, Acción</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101710.jpg" />
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4659841.jpg" />
     <rating system="ES">
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20251102003300 +0200" stop="20251102020100 +0200" channel="BOM Cine">
+  <programme start="20251102002900 +0200" stop="20251102015600 +0200" channel="BOM Cine">
     <title lang="es">Heavy trip</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
     <desc lang="es">· Un grupo finlandés de metal viaja a Noruega para dar su primer concierto. La desventurada banda persigue su sueño en un viaje que recuerda a Spinal Tap.
@@ -527,7 +534,7 @@
       <value>7.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20251102020100 +0200" stop="20251102032800 +0200" channel="BOM Cine">
+  <programme start="20251102015600 +0200" stop="20251102032200 +0200" channel="BOM Cine">
     <title lang="es">Devastación</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Negro[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★2.5/10[/COLOR]</sub-title>
     <desc lang="es">· Maxwell, líder de una extraña secta, disfruta provocando catástrofes. Su prometida, Tracy huye de él cuando recibe como regalo de boda lo que él considera como un enorme placer: presenciar la explosión de un transatlántico.
@@ -546,7 +553,7 @@
       <value>2.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20251102032800 +0200" stop="20251102051200 +0200" channel="BOM Cine">
+  <programme start="20251102032200 +0200" stop="20251102051200 +0200" channel="BOM Cine">
     <title lang="es">DALÍ</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Biográfico,Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc lang="es">· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
@@ -798,7 +805,7 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20251103044200 +0200" stop="20251103052900 +0200" channel="BOM Cine">
+  <programme start="20251103044200 +0200" stop="20251103060900 +0200" channel="BOM Cine">
     <title lang="es">Enloquecidas</title>
     <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
     <desc lang="es">· Blanca confiesa a su tía Bárbara que el hombre de su vida ha desaparecido. Por casualidad, descubren que es el hijo de unos encantadores ancianos. El problema es que está muerto.
@@ -817,76 +824,266 @@
       <value>4.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20251103052900 +0200" stop="20251103054800 +0200" channel="BOM Cine">
-    <title lang="es">Teletienda</title>
-    <sub-title lang="es">[COLOR SlateBlue]Programa,Consumo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+  <programme start="20251103060900 +0200" stop="20251103100900 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
 [COLOR teal]· País:[/COLOR] España</desc>
-    <category lang="es">Programa, Consumo</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4303400.jpg" />
+    <category lang="es">Deportes, Equitación</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20251103054800 +0200" stop="20251103071600 +0200" channel="BOM Cine">
-    <title lang="es">Crepúsculo Rojo</title>
-    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.3/10[/COLOR]</sub-title>
-    <desc lang="es">· Michel, hijo de un francés nacido al otro lado del mundo, llega a París para rehacer su vida lejos de las crisis económicas de América del Sur.
-[COLOR teal]· País:[/COLOR] España, Francia
-[COLOR teal]· Dirección:[/COLOR] Edgardo Cozarinsky.
-[COLOR teal]· Reparto:[/COLOR] Marisa Paredes, Féodor Atkine, Bruno Putzulu, Bérénice Bejo, Didier Flamand, Elisabeth Kaza.
-[COLOR teal]· Guion:[/COLOR] Edgardo Cozarinsky, Jean-Marie Duprez.</desc>
-    <category lang="es">Cine, Drama, Español</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009104.jpg" />
+  <programme start="20251103100900 +0200" stop="20251103140900 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category lang="es">Deportes, Equitación</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20251103140900 +0200" stop="20251103180900 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category lang="es">Deportes, Equitación</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20251103180900 +0200" stop="20251103220900 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category lang="es">Deportes, Equitación</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20251103220900 +0200" stop="20251104020900 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category lang="es">Deportes, Equitación</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20251104020900 +0200" stop="20251104060000 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category lang="es">Deportes, Equitación</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20251104060000 +0200" stop="20251104061300 +0200" channel="BOM Cine">
+    <title lang="es">Bom Cine</title>
+    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category lang="es">Deportes, Equitación</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20251104061300 +0200" stop="20251104075200 +0200" channel="BOM Cine">
+    <title lang="es">Las estrellas de cine no mueren en Liverpool</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Drama,Romance[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.7/10[/COLOR]</sub-title>
+    <desc lang="es">· La famosa actriz Gloria Grahame y el joven actor Peter Turner viven un amor que con los años va de una intensa pasión a un cariño compasivo.
+[COLOR teal]· País:[/COLOR] Reino Unido, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Paul McGuigan.
+[COLOR teal]· Reparto:[/COLOR] Annette Bening, Jamie Bell, Julie Walters, Vanessa Redgrave, Stephen Graham, Frances Barber, Kenneth Cranham, Jay Villiers, Pandora Colin Colin, Pete Lee-Wilson, Joanna Brookes Brookes, Jodie McNee McNee, Marina Bye Bye, Gemma Oaten, Jodie McNee.
+[COLOR teal]· Guion:[/COLOR] Matt Greenhalgh, Peter Turner.</desc>
+    <category lang="es">Cine, Drama, Romance</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4322880.jpg" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251104075200 +0200" stop="20251104091700 +0200" channel="BOM Cine">
+    <title lang="es">La hora del cambio</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc lang="es">· Los vecinos del pequeño pueblo siciliano de Pietrammare viven acostumbrados al caos que conlleva 'saltarse la ley', pero están hartos.
+[COLOR teal]· País:[/COLOR] Italia
+[COLOR teal]· Dirección:[/COLOR] Salvatore Ficarra, Valentino Picone, Ficarra.
+[COLOR teal]· Reparto:[/COLOR] Vincenzo Amato, Valentino Picone, Antonio Catania, Sergio Friscia, Eleonora De Luca, Salvatore Ficarra, Leo Gullotta, Salvo Ficarra Ficarra.
+[COLOR teal]· Guion:[/COLOR] Valentino Picone, Edoardo De Angelis, Fabrizio Testini, Salvatore Ficarra, Nicola Guaglianone.</desc>
+    <category lang="es">Cine, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4150925.jpg" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251104091700 +0200" stop="20251104105600 +0200" channel="BOM Cine">
+    <title lang="es">Los últimos días de Frank y Jesse James</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Western,Drama[/COLOR] | [COLOR cadetblue]1986[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
+    <desc lang="es">· Frank y Jesse James intentan tener una buena reputación, hasta que se ofrece una recompensa de $25000 por sus cabezas.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] William A. Graham.
+[COLOR teal]· Reparto:[/COLOR] Johnny Cash, Kris Kristofferson, Marcia Cross, Gail Youngs, David Allan Coe, Andy Stahl, Ed Bruce, June Carter Cash.
+[COLOR teal]· Guion:[/COLOR] William Stratton, Bill Stratton.</desc>
+    <category lang="es">Cine, Western, Drama</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4425411.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251104105600 +0200" stop="20251104123900 +0200" channel="BOM Cine">
+    <title lang="es">La spacconata</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Aventuras[/COLOR] | [COLOR cadetblue]1975[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· La aventurera historia de un minero de oro, su hijo y su fiel perro, que se trasladan a Canadá tras heredar una mina de oro.
+[COLOR teal]· País:[/COLOR] Italia
+[COLOR teal]· Dirección:[/COLOR] Alfonso Brescia.
+[COLOR teal]· Reparto:[/COLOR] Robert Woods, Ignazio Spalla, Gabriella Lepori, Paolo Lena, Franco Lantieri.
+[COLOR teal]· Guion:[/COLOR] Piero Regnoli, Giuseppe Maggi, Edgar B. Cooper.</desc>
+    <category lang="es">Cine, Aventuras</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4220630.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20251104123900 +0200" stop="20251104140200 +0200" channel="BOM Cine">
+    <title lang="es">Polvo de oro</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]1984[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc lang="es">· Rosie Vélez, una bailarina de music-hall, se encuentra perdida en el desierto hasta que es salvada por el pistolero Abel Wood.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Paul Bartel.
+[COLOR teal]· Reparto:[/COLOR] Tab Hunter, Divine, Lainie Kazan, Geoffrey Lewis, Henry Silva, César Romero, Gina Gallego, Nedra Volz, Courtney Gains, Woody Strode, Pedro Gonzales-Gonzales, Ernie Shinagawa, Daniel Frishman.
+[COLOR teal]· Guion:[/COLOR] Philip John Taylor.
+[COLOR teal]· Música:[/COLOR] Peter Matz.
+[COLOR teal]· Producción:[/COLOR] Allan Glaser, Tab Hunter.</desc>
+    <category lang="es">Cine, Comedia</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4659844.jpg" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20251104140200 +0200" stop="20251104153800 +0200" channel="BOM Cine">
+    <title lang="es">Los indomables</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1956[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
+    <desc lang="es">· Los forajidos Butch Cassidy, Sundance Kid y el resto de su banda están causando estragos en los ranchos y granjas de la zona. La agencia Pinkerton hace todo lo posible por solucionar la situación.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Joseph Kane.
+[COLOR teal]· Reparto:[/COLOR] Wallace Ford, Howard Petrie, Scott Brady, Barbara Stanwyck, Barry Sullivan, Mary Murphy.
+[COLOR teal]· Guion:[/COLOR] Kenneth Gamet, DeVallon Scott.</desc>
+    <category lang="es">Cine, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4437380.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251104153800 +0200" stop="20251104172600 +0200" channel="BOM Cine">
+    <title lang="es">Un bandolero llamado black jack</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción,Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc lang="es">· Tras un robo, una banda se reúne en torno a Jack Murphy, su líder. Las cosas se tuercen, pues Jack sólo compartirá el botín por su propio bien.
+[COLOR teal]· País:[/COLOR] Israel, Italia
+[COLOR teal]· Dirección:[/COLOR] Gianfranco Baldanello.
+[COLOR teal]· Reparto:[/COLOR] Robert Woods, Lucienne Bridou, Rik Battaglia, Larry Dolgin, Nino Fuscagni.
+[COLOR teal]· Guion:[/COLOR] Luigi Ambrosini.</desc>
+    <category lang="es">Cine, Acción, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4035516.jpg" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20251104172600 +0200" stop="20251104191400 +0200" channel="BOM Cine">
+    <title lang="es">El mayor robo del siglo</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Clásico,Acción[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc lang="es">· En los años 50, un grupo de delincuentes de poca monta y con muy poca suerte en la vida, deciden dar un golpe contra un furgón blindado.
+[COLOR teal]· País:[/COLOR] España, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] William Friedkin.
+[COLOR teal]· Reparto:[/COLOR] Peter Falk, Peter Boyle, Allen Garfield, Warren Oates, Gena Rowlands, Paul Sorvino, Sheldon Leonard, Gerard Murphy, Kevin O'Connor.
+[COLOR teal]· Guion:[/COLOR] Walon Green, Noel Behn.
+[COLOR teal]· Música:[/COLOR] Richard Rodney Bennett.
+[COLOR teal]· Producción:[/COLOR] Ralph B. Serpe.</desc>
+    <category lang="es">Cine, Clásico, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4015534.jpg" />
+    <rating system="ES">
+      <value>13</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251104191400 +0200" stop="20251104210100 +0200" channel="BOM Cine">
+    <title lang="es">Seis balas... una venganza... una oración</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
+    <desc lang="es">· Una pandilla de forajidos, después de asaltar un banco, toman consigo un rehén para poderles facilitar la huida.
+[COLOR teal]· País:[/COLOR] Israel, Italia, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Gianfranco Parolini.
+[COLOR teal]· Reparto:[/COLOR] Jack Palance, Richard Boone, Lee Van Cleef, Sybil Danning, Leif Garrett, Cody Palance.
+[COLOR teal]· Guion:[/COLOR] John Fonseca, Gianfranco Parolini.
+[COLOR teal]· Música:[/COLOR] Sante Maria Romitelli.
+[COLOR teal]· Producción:[/COLOR] Menahem Golan.</desc>
+    <category lang="es">Cine, Western</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012892.jpg" />
     <rating system="ES">
       <value>16</value>
     </rating>
     <star-rating system="ES">
-      <value>5.3/10</value>
+      <value>5.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20251103071600 +0200" stop="20251103111600 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category lang="es">Deportes, Equitación</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  <programme start="20251104210100 +0200" stop="20251104224200 +0200" channel="BOM Cine">
+    <title lang="es">Shadowboxer</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
+    <desc lang="es">· Rose, una asesina a sueldo que se muere de cáncer, acepta un último trabajo con su socio e hijastro Mikey.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Lee Daniels.
+[COLOR teal]· Reparto:[/COLOR] Cuba Gooding Jr., Helen Mirren, Vanessa Ferlito, Macy Gray, Stephen Dorff, Joseph Gordon-Levitt, Monique, Cuba Gooding Jr, Matt Higgins.
+[COLOR teal]· Guion:[/COLOR] William Lipz, Will Rokos.
+[COLOR teal]· Música:[/COLOR] Mario Grigorov.
+[COLOR teal]· Producción:[/COLOR] Lee Daniels, Lisa Cortés, Damon Dash.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4179822.jpg" />
     <rating system="ES">
-      <value>TP</value>
+      <value>18</value>
     </rating>
+    <star-rating system="ES">
+      <value>5.5/10</value>
+    </star-rating>
   </programme>
-  <programme start="20251103111600 +0200" stop="20251103151600 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category lang="es">Deportes, Equitación</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+  <programme start="20251104224200 +0200" stop="20251105003600 +0200" channel="BOM Cine">
+    <title lang="es">Efectivo</title>
+    <sub-title lang="es">[COLOR SlateBlue]Cine,Suspense,Policíaco[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
+    <desc lang="es">· Un hombre se encuentra con dos "buenos" para recuperar lo que es ilegalmente suyo, llevándolos en su torbellino, haciendo cosas que nunca hubieran imaginado, solo para sobrevivir.
+[COLOR teal]· País:[/COLOR] Reino Unido, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Stephen Milburn Anderson.
+[COLOR teal]· Reparto:[/COLOR] Chris Hemsworth, Victoria Profeta, Sean Bean, Mike Starr.</desc>
+    <category lang="es">Cine, Suspense, Policíaco</category>
+    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002119.jpg" />
     <rating system="ES">
-      <value>TP</value>
+      <value>18</value>
     </rating>
-  </programme>
-  <programme start="20251103151600 +0200" stop="20251103191600 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category lang="es">Deportes, Equitación</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20251103191600 +0200" stop="20251103231600 +0200" channel="BOM Cine">
-    <title lang="es">Bom Cine</title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc lang="es">· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category lang="es">Deportes, Equitación</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
+    <star-rating system="ES">
+      <value>5.9/10</value>
+    </star-rating>
   </programme>
 </tv>
