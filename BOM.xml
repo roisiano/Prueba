@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 10/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 11/12/2025 08:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="BOM Cine">
 		<display-name>BOM Cine</display-name>
 		<display-name>BOM Cine.TV</display-name>
@@ -11,248 +11,7 @@
 		<display-name>BOM Cine 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
 	</channel>
-	<programme start="20251210011200 +0100" stop="20251210024300 +0100" channel="BOM Cine">
-    <title>Cruzando el límite</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc>· Un padre que tiene una difícl relación con su hijo lo lleva a un internado para tratar de corregir su conducta, sin saber que el centro es poco menos que un centro de tortura.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Xavi Giménez.
-[COLOR teal]· Reparto:[/COLOR] Adolfo Fernández, Fernando Guillen Cuervo, Irene Escolar, Eduard Farelo, Carlos Kaniowsky.
-[COLOR teal]· Guion:[/COLOR] Pere Saballs i Nadal.</desc>
-    <category>Cine, Drama, Español</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109429.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20251210024300 +0100" stop="20251210051300 +0100" channel="BOM Cine">
-    <title>La ciudad quemada</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Dirigida por Antoni Ribas y protagonizada por Xabier Elorriaga, Francisco Casares y Ángela Molina, entre otros.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
-[COLOR teal]· Reparto:[/COLOR] Xabier Elorriaga, Francisco Casares, Ángela Molina, Pau Garsaball, Jeannine Mestre, Montserrat Salvador.
-[COLOR teal]· Guion:[/COLOR] Antoni Ribas, Miquel Sanz.
-[COLOR teal]· Música:[/COLOR] Manuel Valls i Gorina.</desc>
-    <category>Cine, Drama, Español</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012804.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20251210051300 +0100" stop="20251210061900 +0100" channel="BOM Cine">
-    <title>Gaudí</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] José María Argemí, Manuel Huerga.
-[COLOR teal]· Reparto:[/COLOR] Maria Matilde Almendros, Rafael Anglada, José María Caffarel, Mario Beut, Carles Sabater, Luis Padrós, Jesús Orús, Elisabeth Escayola, Santi Claramunt.
-[COLOR teal]· Guion:[/COLOR] José María Argemí, Mario Lacruz, Dolores Payás, Carles Hac Mor.
-[COLOR teal]· Música:[/COLOR] Xavier Montsalvatge.</desc>
-    <category>Cine, Drama, Español</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4618310.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20251210061900 +0100" stop="20251210075100 +0100" channel="BOM Cine">
-    <title>El regreso de Fu-Manchú</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Acción,Policíaco[/COLOR] | [COLOR cadetblue]1965[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
-    <desc>· A principios de la década de 1920, unas espeluznantes estrangulaciones en Londres alertan a Nayland Smith, de Scotland Yard, sobre la posibilidad de que el diabólico Fu Manchú no esté muerto después de todo, aunque Smith presenciara su ejecución.
-[COLOR teal]· País:[/COLOR] Alemania, Reino Unido
-[COLOR teal]· Dirección:[/COLOR] Don Sharp.
-[COLOR teal]· Reparto:[/COLOR] Christopher Lee, Nigel Green, Joachim Fuchsberger, Karin Dor, Tsai Chin, James Robertson Justice, Francesca Tu.
-[COLOR teal]· Guion:[/COLOR] Harry Allan Towers, Harry Alan Towers, Sax Rohmer.
-[COLOR teal]· Música:[/COLOR] Christopher Whelen.
-[COLOR teal]· Producción:[/COLOR] Harry Allan Towers.</desc>
-    <category>Cine, Drama, Acción, Policíaco</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012816.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251210075100 +0100" stop="20251210092700 +0100" channel="BOM Cine">
-    <title>Siete mares a Calais</title>
-    <sub-title>[COLOR SlateBlue]Cine,Aventuras[/COLOR] | [COLOR cadetblue]1962[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Sir Francis Drake, fundó la supremacía naval de Inglaterra y fue nombrado caballero por sus hazañas al servicio de la Corona.
-[COLOR teal]· País:[/COLOR] Italia
-[COLOR teal]· Dirección:[/COLOR] Primo Zeglio.
-[COLOR teal]· Reparto:[/COLOR] Terence Hill, Keith Michell, Edy Vessel, Rod Taylor, Basil Dignam.
-[COLOR teal]· Guion:[/COLOR] Filippo Sanjust.</desc>
-    <category>Cine, Aventuras</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101634.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20251210092700 +0100" stop="20251210112800 +0100" channel="BOM Cine">
-    <title>Casanova 70</title>
-    <sub-title>[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]1965[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
-    <desc>· La pasión de un oficial de la OTAN por las mujeres aumenta cuando se enfrenta a su amante y a la esposa de un noble.
-[COLOR teal]· País:[/COLOR] Francia, Italia
-[COLOR teal]· Dirección:[/COLOR] Mario Monicelli.
-[COLOR teal]· Reparto:[/COLOR] Marcelo Mastroianni, Virna Lisi, Marisa Mell, Marcello Mastroianni, Marco Ferreri, Michèle Mercier, Enrico Maria Salerno, Guido Alberti, Margaret Lee, Rosemary Dexter, Liana Orfei, Beba Loncar.
-[COLOR teal]· Guion:[/COLOR] Furio Scarpelli, Giorgio Salvioni, Mario Monicelli, Agenore Incrocci.
-[COLOR teal]· Música:[/COLOR] Franco Bassi, Armando Trovajoli.
-[COLOR teal]· Producción:[/COLOR] Carlo Ponti.</desc>
-    <category>Cine, Comedia</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4637397.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251210112800 +0100" stop="20251210131100 +0100" channel="BOM Cine">
-    <title>Yo vigilo el camino</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1970[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc>· La vida del sheriff Henry Tawes cobra un nuevo sentido cuando entabla relación con la precoz Alma McCain, hija de un fabricante ilegal de alcohol.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] John Frankenheimer.
-[COLOR teal]· Reparto:[/COLOR] Gregory Peck, Tuesday Weld, Estelle Parsons, Ralph Meeker, Charles Durning, Lonny Chapman.
-[COLOR teal]· Guion:[/COLOR] Alvin Sargent, Madison Jones.
-[COLOR teal]· Música:[/COLOR] Johnny Cash.
-[COLOR teal]· Producción:[/COLOR] Harold D. Cohen, Edward Lewis.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050116.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.5/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251210131100 +0100" stop="20251210145500 +0100" channel="BOM Cine">
-    <title>El tren</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· En 1940, durante la Ocupación, surge una relación amorosa entre un habitante de Francia y una judía alemana que intenta escapar de sus compatriotas.
-[COLOR teal]· País:[/COLOR] Francia, Italia
-[COLOR teal]· Dirección:[/COLOR] Pierre Granier-Deferre.
-[COLOR teal]· Reparto:[/COLOR] Jean-Louis Trintignant, Romy Schneider, Maurice Biraud, Paul Amiot, Nike Arrighi.
-[COLOR teal]· Guion:[/COLOR] Pierre Granier-Deferre, Pascal Jardin, Georges Simenon.
-[COLOR teal]· Música:[/COLOR] Philippe Sarde.
-[COLOR teal]· Producción:[/COLOR] Raymond Danon.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4035507.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20251210145500 +0100" stop="20251210164500 +0100" channel="BOM Cine">
-    <title>A cara descubierta</title>
-    <sub-title>[COLOR SlateBlue]Cine,Suspense[/COLOR] | [COLOR cadetblue]1984[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
-    <desc>· Por alguna misteriosa razón, un psiquiatra de Chicago es víctima de una retorcida conspiración criminal por parte de una peligrosa banda de asesinos.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Bryan Forbes.
-[COLOR teal]· Reparto:[/COLOR] Roger Moore, Rod Steiger, Elliott Gould, Art Carney, Anne Archer, David Hedison.
-[COLOR teal]· Guion:[/COLOR] Bryan Forbes, Sidney Sheldon.
-[COLOR teal]· Música:[/COLOR] Michael J. Lewis.
-[COLOR teal]· Producción:[/COLOR] Yoram Globus, Menahem Golan, Rony Yacov.</desc>
-    <category>Cine, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4220633.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.5/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251210164500 +0100" stop="20251210182900 +0100" channel="BOM Cine">
-    <title>La leyenda del Llanero Solitario</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Acción[/COLOR] | [COLOR cadetblue]1981[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.0/10[/COLOR]</sub-title>
-    <desc>· John Reid sobrevive a una emboscada y, junto a su amigo Tonto, caza a la banda de Cabendish, volviéndose un héroe conocido como el Llanero Solitario.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] William A. Fraker.
-[COLOR teal]· Reparto:[/COLOR] Matt Clark, Michael Horse, Juanin Clay, Klinton Spilsbury, Christopher Lloyd, Jason Robards, David Hayward, Richard Farnsworth, Theodore J. Flicker, John Bennett Perry, John Hart, Lincoln Tate.
-[COLOR teal]· Guion:[/COLOR] Ivan Goff, Ben Roberts, Michael Kane, William Roberts.
-[COLOR teal]· Música:[/COLOR] John Barry.
-[COLOR teal]· Producción:[/COLOR] Walter Coblenz, Martin Starger, Jack Wrather, Dick Gallegly.</desc>
-    <category>Cine, Western, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012836.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251210182900 +0100" stop="20251210201900 +0100" channel="BOM Cine">
-    <title>Muerte en Roma</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Acción[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc>· Un mayor decide convertirse en rebelde durante la ocupación alemana de Italia durante la Segunda Guerra Mundial.
-[COLOR teal]· País:[/COLOR] Francia, Italia
-[COLOR teal]· Dirección:[/COLOR] George P. Cosmatos.
-[COLOR teal]· Reparto:[/COLOR] Richard Burton, Marcello Mastroianni, Leo McKern, John Steiner, Anthony Steel, Robert Harris, Peter Vaughan, Renzo Montagnani, Giancarlo Prete, Renzo Palmer, Duilio Del Prete, Dennis Burgess, Brook Williams, Guidarino Guidi, Douglas Hare.
-[COLOR teal]· Guion:[/COLOR] Robert Katz, Lucio De Caro.
-[COLOR teal]· Música:[/COLOR] Ennio Morricone.</desc>
-    <category>Cine, Drama, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109733.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.5/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251210201900 +0100" stop="20251210220100 +0100" channel="BOM Cine">
-    <title>Águila gris</title>
-    <sub-title>[COLOR SlateBlue]Cine,Aventuras,Drama,Romance,Western[/COLOR] | [COLOR cadetblue]1977[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
-    <desc>· Beth, la atractiva hija del trampero Colter es secuestrada por el guerrero cheyene Grayeagle. Colter y su viejo amigo indio Oso de Pie salen en su busca.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Charles B. Pierce.
-[COLOR teal]· Reparto:[/COLOR] Ben Johnson, Jack Elam, Iron Eyes Cody, Lana Wood, Alex Cord, Paul Fix, Jimmy Clem, Jacob Daniels, Cindy Butler, John Welsh.
-[COLOR teal]· Guion:[/COLOR] Bradley White, Michael O. Sajbel, Brad White.
-[COLOR teal]· Música:[/COLOR] Jaime Mendoza-Nava.
-[COLOR teal]· Producción:[/COLOR] Charles B. Pierce.</desc>
-    <category>Cine, Aventuras, Drama, Romance, Western</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049425.jpg" />
-		<rating system="ES">
-			<value>13</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251210220100 +0100" stop="20251211000700 +0100" channel="BOM Cine">
-    <title>Teniente corrupto</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc>· Terence McDogah es un teniente de policía adicto al juego, a las drogas y cuya novia es prostituta. Aún así, se implica en la resolución del asesinato de una familia de senegaleses de Nueva Orleans tras el huracán Katrina.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Werner Herzog.
-[COLOR teal]· Reparto:[/COLOR] Nicolas Cage, Michael Shannon, Brad Dourif, Shawn Hatosy, Val Kilmer, Vondie Curtis Hall, Katie Chonacas, Fairuza Balk, Tom Bower, Xzibit, Irma P. Hall, Shea Whigham, Jennifer Coolidge, Frankie Thorn, Eva Mendes, Denzel Whitaker, Joe Nemmers, Russell M. Haeuser.
-[COLOR teal]· Guion:[/COLOR] Victor Argo, William M. Finkelstein.
-[COLOR teal]· Música:[/COLOR] Mark Isham.</desc>
-    <category>Cine, Drama, Policíaco, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002903.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251211000700 +0100" stop="20251211012900 +0100" channel="BOM Cine">
-    <title>Blowtorch</title>
-    <sub-title>[COLOR SlateBlue]Cine,Suspense,Drama,Policíaco[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.2/10[/COLOR]</sub-title>
-    <desc>· Blowtorch es la historia de Brooklyn de Ann Willis, una madre de tres hijos que acaba de enviudar y tiene problemas económicos. Cuando su hijo mayor es asesinado, inexorablemente se hace cargo de la investigación.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Kevin Breslin.
-[COLOR teal]· Reparto:[/COLOR] Lois Robbins, William Baldwin, Paul Ben-Victor, Armand Assante, Jared Abrahamson.
-[COLOR teal]· Guion:[/COLOR] Kevin Breslin, Rosemary Breslin.</desc>
-    <category>Cine, Suspense, Drama, Policíaco</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002907.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>4.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20251211012900 +0100" stop="20251211031600 +0100" channel="BOM Cine">
+	<programme start="20251211012600 +0100" stop="20251211031500 +0100" channel="BOM Cine">
     <title>En Tránsito</title>
     <sub-title>[COLOR SlateBlue]Cine,Drama,Romance[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Una vez terminada la Segunda Guerra Mundial (1939-1945), un grupo de prisioneros de guerra alemanes van a parar a un campo de concentración soviético, donde son vigiladas mujeres que sobrevivieron al terrible asedio de Leningrado.
@@ -266,7 +25,7 @@
 			<value>18</value>
 		</rating>
 	</programme>
-	<programme start="20251211031600 +0100" stop="20251211045700 +0100" channel="BOM Cine">
+	<programme start="20251211031500 +0100" stop="20251211045500 +0100" channel="BOM Cine">
     <title>Farming</title>
     <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc>· Un chico nigeriano negro es entregado por sus padres a una familia blanca británica con la esperanza de que alcance un futuro mejor que el que le depararía su país.
@@ -283,7 +42,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20251211045700 +0100" stop="20251211062200 +0100" channel="BOM Cine">
+	<programme start="20251211045500 +0100" stop="20251211062200 +0100" channel="BOM Cine">
     <title>Torremolinos 73</title>
     <sub-title>[COLOR SlateBlue]Cine,Comedia,Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
     <desc>· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
@@ -461,7 +220,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20251211220100 +0100" stop="20251211233800 +0100" channel="BOM Cine">
+	<programme start="20251211220100 +0100" stop="20251211233200 +0100" channel="BOM Cine">
     <title>Justice</title>
     <sub-title>[COLOR SlateBlue]Cine,Western,Acción,Drama[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc>· Un miembro de los US Marshal que busca justicia por el asesinato de su hermano defiende un pequeño pueblo de un alcalde corrupto.
@@ -477,7 +236,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20251211233800 +0100" stop="20251212011300 +0100" channel="BOM Cine">
+	<programme start="20251211233200 +0100" stop="20251212011300 +0100" channel="BOM Cine">
     <title>Dura recompensa</title>
     <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1995[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Kanning, cazador de reocmpensas, decide dejar su ocupación cuando fracasa en una de sus misiones. Decide entonces comprar un salón de juego, donde su esposa Donnie trabaja como prostituta.
@@ -531,7 +290,7 @@
 			<value>5.5/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20251212041600 +0100" stop="20251212060000 +0100" channel="BOM Cine">
+	<programme start="20251212041600 +0100" stop="20251212060100 +0100" channel="BOM Cine">
     <title>DALÍ</title>
     <sub-title>[COLOR SlateBlue]Cine,Biográfico,Español[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc>· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
@@ -549,7 +308,7 @@
 			<value>5.9/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20251212060000 +0100" stop="20251212072700 +0100" channel="BOM Cine">
+	<programme start="20251212060100 +0100" stop="20251212072700 +0100" channel="BOM Cine">
     <title>Piccadilly Jim</title>
     <sub-title>[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2004[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
     <desc>· Jim Crocker es un joven neoyorkino que viaja a Londres para derrochar la fortuna que ha heredado y conquistar a múltiples mujeres. Pero su vida da un giro cuando se enamora de una aristócrata.
@@ -704,7 +463,7 @@
 			<value>5.9/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20251212220100 +0100" stop="20251212233600 +0100" channel="BOM Cine">
+	<programme start="20251212220100 +0100" stop="20251212234200 +0100" channel="BOM Cine">
     <title>Yellow Rock</title>
     <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.4/10[/COLOR]</sub-title>
     <desc>· Cinco hombres cabalgan hacia la misteriosa ciudad de Yellow Rock con la esperanza de rescatar a un miembro de la familia y su hijo perdido.
@@ -721,7 +480,7 @@
 			<value>4.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20251212233600 +0100" stop="20251213012800 +0100" channel="BOM Cine">
+	<programme start="20251212234200 +0100" stop="20251213012800 +0100" channel="BOM Cine">
     <title>La brigada del sombrero</title>
     <sub-title>[COLOR SlateBlue]Cine,Drama,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]1996[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.3/10[/COLOR]</sub-title>
     <desc>· Max Hoover, jefe de un grupo élite de la policía que en la lucha contra el crimen organizado aplica sus propias reglas y usa métodos contundentes.
@@ -1445,6 +1204,72 @@
 		</rating>
 	</programme>
 	<programme start="20251216230000 +0100" stop="20251217030000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Deportes, Equitación</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20251217030000 +0100" stop="20251217070000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Deportes, Equitación</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20251217070000 +0100" stop="20251217110000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Deportes, Equitación</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20251217110000 +0100" stop="20251217150000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Deportes, Equitación</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20251217150000 +0100" stop="20251217190000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Deportes, Equitación</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20251217190000 +0100" stop="20251217230000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Deportes, Equitación</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20251217230000 +0100" stop="20251218030000 +0100" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Deportes,Equitación[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
