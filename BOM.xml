@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 08/01/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 09/01/2026 08:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="BOM Cine">
 		<display-name>BOM Cine</display-name>
 		<display-name>BOM Cine.TV</display-name>
@@ -11,140 +11,68 @@
 		<display-name>BOM Cine 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
 	</channel>
-	<programme start="20260108010200 +0100" stop="20260108022900 +0100" channel="BOM Cine">
-    <title>Cruzando el límite</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc>· Un padre que tiene una difícl relación con su hijo lo lleva a un internado para tratar de corregir su conducta, sin saber que el centro es poco menos que un centro de tortura.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Xavi Giménez.
-[COLOR teal]· Reparto:[/COLOR] Adolfo Fernández, Fernando Guillen Cuervo, Irene Escolar, Eduard Farelo, Carlos Kaniowsky.</desc>
-    <category>Cine, Drama, Español</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109429.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20260108022900 +0100" stop="20260108035700 +0100" channel="BOM Cine">
-    <title>Los diez locos mandamientos</title>
-    <sub-title>[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
-    <desc>· Diez historias cruzadas, cada una inspirada en uno de los mandamientos, unidas por un narrador en plena crisis de pareja.
-[COLOR teal]· País:[/COLOR] México, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] David Wain.
-[COLOR teal]· Reparto:[/COLOR] Paul Rudd, Adam Brody, Jon Hamm, Winona Ryder, Ken Marino, Liev Schreiber, Justin Theroux, Jessica Alba, Famke Janssen, Oliver Platt, Rashida Jones, Ali Marsh Marsh, Mather Zickel, Todd Holoubek Holoubek.
-[COLOR teal]· Música:[/COLOR] Craig Wedren.
-[COLOR teal]· Producción:[/COLOR] Ken Marino, Paul Rudd, Jonathan Stern.</desc>
-    <category>Cine, Comedia</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049437.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>4.9/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260108035700 +0100" stop="20260108052500 +0100" channel="BOM Cine">
-    <title>La ciudad del miedo</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.8/10[/COLOR]</sub-title>
-    <desc>· El reportero Steve Roberts viaja a La Habana donde le espera su amigo el Dr. Charlie Venco, para revelarle sus descubrimientos científicos...
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Mark Roper.
-[COLOR teal]· Reparto:[/COLOR] Gary Daniels, Carol Campbell, Richard Clarkin, Meglena Karalambova, Bashar Rahal.
-[COLOR teal]· Música:[/COLOR] Serge Colbert, Russell Walker.
-[COLOR teal]· Producción:[/COLOR] Gary Howsam, Danny Lerner, Harry Alan Towers, David Varod.</desc>
-    <category>Cine, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012996.jpg" />
+	<programme start="20260109010100 +0100" stop="20260109023400 +0100" channel="BOM Cine">
+    <title>Redada mortal</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Suspense,Policíaco[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
+    <desc>· Nikita es contratado para neutralizar la gran fuerza de seguridad privada en una fábrica local para que su sospechoso empleador pueda extorsionar al dueño, un poderoso señor de la guerra.
+[COLOR teal]· País:[/COLOR] Rusia
+[COLOR teal]· Dirección:[/COLOR] Denis Kryuchkov.
+[COLOR teal]· Reparto:[/COLOR] Ilya Antonenko, Vladimir Chuprikov, Nikita Kologrivyy, Ivan Kotik, Vladimir Mineev, Sofya Ozerova, Sergey Grab.</desc>
+    <category>Cine, Acción, Suspense, Policíaco</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012948.jpg" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>3.8/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260108052500 +0100" stop="20260108065000 +0100" channel="BOM Cine">
-    <title>Torremolinos 73</title>
-    <sub-title>[COLOR SlateBlue]Cine,Comedia,Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc>· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
-[COLOR teal]· País:[/COLOR] Dinamarca, España
-[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
-[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González, Ramón Barea, Bjarne Henriksen, Mari-Anne Jespersen, Tom Jacobson, Germán Montañer, Jaime Blanch, Máximo Valverde.
-[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
-[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
-    <category>Cine, Comedia, Español</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008900.jpg" />
+	<programme start="20260109023400 +0100" stop="20260109041500 +0100" channel="BOM Cine">
+    <title>Sonny</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <desc>· Nueva Orleans, 1981. Sonny Phillips, ha pasado toda su vida trabajando como gigoló a las órdenes de su madre.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Nicolas Cage.
+[COLOR teal]· Reparto:[/COLOR] James Franco, Brenda Blethyn, Harry Dean Stanton, Mena Suvari, Seymour Cassel, Nicolas Cage, Scott Caan, Brenda Vaccaro, Janet Shea, Willie Metcalf, Cary Wilmot Alden, Graham Timbes, Doug Barden, Wallace Merck, Josie Davis.
+[COLOR teal]· Música:[/COLOR] Clint Mansell.
+[COLOR teal]· Producción:[/COLOR] Nicolas Cage, Paul Brooks, Norman Golightly.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050156.jpg" />
 		<rating system="ES">
-			<value>16</value>
+			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.5/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260108065000 +0100" stop="20260108070000 +0100" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+	<programme start="20260109041500 +0100" stop="20260109053400 +0100" channel="BOM Cine">
+    <title>Terms &amp; Conditions</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]2015[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Cuando un equipo de asesinos comete un error, el legendario asesino a sueldo Vet Jones recibe un ultimátum de su antiguo jefe: mata al objetivo o su hijo muere.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Anoop Rangi.
+[COLOR teal]· Reparto:[/COLOR] Tom Sizemore, Vivica A. Fox, Mark Mikita, Chris Jai Alex, Bai Ling, Vincent Mentry.</desc>
+    <category>Cine, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4033446.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260109053400 +0100" stop="20260109063300 +0100" channel="BOM Cine">
+    <title>Gaudí</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Dirección:[/COLOR] José María Argemí, Manuel Huerga.
+[COLOR teal]· Reparto:[/COLOR] Maria Matilde Almendros, Rafael Anglada, José María Caffarel, Mario Beut, Carles Sabater, Luis Padrós, Jesús Orús, Elisabeth Escayola, Santi Claramunt.
+[COLOR teal]· Música:[/COLOR] Xavier Montsalvatge.</desc>
+    <category>Cine, Drama, Español</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4618310.jpg" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20260108070000 +0100" stop="20260108110000 +0100" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260108110000 +0100" stop="20260108150000 +0100" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260108150000 +0100" stop="20260108190000 +0100" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260108190000 +0100" stop="20260108230000 +0100" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260108230000 +0100" stop="20260109030000 +0100" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260109030000 +0100" stop="20260109070000 +0100" channel="BOM Cine">
+	<programme start="20260109063300 +0100" stop="20260109070000 +0100" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
@@ -530,6 +458,72 @@
 		</rating>
 	</programme>
 	<programme start="20260114230000 +0100" stop="20260115030000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260115030000 +0100" stop="20260115070000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260115070000 +0100" stop="20260115110000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260115110000 +0100" stop="20260115150000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260115150000 +0100" stop="20260115190000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260115190000 +0100" stop="20260115230000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260115230000 +0100" stop="20260116030000 +0100" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
