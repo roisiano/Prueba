@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: zerotier/ZeroTierOne
-          ref: master
+          ref: main
 
       - name: Install deps
         run: |
