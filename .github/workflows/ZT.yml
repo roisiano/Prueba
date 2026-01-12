@@ -1,0 +1,70 @@
+name: Build Zerotier IPK for CoreELEC (ng & ne)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        target: [ng, ne]
+
+    steps:
+      - name: Checkout Zerotier
+        uses: actions/checkout@v4
+        with:
+          repository: zerotier/ZeroTierOne
+          ref: master
+
+      - name: Install deps
+        run: |
+          sudo apt update
+          sudo apt install -y build-essential clang pkg-config libssl-dev
+
+      - name: Patch for old kernels
+        run: |
+          sed -i 's/#define ZT_USE_LINUX_NETLINK_MULTIQUEUE/\/\/ removed/g' osdep/LinuxEthernetTap.cpp
+          sed -i 's/#define ZT_USE_LINUX_RTNETLINK_EXTENDED/\/\/ removed/g' osdep/LinuxNetLink.cpp
+          sed -i 's/#define ZT_USE_LINUX_BPF/\/\/ removed/g' osdep/LinuxNetDev.cpp
+          sed -i 's/#define ZT_USE_LINUX_NFTABLES/\/\/ removed/g' osdep/LinuxNetDev.cpp
+
+          if [ "${{ matrix.target }}" = "ng" ]; then
+            export CFLAGS="-DZT_LEGACY_KERNEL -O2"
+          else
+            export CFLAGS="-DZT_MID_KERNEL -O2"
+          fi
+
+      - name: Build static binary
+        run: |
+          make clean
+          make ZT_STATIC=1
+
+      - name: Create IPK structure
+        run: |
+          mkdir -p pkg/CONTROL
+          mkdir -p pkg/opt/bin
+
+          cp zerotier-one pkg/opt/bin/
+
+          cat <<EOF > pkg/CONTROL/control
+Package: zerotier-${{ matrix.target }}
+Version: 1.0
+Architecture: aarch64
+Description: Zerotier patched for CoreELEC ${{ matrix.target }}
+EOF
+
+      - name: Build IPK
+        run: |
+          cd pkg
+          tar -czf control.tar.gz CONTROL
+          tar -czf data.tar.gz opt
+          echo "2.0" > debian-binary
+          ar r ../zerotier-${{ matrix.target }}.ipk debian-binary control.tar.gz data.tar.gz
+
+      - name: Upload IPK
+        uses: actions/upload-artifact@v4
+        with:
+          name: zerotier-${{ matrix.target }}.ipk
+          path: zerotier-${{ matrix.target }}.ipk
