@@ -31,15 +31,19 @@ jobs:
           sed -i 's/#define ZT_USE_LINUX_NFTABLES/\/\/ removed/g' osdep/LinuxNetDev.cpp
 
           if [ "${{ matrix.target }}" = "ng" ]; then
-            echo "Compiling for kernel 4.9"
+            echo "Compiling for kernel 4.9 (ng)"
             export CFLAGS="-DZT_LEGACY_KERNEL -O2"
           else
-            echo "Compiling for kernel 5.4"
+            echo "Compiling for kernel 5.4 (ne)"
             export CFLAGS="-DZT_MID_KERNEL -O2"
           fi
 
+          # Guardar flags en un archivo temporal para el siguiente paso
+          echo "CFLAGS=$CFLAGS" >> $GITHUB_ENV
+
       - name: Build static binary
         run: |
+          echo "Using CFLAGS=$CFLAGS"
           make clean
           make ZT_STATIC=1
 
@@ -49,12 +53,11 @@ jobs:
           mkdir -p pkg/opt/bin
           cp zerotier-one pkg/opt/bin/
 
-          cat <<EOF > pkg/CONTROL/control
-Package: zerotier-${{ matrix.target }}
-Version: 1.0
-Architecture: aarch64
-Description: Zerotier patched for CoreELEC ${{ matrix.target }}
-EOF
+          CONTROL_FILE=pkg/CONTROL/control
+          echo "Package: zerotier-${{ matrix.target }}" > "$CONTROL_FILE"
+          echo "Version: 1.0" >> "$CONTROL_FILE"
+          echo "Architecture: aarch64" >> "$CONTROL_FILE"
+          echo "Description: Zerotier patched for CoreELEC ${{ matrix.target }}" >> "$CONTROL_FILE"
 
       - name: Build IPK
         run: |
