@@ -1,4 +1,4 @@
-name: Build Zerotier 1.14.1 Patched for CoreELEC
+name: Build Zerotier 1.14.1 patched IPK for CoreELEC
 
 on:
   workflow_dispatch:
@@ -34,7 +34,6 @@ jobs:
           set -e
           set -x
 
-          # Archivos que cambian entre versiones
           FILES="
             osdep/LinuxEthernetTap.cpp
             osdep/LinuxNetLink.cpp
@@ -51,27 +50,31 @@ jobs:
             else
               echo "Skipping missing file: $f"
             fi
-          done
+          end
 
-          # Flags por kernel
           if [ "${{ matrix.target }}" = "ng" ]; then
             echo "CFLAGS=-DZT_LEGACY_KERNEL -O2" >> $GITHUB_ENV
           else
             echo "CFLAGS=-DZT_MID_KERNEL -O2" >> $GITHUB_ENV
           fi
 
-      - name: Build static binary
+      - name: Build static & stripped binary
         run: |
           set -e
           set -x
           echo "Using CFLAGS=$CFLAGS"
           make clean
           make ZT_STATIC=1
+          file zerotier-one || true
+          strip zerotier-one
+          file zerotier-one || true
+          ls -lh zerotier-one
 
       - name: Create IPK structure
         run: |
           set -e
           set -x
+          rm -rf pkg
           mkdir -p pkg/CONTROL
           mkdir -p pkg/opt/bin
           cp zerotier-one pkg/opt/bin/
@@ -82,6 +85,9 @@ jobs:
           echo "Architecture: aarch64" >> "$CONTROL_FILE"
           echo "Description: Zerotier 1.14.1 patched for CoreELEC ${{ matrix.target }}" >> "$CONTROL_FILE"
 
+          echo "CONTROL file contents:"
+          cat "$CONTROL_FILE"
+
       - name: Build IPK
         run: |
           set -e
@@ -91,11 +97,14 @@ jobs:
           tar -czf data.tar.gz opt
           echo "2.0" > debian-binary
           ar r ../zerotier-${{ matrix.target }}.ipk debian-binary control.tar.gz data.tar.gz
+          cd ..
+          ls -lh zerotier-${{ matrix.target }}.ipk
 
       - name: Upload IPK
         uses: actions/upload-artifact@v4
         with:
           name: zerotier-${{ matrix.target }}.ipk
           path: zerotier-${{ matrix.target }}.ipk
+
 
 
