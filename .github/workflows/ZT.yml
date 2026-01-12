@@ -1,4 +1,4 @@
-name: Build Zerotier IPK for CoreELEC
+name: Build Zerotier 1.14.1 Patched for CoreELEC
 
 on:
   workflow_dispatch:
@@ -6,61 +6,86 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     strategy:
       matrix:
         target: [ng, ne]
 
     steps:
-      - name: Checkout Zerotier
+      - name: Checkout Zerotier 1.14.1
         uses: actions/checkout@v4
         with:
           repository: zerotier/ZeroTierOne
-          ref: main
+          ref: 1.14.1
+
+      - name: Debug repo
+        run: |
+          echo "Repo contents:"
+          ls -R .
 
       - name: Install deps
         run: |
           sudo apt update
           sudo apt install -y build-essential clang pkg-config libssl-dev
 
-      - name: Patch for old kernels
+      - name: Apply compatibility patches
         run: |
-          sed -i 's/#define ZT_USE_LINUX_NETLINK_MULTIQUEUE/\/\/ removed/g' osdep/LinuxEthernetTap.cpp
-          sed -i 's/#define ZT_USE_LINUX_RTNETLINK_EXTENDED/\/\/ removed/g' osdep/LinuxNetLink.cpp
-          sed -i 's/#define ZT_USE_LINUX_BPF/\/\/ removed/g' osdep/LinuxNetDev.cpp
-          sed -i 's/#define ZT_USE_LINUX_NFTABLES/\/\/ removed/g' osdep/LinuxNetDev.cpp
+          set -e
+          set -x
 
+          # Archivos que cambian entre versiones
+          FILES="
+            osdep/LinuxEthernetTap.cpp
+            osdep/LinuxNetLink.cpp
+            osdep/LinuxNetDev.cpp
+          "
+
+          for f in $FILES; do
+            if [ -f "$f" ]; then
+              echo "Patching $f"
+              sed -i 's/#define ZT_USE_LINUX_NETLINK_MULTIQUEUE/\/\/ removed for CE/g' "$f" || true
+              sed -i 's/#define ZT_USE_LINUX_RTNETLINK_EXTENDED/\/\/ removed for CE/g' "$f" || true
+              sed -i 's/#define ZT_USE_LINUX_BPF/\/\/ removed for CE/g' "$f" || true
+              sed -i 's/#define ZT_USE_LINUX_NFTABLES/\/\/ removed for CE/g' "$f" || true
+            else
+              echo "Skipping missing file: $f"
+            fi
+          done
+
+          # Flags por kernel
           if [ "${{ matrix.target }}" = "ng" ]; then
-            echo "Compiling for kernel 4.9 (ng)"
-            export CFLAGS="-DZT_LEGACY_KERNEL -O2"
+            echo "CFLAGS=-DZT_LEGACY_KERNEL -O2" >> $GITHUB_ENV
           else
-            echo "Compiling for kernel 5.4 (ne)"
-            export CFLAGS="-DZT_MID_KERNEL -O2"
+            echo "CFLAGS=-DZT_MID_KERNEL -O2" >> $GITHUB_ENV
           fi
-
-          # Guardar flags en un archivo temporal para el siguiente paso
-          echo "CFLAGS=$CFLAGS" >> $GITHUB_ENV
 
       - name: Build static binary
         run: |
+          set -e
+          set -x
           echo "Using CFLAGS=$CFLAGS"
           make clean
           make ZT_STATIC=1
 
       - name: Create IPK structure
         run: |
+          set -e
+          set -x
           mkdir -p pkg/CONTROL
           mkdir -p pkg/opt/bin
           cp zerotier-one pkg/opt/bin/
 
           CONTROL_FILE=pkg/CONTROL/control
           echo "Package: zerotier-${{ matrix.target }}" > "$CONTROL_FILE"
-          echo "Version: 1.0" >> "$CONTROL_FILE"
+          echo "Version: 1.14.1-patched" >> "$CONTROL_FILE"
           echo "Architecture: aarch64" >> "$CONTROL_FILE"
-          echo "Description: Zerotier patched for CoreELEC ${{ matrix.target }}" >> "$CONTROL_FILE"
+          echo "Description: Zerotier 1.14.1 patched for CoreELEC ${{ matrix.target }}" >> "$CONTROL_FILE"
 
       - name: Build IPK
         run: |
+          set -e
+          set -x
           cd pkg
           tar -czf control.tar.gz CONTROL
           tar -czf data.tar.gz opt
@@ -72,4 +97,5 @@ jobs:
         with:
           name: zerotier-${{ matrix.target }}.ipk
           path: zerotier-${{ matrix.target }}.ipk
+
 
