@@ -1,4 +1,4 @@
-name: Build Zerotier IPK for CoreELEC (ng & ne)
+name: Build Zerotier IPK for CoreELEC
 
 on:
   workflow_dispatch:
@@ -31,8 +31,10 @@ jobs:
           sed -i 's/#define ZT_USE_LINUX_NFTABLES/\/\/ removed/g' osdep/LinuxNetDev.cpp
 
           if [ "${{ matrix.target }}" = "ng" ]; then
+            echo "Compiling for kernel 4.9"
             export CFLAGS="-DZT_LEGACY_KERNEL -O2"
           else
+            echo "Compiling for kernel 5.4"
             export CFLAGS="-DZT_MID_KERNEL -O2"
           fi
 
@@ -45,7 +47,6 @@ jobs:
         run: |
           mkdir -p pkg/CONTROL
           mkdir -p pkg/opt/bin
-
           cp zerotier-one pkg/opt/bin/
 
           cat <<EOF > pkg/CONTROL/control
@@ -68,3 +69,4 @@ EOF
         with:
           name: zerotier-${{ matrix.target }}.ipk
           path: zerotier-${{ matrix.target }}.ipk
+
