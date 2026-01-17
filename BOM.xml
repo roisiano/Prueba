@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/01/2026 16:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 17/01/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="BOM Cine">
 		<display-name>BOM Cine</display-name>
 		<display-name>BOM Cine.TV</display-name>
@@ -9,7 +9,511 @@
 		<display-name>BOM Cine UHD</display-name>
 		<display-name>BOM Cine 720</display-name>
 		<display-name>BOM Cine 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
 	</channel>
+	<programme start="20260117010400 +0100" stop="20260117022500 +0100" channel="BOM Cine">
+    <title>Dura recompensa</title>
+    <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1995[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Kanning, cazador de reocmpensas, decide dejar su ocupación cuando fracasa en una de sus misiones. Decide entonces comprar un salón de juego, donde su esposa Donnie trabaja como prostituta.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Jim Wynorski.
+[COLOR teal]· Reparto:[/COLOR] Matt McCoy, Kelly LeBrock, John Terlesky, Kimberly Kelley, Rochelle Swanson.
+[COLOR teal]· Música:[/COLOR] Taj.
+[COLOR teal]· Producción:[/COLOR] Jim Wynorski.</desc>
+    <category>Cine, Western</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4151210.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260117022500 +0100" stop="20260117035800 +0100" channel="BOM Cine">
+    <title>Hiena salvaje</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Comedia[/COLOR] | [COLOR cadetblue]1979[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc>· Shing Lung pasó toda su niñez aprendiendo el estilo secreto de Kung Fu de su abuelo. Su abuelo siempre lo advirtió de mantener el secreto del arte, pero Lung nunca rechazaba una pelea, lo que originó desastrosos resultados.
+[COLOR teal]· País:[/COLOR] Hong Kong, Corea del Sur
+[COLOR teal]· Dirección:[/COLOR] Jackie Chan, Kenneth Tsang.
+[COLOR teal]· Reparto:[/COLOR] Jackie Chan, James Tien, Dean Shek, Hui Lou Chen, Lee Kwan, Dena Shek, Yen Shi-Kwan, Chen Hui-Lou, Ricky Cheng, Shi-Kwan Yen, Kun Li, Tien-Chi Cheng.</desc>
+    <category>Cine, Acción, Comedia</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4040114.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117035800 +0100" stop="20260117051900 +0100" channel="BOM Cine">
+    <title>Colisión inminente</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Un científico intenta convencer a la Tierra de que está en peligro inminente por el impacto de un asteroide antes de que sea demasiado tarde.
+[COLOR teal]· País:[/COLOR] Canadá, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Sam Irvin.
+[COLOR teal]· Reparto:[/COLOR] Antonio Sabato Jr., Rae Dawn Chong, Michael Boisvert, Dominic Zamprogna, Michael Moriarty, Rob LaBelle, Hrothgar Mathews.</desc>
+    <category>Cine, Acción, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002567.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260117051900 +0100" stop="20260117064400 +0100" channel="BOM Cine">
+    <title>Torremolinos 73</title>
+    <sub-title>[COLOR SlateBlue]Cine,Comedia,Español[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc>· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
+[COLOR teal]· País:[/COLOR] Dinamarca, España
+[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
+[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González, Ramón Barea, Bjarne Henriksen, Mari-Anne Jespersen, Tom Jacobson, Germán Montañer, Jaime Blanch, Máximo Valverde.
+[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
+[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
+    <category>Cine, Comedia, Español</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008900.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117064400 +0100" stop="20260117081100 +0100" channel="BOM Cine">
+    <title>Cosas insignificantes</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc>· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
+[COLOR teal]· País:[/COLOR] España, México
+[COLOR teal]· Dirección:[/COLOR] Andrea Martínez Crowther.
+[COLOR teal]· Reparto:[/COLOR] Jonathan Bravo, Regina De Los Cobos, Fátima Díaz, Carmelo Gómez, Fernando Luján, Lucía Jimenez, Bárbara Mori, Paulina Gaitán.</desc>
+    <category>Cine, Drama, Español</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027562.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117081100 +0100" stop="20260117093100 +0100" channel="BOM Cine">
+    <title>Verdades ocultas</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
+    <desc>· A comienzos de los 80, Holt es un investigador de una agencia de seguros que viaja a un pueblo para estudiar la muerte de Kelvin, un estafador aparentemente fallecido en un accidente de coche.
+[COLOR teal]· País:[/COLOR] Islandia, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Baltasar Kormakur.
+[COLOR teal]· Reparto:[/COLOR] Peter Coyote, Forest Whitaker, Jeremy Renner, Julia Stiles, Philip Jackson, María Fernández Ache, Juan Carlos Pardo Pardo, Kharl Anton Leigh.
+[COLOR teal]· Música:[/COLOR] Mugison.
+[COLOR teal]· Producción:[/COLOR] Baltasar Kormakur, Sigurjon Sighvatsson.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4284551.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117093100 +0100" stop="20260117105300 +0100" channel="BOM Cine">
+    <title>Resistencia</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Suspense,Acción[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
+    <desc>· En 1944 y con Gran Bretaña ocupada por fuerzas alemanas, un grupo de mujeres en un pueblo galés aislado se despierta para descubrir que todos sus maridos han desaparecido misteriosamente.
+[COLOR teal]· País:[/COLOR] Alemania, Reino Unido
+[COLOR teal]· Dirección:[/COLOR] Amit Gupta.
+[COLOR teal]· Reparto:[/COLOR] Andrea Riseborough, Michael Sheen, Iwan Rheon, Alexander Dreymon, Tom Wlaschiha.</desc>
+    <category>Cine, Drama, Suspense, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4013008.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117105300 +0100" stop="20260117123600 +0100" channel="BOM Cine">
+    <title>Transsiberian</title>
+    <sub-title>[COLOR SlateBlue]Cine,Suspense,Policíaco,Español[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc>· Tras pasar unos meses en China trabajando como voluntarios de una asociación religiosa, Roy y Jessievuelven a casa a bordo del Transiberiano.
+[COLOR teal]· País:[/COLOR] Alemania, España, Reino Unido
+[COLOR teal]· Dirección:[/COLOR] Brad Anderson.
+[COLOR teal]· Reparto:[/COLOR] Thomas Kretschmann, Ben Kingsley, Eduardo Noriega, Woody Harrelson, Emily Mortimer, Kate Mara, Samantha Morton, Colin Stinton, Mac McDonald, Etienne Chicot.
+[COLOR teal]· Música:[/COLOR] Alfonso Vilallonga.
+[COLOR teal]· Producción:[/COLOR] Julio Fernández.</desc>
+    <category>Cine, Suspense, Policíaco, Español</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4126982.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117123600 +0100" stop="20260117140600 +0100" channel="BOM Cine">
+    <title>La amenaza de Casandra [COLOR tomato]T1 E1[/COLOR]</title>
+    <sub-title>[COLOR SlateBlue]Series,Acción[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.3/10[/COLOR]</sub-title>
+    <desc>· La caída de varios meteoritos en la Tierra siembra el pánico en la población. Un científico y su asistente deberán facilitar la información necesaria a un investigador experto en el tema para impedir la inminente destrucción del planeta.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Ernie Barbarash.
+[COLOR teal]· Reparto:[/COLOR] Billy Campbell, Christopher Lloyd, Jason Alexander, Michael Rooker, Erin Cottrell, Marla Sokoloff, Stacy Keach, Kenneth Mitchell, Ernie Hudson, Bill Campbell, Carmen Argenziano, Mimi Michaels, Anne Bedian.</desc>
+    <category>Series, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049366.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117140600 +0100" stop="20260117153400 +0100" channel="BOM Cine">
+    <title>La amenaza de Casandra [COLOR tomato]T1 E2[/COLOR]</title>
+    <sub-title>[COLOR SlateBlue]Series,Acción[/COLOR] | [COLOR cadetblue]2009[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.3/10[/COLOR]</sub-title>
+    <desc>· La caída de varios meteoritos en la Tierra siembra el pánico en la población. Un científico y su asistente deberán facilitar la información necesaria a un investigador experto en el tema para impedir la inminente destrucción del planeta.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Ernie Barbarash.
+[COLOR teal]· Reparto:[/COLOR] Billy Campbell, Christopher Lloyd, Jason Alexander, Michael Rooker, Erin Cottrell, Marla Sokoloff, Stacy Keach, Kenneth Mitchell, Ernie Hudson, Bill Campbell, Carmen Argenziano, Mimi Michaels, Anne Bedian.</desc>
+    <category>Series, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049366.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117153400 +0100" stop="20260117170900 +0100" channel="BOM Cine">
+    <title>La espada del asesino</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
+    <desc>· Nguyen Vu es el único superviviente de su familia ejecutada por la emperatriz. Al descubrir que todo se debía a las luchas por el poder, decide encontrar la ‘carta de sangre’ para vengarse.
+[COLOR teal]· País:[/COLOR] VNM
+[COLOR teal]· Dirección:[/COLOR] Victor Vu.
+[COLOR teal]· Reparto:[/COLOR] Huynh Dong, Midu, Khuong Ngoc, Kim Hien, Minh Thuận, Mai Anh.</desc>
+    <category>Cine, Acción, Aventuras, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4944883.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117170900 +0100" stop="20260117184500 +0100" channel="BOM Cine">
+    <title>Ciudad del silencio</title>
+    <sub-title>[COLOR SlateBlue]Cine,Suspense,Policíaco[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Lauren acude a informar sobre los asesinatos de cientos de mujeres en la frontera de México con los Estados Unidos. La periodista contará con la ayuda de un antiguo colega que trabaja en el periódico local.
+[COLOR teal]· País:[/COLOR] Reino Unido, México, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Gregory Nava.
+[COLOR teal]· Reparto:[/COLOR] Martin Sheen, Antonio Banderas, Jennifer López, Julio César Cedillo, Sonia Braga, Maya Zapata, Teresa Ruiz, Juan Diego Botto, Rene Rivera, Irineo Alvarez.
+[COLOR teal]· Música:[/COLOR] Graeme Revell.
+[COLOR teal]· Producción:[/COLOR] David Bergstein, Gregory Nava.</desc>
+    <category>Cine, Suspense, Policíaco</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4171683.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260117184500 +0100" stop="20260117205000 +0100" channel="BOM Cine">
+    <title>F.I.S.T.</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Negro[/COLOR] | [COLOR cadetblue]1978[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc>· Crónica de un joven inocente e idealista, corrompido por el poder y el éxito, en la época de la aparición del movimiento obrero en Estados Unidos.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Norman Jewison.
+[COLOR teal]· Reparto:[/COLOR] Sylvester Stallone, Melinda Dillon, David Huffman, Rod Steiger, Peter Boyle, Tony Lo Bianco, Henry Wilcoxon, Cassie Yates, Kevin Conway, Peter Donat.</desc>
+    <category>Cine, Drama, Negro</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009084.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117205000 +0100" stop="20260117220900 +0100" channel="BOM Cine">
+    <title>El jinete solitario</title>
+    <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.3/10[/COLOR]</sub-title>
+    <desc>· Bobby Hattaway, un heróico soldado, vuelve a casa una vez terminada la Guerra Civil (1861-1865). Cuando llega, descubre que su padre está endeudado hasta las cejas con el despiadado Stu Crocker. A pesar de que éste era su amigo de la infancia, Bobby no tendrá más remedio que enfrentarse a él.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] David S. Cass Sr., David S. Cass Sr.
+[COLOR teal]· Reparto:[/COLOR] Lou Diamond Phillips, Stacy Keach, Vincent Spano, Marta DuBois, Terry Maratos, Mike Starr, Cynthia Preston, Angela Alvarado Rosa, Timothy Bottoms, Angela Alvarado.</desc>
+    <category>Cine, Western</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049497.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117220900 +0100" stop="20260117233900 +0100" channel="BOM Cine">
+    <title>Mercenario De La Justicia</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Drama,Suspense[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
+    <desc>· John Seeger es contratado por una Empresa clandestina de la CIA para rescatar al hijo y a la esposa de un mercenario amigo suyo.
+[COLOR teal]· País:[/COLOR] Aruba, Estados Unidos, Sudáfrica
+[COLOR teal]· Dirección:[/COLOR] Don E. FauntLeRoy.
+[COLOR teal]· Reparto:[/COLOR] Steven Seagal, Luke Goss, Roger Smith, Adrian Galley, Jacqueline Lord, Zaa Nkweta, Faye Peters, Bruce Young, Langley Kirkwood, Verity Price, Vivian Bieldt Bieldt, Peter Butler, Farouk Valley-Omar, Tumi Mogoje, Michael K. Williams, Michael Kenneth Williams, Roger Guenveur Smith.
+[COLOR teal]· Música:[/COLOR] Stephen Edwards.
+[COLOR teal]· Producción:[/COLOR] Randall Emmett, George Furla.</desc>
+    <category>Cine, Acción, Drama, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012848.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260117233900 +0100" stop="20260118010600 +0100" channel="BOM Cine">
+    <title>La batalla de Saipan</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Drama[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Un cirujano defiende un hospital de las fuerzas enemigas invasoras en la Batalla de Saipan durante la Segunda Guerra Mundial.
+[COLOR teal]· País:[/COLOR] Tailandia
+[COLOR teal]· Dirección:[/COLOR] Brandon Slagle.
+[COLOR teal]· Reparto:[/COLOR] Casper Van Dien, Louis Mandylor, Jeff Fahey, Eoin O'Brien, Jennifer Wenger, Devanny Pinn, Randall J. Bacon, Luana Cavalcante.</desc>
+    <category>Cine, Acción, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4048662.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260118010600 +0100" stop="20260118024700 +0100" channel="BOM Cine">
+    <title>Robot de compañía</title>
+    <sub-title>[COLOR SlateBlue]Cine,Ciencia Ficción,Drama,Fantasía[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Un hombre de familia que lucha por mantener todo unido descubre un salón oculto que ofrece una solución... sexbots.
+[COLOR teal]· País:[/COLOR] China, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Princeton Holt.
+[COLOR teal]· Reparto:[/COLOR] Irina Abraham, Devin Fuller, Dean Cain, Stefanie Bloom, David Vaughn, Stormi Maya, Hope Blackstock, Chris Riquinha, Jace Nicole, Shannone Holt.</desc>
+    <category>Cine, Ciencia Ficción, Drama, Fantasía</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027590.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260118024700 +0100" stop="20260118043800 +0100" channel="BOM Cine">
+    <title>The warlords: Los señores de la guerra</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Ambientada en 1860, Warlords es una historia épica narra la historia de tres hermanos de sangre que luchan en los legendarios conflictos bélicos y políticos hacia el final de la dinastía Quing.
+[COLOR teal]· País:[/COLOR] China, Hong Kong
+[COLOR teal]· Dirección:[/COLOR] Wai Man Yip, Peter Ho-Sun Chan.
+[COLOR teal]· Reparto:[/COLOR] Jet Li, Andy Lau, Takeshi Kaneshiro, Jinglei Xu, Xiaodong Guo, Jacky Heung.</desc>
+    <category>Cine, Acción, Aventuras, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4754881.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260118043800 +0100" stop="20260118054900 +0100" channel="BOM Cine">
+    <title>Kill Kane</title>
+    <sub-title>[COLOR SlateBlue]Cine,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.8/10[/COLOR]</sub-title>
+    <desc>· Un profesor ve su mundo derrumbarse cuando su mujer y sus hijos son asesinados por una banda violenta. Al no saber a quién acudir para pedir ayuda, decidirá tomar cartas en el asunto y buscar venganza.
+[COLOR teal]· País:[/COLOR] Reino Unido
+[COLOR teal]· Dirección:[/COLOR] Adam Stephen Kelly.
+[COLOR teal]· Reparto:[/COLOR] Vinnie Jones, Nicole Faraday, Sean Cronin, Sebastian Street, Dan Richardson.</desc>
+    <category>Cine, Policíaco, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4026154.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>3.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118054900 +0100" stop="20260118071600 +0100" channel="BOM Cine">
+    <title>Enloquecidas</title>
+    <sub-title>[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
+    <desc>· Blanca conoce al hombre de sus sueños, se enamora y lo pierde en el plazo de una semana. Meses después, ella y su tía encuentran su retrato... ¡y descubren que lleva años muerto! Su disparatada investigación sobre el misterioso pasado del joven las llevará a un giro tan inesperado como revelador.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Dirección:[/COLOR] Juan Luis Iborra.
+[COLOR teal]· Reparto:[/COLOR] Silvia Abascal, Concha Velasco, Asunción Balaguer, Iván Sánchez, Verónica Forqué, Cesáreo Estébanez, Jordi Rebellón, Juli Mira, Javier Blanes, Valeria Arribas, Manu Berastegui.
+[COLOR teal]· Música:[/COLOR] José Reinoso.
+[COLOR teal]· Producción:[/COLOR] Marc Cases, Sergio Castellote, Óscar del Caz, Carlos Ibáñez, Beatriz Navarrete, Miguel Ángel Poveda.</desc>
+    <category>Cine, Comedia</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012808.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118071600 +0100" stop="20260118083500 +0100" channel="BOM Cine">
+    <title>Un océano entre nosotros</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Biográfico[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
+    <desc>· En 1968 el navegante aficionado Donald Crowhurst se impone un objetivo: ganar la Sunday Times Golden Globe Race dando la vuelta al mundo en su velero.
+[COLOR teal]· País:[/COLOR] Francia, Reino Unido, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] James Marsh.
+[COLOR teal]· Reparto:[/COLOR] Rachel Weisz, Colin Firth, David Thewlis, Mark Gatiss, Andrew Buchan, Kerry Godliman, Simon McBurney, Ken Stott, Finn Elliot, Genevieve Gaunt, Jonathan Bailey, Sebastian Armesto, Laurence Spellman, Adrian Schiller, Oliver Maltman, Anna Madeley, Tim Downie, Sam Hoare Hoare, Kit Connor, Eleanor Stagg, Zara Prassinot, Sam Hoare.</desc>
+    <category>Cine, Drama, Biográfico</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4059146.jpg" />
+		<rating system="ES">
+			<value>13</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118083500 +0100" stop="20260118095700 +0100" channel="BOM Cine">
+    <title>Resistencia</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Suspense,Acción[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
+    <desc>· En 1944 y con Gran Bretaña ocupada por fuerzas alemanas, un grupo de mujeres en un pueblo galés aislado se despierta para descubrir que todos sus maridos han desaparecido misteriosamente.
+[COLOR teal]· País:[/COLOR] Alemania, Reino Unido
+[COLOR teal]· Dirección:[/COLOR] Amit Gupta.
+[COLOR teal]· Reparto:[/COLOR] Andrea Riseborough, Michael Sheen, Iwan Rheon, Alexander Dreymon, Tom Wlaschiha.</desc>
+    <category>Cine, Drama, Suspense, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4013008.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118095700 +0100" stop="20260118112800 +0100" channel="BOM Cine">
+    <title>Dinero sucio</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Policíaco[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Taylor acaba de salir de la prisión y prepara un nuevo golpe, el atraco de un banco. El dinero que ha robado está marcado y no le va a servir de nada.
+[COLOR teal]· País:[/COLOR] Aruba, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Predrag Antonijevic.
+[COLOR teal]· Reparto:[/COLOR] Christian Slater, Val Kilmer, Sara Downing, Vincent Laresca, Balthazar Getty.</desc>
+    <category>Cine, Acción, Policíaco</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4171675.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260118112800 +0100" stop="20260118125400 +0100" channel="BOM Cine">
+    <title>Tipos Legales</title>
+    <sub-title>[COLOR SlateBlue]Cine,Comedia,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc>· Val sale de la cárcel tras cumplir 28 años de condena. Doc, su mejor amigo, le espera a la salida para ir a ver a Hirsch, otro viejo colega.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Fisher Stevens.
+[COLOR teal]· Reparto:[/COLOR] Al Pacino, Lucky Punch, Mark Margolis, Christopher Walken, Alan Arkin, Julianna Margulies, Vanessa Ferlito, Yorgo Constantine, Craig Sheffer, Bill Burr, Addison Timlin, Katheryn Winnick, Lucy Punch, Weronika Rosati, Lauriane Gilliéron, Courtney Galiano.
+[COLOR teal]· Música:[/COLOR] Lyle Workman.
+[COLOR teal]· Producción:[/COLOR] Sidney Kimmel, Gary Lucchesi, Tom Rosenberg, Jim Tauber.</desc>
+    <category>Cine, Comedia, Policíaco, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002355.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118125400 +0100" stop="20260118141900 +0100" channel="BOM Cine">
+    <title>Bullet Head: Trampa mortal</title>
+    <sub-title>[COLOR SlateBlue]Cine,Policíaco,Drama,Suspense[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
+    <desc>· Tres criminales con una prolífica carrera delictiva se quedan encerrados en un almacén cuando llevaban un robo a cabo. Con la policía bloqueando la única salida descubrirán que dentro les espera una amenaza incluso peor.
+[COLOR teal]· País:[/COLOR] Bulgaria, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Paul Solet.
+[COLOR teal]· Reparto:[/COLOR] Adrien Brody, Rory Culkin, Antonio Banderas, John Malkovich, Alexandra Dinu, Ori Pfeffer, James Robinson, Velizar Binev, Owen Davis, Deyan Petrov, Jay Bogoslovov, Clive Sawyer, Keith D. Evans, Kitodar Todorov, Mark Theodore Richards, Tihomir Vinchev, Jeko Bogoslovov.</desc>
+    <category>Cine, Policíaco, Drama, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4217165.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118141900 +0100" stop="20260118153900 +0100" channel="BOM Cine">
+    <title>La rebelión de las máquinas</title>
+    <sub-title>[COLOR SlateBlue]Cine,Ciencia Ficción,Acción,Suspense[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.3/10[/COLOR]</sub-title>
+    <desc>· Unos soldados inconscientes son arrojados a un sitio de pruebas donde descubren que sus recuerdos han sido borrados. Las máquinas dóciles son la nueva inteligencia.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Ryan Staples Scott.
+[COLOR teal]· Reparto:[/COLOR] Sarah J. Bartholomew, Cait Brasel, Jamie Costa, Justin France, Emily Hileman, Barrett Carroll Curtis, Jason Leyva, Ryan Merriman, Brooks Ryan, Barrett D. Carroll, R.J. Wagner, Luke Wyckoff.</desc>
+    <category>Cine, Ciencia Ficción, Acción, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049553.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>3.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118153900 +0100" stop="20260118173400 +0100" channel="BOM Cine">
+    <title>The Edge</title>
+    <sub-title>[COLOR SlateBlue]Cine,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Ambientada en Siberia en 1945, Ignat, un antiguo héroe soviético, llega a un pequeño y curioso pueblo para trabajar como maquinista. Allí conoce a una joven alemana que ha pasado toda la Segunda Guerra Mundial viviendo incomunicada.
+[COLOR teal]· País:[/COLOR] Rusia
+[COLOR teal]· Dirección:[/COLOR] Aleksey Uchitel.
+[COLOR teal]· Reparto:[/COLOR] Vladimir Mashkov, Yulia Peresild, Anjorka Strechel, Aleksey Gorbunov, Sergey Garmash.</desc>
+    <category>Cine, Aventuras, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049485.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260118173400 +0100" stop="20260118191400 +0100" channel="BOM Cine">
+    <title>Comando de élite</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]2001[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Después de la muerte de sus familias a causa de una bomba terrorista, cinco jóvenes son entrenados por el gobierno de los Estados Unidos para formar el mejor y más preparado grupo antiterrorista.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Terry Cunningham.
+[COLOR teal]· Reparto:[/COLOR] Jürgen Prochnow, Jason Lewis, Robin Givens, Michael Hagerty, Maxine Bahns.</desc>
+    <category>Cine, Acción, Policíaco, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4126943.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260118191400 +0100" stop="20260118204800 +0100" channel="BOM Cine">
+    <title>Soldado de alquiler</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· La millonaria Patty Van Lier contrata al mercenario Hawk y a su equipo para rescatar a su marido. Ha sido secuestrado por un barón de la droga en la región fronteriza entre Tailandia y Birmania.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Philippe Mora, Phillipe Mora.
+[COLOR teal]· Reparto:[/COLOR] Sam Bottoms, Claudia Christian, Olivier Gruner, Robert Townsend, Nicholas Turturro, Tom Towles, John Dennis Johnston, Robert Towsend.
+[COLOR teal]· Música:[/COLOR] Roger Neill.
+[COLOR teal]· Producción:[/COLOR] Kathy Jordan, Avi Nesher.</desc>
+    <category>Cine, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4184640.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260118204800 +0100" stop="20260118221100 +0100" channel="BOM Cine">
+    <title>La promesa del pistolero</title>
+    <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
+    <desc>· Cuando un pistolero obsesionado por el pasado mata accidentalmente a un extraño en un tiroteo, empieza para él un inesperado viaje que lo llevará por el camino de la redención.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Armand Mastroianni.
+[COLOR teal]· Reparto:[/COLOR] Luke Perry, C. Thomas Howell, Jaclyn DeSantis, Francesco Quinn, Kim Coates.</desc>
+    <category>Cine, Western</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4017211.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118221100 +0100" stop="20260118234800 +0100" channel="BOM Cine">
+    <title>El último guerrero</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Fantasía,Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc>· Son tiempos en que una civilización está reemplazando a otra. Está por comenzar una nueva era en Eurasia Central. Los escitas, los orgullosos guerreros, ya se han ido.
+[COLOR teal]· País:[/COLOR] Rusia
+[COLOR teal]· Dirección:[/COLOR] Rustam Mosafir, Dmitriy Dyachenko.
+[COLOR teal]· Reparto:[/COLOR] Aleksey Faddeev, Alexander Kuznetsov, Yuriy Tsurilo, Vasilisa Izmaylova, Vitaly Kravchenko, Saido Kurbanov, Ekaterina Vilkova, Konstantin Lavronenko, Elena Yakovleva, Mila Sivatskaya, Viktor Khorinyak, Sergey Burunov, Aleksandr Kuznetsov, Fomin Andrey.
+[COLOR teal]· Producción:[/COLOR] Sergey Selyanov.</desc>
+    <category>Cine, Acción, Fantasía, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002595.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260118234800 +0100" stop="20260119012300 +0100" channel="BOM Cine">
+    <title>El señor del acero</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.1/10[/COLOR]</sub-title>
+    <desc>· El joven príncipe Yaroslav tiene varios frentes abiertos, lucha contra los ladrones, las tribus y los invasores que acechan sus tierras. Pronto pondrá fin a todo e intentará unificar todos los territorios en un nuevo estado.
+[COLOR teal]· País:[/COLOR] Rusia
+[COLOR teal]· Dirección:[/COLOR] Dmitriy Korobkin.
+[COLOR teal]· Reparto:[/COLOR] Aleksey Kravchenko, Viktor Verzhbitskiy, Aleksey Kravchenco, Svetlana Chuykina, Aleksandr Ivashkevich, Valeriy Zolotukhin, Pavel Khrulyov, Elena Plaksina, Fyodor Shuvalov.
+[COLOR teal]· Música:[/COLOR] Dmitriy Dankov.
+[COLOR teal]· Producción:[/COLOR] Oleg Surkov.</desc>
+    <category>Cine, Acción, Aventuras, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4150977.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.1/10</value>
+		</star-rating>
+	</programme>
 	<programme start="20260119012300 +0100" stop="20260119025300 +0100" channel="BOM Cine">
     <title>Rescate en cuba</title>
     <sub-title>[COLOR SlateBlue]Cine,Suspense,Acción[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.5/10[/COLOR]</sub-title>
