@@ -24,7 +24,6 @@ jobs:
         run: |
           mkdir -p CoreELEC/packages/addons/service/astra-sm
 
-          # package.mk
           cat > CoreELEC/packages/addons/service/astra-sm/package.mk << 'EOF'
 PKG_NAME="astra-sm"
 PKG_VERSION="master"
@@ -48,6 +47,7 @@ addon() {
 
   mkdir -p ${ADDON_BUILD}/config
   mkdir -p ${ADDON_BUILD}/service
+  mkdir -p ${ADDON_BUILD}/resources
 
   cp ${PKG_DIR}/addon.xml ${ADDON_BUILD}/
   cp ${PKG_DIR}/service.sh ${ADDON_BUILD}/service/
@@ -70,7 +70,6 @@ makeinstall_target() {
 }
 EOF
 
-          # addon.xml
           cat > CoreELEC/packages/addons/service/astra-sm/addon.xml << 'EOF'
 <addon id="service.astra-sm"
        name="Astra SM"
@@ -92,7 +91,6 @@ EOF
 </addon>
 EOF
 
-          # service.sh
           cat > CoreELEC/packages/addons/service/astra-sm/service.sh << 'EOF'
 #!/bin/sh
 
@@ -110,7 +108,6 @@ fi
 EOF
           chmod +x CoreELEC/packages/addons/service/astra-sm/service.sh
 
-          # settings.xml
           mkdir -p CoreELEC/packages/addons/service/astra-sm/resources
           cat > CoreELEC/packages/addons/service/astra-sm/resources/settings.xml << 'EOF'
 <settings>
