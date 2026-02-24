@@ -27,10 +27,8 @@ jobs:
       - name: Clone astra-sm source
         run: |
           git clone https://github.com/crazycat69/astra-sm.git
-          cd astra-sm
-          ./autogen.sh
 
-      - name: Configure astra-sm
+      - name: Configure astra-sm (NO autogen.sh)
         run: |
           cd astra-sm
           export CC=aarch64-libreelec-linux-gnu-gcc
@@ -52,4 +50,5 @@ jobs:
         with:
           name: astra-sm-coreelec-22
           path: astra-sm/src/astra-sm
+
 
