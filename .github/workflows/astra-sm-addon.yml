@@ -1,0 +1,130 @@
+name: Build astra-sm addon for CoreELEC 22 (PROJECT=no)
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y git make gcc g++ unzip xz-utils python3
+
+      - name: Clone CoreELEC 22
+        run: |
+          git clone --depth=1 -b 22.0 https://github.com/CoreELEC/CoreELEC.git
+          cd CoreELEC
+          git submodule update --init --recursive
+
+      - name: Add astra-sm addon
+        run: |
+          mkdir -p CoreELEC/packages/addons/service/astra-sm
+
+          # package.mk
+          cat > CoreELEC/packages/addons/service/astra-sm/package.mk << 'EOF'
+PKG_NAME="astra-sm"
+PKG_VERSION="master"
+PKG_REV="1"
+PKG_ARCH="any"
+PKG_LICENSE="GPL"
+PKG_SITE="https://gitlab.com/berdyansk/astra-sm"
+PKG_URL="https://gitlab.com/berdyansk/astra-sm/-/archive/${PKG_VERSION}/astra-sm-${PKG_VERSION}.tar.gz"
+PKG_DEPENDS_TARGET="toolchain"
+PKG_SECTION="service"
+PKG_SHORTDESC="astra-sm: lightweight DVB/TS streaming engine"
+PKG_LONGDESC="astra-sm is a lightweight streaming engine for DVB and TS processing."
+
+PKG_IS_ADDON="yes"
+PKG_ADDON_NAME="astra-sm"
+PKG_ADDON_TYPE="xbmc.service"
+
+addon() {
+  mkdir -p ${ADDON_BUILD}/bin
+  cp ${PKG_BUILD}/src/astra-sm ${ADDON_BUILD}/bin/
+
+  mkdir -p ${ADDON_BUILD}/config
+  mkdir -p ${ADDON_BUILD}/service
+
+  cp ${PKG_DIR}/addon.xml ${ADDON_BUILD}/
+  cp ${PKG_DIR}/service.sh ${ADDON_BUILD}/service/
+  cp ${PKG_DIR}/settings.xml ${ADDON_BUILD}/resources/
+}
+
+configure_target() {
+  ./autogen.sh
+  ./configure \
+    --host=${TARGET_NAME} \
+    --prefix=/usr \
+    --without-check \
+    --without-ffmpeg \
+    --without-libaio \
+    --without-lua
+}
+
+makeinstall_target() {
+  :
+}
+EOF
+
+          # addon.xml
+          cat > CoreELEC/packages/addons/service/astra-sm/addon.xml << 'EOF'
+<addon id="service.astra-sm"
+       name="Astra SM"
+       version="1.0.0"
+       provider-name="Príncipe">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+
+  <extension point="xbmc.service" library="service/service.sh">
+    <provides>executable</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Astra SM streaming engine</summary>
+    <description>Lightweight DVB/TS streaming engine</description>
+    <platform>linux</platform>
+  </extension>
+</addon>
+EOF
+
+          # service.sh
+          cat > CoreELEC/packages/addons/service/astra-sm/service.sh << 'EOF'
+#!/bin/sh
+
+. /etc/profile
+
+ADDON_DIR=$(dirname "$0")/..
+BIN="$ADDON_DIR/bin/astra-sm"
+CONF="$ADDON_DIR/config/astra.conf"
+
+if [ ! -f "$CONF" ]; then
+  echo "# Default config" > "$CONF"
+fi
+
+"$BIN" --config "$CONF"
+EOF
+          chmod +x CoreELEC/packages/addons/service/astra-sm/service.sh
+
+          # settings.xml
+          mkdir -p CoreELEC/packages/addons/service/astra-sm/resources
+          cat > CoreELEC/packages/addons/service/astra-sm/resources/settings.xml << 'EOF'
+<settings>
+  <setting id="enabled" type="bool" label="Enable Astra SM service" default="true"/>
+</settings>
+EOF
+
+      - name: Build addon
+        run: |
+          cd CoreELEC
+          PROJECT=no ARCH=aarch64 scripts/build astra-sm
+
+      - name: Upload addon ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: astra-sm-addon-coreelec22
+          path: CoreELEC/target/addons/service.astra-sm/*.zip
