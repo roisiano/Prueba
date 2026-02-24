@@ -1,0 +1,18 @@
+<addon id="service.astra-sm"
+       name="Astra SM"
+       version="1.0.0"
+       provider-name="Príncipe">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+
+  <extension point="xbmc.service" library="service/service.sh">
+    <provides>executable</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Astra SM streaming engine</summary>
+    <description>Lightweight DVB/TS streaming engine</description>
+    <platform>linux</platform>
+  </extension>
+</addon>
