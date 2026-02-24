@@ -7,22 +7,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    container:
+      image: ubuntu:20.04
 
     steps:
-      - name: Install build dependencies
+      - name: Install build dependencies (Ubuntu 20.04)
         run: |
-          sudo apt update
-          sudo apt install -y \
-            autoconf automake pkg-config make unzip wget git
-
-      - name: Install old libtool (2.2.6b)
-        run: |
-          wget https://ftp.gnu.org/gnu/libtool/libtool-2.2.6b.tar.gz
-          tar xf libtool-2.2.6b.tar.gz
-          cd libtool-2.2.6b
-          ./configure
-          make -j$(nproc)
-          sudo make install
+          apt update
+          DEBIAN_FRONTEND=noninteractive apt install -y \
+            autoconf automake libtool pkg-config make unzip wget git ca-certificates
 
       - name: Download CoreELEC toolchain (PROJECT=no)
         run: |
@@ -31,7 +24,8 @@ jobs:
 
       - name: Export toolchain (toolchain at END of PATH)
         run: |
-          echo "PATH=$PATH:$GITHUB_WORKSPACE/toolchain/bin" >> $GITHUB_ENV
+          echo "PATH=$PATH:/github/workspace/toolchain/bin" >> /etc/environment
+          echo "PATH=$PATH:/github/workspace/toolchain/bin" >> $GITHUB_ENV
 
       - name: Clone astra-sm source
         run: |
