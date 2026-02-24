@@ -8,75 +8,62 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-      - name: Install host dependencies
+      - name: Install dependencies
         run: |
           sudo apt update
-          sudo apt install -y build-essential git wget rsync unzip file
+          sudo apt install -y build-essential gcc-aarch64-linux-gnu \
+                              g++-aarch64-linux-gnu wget git file
 
-      - name: Download Entware SDK (aarch64-k3.10)
+      - name: Download Entware rootfs (sysroot source)
         run: |
-          wget https://bin.entware.net/aarch64-k3.10/stable/SDK.tar.gz
-          tar -xzf SDK.tar.gz
-          mv SDK entware-sdk
+          wget https://bin.entware.net/aarch64-k3.10/installer/generic.sh
+          chmod +x generic.sh
+          ./generic.sh
+          mkdir sysroot
+          cp -a /opt/* sysroot/
 
-      - name: Add astra-sm package
+      - name: Clone astra-sm
         run: |
-          cd entware-sdk
-          mkdir -p package/astra-sm
+          git clone https://github.com/crazycat69/astra-sm.git
 
-          cat > package/astra-sm/Makefile << 'EOF'
-          include $(TOPDIR)/rules.mk
+      - name: Build astra-sm against Entware sysroot
+        run: |
+          export SYSROOT=$PWD/sysroot
+          export CC="aarch64-linux-gnu-gcc --sysroot=$SYSROOT"
+          export CXX="aarch64-linux-gnu-g++ --sysroot=$SYSROOT"
+          export STRIP=aarch64-linux-gnu-strip
 
-          PKG_NAME:=astra-sm
-          PKG_VERSION:=0.2.88
-          PKG_RELEASE:=1
+          cd astra-sm/src
+          make
 
-          PKG_SOURCE_PROTO:=git
-          PKG_SOURCE_URL:=https://github.com/crazycat69/astra-sm.git
-          PKG_SOURCE_VERSION:=master
-          PKG_MIRROR_HASH:=skip
+          $STRIP astra
 
-          include $(INCLUDE_DIR)/package.mk
+      - name: Create IPK
+        run: |
+          mkdir -p pkg/control
+          mkdir -p pkg/data/opt/bin
 
-          define Package/astra-sm
-            SECTION:=net
-            CATEGORY:=Network
-            TITLE:=Astra Streaming Server
-            DEPENDS:=+libgcc
-          endef
+          cp astra-sm/src/astra pkg/data/opt/bin/astra-sm
 
-          define Build/Compile
-            $(MAKE) -C $(PKG_BUILD_DIR)/src \
-              CC="$(TARGET_CC)" \
-              CXX="$(TARGET_CXX)"
-          endef
+          echo "2.0" > pkg/debian-binary
 
-          define Package/astra-sm/install
-            $(INSTALL_DIR) $(1)/opt/bin
-            $(INSTALL_BIN) $(PKG_BUILD_DIR)/src/astra $(1)/opt/bin/astra-sm
-          endef
-
-          $(eval $(call BuildPackage,astra-sm))
+          cat > pkg/control/control << EOF
+          Package: astra-sm
+          Version: 0.2.88-1
+          Architecture: aarch64-3.10
+          Maintainer: custom
+          Description: Astra Streaming Server
+          Depends: libgcc
           EOF
 
-      - name: Update feeds
-        run: |
-          cd entware-sdk
-          ./scripts/feeds update -a
-          ./scripts/feeds install -a
+          tar -czf pkg/control.tar.gz -C pkg/control .
+          tar -czf pkg/data.tar.gz -C pkg/data .
 
-      - name: Configure SDK
-        run: |
-          cd entware-sdk
-          make defconfig
+          ar r astra-sm_0.2.88-1_aarch64-3.10.ipk \
+             pkg/debian-binary pkg/control.tar.gz pkg/data.tar.gz
 
-      - name: Build astra-sm
-        run: |
-          cd entware-sdk
-          make package/astra-sm/compile V=s -j$(nproc)
-
-      - name: Upload IPK
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: astra-sm-aarch64-k3.10
-          path: entware-sdk/bin/packages/aarch64-k3.10/base/astra-sm*.ipk
+          path: astra-sm_0.2.88-1_aarch64-3.10.ipk
