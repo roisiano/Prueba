@@ -27,7 +27,7 @@ jobs:
           #############################
           # package.mk
           #############################
-          cat > CoreELEC/packages/addons/service/astra-sm/package.mk << 'EOF'
+          cat << 'EOF' > CoreELEC/packages/addons/service/astra-sm/package.mk
 PKG_NAME="astra-sm"
 PKG_VERSION="master"
 PKG_REV="1"
@@ -76,7 +76,7 @@ EOF
           #############################
           # addon.xml
           #############################
-          cat > CoreELEC/packages/addons/service/astra-sm/addon.xml << 'EOF'
+          cat << 'EOF' > CoreELEC/packages/addons/service/astra-sm/addon.xml
 <addon id="service.astra-sm"
        name="Astra SM"
        version="1.0.0"
@@ -100,7 +100,7 @@ EOF
           #############################
           # service.sh
           #############################
-          cat > CoreELEC/packages/addons/service/astra-sm/service.sh << 'EOF'
+          cat << 'EOF' > CoreELEC/packages/addons/service/astra-sm/service.sh
 #!/bin/sh
 
 . /etc/profile
@@ -121,7 +121,7 @@ EOF
           # settings.xml
           #############################
           mkdir -p CoreELEC/packages/addons/service/astra-sm/resources
-          cat > CoreELEC/packages/addons/service/astra-sm/resources/settings.xml << 'EOF'
+          cat << 'EOF' > CoreELEC/packages/addons/service/astra-sm/resources/settings.xml
 <settings>
   <setting id="enabled" type="bool" label="Enable Astra SM service" default="true"/>
 </settings>
