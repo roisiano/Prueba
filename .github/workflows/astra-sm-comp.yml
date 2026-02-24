@@ -27,11 +27,11 @@ jobs:
           echo "PATH=$PATH:/github/workspace/toolchain/bin" >> /etc/environment
           echo "PATH=$PATH:/github/workspace/toolchain/bin" >> $GITHUB_ENV
 
-      - name: Clone astra-sm source
+      - name: Clone astra-sm (GitLab repo)
         run: |
-          git clone https://github.com/crazycat69/astra-sm.git
+          git clone https://gitlab.com/berdyansk/astra-sm.git
           cd astra-sm
-          ./autogen.sh
+          autoreconf -fi
 
       - name: Configure astra-sm (cross-compile)
         run: |
@@ -42,18 +42,13 @@ jobs:
           export LD=aarch64-libreelec-linux-gnu-ld
           export STRIP=aarch64-libreelec-linux-gnu-strip
 
-          export ac_cv_func_malloc_0_nonnull=yes
-          export ac_cv_func_realloc_0_nonnull=yes
-          export ac_cv_c_bigendian=no
-          export ac_cv_file__dev_zero=yes
-          export ac_cv_have_decl_sys_siglist=yes
-          export ac_cv_func_setpgrp_void=yes
-
           ./configure \
-            --build=x86_64-linux-gnu \
             --host=aarch64-libreelec-linux-gnu \
-            --target=aarch64-libreelec-linux-gnu \
-            --prefix=/usr
+            --prefix=/usr \
+            --without-check \
+            --without-ffmpeg \
+            --without-libaio \
+            --without-lua
 
       - name: Build astra-sm
         run: |
@@ -66,6 +61,7 @@ jobs:
         with:
           name: astra-sm-coreelec-22
           path: astra-sm/src/astra-sm
+
 
 
 
