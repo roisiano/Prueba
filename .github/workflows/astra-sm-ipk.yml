@@ -1,172 +1,75 @@
-name: Build astra-sm IPK for CoreELEC (aarch64 & armv7)
+name: Build astra-sm for CoreELEC Entware
 
 on:
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
-  build-aarch64:
-    name: Build for aarch64
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-22.04
 
     steps:
-    - name: Install dependencies
-      run: |
-        sudo apt update
-        sudo apt install -y \
-          build-essential \
-          fakeroot \
-          git \
-          binutils \
-          libdvbcsa-dev \
-          libssl-dev
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Compile astra-sm and save log
-      run: |
-        mkdir -p ipk-root/opt/bin
-        : > build.log
+      - name: Install build deps
+        run: |
+          sudo apt update
+          sudo apt install -y build-essential git wget \
+                              autoconf automake libtool \
+                              pkg-config g++-aarch64-linux-gnu \
+                              gcc-aarch64-linux-gnu
 
-        git clone --branch event_monitor https://github.com/crazycat69/astra-sm.git temp-build
+      - name: Download Entware SDK (aarch64-k3.10)
+        run: |
+          wget https://bin.entware.net/aarch64-k3.10/installer/generic.sh
+          chmod +x generic.sh
+          ./generic.sh
 
-        # Compilar directamente con make en src/astra
-        make -C temp-build/src/astra -j$(nproc) 2>&1 | tee build.log || true
+      - name: Clone astra-sm
+        run: |
+          git clone https://github.com/crazycat69/astra-sm.git
+          cd astra-sm
 
-        # Copiar el binario si existe
-        if [ -f temp-build/src/astra/astra ]; then
-          cp temp-build/src/astra/astra ipk-root/opt/bin/astra-sm
-        else
-          echo "⚠️ Binario no encontrado, se continuará igual."
-        fi
+      - name: Build astra-sm (cross compile)
+        run: |
+          export PATH=/opt/bin:/opt/sbin:$PATH
+          export CC=aarch64-linux-gnu-gcc
+          export CXX=aarch64-linux-gnu-g++
+          export STRIP=aarch64-linux-gnu-strip
 
-    - name: Upload build log (aarch64)
-      uses: actions/upload-artifact@v4
-      with:
-        name: build-log-aarch64
-        path: build.log
+          cd astra-sm
+          make clean || true
+          make
 
-    - name: Verify installation output
-      run: |
-        echo "📦 Contenido de ipk-root:"
-        ls -lR ipk-root || echo "⚠️ ipk-root no existe"
+      - name: Prepare IPK structure
+        run: |
+          mkdir -p pkg/control
+          mkdir -p pkg/data/opt/bin
 
-    - name: Create IPK structure (aarch64)
-      run: |
-        mkdir -p ipk-package/control
-        mkdir -p ipk-package/data
+          cp astra-sm/src/astra pkg/data/opt/bin/astra-sm
 
-        # Control file
-        echo "Package: astra-sm" > ipk-package/control/control
-        echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
-        echo "Architecture: aarch64" >> ipk-package/control/control
-        echo "Maintainer: CrazyCat <crazycat69@github>" >> ipk-package/control/control
-        echo "Description: Astra Streaming Manager (crazycat69 fork)" >> ipk-package/control/control
-        echo "Section: net" >> ipk-package/control/control
-        echo "Priority: optional" >> ipk-package/control/control
-        echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
-        echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
+          aarch64-linux-gnu-strip pkg/data/opt/bin/astra-sm
 
-        if [ ! -d "ipk-root/opt" ]; then
-          echo "❌ Error: ipk-root no contiene archivos instalados."
-          exit 1
-        fi
+          echo "Package: astra-sm" > pkg/control/control
+          echo "Version: 0.0.1" >> pkg/control/control
+          echo "Architecture: aarch64-3.10" >> pkg/control/control
+          echo "Maintainer: YourName" >> pkg/control/control
+          echo "Description: Astra streaming server" >> pkg/control/control
+          echo "Depends: libc" >> pkg/control/control
 
-        # Crear data.tar.gz
-        cd ipk-root
-        tar czf ../ipk-package/data.tar.gz .
-        cd ../ipk-package/control
-        tar czf ../control.tar.gz .
-        cd ../
+      - name: Build .ipk
+        run: |
+          cd pkg
+          echo "2.0" > debian-binary
+          tar -czf control.tar.gz -C control .
+          tar -czf data.tar.gz -C data .
+          ar r astra-sm_0.0.1_aarch64-3.10.ipk debian-binary control.tar.gz data.tar.gz
+          mv astra-sm_0.0.1_aarch64-3.10.ipk ..
 
-        # Crear debian-binary correctamente
-        echo "2.0" > ipk-package/debian-binary
-
-    - name: Build .ipk (aarch64)
-      run: |
-        cd ipk-package
-        ar r astra-sm_$(date +%Y.%m.%d)_aarch64.ipk debian-binary control.tar.gz data.tar.gz
-
-    - name: Upload IPK (aarch64)
-      uses: actions/upload-artifact@v4
-      with:
-        name: astra-sm-aarch64
-        path: ipk-package/*.ipk
-
-  build-armv7:
-    name: Build for armv7
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Install dependencies
-      run: |
-        sudo apt update
-        sudo apt install -y \
-          build-essential \
-          fakeroot \
-          git \
-          binutils \
-          gcc-arm-linux-gnueabihf \
-          libdvbcsa-dev \
-          libssl-dev
-
-    - name: Compile astra-sm and save log
-      run: |
-        mkdir -p ipk-root/opt/bin
-        : > build.log
-
-        git clone --branch event_monitor https://github.com/crazycat69/astra-sm.git temp-build
-
-        make -C temp-build/src/astra CC=arm-linux-gnueabihf-gcc -j$(nproc) 2>&1 | tee build.log || true
-
-        if [ -f temp-build/src/astra/astra ]; then
-          cp temp-build/src/astra/astra ipk-root/opt/bin/astra-sm
-        else
-          echo "⚠️ Binario no encontrado, se continuará igual."
-        fi
-
-    - name: Upload build log (armv7)
-      uses: actions/upload-artifact@v4
-      with:
-        name: build-log-armv7
-        path: build.log
-
-    - name: Verify installation output
-      run: |
-        echo "📦 Contenido de ipk-root:"
-        ls -lR ipk-root || echo "⚠️ ipk-root no existe"
-
-    - name: Create IPK structure (armv7)
-      run: |
-        mkdir -p ipk-package/control
-        mkdir -p ipk-package/data
-
-        echo "Package: astra-sm" > ipk-package/control/control
-        echo "Version: $(date +%Y.%m.%d)" >> ipk-package/control/control
-        echo "Architecture: armv7" >> ipk-package/control/control
-        echo "Maintainer: CrazyCat <crazycat69@github>" >> ipk-package/control/control
-        echo "Description: Astra Streaming Manager (crazycat69 fork)" >> ipk-package/control/control
-        echo "Section: net" >> ipk-package/control/control
-        echo "Priority: optional" >> ipk-package/control/control
-        echo "Homepage: https://github.com/crazycat69/astra-sm" >> ipk-package/control/control
-        echo "Depends: libc, libssp, librt, libpthread, libdvbcsa, libopenssl" >> ipk-package/control/control
-
-        if [ ! -d "ipk-root/opt" ]; then
-          echo "❌ Error: ipk-root no contiene archivos instalados."
-          exit 1
-        fi
-
-        cd ipk-root
-        tar czf ../ipk-package/data.tar.gz .
-        cd ../ipk-package/control
-        tar czf ../control.tar.gz .
-        cd ../
-        echo "2.0" > ipk-package/debian-binary
-
-    - name: Build .ipk (armv7)
-      run: |
-        cd ipk-package
-        ar r astra-sm_$(date +%Y.%m.%d)_armv7.ipk debian-binary control.tar.gz data.tar.gz
-
-    - name: Upload IPK (armv7)
-      uses: actions/upload-artifact@v4
-      with:
-        name: astra-sm-armv7
-        path: ipk-package/*.ipk
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: astra-sm-ipk
+          path: astra-sm_0.0.1_aarch64-3.10.ipk
