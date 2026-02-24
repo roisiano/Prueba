@@ -22,12 +22,12 @@ jobs:
           wget https://downloads.openwrt.org/releases/23.05.3/targets/rockchip/armv8/openwrt-sdk-23.05.3-rockchip-armv8_gcc-12.3.0_musl.Linux-x86_64.tar.xz
           tar xf openwrt-sdk-*.tar.xz
           SDK_DIR=$(find . -maxdepth 1 -type d -name "openwrt-sdk-*")
+          echo "SDK_DIR=$SDK_DIR"
           mv "$SDK_DIR" toolchain
 
       - name: Export toolchain
         run: |
-          TOOLCHAIN_BIN=$(find /github/workspace/toolchain -type d -name "bin")
-          echo "PATH=$PATH:$TOOLCHAIN_BIN" >> /etc/environment
+          TOOLCHAIN_BIN=$(find toolchain -type d -name "bin")
           echo "PATH=$PATH:$TOOLCHAIN_BIN" >> $GITHUB_ENV
 
       - name: Clone astra-sm (GitLab repo)
