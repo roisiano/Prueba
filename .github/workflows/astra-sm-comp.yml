@@ -1,0 +1,53 @@
+name: Build astra-sm for CoreELEC 22 (PROJECT=no)
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install build dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y autoconf automake libtool pkg-config make unzip wget git
+
+      - name: Download toolchain (your uploaded ZIP)
+        run: |
+          wget -O toolchain.zip "https://github.com/roisiano/tvheadend-addon-patched-for-CoreELEC/releases/download/ffmpeg/toolchain-CoreELEC-Amlogic-no.zip"
+          unzip toolchain.zip -d toolchain
+
+      - name: Export toolchain
+        run: |
+          echo "PATH=$GITHUB_WORKSPACE/toolchain/bin:$PATH" >> $GITHUB_ENV
+
+      - name: Clone astra-sm source
+        run: |
+          git clone https://github.com/crazycat69/astra-sm.git
+          cd astra-sm
+          ./autogen.sh
+
+      - name: Configure astra-sm
+        run: |
+          cd astra-sm
+          export CC=aarch64-libreelec-linux-gnu-gcc
+          export CXX=aarch64-libreelec-linux-gnu-g++
+          export AR=aarch64-libreelec-linux-gnu-ar
+          export LD=aarch64-libreelec-linux-gnu-ld
+          export STRIP=aarch64-libreelec-linux-gnu-strip
+
+          ./configure --host=aarch64-libreelec-linux-gnu --prefix=/usr
+
+      - name: Build astra-sm
+        run: |
+          cd astra-sm
+          make -j$(nproc)
+          $STRIP src/astra-sm
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: astra-sm-coreelec-22
+          path: astra-sm/src/astra-sm
