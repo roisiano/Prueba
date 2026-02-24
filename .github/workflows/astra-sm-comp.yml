@@ -12,16 +12,17 @@ jobs:
       - name: Install build dependencies
         run: |
           sudo apt update
-          sudo apt install -y autoconf automake libtool pkg-config make unzip wget git
+          sudo apt install -y \
+            autoconf automake libtool pkg-config make unzip wget git
 
-      - name: Download toolchain (your uploaded ZIP)
+      - name: Download CoreELEC toolchain (PROJECT=no)
         run: |
           wget -O toolchain.zip "https://github.com/roisiano/tvheadend-addon-patched-for-CoreELEC/releases/download/ffmpeg/toolchain-CoreELEC-Amlogic-no.zip"
           unzip toolchain.zip -d toolchain
 
-      - name: Export toolchain
+      - name: Export toolchain (toolchain at END of PATH)
         run: |
-          echo "PATH=$GITHUB_WORKSPACE/toolchain/bin:$PATH" >> $GITHUB_ENV
+          echo "PATH=$PATH:$GITHUB_WORKSPACE/toolchain/bin" >> $GITHUB_ENV
 
       - name: Clone astra-sm source
         run: |
@@ -51,3 +52,4 @@ jobs:
         with:
           name: astra-sm-coreelec-22
           path: astra-sm/src/astra-sm
+
