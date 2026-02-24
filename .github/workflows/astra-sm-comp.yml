@@ -13,7 +13,16 @@ jobs:
         run: |
           sudo apt update
           sudo apt install -y \
-            autoconf automake libtool pkg-config make unzip wget git
+            autoconf automake pkg-config make unzip wget git
+
+      - name: Install old libtool (2.2.6b)
+        run: |
+          wget https://ftp.gnu.org/gnu/libtool/libtool-2.2.6b.tar.gz
+          tar xf libtool-2.2.6b.tar.gz
+          cd libtool-2.2.6b
+          ./configure
+          make -j$(nproc)
+          sudo make install
 
       - name: Download CoreELEC toolchain (PROJECT=no)
         run: |
@@ -27,8 +36,10 @@ jobs:
       - name: Clone astra-sm source
         run: |
           git clone https://github.com/crazycat69/astra-sm.git
+          cd astra-sm
+          ./autogen.sh
 
-      - name: Configure astra-sm (NO autogen.sh)
+      - name: Configure astra-sm
         run: |
           cd astra-sm
           export CC=aarch64-libreelec-linux-gnu-gcc
@@ -50,5 +61,6 @@ jobs:
         with:
           name: astra-sm-coreelec-22
           path: astra-sm/src/astra-sm
+
 
 
