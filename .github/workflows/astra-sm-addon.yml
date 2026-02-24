@@ -17,11 +17,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Clone CoreELEC 22
+      - name: 📥 Download CoreELEC 22
         run: |
-          git clone --depth=1 -b 22.0 https://github.com/CoreELEC/CoreELEC.git
+          git clone --depth 1 https://github.com/CoreELEC/CoreELEC
           cd CoreELEC
-          git submodule update --init --recursive
+          git checkout origin/coreelec-22
 
       - name: Copy addon files
         run: |
