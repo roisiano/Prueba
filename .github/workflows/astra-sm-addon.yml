@@ -1,21 +1,30 @@
-name: Build astra-sm addon for CoreELEC 22 (PROJECT=no)
+name: Build Astra-SM addon for CoreELEC 22
 
 on:
-  push:
-  pull_request:
+  workflow_dispatch:
 
 jobs:
   build:
+    name: CoreELEC-22-AstraSM
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install dependencies
-        run: |
-          sudo apt update
-          sudo apt install -y git make gcc g++ unzip xz-utils python3
-
-      - name: Checkout repository
+      - name: 🔌 Checkout
         uses: actions/checkout@v4
+
+      - name: 🧹 Free disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/lib/android "$AGENT_TOOLSDIRECTORY"
+          df -h
+
+      - name: 🔨 Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            gcc g++ make git wget zip unzip xz-utils bc curl gperf \
+            xsltproc xfonts-utils patchutils lzop libxml-parser-perl \
+            libparse-yapp-perl openjdk-11-jre-headless openjdk-17-jre-headless \
+            rsync rename jq rdfind
 
       - name: 📥 Download CoreELEC 22
         run: |
@@ -23,19 +32,49 @@ jobs:
           cd CoreELEC
           git checkout origin/coreelec-22
 
-      - name: Copy addon files
+      - name: 📁 Copy Astra-SM addon
         run: |
           mkdir -p CoreELEC/packages/addons/service/astra-sm
           cp -R astra-sm-addon/* CoreELEC/packages/addons/service/astra-sm/
 
-      - name: Build addon
+      - name: 🔍 Get build paths
         run: |
           cd CoreELEC
-          PROJECT=no ARCH=aarch64 scripts/build astra-sm
+          ARCH=aarch64 PROJECT=Amlogic-ce DEVICE=Amlogic-no . config/options
+          echo "sources_dir=$SOURCES" >> $GITHUB_ENV
+          echo "build_dir=$BUILD" >> $GITHUB_ENV
+          echo "project=${DISTRONAME}-${OS_VERSION}" >> $GITHUB_ENV
 
-      - name: Upload addon ZIP
+      - name: 💽 Cache ccache
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.build_dir }}/.ccache
+          key: astra-sm-coreelec22-ccache
+
+      - name: 📦 Add fallback sources
+        run: |
+          mkdir -p ${{ env.sources_dir }}
+          rsync -a --ignore-existing .github/sources/ ${{ env.sources_dir }}/ || true
+
+      - name: 👷 Build addon
+        run: |
+          cd CoreELEC
+          ARCH=aarch64 PROJECT=Amlogic-ce DEVICE=Amlogic-no \
+          scripts/create_addon astra-sm
+
+      - name: 📤 Upload build logs (if failed)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-astra-sm-coreelec22
+          path: CoreELEC/build*/.threads/logs/
+          compression-level: 9
+
+      - name: 📤 Upload addon ZIP
         uses: actions/upload-artifact@v4
         with:
           name: astra-sm-addon-coreelec22
-          path: CoreELEC/target/addons/service.astra-sm/*.zip
+          path: CoreELEC/target/addons/service.astra-sm/
+          compression-level: 9
+
 
