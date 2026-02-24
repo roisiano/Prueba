@@ -1,75 +1,79 @@
-name: Build astra-sm for CoreELEC Entware
+name: Build astra-sm (Entware aarch64-k3.10)
 
 on:
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-22.04
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Install build deps
+      - name: Install dependencies
         run: |
           sudo apt update
           sudo apt install -y build-essential git wget \
-                              autoconf automake libtool \
-                              pkg-config g++-aarch64-linux-gnu \
-                              gcc-aarch64-linux-gnu
+                              libncurses5-dev gawk unzip file \
+                              python3
 
-      - name: Download Entware SDK (aarch64-k3.10)
+      - name: Clone Entware
         run: |
-          wget https://bin.entware.net/aarch64-k3.10/installer/generic.sh
-          chmod +x generic.sh
-          ./generic.sh
+          git clone https://github.com/Entware/Entware.git
+          cd Entware
+          ./scripts/feeds update -a
+          ./scripts/feeds install -a
 
-      - name: Clone astra-sm
+      - name: Configure for aarch64-k3.10
         run: |
-          git clone https://github.com/crazycat69/astra-sm.git
-          cd astra-sm
+          cd Entware
+          cp configs/aarch64-k3.10.config .config
+          make defconfig
 
-      - name: Build astra-sm (cross compile)
+      - name: Add astra-sm package
         run: |
-          export PATH=/opt/bin:/opt/sbin:$PATH
-          export CC=aarch64-linux-gnu-gcc
-          export CXX=aarch64-linux-gnu-g++
-          export STRIP=aarch64-linux-gnu-strip
+          cd Entware
+          mkdir -p package/astra-sm
+          
+          cat > package/astra-sm/Makefile << 'EOF'
+          include $(TOPDIR)/rules.mk
 
-          cd astra-sm
-          make clean || true
-          make
+          PKG_NAME:=astra-sm
+          PKG_VERSION:=0.2.88
+          PKG_RELEASE:=1
 
-      - name: Prepare IPK structure
+          PKG_SOURCE_PROTO:=git
+          PKG_SOURCE_URL:=https://github.com/crazycat69/astra-sm.git
+          PKG_SOURCE_VERSION:=master
+          PKG_MIRROR_HASH:=skip
+
+          include $(INCLUDE_DIR)/package.mk
+
+          define Package/astra-sm
+            SECTION:=net
+            CATEGORY:=Network
+            TITLE:=Astra Streaming Server
+          endef
+
+          define Build/Compile
+            $(MAKE) -C $(PKG_BUILD_DIR)/src \
+              CC="$(TARGET_CC)" \
+              CXX="$(TARGET_CXX)"
+          endef
+
+          define Package/astra-sm/install
+            $(INSTALL_DIR) $(1)/opt/bin
+            $(INSTALL_BIN) $(PKG_BUILD_DIR)/src/astra $(1)/opt/bin/astra-sm
+          endef
+
+          $(eval $(call BuildPackage,astra-sm))
+          EOF
+
+      - name: Build astra-sm
         run: |
-          mkdir -p pkg/control
-          mkdir -p pkg/data/opt/bin
+          cd Entware
+          make package/astra-sm/compile V=s -j$(nproc)
 
-          cp astra-sm/src/astra pkg/data/opt/bin/astra-sm
-
-          aarch64-linux-gnu-strip pkg/data/opt/bin/astra-sm
-
-          echo "Package: astra-sm" > pkg/control/control
-          echo "Version: 0.0.1" >> pkg/control/control
-          echo "Architecture: aarch64-3.10" >> pkg/control/control
-          echo "Maintainer: YourName" >> pkg/control/control
-          echo "Description: Astra streaming server" >> pkg/control/control
-          echo "Depends: libc" >> pkg/control/control
-
-      - name: Build .ipk
-        run: |
-          cd pkg
-          echo "2.0" > debian-binary
-          tar -czf control.tar.gz -C control .
-          tar -czf data.tar.gz -C data .
-          ar r astra-sm_0.0.1_aarch64-3.10.ipk debian-binary control.tar.gz data.tar.gz
-          mv astra-sm_0.0.1_aarch64-3.10.ipk ..
-
-      - name: Upload artifact
+      - name: Upload IPK
         uses: actions/upload-artifact@v4
         with:
           name: astra-sm-ipk
-          path: astra-sm_0.0.1_aarch64-3.10.ipk
+          path: Entware/bin/packages/aarch64-k3.10/base/astra-sm*.ipk
