@@ -8,10 +8,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: ubuntu:20.04
+      image: ubuntu:22.04
 
     steps:
-      - name: Install build dependencies (Ubuntu 20.04)
+      - name: Install build dependencies
         run: |
           apt update
           DEBIAN_FRONTEND=noninteractive apt install -y \
@@ -22,7 +22,7 @@ jobs:
           wget -O toolchain.zip "https://github.com/roisiano/tvheadend-addon-patched-for-CoreELEC/releases/download/ffmpeg/toolchain-CoreELEC-Amlogic-no.zip"
           unzip toolchain.zip -d toolchain
 
-      - name: Export toolchain (toolchain at END of PATH)
+      - name: Export toolchain
         run: |
           echo "PATH=$PATH:/github/workspace/toolchain/bin" >> /etc/environment
           echo "PATH=$PATH:/github/workspace/toolchain/bin" >> $GITHUB_ENV
@@ -33,7 +33,7 @@ jobs:
           cd astra-sm
           ./autogen.sh
 
-      - name: Configure astra-sm (CROSS-COMPILE FIX)
+      - name: Configure astra-sm (cross-compile)
         run: |
           cd astra-sm
           export CC=aarch64-libreelec-linux-gnu-gcc
@@ -42,7 +42,6 @@ jobs:
           export LD=aarch64-libreelec-linux-gnu-ld
           export STRIP=aarch64-libreelec-linux-gnu-strip
 
-          # Prevent configure from running test binaries
           export ac_cv_func_malloc_0_nonnull=yes
           export ac_cv_func_realloc_0_nonnull=yes
           export ac_cv_c_bigendian=no
