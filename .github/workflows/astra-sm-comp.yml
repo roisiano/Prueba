@@ -1,4 +1,4 @@
-name: Build astra-sm for CoreELEC 22 (PROJECT=no)
+name: Build astra-sm (OpenWrt toolchain)
 
 on:
   push:
@@ -15,17 +15,18 @@ jobs:
         run: |
           apt update
           DEBIAN_FRONTEND=noninteractive apt install -y \
-            autoconf automake libtool pkg-config make unzip wget git ca-certificates
+            autoconf automake libtool pkg-config make unzip wget git ca-certificates xz-utils
 
-      - name: Download CoreELEC toolchain (PROJECT=no)
+      - name: Download OpenWrt aarch64 toolchain
         run: |
-          wget -O toolchain.zip "https://github.com/roisiano/tvheadend-addon-patched-for-CoreELEC/releases/download/ffmpeg/toolchain-CoreELEC-Amlogic-no.zip"
-          unzip toolchain.zip -d toolchain
+          wget https://downloads.openwrt.org/releases/23.05.3/targets/rockchip/armv8/openwrt-sdk-23.05.3-rockchip-armv8_gcc-12.3.0_musl.Linux-x86_64.tar.xz
+          tar xf openwrt-sdk-*.tar.xz
+          mv openwrt-sdk-* toolchain
 
       - name: Export toolchain
         run: |
-          echo "PATH=$PATH:/github/workspace/toolchain/bin" >> /etc/environment
-          echo "PATH=$PATH:/github/workspace/toolchain/bin" >> $GITHUB_ENV
+          echo "PATH=$PATH:/github/workspace/toolchain/staging_dir/toolchain-aarch64_generic_gcc-12.3.0_musl/bin" >> /etc/environment
+          echo "PATH=$PATH:/github/workspace/toolchain/staging_dir/toolchain-aarch64_generic_gcc-12.3.0_musl/bin" >> $GITHUB_ENV
 
       - name: Clone astra-sm (GitLab repo)
         run: |
@@ -33,17 +34,17 @@ jobs:
           cd astra-sm
           autoreconf -fi
 
-      - name: Configure astra-sm (cross-compile)
+      - name: Configure astra-sm
         run: |
           cd astra-sm
-          export CC=aarch64-libreelec-linux-gnu-gcc
-          export CXX=aarch64-libreelec-linux-gnu-g++
-          export AR=aarch64-libreelec-linux-gnu-ar
-          export LD=aarch64-libreelec-linux-gnu-ld
-          export STRIP=aarch64-libreelec-linux-gnu-strip
+          export CC=aarch64-openwrt-linux-musl-gcc
+          export CXX=aarch64-openwrt-linux-musl-g++
+          export AR=aarch64-openwrt-linux-musl-ar
+          export LD=aarch64-openwrt-linux-musl-ld
+          export STRIP=aarch64-openwrt-linux-musl-strip
 
           ./configure \
-            --host=aarch64-libreelec-linux-gnu \
+            --host=aarch64-openwrt-linux-musl \
             --prefix=/usr \
             --without-check \
             --without-ffmpeg \
@@ -59,7 +60,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: astra-sm-coreelec-22
+          name: astra-sm-aarch64
           path: astra-sm/src/astra-sm
 
 
