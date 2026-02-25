@@ -9,15 +9,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🔌 Checkout
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: 🧹 Free disk space
-        run: |
-          sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/lib/android "$AGENT_TOOLSDIRECTORY"
-          df -h
-
-      - name: 🔨 Install dependencies
+      - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y \
@@ -26,55 +21,41 @@ jobs:
             libparse-yapp-perl openjdk-11-jre-headless openjdk-17-jre-headless \
             rsync rename jq rdfind
 
-      - name: 📥 Download CoreELEC 22
+      - name: Download CoreELEC 22
         run: |
           git clone --depth 1 https://github.com/CoreELEC/CoreELEC
           cd CoreELEC
           git checkout origin/coreelec-22
 
-      - name: 📁 Copy Astra-SM addon
+      - name: Copy Astra-SM addon
         run: |
           mkdir -p CoreELEC/packages/addons/service/astra-sm
           cp -R astra-sm-addon/* CoreELEC/packages/addons/service/astra-sm/
 
-      - name: 🔍 Get build paths
-        run: |
-          cd CoreELEC
-          ARCH=aarch64 PROJECT=Amlogic-ce DEVICE=Amlogic-no . config/options
-          echo "sources_dir=$SOURCES" >> $GITHUB_ENV
-          echo "build_dir=$BUILD" >> $GITHUB_ENV
-          echo "project=${DISTRONAME}-${OS_VERSION}" >> $GITHUB_ENV
-
-      - name: 💽 Cache ccache
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.build_dir }}/.ccache
-          key: astra-sm-coreelec22-ccache
-
-      - name: 📦 Add fallback sources
-        run: |
-          mkdir -p ${{ env.sources_dir }}
-          rsync -a --ignore-existing .github/sources/ ${{ env.sources_dir }}/ || true
-
-      - name: 👷 Build addon
+      - name: Build addon
         run: |
           cd CoreELEC
           ARCH=aarch64 PROJECT=Amlogic-ce DEVICE=Amlogic-no \
           scripts/create_addon astra-sm
 
-      - name: 📤 Upload build logs (if failed)
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: logs-astra-sm-coreelec22
-          path: CoreELEC/build*/.threads/logs/
-          compression-level: 9
+      - name: List addon output
+        run: |
+          echo "=== Contenido de target/addons ==="
+          ls -R CoreELEC/target/addons/ || true
 
-      - name: 📤 Upload addon ZIP
+      - name: List build logs
+        run: |
+          echo "=== Logs de compilación ==="
+          ls -R CoreELEC/build*/.threads/logs/ || true
+
+      - name: Verify addon ZIP exists
+        run: |
+          echo "=== Verificando ZIP ==="
+          test -f CoreELEC/target/addons/service.astra-sm/*.zip
+
+      - name: Upload addon ZIP
         uses: actions/upload-artifact@v4
         with:
           name: astra-sm-addon-coreelec22
           path: CoreELEC/target/addons/service.astra-sm/
-          compression-level: 9
-
 
