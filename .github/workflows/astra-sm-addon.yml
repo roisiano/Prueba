@@ -14,12 +14,14 @@ jobs:
 
       - name: Install dependencies
         run: |
+          sudo dpkg --add-architecture i386
           sudo apt-get update
           sudo apt-get install -y \
             gcc g++ make git wget zip unzip xz-utils bc curl gperf \
             xsltproc xfonts-utils patchutils lzop libxml-parser-perl \
             libparse-yapp-perl openjdk-11-jre-headless openjdk-17-jre-headless \
-            rsync rename jq rdfind
+            rsync rename jq rdfind autoconf-archive \
+            gcc-multilib g++-multilib libc6:i386 libstdc++6:i386
 
       - name: Download CoreELEC 22
         run: |
@@ -58,4 +60,5 @@ jobs:
         with:
           name: astra-sm-addon-coreelec22
           path: CoreELEC/target/addons/service.astra-sm/
+
 
