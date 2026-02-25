@@ -14,6 +14,8 @@ PKG_IS_ADDON="yes"
 PKG_ADDON_NAME="astra-sm"
 PKG_ADDON_TYPE="xbmc.service"
 
+PKG_TOOLCHAIN="autotools"
+
 addon() {
   mkdir -p ${ADDON_BUILD}/bin
   cp ${PKG_BUILD}/src/astra-sm ${ADDON_BUILD}/bin/
@@ -41,3 +43,4 @@ configure_target() {
 makeinstall_target() {
   :
 }
+
