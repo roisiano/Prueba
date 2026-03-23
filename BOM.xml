@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 22/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 23/03/2026 08:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="BOM Cine">
 		<display-name>BOM Cine</display-name>
 		<display-name>BOM Cine.TV</display-name>
@@ -11,246 +11,6 @@
 		<display-name>BOM Cine 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
 	</channel>
-	<programme start="20260322011800 +0100" stop="20260322030200 +0100" channel="BOM Cine">
-    <title>Contra la pared</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Acción[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Samuel L. Jackson y Kyle MacLachlan protagonizan este docudrama de HBO inspirado en una de las revueltas carcelarias más violentas en la historia de los EUA, el motín de 1971 en la prisión de Attica, el cual que cobró la vida de 39 hombres.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] John Frankenheimer.
-[COLOR teal]· Reparto:[/COLOR] Samuel L. Jackson, Clarence Williams, Frederic Forrest, Harry Dean Stanton, Kyle MacLachlan, Anne Heche, Philip Bosco, Tom Bower, Clarence Williams III Williams III, Steve Harris, Mark Cabus, Carmen Argenziano, Peter Murnik, David Ackroyd.</desc>
-    <category>Cine, Drama, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4659841.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20260322030200 +0100" stop="20260322044100 +0100" channel="BOM Cine">
-    <title>Farming</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc>· Un chico nigeriano negro es entregado por sus padres a una familia blanca británica con la esperanza de que alcance un futuro mejor que el que le depararía su país.
-[COLOR teal]· País:[/COLOR] Francia, Reino Unido, NGA
-[COLOR teal]· Dirección:[/COLOR] Adewale Akinnuoye-Agbaje.
-[COLOR teal]· Reparto:[/COLOR] Damson Idris, Kate Beckinsale, Gugu Mbatha-Raw, Adewale Akinnuoye-Agbaje, Cosmo Jarvis, Leke Adebayo, Adejola Adeyemi, Ademola Adedoyin, Michael Akinsulire, David Alase.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101630.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322044100 +0100" stop="20260322060500 +0100" channel="BOM Cine">
-    <title>Torremolinos 73</title>
-    <sub-title>[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc>· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
-[COLOR teal]· País:[/COLOR] Dinamarca, España
-[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
-[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González, Ramón Barea, Bjarne Henriksen, Mari-Anne Jespersen, Tom Jacobson, Germán Montañer, Jaime Blanch, Máximo Valverde.
-[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
-[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
-    <category>Cine, Comedia</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008900.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.5/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322060500 +0100" stop="20260322071100 +0100" channel="BOM Cine">
-    <title>Sherlock Holmes y el arma secreta</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1942[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc>· Holmes adopta diversas personalidades para proteger el arma nueva de las naciones aliadas del profesor Moriarty.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Roy William Neill.
-[COLOR teal]· Reparto:[/COLOR] Basil Rathbone, Nigel Bruce, Lionel Atwill, Kaaren Verne, Dennis Hoey, Mary Gordon, William Post Jr., Holmes Herbert.
-[COLOR teal]· Música:[/COLOR] Frank Skinner.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4245650.jpg" />
-		<rating system="ES">
-			<value>7</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.5/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322071100 +0100" stop="20260322083400 +0100" channel="BOM Cine">
-    <title>El rey de California</title>
-    <sub-title>[COLOR SlateBlue]Cine,Humor Negro[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc>· Charlie es un hombre mentalmente inestable que, tras salir de una institución mental, trata de convencer a su hija de que hay oro desde los tiempos de los españoles enterrado en alguna parte en el extrarradio de la ciudad.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Mike Cahill, M. Cahill, Michael Cahill.
-[COLOR teal]· Reparto:[/COLOR] Michael Douglas, Evan Rachel Wood, Willis Burks, Laura Kachergus, Paul Lieber, Will Rothhaar, Annie O'Donnell, Ashley Greene, Anna Khaja, Kathleen Wilhoite, Willis Burks II, Anne L. Nathan, Arthur Santiago, Ian Hopps, Greg Davis Jr., Jeanie Hackett, Allisyn Ashley Arm, Greg Davis Jr.
-[COLOR teal]· Música:[/COLOR] David Robbins.
-[COLOR teal]· Producción:[/COLOR] Randall Emmett, Avi Lerner, Michael London, Alexander Payne.</desc>
-    <category>Cine, Humor Negro</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049386.jpg" />
-		<rating system="ES">
-			<value>7</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322083400 +0100" stop="20260322095400 +0100" channel="BOM Cine">
-    <title>La vida ante sus ojos</title>
-    <sub-title>[COLOR SlateBlue]Cine,Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc>· Una hermosa historia sobre el amor, el deber, la lealtad, la conciencia y el instinto de supervivencia.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Vadim Perelman.
-[COLOR teal]· Reparto:[/COLOR] Uma Thurman, Evan Rachel Wood, Oscar Isaac, Brett Cullen, Gabrielle Brennan, Eva Amurri, John Magaro, Lynn Cohen, Anna Moore, Molly Price, Jack Gilpin, Maggie Lacey Lacey, Nathalie Paulding, Oliver Solomon, Isabel Keating.
-[COLOR teal]· Música:[/COLOR] James Horner.
-[COLOR teal]· Producción:[/COLOR] Marc Butan, Anthony Katagas, Vadim Perelman.</desc>
-    <category>Cine, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4400281.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322095400 +0100" stop="20260322120000 +0100" channel="BOM Cine">
-    <title>Shutter Island</title>
-    <sub-title>[COLOR SlateBlue]Cine,Suspense,Drama[/COLOR] | [COLOR cadetblue]2010[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★8.2/10[/COLOR]</sub-title>
-    <desc>· En 1954, un alguacil estadounidense investiga la desaparición de un asesino que escapó de un hospital para enfermos mentales criminales.
-[COLOR teal]· País:[/COLOR] Canadá, México, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Martin Scorsese.
-[COLOR teal]· Reparto:[/COLOR] Mark Ruffalo, Patricia Clarkson, Elias Koteas, Emily Mortimer, Michelle Williams, Max von Sydow, Christopher Denham, Leonardo DiCaprio, Ted Levine, John Carroll Lynch, Ben Kingsley, Jackie Earle Haley, Joseph Sikora, Robin Bartlett, Curtiss Cook, Nellie Sciutto.
-[COLOR teal]· Producción:[/COLOR] Brad Fischer, Mike Medavoy, Arnold Messer, Martin Scorsese.</desc>
-    <category>Cine, Suspense, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4976047.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>8.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322120000 +0100" stop="20260322141000 +0100" channel="BOM Cine">
-    <title>La última prueba</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Acción[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.4/10[/COLOR]</sub-title>
-    <desc>· Narra una agradable noche que se convierte en la peor pesadilla de los asistentes a un musical en un teatro que acaba siendo secuestrado.
-[COLOR teal]· País:[/COLOR] Rusia
-[COLOR teal]· Dirección:[/COLOR] Alexey A. Petrukhin.
-[COLOR teal]· Reparto:[/COLOR] Akmal Ablaev, Irina Alfyorova, Noel Anderson, Darya Anishina, Marina Arbenina, Aleksandr Armer, Anna Churina, Yaroslav Berezhnov, Elizaveta Boyko, Andrey Merzlikin, Irina Kupchenko.</desc>
-    <category>Cine, Drama, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4126954.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>4.4/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322141000 +0100" stop="20260322160000 +0100" channel="BOM Cine">
-    <title>Héroes sin patria</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc>· Año 1846. John Riley, oficial norteamericano con raíces irlandesas, está al mando de un pelotón formado en su mayoría por soldados inmigrantes. Se dirigen a luchar cuando deciden que esa no es su guerra.
-[COLOR teal]· País:[/COLOR] España, México, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Lance Hool.
-[COLOR teal]· Reparto:[/COLOR] Tom Berenger, Joaquim de Almeida, Daniela Romo, Mark Moses, Stuart Graham, Gregg Fitzgerald, Don Wycherley.
-[COLOR teal]· Música:[/COLOR] Ernest Troost.
-[COLOR teal]· Producción:[/COLOR] Conrad Hool, Lance Hool, William J. MacDonald.</desc>
-    <category>Cine, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4126950.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322160000 +0100" stop="20260322172800 +0100" channel="BOM Cine">
-    <title>La batalla de Saipan</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Drama[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· Un cirujano defiende un hospital de las fuerzas enemigas invasoras en la Batalla de Saipan durante la Segunda Guerra Mundial.
-[COLOR teal]· País:[/COLOR] Tailandia
-[COLOR teal]· Dirección:[/COLOR] Brandon Slagle.
-[COLOR teal]· Reparto:[/COLOR] Casper Van Dien, Louis Mandylor, Jeff Fahey, Eoin O'Brien, Jennifer Wenger, Devanny Pinn, Randall J. Bacon, Luana Cavalcante.</desc>
-    <category>Cine, Acción, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4048662.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260322172800 +0100" stop="20260322185300 +0100" channel="BOM Cine">
-    <title>Bullet Head: Trampa mortal</title>
-    <sub-title>[COLOR SlateBlue]Cine,Policíaco,Drama,Suspense[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.4/10[/COLOR]</sub-title>
-    <desc>· Tres criminales con una prolífica carrera delictiva se quedan encerrados en un almacén cuando llevaban un robo a cabo. Con la policía bloqueando la única salida descubrirán que dentro les espera una amenaza incluso peor.
-[COLOR teal]· País:[/COLOR] Bulgaria, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Paul Solet.
-[COLOR teal]· Reparto:[/COLOR] Adrien Brody, Rory Culkin, Antonio Banderas, John Malkovich, Alexandra Dinu, Ori Pfeffer, James Robinson, Velizar Binev, Owen Davis, Deyan Petrov, Jay Bogoslovov, Clive Sawyer, Keith D. Evans, Kitodar Todorov, Mark Theodore Richards, Tihomir Vinchev, Jeko Bogoslovov.</desc>
-    <category>Cine, Policíaco, Drama, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4217165.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.4/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322185300 +0100" stop="20260322202100 +0100" channel="BOM Cine">
-    <title>The Flood</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Terror,Suspense[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· Una arriesgada fuga durante una peligrosa tormenta tropical se ve interrumpida por un grupo de hambrientos caimanes.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Brandon Slagle, Victoria Wharfe McIntyre.
-[COLOR teal]· Reparto:[/COLOR] Casper Van Dien, Nicky Whelan, Louis Mandylor, Ryan Francis, Eoin O'Brien, Alexis Lane, Shaka Cook, Karen Garnsey, Dean Kyrwood, Dalara Williams, Randy Wayne, Devanny Pinn, Randall J. Bacon, Bear Williams, Mike Ferguson, Kelly B. Jones.</desc>
-    <category>Cine, Acción, Terror, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002135.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260322202100 +0100" stop="20260322220300 +0100" channel="BOM Cine">
-    <title>Cuando el alba se tiñe de rojo</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Romance[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc>· Gannon, un cowboy errante con gran pericia con el revólver, salva de una acusación de homicidio a un joven llamado Jess.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] James Goldstone.
-[COLOR teal]· Reparto:[/COLOR] Anthony Franciosa, Michael Sarrazin, John Anderson, Judi West, Susan Oliver.</desc>
-    <category>Cine, Western, Romance</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5116956.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20260322220300 +0100" stop="20260322234700 +0100" channel="BOM Cine">
-    <title>Los timadores</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
-    <desc>· Un estafador de poca monta ha roto las lealtades entre su madre separada y su nueva novia, quienes son estafadores de alto riesgo con sus propios ángulos para jugar.
-[COLOR teal]· País:[/COLOR] Canadá, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Stephen Frears.
-[COLOR teal]· Reparto:[/COLOR] John Cusack, Pat Hingle, J.T. Walsh, Jeff Perry, Jeremy Piven, Anjelica Huston, Annette Bening, Charles Napier, Gailard Sartain, Ray Sharkey, Jan Munroe, Robert Weems, Eddie Jones, Stephen Tobolowsky, Henry Jones, Sandy Baron, Jimmy Noonan.
-[COLOR teal]· Música:[/COLOR] Elmer Bernstein.
-[COLOR teal]· Producción:[/COLOR] Robert A. Harris, Jim Painter, Martin Scorsese.</desc>
-    <category>Cine, Drama, Policíaco, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4628204.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260322234700 +0100" stop="20260323010100 +0100" channel="BOM Cine">
-    <title>American Badger</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Suspense,Drama[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★3.7/10[/COLOR]</sub-title>
-    <desc>· A un sicario se le encarga matar a una prostituta. Mientras él sigue haciendo sus encargos antes de matarla, surge entre ellos una relación especial.
-[COLOR teal]· País:[/COLOR] Canadá, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Kirk Caouette.
-[COLOR teal]· Reparto:[/COLOR] Andrea Stefancikova, Michael Kopsa, Zak Santiago, Milan Stefancik, Kirk Caouette, Adrian Hough, John Sampson.</desc>
-    <category>Cine, Acción, Suspense, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4944887.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>3.7/10</value>
-		</star-rating>
-	</programme>
 	<programme start="20260323010100 +0100" stop="20260323023500 +0100" channel="BOM Cine">
     <title>Jiu Jitsu</title>
     <sub-title>[COLOR SlateBlue]Cine,Acción,Ciencia Ficción,Suspense[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★2.9/10[/COLOR]</sub-title>
@@ -765,18 +525,7 @@
 			<value>18</value>
 		</rating>
 	</programme>
-	<programme start="20260326230000 +0100" stop="20260327005900 +0100" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20260327005900 +0100" stop="20260327030000 +0100" channel="BOM Cine">
+	<programme start="20260326230000 +0100" stop="20260327030000 +0100" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
@@ -912,6 +661,61 @@
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.-- Changed stoptime! --.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260329040000 +0100" stop="20260329070000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.-- Changed starttime! --.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260329070000 +0100" stop="20260329110000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260329110000 +0100" stop="20260329150000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260329150000 +0100" stop="20260329190000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260329190000 +0100" stop="20260329230000 +0100" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
 [COLOR teal]· País:[/COLOR] España</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3997632.jpg" />
