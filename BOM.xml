@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 24/04/2026 08:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 24/04/2026 12:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="BOM Cine">
 		<display-name>BOM Cine</display-name>
 		<display-name>BOM Cine.TV</display-name>
@@ -262,7 +262,68 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20260425040000 +0200" stop="20260425080000 +0200" channel="BOM Cine">
+	<programme start="20260425011600 +0200" stop="20260425024900 +0200" channel="BOM Cine">
+    <title>El último cazador</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Dos soldados y un periodista emprenden la difícil misión de destruir una emisora de radio del Viet Cong.
+[COLOR teal]· País:[/COLOR] Italia
+[COLOR teal]· Dirección:[/COLOR] Antonio Margheriti.
+[COLOR teal]· Reparto:[/COLOR] David Warbeck, Tony King, Massimo Vanni, Tisa Farrow, Margie Newton, Bobby Rhodes.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4150921.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260425024900 +0200" stop="20260425041500 +0200" channel="BOM Cine">
+    <title>Sultanes del Sur</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Drama,Policíaco[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
+    <desc>· Un grupo de ladrones tiene éxito robando millones de un banco de México, pero sus planes de lavar el dinero en Buenos Aires, Argentina se complican cuando una entrega cae en las manos erróneas, dejándoles endeudados con un peligroso extorsionista.
+[COLOR teal]· País:[/COLOR] Argentina, España, México
+[COLOR teal]· Dirección:[/COLOR] Alejandro Lozano.
+[COLOR teal]· Reparto:[/COLOR] Celso Bugallo, Jordi Mollà, Raúl Mendez, Juan Carlos Remolina, Silverio Palacios, Ana de la Reguera, Sofía Fernández, Alejandro Lozano, Tony Dalton, Mario Alarcón, Rosa María Bianchi, Brian Maya, Luis Altamirano, Oscar Alegre, Alejandra Barros, Claudia Caballero, Marco Polo Constandse, Maria Fernanda Guerrero, Daniel Jacobs, Brenda Garcia, José Alberto López, Coni Mariño, Teresa Davila, Polina Panopoulus, Billy Rovzar, Marcelo Piraino, Erica Sánchez Su Su, Juan Jose Saravia, Fernando Rovzar, Oliver Pliego, Alexandre Themistocleous, Gustavo Tieffenberg, Pilar Ureta, Rocío Verdejo, Leonardo Zimbrón.
+[COLOR teal]· Música:[/COLOR] Xavier Capellas.
+[COLOR teal]· Producción:[/COLOR] Marco Polo Constandse, Julio Fernández, Bill Rovzar, Fernando Rovzar.</desc>
+    <category>Cine, Acción, Drama, Policíaco</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002499.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.1/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260425041500 +0200" stop="20260425054800 +0200" channel="BOM Cine">
+    <title>Lobos de Arga</title>
+    <sub-title>[COLOR SlateBlue]Cine,Comedia,Suspense,Terror[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
+    <desc>· En 1910, en Arga, un pequeño pueblo gallego, una maldición cae sobre la malvada marquesa de Mariño: al cumplir los diez años, su hijo se convertirá en un hombre-lobo. Cien años después, el último descendiente varón de los Mariño, regresa al pueblo.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Dirección:[/COLOR] Juan Martínez Moreno.
+[COLOR teal]· Reparto:[/COLOR] Carlos Areces, Secun de la Rosa, Manuel Manquiña, Gorka Otxoa, Mabel Rivera, Marcos Ruíz, Luis Zahera, Dorotea Bárcena, Xose Manuel Olveira, Coté Soler, Roberto Sánchez Luna, Tomás Salvadores, Xulio Lago, Antonio Lagares, la Rosa.</desc>
+    <category>Cine, Comedia, Suspense, Terror</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049429.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260425054800 +0200" stop="20260425064600 +0200" channel="BOM Cine">
+    <title>Gaudí</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Dirección:[/COLOR] José María Argemí, Manuel Huerga.
+[COLOR teal]· Reparto:[/COLOR] Maria Matilde Almendros, Rafael Anglada, José María Caffarel, Mario Beut, Carles Sabater, Luis Padrós, Jesús Orús, Elisabeth Escayola, Santi Claramunt.
+[COLOR teal]· Música:[/COLOR] Xavier Montsalvatge.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4618310.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260425064600 +0200" stop="20260425080000 +0200" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
