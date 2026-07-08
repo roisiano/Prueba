@@ -1,0 +1,46 @@
+name: Build astra-sm ipk for CoreELEC
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install build dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y build-essential git python3 wget unzip pkg-config
+          sudo apt install -y liblua5.3-dev lua5.3
+          sudo apt install -y libaio-dev
+          sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev libswscale-dev libswresample-dev libavfilter-dev
+
+      - name: Clone Entware buildroot
+        run: |
+          git clone https://github.com/Entware/entware.git entware-build
+          cd entware-build
+          ./scripts/feeds update -a
+          ./scripts/feeds install -a
+
+      - name: Copy astra-sm package into Entware tree
+        run: |
+          mkdir -p entware-build/package/astra-sm
+          cp -r astra-sm/* entware-build/package/astra-sm/
+
+      - name: Build astra-sm
+        run: |
+          cd entware-build
+          make package/astra-sm/compile V=s
+
+      - name: Upload .ipk artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: astra-sm-ipk
+          path: entware-build/bin/packages/aarch64/astra-sm_*.ipk
