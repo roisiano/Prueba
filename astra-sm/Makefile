@@ -1,5 +1,6 @@
 #
-# Copyright (C) 2018 NDM Systems, McMCC
+# Astra-SM para CoreELEC + Entware
+# Versión con Lua, ffmpeg y libaio activados
 #
 
 include $(TOPDIR)/rules.mk
@@ -21,54 +22,46 @@ include $(INCLUDE_DIR)/package.mk
 define Package/astra-sm
   SECTION:=multimedia
   CATEGORY:=Multimedia
-  TITLE:=Astra SM IPTV server for Linux
-  DEPENDS:=+libdvbcsa +libopenssl
+  TITLE:=Astra SM IPTV server for Linux (CoreELEC build)
+  DEPENDS:=+libdvbcsa +libopenssl +liblua5.3 +libaio +ffmpeg
   URL:=https://gitlab.com/berdyansk/astra-sm
-ifneq (,$(filter aarch64 mips mipsel,$(ARCH)))
-  PKGARCH:=$(BOARD)_kn
-endif
+  PKGARCH:=aarch64
 endef
 
 define Package/astra-sm/description
-  Astra is a professional software to organize Digital Broadcasting Service for TV operators
-  and broadcasters, internet service providers, hotels, etc. Astra is an acronym for
-  "Advanced Streaming Application".
-  Astra supports many protocols and standards to receive channels from different sources.
-  Received channels prepares and transmits into the IP network. Built-in scripting language (Lua)
-  allow to customize business logic of the application.
+  Astra SM es un servidor IPTV profesional para operadores DVB/IPTV.
+  Esta versión está compilada para CoreELEC + Entware con soporte Lua, ffmpeg y libaio.
 endef
 
 TARGET_CFLAGS += -I$(PKG_BUILD_DIR)/lua -pthread
 TARGET_LDFLAGS += -L$(PKG_BUILD_DIR)/lua/.libs
 
 CONFIGURE_ARGS += \
-	--without-check \
-	--without-ffmpeg \
-	--without-libaio \
-	--without-lua
+    --with-ffmpeg \
+    --with-libaio \
+    --with-lua
 
 define Package/astra-sm/postinst
 #!/bin/sh
-
 ln -sfn /opt/etc/init.d/S55astra /opt/etc/default/usb_services/dvb/S55astra
 endef
 
 define Package/astra-sm/postrm
 #!/bin/sh
-
 rm -rf /opt/etc/default/usb_services/dvb/S55astra
 endef
 
 define Package/astra-sm/install
-	$(INSTALL_DIR) $(1)/opt/share/astra
-	$(INSTALL_DIR) $(1)/opt/etc/astra/scripts
-	$(CP) ./files/sat_mx1-t2mi.lua $(1)/opt/etc/astra/scripts/
-	$(INSTALL_DIR) $(1)/opt/etc/default/usb_services/dvb
-	$(INSTALL_DIR) $(1)/opt/bin
-	$(INSTALL_BIN) $(PKG_BUILD_DIR)/src/astra $(1)/opt/bin/
-	$(INSTALL_BIN) $(PKG_BUILD_DIR)/tests/t2mi_decap $(1)/opt/bin/
-	$(INSTALL_DIR) $(1)/opt/etc/init.d
-	$(CP) ./files/S55astra $(1)/opt/etc/init.d/
+    $(INSTALL_DIR) $(1)/opt/share/astra
+    $(INSTALL_DIR) $(1)/opt/etc/astra/scripts
+    $(CP) ./files/sat_mx1-t2mi.lua $(1)/opt/etc/astra/scripts/
+    $(INSTALL_DIR) $(1)/opt/etc/default/usb_services/dvb
+    $(INSTALL_DIR) $(1)/opt/bin
+    $(INSTALL_BIN) $(PKG_BUILD_DIR)/src/astra $(1)/opt/bin/
+    $(INSTALL_BIN) $(PKG_BUILD_DIR)/tests/t2mi_decap $(1)/opt/bin/
+    $(INSTALL_DIR) $(1)/opt/etc/init.d
+    $(CP) ./files/S55astra $(1)/opt/etc/init.d/
 endef
 
 $(eval $(call BuildPackage,astra-sm))
+
