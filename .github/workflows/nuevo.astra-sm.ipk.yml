@@ -14,41 +14,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install build dependencies
+      - name: Build inside Entware Docker
         run: |
-          sudo apt update
-          sudo apt install -y software-properties-common
-          sudo add-apt-repository ppa:deadsnakes/ppa -y
-          sudo apt update
-          sudo apt install -y python2
-          sudo ln -s /usr/bin/python2 /usr/bin/python
-
-          sudo apt install -y build-essential git python3 wget unzip pkg-config
-          sudo apt install -y liblua5.3-dev lua5.3
-          sudo apt install -y libaio-dev
-          sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev libswscale-dev libswresample-dev libavfilter-dev
-
-      - name: Clone Entware buildroot
-        run: |
-          git clone https://github.com/Entware/entware.git entware-build
-          cd entware-build
-          ./scripts/feeds update -a
-          ./scripts/feeds install -a
-
-      - name: Copy astra-sm package into Entware tree
-        run: |
-          mkdir -p entware-build/package/astra-sm
-          cp -r astra-sm/* entware-build/package/astra-sm/
-
-      - name: Build astra-sm
-        run: |
-          cd entware-build
-          make package/astra-sm/compile V=s
+          docker run --rm -v $PWD:/build entware/aarch64-linux-gnu sh -c "
+            apk update &&
+            apk add build-base git lua5.3-dev lua5.3 ffmpeg-dev libaio-dev pkgconfig &&
+            git clone https://github.com/Entware/entware.git /entware &&
+            cd /entware &&
+            ./scripts/feeds update -a &&
+            ./scripts/feeds install -a &&
+            mkdir -p package/astra-sm &&
+            cp -r /build/astra-sm/* package/astra-sm/ &&
+            make package/astra-sm/compile V=s
+          "
 
       - name: Upload .ipk artifact
         uses: actions/upload-artifact@v4
         with:
           name: astra-sm-ipk
-          path: entware-build/bin/packages/aarch64/astra-sm_*.ipk
+          path: entware/bin/packages/aarch64/astra-sm_*.ipk
+
 
 
