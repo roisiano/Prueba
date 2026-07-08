@@ -35,10 +35,10 @@ jobs:
           mkdir -p entware-build/package/astra-sm
           cp -r astra-sm/* entware-build/package/astra-sm/
 
-      - name: Build astra-sm (FORCE=1)
+      - name: Build astra-sm (FORCE=1 applied correctly)
         run: |
           cd entware-build
-          make package/astra-sm/compile V=s FORCE=1
+          make FORCE=1 package/astra-sm/compile V=s
 
       - name: Upload .ipk artifact
         uses: actions/upload-artifact@v4
