@@ -14,20 +14,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Python 2.7 portable
+      - name: Install Python 2.7 portable + Python 3 modules + dev libs
         run: |
           sudo apt update
-          sudo apt install -y build-essential wget git pkg-config \
-                              liblua5.3-dev lua5.3 libaio-dev \
-                              libavcodec-dev libavformat-dev libavutil-dev \
+
+          # Python 3 modules required by Entware
+          sudo apt install -y python3-distutils python3-venv python3-dev python3-setuptools
+
+          # Dev libs for astra-sm
+          sudo apt install -y build-essential wget git pkg-config
+          sudo apt install -y liblua5.3-dev lua5.3
+          sudo apt install -y libaio-dev
+          sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev \
                               libswscale-dev libswresample-dev libavfilter-dev
 
+          # Python 2.7 portable (Entware buildroot requires Python 2)
           wget https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tgz
           tar xf Python-2.7.18.tgz
           cd Python-2.7.18
           ./configure --prefix=/usr/local/python2
           make -j$(nproc)
           sudo make install
+          cd ..
 
       - name: Clone Entware buildroot
         run: |
@@ -53,6 +61,7 @@ jobs:
         with:
           name: astra-sm-ipk
           path: entware-build/bin/packages/aarch64/astra-sm_*.ipk
+
 
 
 
