@@ -1,0 +1,11 @@
+--- a/build-aux/git-version-gen
++++ b/build-aux/git-version-gen
+@@ -1,5 +1,8 @@
+ #! /bin/sh
+ 
++echo -n "0.2.88"
++exit 0
++
+ fatal()
+ {
+     echo "$1" 1>&1
