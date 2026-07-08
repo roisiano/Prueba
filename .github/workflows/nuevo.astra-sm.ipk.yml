@@ -17,13 +17,16 @@ jobs:
       - name: Install build dependencies
         run: |
           sudo apt update
+          sudo apt install -y software-properties-common
+          sudo add-apt-repository ppa:deadsnakes/ppa -y
+          sudo apt update
+          sudo apt install -y python2
+          sudo ln -s /usr/bin/python2 /usr/bin/python
+
           sudo apt install -y build-essential git python3 wget unzip pkg-config
           sudo apt install -y liblua5.3-dev lua5.3
           sudo apt install -y libaio-dev
           sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev libswscale-dev libswresample-dev libavfilter-dev
-          sudo apt install -y python2
-          sudo ln -s /usr/bin/python2 /usr/bin/python
-
 
       - name: Clone Entware buildroot
         run: |
@@ -47,4 +50,5 @@ jobs:
         with:
           name: astra-sm-ipk
           path: entware-build/bin/packages/aarch64/astra-sm_*.ipk
+
 
