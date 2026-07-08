@@ -29,8 +29,6 @@ jobs:
           make -j$(nproc)
           sudo make install
 
-          sudo ln -s /usr/local/python2/bin/python2 /usr/bin/python
-
       - name: Clone Entware buildroot
         run: |
           git clone https://github.com/Entware/entware.git entware-build
@@ -45,6 +43,8 @@ jobs:
 
       - name: Build astra-sm
         run: |
+          export PYTHON=/usr/local/python2/bin/python2
+          export PYTHONPATH=/usr/local/python2/lib/python2.7
           cd entware-build
           make package/astra-sm/compile V=s
 
@@ -53,6 +53,7 @@ jobs:
         with:
           name: astra-sm-ipk
           path: entware-build/bin/packages/aarch64/astra-sm_*.ipk
+
 
 
 
