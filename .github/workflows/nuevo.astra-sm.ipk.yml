@@ -21,6 +21,9 @@ jobs:
           sudo apt install -y liblua5.3-dev lua5.3
           sudo apt install -y libaio-dev
           sudo apt install -y libavcodec-dev libavformat-dev libavutil-dev libswscale-dev libswresample-dev libavfilter-dev
+          sudo apt install -y python2
+          sudo ln -s /usr/bin/python2 /usr/bin/python
+
 
       - name: Clone Entware buildroot
         run: |
