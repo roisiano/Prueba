@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 26/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 27/07/2026 08:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="BOM Cine">
 		<display-name>BOM Cine</display-name>
 		<display-name>BOM Cine.TV</display-name>
@@ -11,230 +11,6 @@
 		<display-name>BOM Cine 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
 	</channel>
-	<programme start="20260726033300 +0200" stop="20260726050400 +0200" channel="BOM Cine">
-    <title>El último cazador</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Dos soldados y un periodista emprenden la difícil misión de destruir una emisora de radio del Viet Cong.
-[COLOR teal]· País:[/COLOR] Italia
-[COLOR teal]· Dirección:[/COLOR] Antonio Margheriti.
-[COLOR teal]· Reparto:[/COLOR] David Warbeck, Tony King, Massimo Vanni, Tisa Farrow, Margie Newton, Bobby Rhodes.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4150921.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20260726050400 +0200" stop="20260726062900 +0200" channel="BOM Cine">
-    <title>Torremolinos 73</title>
-    <sub-title>[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
-    <desc>· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
-[COLOR teal]· País:[/COLOR] Dinamarca, España
-[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
-[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González, Ramón Barea, Bjarne Henriksen, Mari-Anne Jespersen, Tom Jacobson, Germán Montañer, Jaime Blanch, Máximo Valverde.
-[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
-[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
-    <category>Cine, Comedia</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008900.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.5/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260726062900 +0200" stop="20260726071000 +0200" channel="BOM Cine">
-    <title>Valencians 100%</title>
-    <sub-title>[COLOR SlateBlue]Programa,Actualidad[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Un espacio de entrevistas para conocer las historias de vida de valencianos que han convertido su trabajo en un ejemplo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Actualidad</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5682309.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260726071000 +0200" stop="20260726073700 +0200" channel="BOM Cine">
-    <title>Descubriendo nuestros rincones [COLOR tomato]T1 E16[/COLOR]</title>
-    <sub-title>[COLOR SlateBlue]Documental,Viajes y aventuras[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Reportajes dedicados a recorrer y explorar distintos rincones turísticos, y el encanto de pueblos maravillosos.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Documental, Viajes y aventuras</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5293153.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260726073700 +0200" stop="20260726090400 +0200" channel="BOM Cine">
-    <title>El lobo de mar</title>
-    <sub-title>[COLOR SlateBlue]Cine,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc>· El infame capitán Wolf Hansen es visto por su tripulación como el diablo en forma humana. Gobierna su barco "Ghost" con mano de hierro en mares tempestuosos.
-[COLOR teal]· País:[/COLOR] Alemania
-[COLOR teal]· Dirección:[/COLOR] Christoph Schrewe, Mike Barker.
-[COLOR teal]· Reparto:[/COLOR] Tim Roth, Neve Cbell, Stephen Campbell Moore, Vinzenz Kiefer, Sebastian Koch, Florian Stetter, Henning Baum, Thomas Kretschmann, Neve Campbell, Tobias Schenke, Alexander Hörbe, Julian Richings, Gennadi Vengerov, Petra Schmidt-Schaller.</desc>
-    <category>Cine, Aventuras, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5699382.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20260726090400 +0200" stop="20260726103500 +0200" channel="BOM Cine">
-    <title>El lobo de mar</title>
-    <sub-title>[COLOR SlateBlue]Cine,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc>· El infame capitán Wolf Hansen es visto por su tripulación como el diablo en forma humana. Gobierna su barco "Ghost" con mano de hierro en mares tempestuosos.
-[COLOR teal]· País:[/COLOR] Alemania
-[COLOR teal]· Dirección:[/COLOR] Christoph Schrewe, Mike Barker.
-[COLOR teal]· Reparto:[/COLOR] Tim Roth, Neve Cbell, Stephen Campbell Moore, Vinzenz Kiefer, Sebastian Koch, Florian Stetter, Henning Baum, Thomas Kretschmann, Neve Campbell, Tobias Schenke, Alexander Hörbe, Julian Richings, Gennadi Vengerov, Petra Schmidt-Schaller.</desc>
-    <category>Cine, Aventuras, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5699382.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20260726103500 +0200" stop="20260726121600 +0200" channel="BOM Cine">
-    <title>El corsario negro</title>
-    <sub-title>[COLOR SlateBlue]Cine,Comedia,Acción,Aventuras[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.2/10[/COLOR]</sub-title>
-    <desc>· En la Isla de Tortuga, los piratas hacen negocio con los botines capturados. En una subasta de prisioneros, el corsario Blacky, acompañado del poco fiable Don Pedro, reconoce en una de las cautivas a la mujer del Virrey.
-[COLOR teal]· País:[/COLOR] España, Italia
-[COLOR teal]· Dirección:[/COLOR] Lorenzo Gicca Palli.
-[COLOR teal]· Reparto:[/COLOR] Terence Hill, George Martin, Diana Lorys, Mónica Randall, Bud Spencer, Silvia Monti, Pasquale Basile, Jorge Martín, Luciano Pigozzi, Fernando Bilbao, Aldo Cecconi, Gustavo Re, Sal Borgese, Paolo Magalotti, Carlo Reali, Edmund Purdom, Giuliano Dell'Ovo, Omero Capanna, Luciano Catenacci.
-[COLOR teal]· Música:[/COLOR] Gino Peguri.
-[COLOR teal]· Producción:[/COLOR] Gabriele Silvestri.</desc>
-    <category>Cine, Comedia, Acción, Aventuras</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4222041.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260726121600 +0200" stop="20260726135700 +0200" channel="BOM Cine">
-    <title>Union Bound</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Drama,Aventuras[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.4/10[/COLOR]</sub-title>
-    <desc>· El sargento Joseph Hoover fue a la guerra para preservar los valores de la Unión. Tras ser capturado y enviado a un campo de prisioneros, consiguió escapar con la ayuda de los esclavos.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Harvey Lowry.
-[COLOR teal]· Reparto:[/COLOR] Seeley Drew, Isaac C. Singleton Jr., Randy Wayne, Matthew Ziff, Sean Stone, Andrew Seeley, Trish Cook, Tank Jones, Christian Fortune, Isaac C. Singleton Jr.
-[COLOR teal]· Música:[/COLOR] Craig Brandwein, Cactus Moser, Dane Bryant Frazier.
-[COLOR teal]· Producción:[/COLOR] Michael Davis.</desc>
-    <category>Cine, Acción, Drama, Aventuras</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4001991.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>4.4/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260726135700 +0200" stop="20260726154300 +0200" channel="BOM Cine">
-    <title>Caballos salvajes</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Aventuras,Drama[/COLOR] | [COLOR cadetblue]1973[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc>· El mestizo Chino, cuya única pasión es la cría de caballos, ofrece cobijo y protección en su rancho a Jamie Wagner, un fugitivo de la justicia.
-[COLOR teal]· País:[/COLOR] España, Francia, Italia
-[COLOR teal]· Dirección:[/COLOR] John Sturges, Duilio Coletti.
-[COLOR teal]· Reparto:[/COLOR] John Sturges, Charles Bronson, Jill Ireland, Marcel Bozzuffi, Fausto Tozzi, Duilio Coletti, Vincent Van Patten, Ettore Manni, Corrado Gaipa Gaipa, Melissa Chimenti.
-[COLOR teal]· Música:[/COLOR] Guido De Angelis, Maurizio De Angelis.
-[COLOR teal]· Producción:[/COLOR] John Sturges, Duilio Coletti, Dino De Laurentiis.</desc>
-    <category>Cine, Western, Aventuras, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012980.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260726154300 +0200" stop="20260726170900 +0200" channel="BOM Cine">
-    <title>Manto negro</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR yellow]⑫[/COLOR]</sub-title>
-    <desc>· Un misionero jesuíta intenta llevar el Catolicismo al Nuevo Mundo, tratando de convertir a una tribu de indios canadienses.
-[COLOR teal]· País:[/COLOR] Australia, Canadá, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Bruce Beresford.
-[COLOR teal]· Reparto:[/COLOR] Aden Young, Sandrine Holt, August Schellenberg, Billy Two Rivers, Lothaire Bluteau.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5193447.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20260726170900 +0200" stop="20260726202400 +0200" channel="BOM Cine">
-    <title>Bailando con lobos</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Western,Aventuras,Acción[/COLOR] | [COLOR cadetblue]1990[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★8.0/10[/COLOR]</sub-title>
-    <desc>· Un soldado de la Unión y los indios entran en un pacífico contacto en el debut como director de Kevin Costner. Su labor fue premiada con siete Oscar.
-[COLOR teal]· País:[/COLOR] Reino Unido, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Kevin Costner.
-[COLOR teal]· Reparto:[/COLOR] Mary McDonnell, Maury Chaykin, Graham Greene, Kevin Costner, Rodney A. Grant, Robert Pastorelli, Tantoo Cardinal, Charles Rocket, Floyd Westerman, Floyd Red Crow Westerman, Tony Pierce, Wes Studi.
-[COLOR teal]· Música:[/COLOR] John Barry.
-[COLOR teal]· Producción:[/COLOR] Jim Wilson, Kevin Costner.</desc>
-    <category>Cine, Drama, Western, Aventuras, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4320009.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>8.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260726202400 +0200" stop="20260726220000 +0200" channel="BOM Cine">
-    <title>El especialista</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.3/10[/COLOR]</sub-title>
-    <desc>· Hud está decidido a vengará la muerte de su hermano Charlie, linchado sin sentido por una turba que sospechaba que había robado.
-[COLOR teal]· País:[/COLOR] Alemania, Francia, Italia
-[COLOR teal]· Dirección:[/COLOR] Sergio Corbucci.
-[COLOR teal]· Reparto:[/COLOR] Johnny Hallyday, Mario Adorf, Sylvie Fennec, Gastone Moschin, Serge Marquand, Gino Pernice, Françoise Fabian, Sege Marquand, Angela Luce.</desc>
-    <category>Cine, Western</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109756.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.3/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260726220000 +0200" stop="20260726235100 +0200" channel="BOM Cine">
-    <title>arizona colt</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Drama,Aventuras[/COLOR] | [COLOR cadetblue]1966[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc>· Un bandido llamado Gordo, ha planeado robar el banco de Blakstone Hill, para lo cual decide asaltar una prisión y reclutar pistoleros.
-[COLOR teal]· País:[/COLOR] Francia, Italia
-[COLOR teal]· Dirección:[/COLOR] Michele Lupo.
-[COLOR teal]· Reparto:[/COLOR] Giuliano Gemma, Fernando Sancho, Nello Pazzafini, Andrea Bosic, Corinne Marchand, Gérard Lartigau, Rosalba Neri, Roberto Camardiel, Mirko Ellis, José Manuel Martín, Pietro Tordi, Giovanni Pazzafini.</desc>
-    <category>Cine, Western, Drama, Aventuras</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4655201.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260726235100 +0200" stop="20260727012600 +0200" channel="BOM Cine">
-    <title>El rey de Texas</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· John Lear, un ganadero texano, se aísla de su familia cuando les exige a sus tres hijos que le demuestren su amor si quieren heredar su imperio.
-[COLOR teal]· País:[/COLOR] México, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Uli Edel.
-[COLOR teal]· Reparto:[/COLOR] Patrick Stewart, Marcia Gay Harden, Lauren Holly, Roy Scheider, David Alan Grier, Colm Meaney, Patrick Bergin, Steven Bauer.
-[COLOR teal]· Música:[/COLOR] John Altman.</desc>
-    <category>Cine, Western</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4900133.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260727012600 +0200" stop="20260727030200 +0200" channel="BOM Cine">
-    <title>9 semanas y media ii (amor en parís)</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Hace 10 años John, vivió un viaje de 9 semanas y media llevando el deseo al límite. Ahora, sigue prisionero de su pasado, y John intenta buscar a Elizabeth, su ex novia y compañera cómplice. No hay mujer que consiga hacerle olvidar.
-[COLOR teal]· País:[/COLOR] Reino Unido, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Anne Goursaud.
-[COLOR teal]· Reparto:[/COLOR] Mickey Rourke, Dougray Scott, Steven Berkoff, Agathe de La Fontaine, Angie Everhart.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012800.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
 	<programme start="20260727030200 +0200" stop="20260727043000 +0200" channel="BOM Cine">
     <title>Cuentos de kamasutra en el jardín perfumado</title>
     <sub-title>[COLOR SlateBlue]Cine,Drama,Romance[/COLOR] | [COLOR cadetblue]2000[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
@@ -1072,6 +848,78 @@
 		</rating>
 	</programme>
 	<programme start="20260801200000 +0200" stop="20260802000000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260802000000 +0200" stop="20260802040000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260802040000 +0200" stop="20260802080000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260802080000 +0200" stop="20260802120000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260802120000 +0200" stop="20260802160000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260802160000 +0200" stop="20260802200000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260802200000 +0200" stop="20260803000000 +0200" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
