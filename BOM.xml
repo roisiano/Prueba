@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 11/09/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 12/09/2026 08:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="BOM Cine">
 		<display-name>BOM Cine</display-name>
 		<display-name>BOM Cine.TV</display-name>
@@ -11,291 +11,6 @@
 		<display-name>BOM Cine 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
 	</channel>
-	<programme start="20260911025300 +0200" stop="20260911044000 +0200" channel="BOM Cine">
-    <title>Aflicción</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Suspense[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.9/10[/COLOR]</sub-title>
-    <desc>· El sheriff Wade Whitehouse es un hombre gris y menospreciado por todos. Su vida cambia tras la muerte de un sindicalista en una partida de caza.
-[COLOR teal]· País:[/COLOR] Canadá, Japón, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Paul Schrader.
-[COLOR teal]· Reparto:[/COLOR] Nick Nolte, Sissy Spacek, James Coburn, Willem Dafoe, Brigid Tierney, Wayne Robson, Marian Seldes, Tim Post, Christopher Heyerdahl, Eugene Lipinski, Holmes Osborne, Jim True-Frost.</desc>
-    <category>Cine, Drama, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109413.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.9/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911044000 +0200" stop="20260911055600 +0200" channel="BOM Cine">
-    <title>Moscow Zero</title>
-    <sub-title>[COLOR SlateBlue]Cine,Terror,Suspense[/COLOR] | [COLOR cadetblue]2006[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
-    <desc>· Owen, un investigador estadounidense, busca a su amigo desaparecido en las catacumbas de Moscú, donde se enfrenta al guardián del Infierno, Andrey. Para continuar su misión, hace un trato que podría ser un pacto con el Diablo.
-[COLOR teal]· País:[/COLOR] España, Reino Unido, Japón
-[COLOR teal]· Dirección:[/COLOR] María Lidón, Luna.
-[COLOR teal]· Reparto:[/COLOR] Vincent Gallo, Rade Serbedzija, Joaquim de Almeida, Val Kilmer, Joss Ackland, Álex O'Dogherty, Oksana Akinshina, Sage Stallone, Rade Sherbedgia, Julio Perillán, Borja Romaniv, Juan Carlos Guerrero, Roman Shamko, Marilo Muñoz, Alejandro Horeyda, Ekaterina Vovenko.
-[COLOR teal]· Producción:[/COLOR] Dolo Magan.</desc>
-    <category>Cine, Terror, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049465.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>3.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911055600 +0200" stop="20260911065400 +0200" channel="BOM Cine">
-    <title>Gaudí.</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] José María Argemí, Manuel Huerga.
-[COLOR teal]· Reparto:[/COLOR] Maria Matilde Almendros, Rafael Anglada, José María Caffarel, Mario Beut, Carles Sabater, Luis Padrós, Jesús Orús, Elisabeth Escayola, Santi Claramunt.
-[COLOR teal]· Música:[/COLOR] Xavier Montsalvatge.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4618310.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260911065400 +0200" stop="20260911072200 +0200" channel="BOM Cine">
-    <title>Valencians 100%</title>
-    <sub-title>[COLOR SlateBlue]Programa,Actualidad[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Un espacio de entrevistas para conocer las historias de vida de valencianos que han convertido su trabajo en un ejemplo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Programa, Actualidad</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5682309.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260911072200 +0200" stop="20260911075200 +0200" channel="BOM Cine">
-    <title>Retrato de Herzog</title>
-    <sub-title>[COLOR SlateBlue]Cine,Documentales[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· Documental autobiográfico que retrata la vida y el trabajo del director Werner Herzog.
-[COLOR teal]· País:[/COLOR] Alemania
-[COLOR teal]· Dirección:[/COLOR] Werner Herzog.
-[COLOR teal]· Reparto:[/COLOR] Werner Herzog.</desc>
-    <category>Cine, Documentales</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4179826.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260911075200 +0200" stop="20260911094200 +0200" channel="BOM Cine">
-    <title>El primer pecado mortal</title>
-    <sub-title>[COLOR SlateBlue]Cine,Suspense,Policíaco,Drama[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
-    <desc>· Un policía al que le faltan dos semanas para retirarse, está bajo presión mientras investiga un asesinato y cuida de su esposa gravemente enferma.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Brian G. Hutton.
-[COLOR teal]· Reparto:[/COLOR] Frank Sinatra, Faye Dunaway, David Dukes, George Coe, Brenda Vaccaro, James Whitmore, Bruce Willis, Martin Gabel, Joe Spinell, Anthony Zerbe.
-[COLOR teal]· Música:[/COLOR] Gordon Jenkins.
-[COLOR teal]· Producción:[/COLOR] George Pappas, Mark Shanker.</desc>
-    <category>Cine, Suspense, Policíaco, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101690.jpg" />
-		<rating system="ES">
-			<value>13</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.9/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911094200 +0200" stop="20260911110700 +0200" channel="BOM Cine">
-    <title>EL DETECTIVE DE ARTHUR HAILEY [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Arthur Hailey's Detective[/COLOR]</title>
-    <sub-title>[COLOR SlateBlue]Series,Policíaca,Suspense,Drama[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· Malcolm Ainslie, un sacerdote y distinguido investigador de homicidios de la policía de Miami, es convocado para escuchar la confesión de Elroy Doil.
-[COLOR teal]· País:[/COLOR] China, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] David S. Cass Sr., Wen De Guang.
-[COLOR teal]· Reparto:[/COLOR] Tom Berenger, Annabeth Gish, Rick Gomez, Frank Whaley, Cybill Shepherd, Charles Durning, Bruce Boxleitner, Wanda De Jesús, Sean O'Bryan, J. Karen Thomas, Zhang Xin, Gao Zhi Ting, Qu Gao Wei, Wang Long Zheng, Christopher Lloyd, David Atkinson.</desc>
-    <category>Series, Policíaca, Suspense, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002179.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260911110700 +0200" stop="20260911123800 +0200" channel="BOM Cine">
-    <title>EL DETECTIVE DE ARTHUR HAILEY [COLOR tomato]T1 E1[/COLOR] [COLOR goldenrod]Arthur Hailey's Detective[/COLOR]</title>
-    <sub-title>[COLOR SlateBlue]Series,Policíaca,Suspense,Drama[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· Malcolm Ainslie, un sacerdote y distinguido investigador de homicidios de la policía de Miami, es convocado para escuchar la confesión de Elroy Doil.
-[COLOR teal]· País:[/COLOR] China, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] David S. Cass Sr., Wen De Guang.
-[COLOR teal]· Reparto:[/COLOR] Tom Berenger, Annabeth Gish, Rick Gomez, Frank Whaley, Cybill Shepherd, Charles Durning, Bruce Boxleitner, Wanda De Jesús, Sean O'Bryan, J. Karen Thomas, Zhang Xin, Gao Zhi Ting, Qu Gao Wei, Wang Long Zheng, Christopher Lloyd, David Atkinson.</desc>
-    <category>Series, Policíaca, Suspense, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002179.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260911123800 +0200" stop="20260911142000 +0200" channel="BOM Cine">
-    <title>Perdidos En El Sol</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Drama,Suspense[/COLOR] | [COLOR cadetblue]2015[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc>· John, un delincuente de poca monta, encuentra un insólito cómplice en Louis, un huérfano de 13 años. A medida que John arrastra al chico en una serie de robos, la pareja forja un inesperado vínculo.
-[COLOR teal]· País:[/COLOR] España, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Trey Nelson.
-[COLOR teal]· Reparto:[/COLOR] Josh Duhamel, Josh Wiggins, Lynn Collins, Emma Fuhrmann, Al Hayter, Larry Jack Dotson, Luis Olmeda, Michael Anthony Jackson.</desc>
-    <category>Cine, Acción, Drama, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5092536.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911142000 +0200" stop="20260911154800 +0200" channel="BOM Cine">
-    <title>Un amor inesperado</title>
-    <sub-title>[COLOR SlateBlue]Cine,Romance,Drama[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· Una actriz sin éxito regresa a su ciudad natal para una boda y trata de impresionar a sus viejas amistades diciéndoles que está comprometida con el famoso Chas Hunter se ve en enredada en situación cuando sus mentiras se hacen públicas.
-[COLOR teal]· País:[/COLOR] España, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Letia Clouston.
-[COLOR teal]· Reparto:[/COLOR] Lexi Atkins, Joan Severance, Brant Daugherty, Maureen McCormick, Randy Wayne, Lexi Giovagnoli, Ashley Fink.</desc>
-    <category>Cine, Romance, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5467928.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260911154800 +0200" stop="20260911172700 +0200" channel="BOM Cine">
-    <title>Sombras en el bosque</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Terror[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· Una estudiante universitaria intenta superar una infancia traumática participando en un experimento de aislamiento; estando sola en un lugar del bosque aislado, empieza a experimentar hechos preocupantes que le obligan a enfrentarse a su pasado.
-[COLOR teal]· País:[/COLOR] Canadá
-[COLOR teal]· Dirección:[/COLOR] Jim Donovan.
-[COLOR teal]· Reparto:[/COLOR] Clea Duvall, Elizabeth Whitmere, James A. Woods.</desc>
-    <category>Cine, Drama, Terror</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5735337.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260911172700 +0200" stop="20260911180700 +0200" channel="BOM Cine">
-    <title>Conspiración de poder [COLOR tomato]T2026 E1[/COLOR]</title>
-    <sub-title>[COLOR SlateBlue]Series,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
-    <desc>
-[COLOR teal]· País:[/COLOR] China, Reino Unido
-[COLOR teal]· Dirección:[/COLOR] Peter Howitt.
-[COLOR teal]· Reparto:[/COLOR] Andrew Buchan, Peter Mullan, Tamzin Outhwaite, Eric Dane, Kathleen Robertson.</desc>
-    <category>Series, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5499266.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911180700 +0200" stop="20260911185400 +0200" channel="BOM Cine">
-    <title>Conspiración de poder [COLOR tomato]T2026 E2[/COLOR]</title>
-    <sub-title>[COLOR SlateBlue]Series,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
-    <desc>
-[COLOR teal]· País:[/COLOR] China, Reino Unido
-[COLOR teal]· Dirección:[/COLOR] Peter Howitt.
-[COLOR teal]· Reparto:[/COLOR] Andrew Buchan, Peter Mullan, Tamzin Outhwaite, Eric Dane, Kathleen Robertson.</desc>
-    <category>Series, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5499266.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911185400 +0200" stop="20260911193300 +0200" channel="BOM Cine">
-    <title>Conspiración de poder [COLOR tomato]T2026 E3[/COLOR]</title>
-    <sub-title>[COLOR SlateBlue]Series,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
-    <desc>
-[COLOR teal]· País:[/COLOR] China, Reino Unido
-[COLOR teal]· Dirección:[/COLOR] Peter Howitt.
-[COLOR teal]· Reparto:[/COLOR] Andrew Buchan, Peter Mullan, Tamzin Outhwaite, Eric Dane, Kathleen Robertson.</desc>
-    <category>Series, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5499266.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911193300 +0200" stop="20260911202500 +0200" channel="BOM Cine">
-    <title>Conspiración de poder [COLOR tomato]T2026 E4[/COLOR]</title>
-    <sub-title>[COLOR SlateBlue]Series,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
-    <desc>· Miniserie de TV (2015). 4 episodios. Tras un devastador accidente en una torre de perforación que provoca un auténtico desastre medioambiental, la agente federal Ellie Molaro emprende una investigación junto a un misterioso informante llamado Carter.
-[COLOR teal]· País:[/COLOR] China, Reino Unido
-[COLOR teal]· Dirección:[/COLOR] Peter Howitt.
-[COLOR teal]· Reparto:[/COLOR] Andrew Buchan, Peter Mullan, Tamzin Outhwaite, Eric Dane, Kathleen Robertson.</desc>
-    <category>Series, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5499266.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911202500 +0200" stop="20260911220200 +0200" channel="BOM Cine">
-    <title>El Galope Salvaje</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Western,Suspense[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
-    <desc>· Mientras cuida una manada de caballos salvajes, una viuda lucha contra viento y marea por proteger un programa de reinserción para presos que lleva a cabo en su rancho.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Alex Ranarivelo.
-[COLOR teal]· Reparto:[/COLOR] Christina Moore, Sharon Stone, Jason Lewis, Tommy Flanagan, Dorian Brown Pham.</desc>
-    <category>Cine, Drama, Western, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5107565.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.9/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260911220200 +0200" stop="20260911234000 +0200" channel="BOM Cine">
-    <title>Los Pistoleros De Paso Bravo</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Drama,Acción[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· Tras pasar muchos años en prisión, Gary regresa a Paso Bravo, el lugar donde unos matones incendiaron su rancho matando a su esposa y a su hija.
-[COLOR teal]· País:[/COLOR] España, Italia
-[COLOR teal]· Dirección:[/COLOR] Salvatore Rosso.
-[COLOR teal]· Reparto:[/COLOR] Anthony Steffen, Eduardo Fajardo, Giulia Rubini, José Jaspe, José Calvo, Adriana Ambesi, Adriana Ambessi.
-[COLOR teal]· Música:[/COLOR] Angelo Francesco Lavagnino.</desc>
-    <category>Cine, Western, Drama, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5248496.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20260911234000 +0200" stop="20260912010700 +0200" channel="BOM Cine">
-    <title>Justicia ciega</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Acción[/COLOR] | [COLOR cadetblue]1994[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.7/10[/COLOR]</sub-title>
-    <desc>· Un pistolero, que queda ciego en un enfrentamiento, es curado por una bella doctora, mientras se recupera descubre que el pueblo guarda la plata del gobierno.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Richard Spence.
-[COLOR teal]· Reparto:[/COLOR] Armand Assante, Elisabeth Shue, Robert Davi, M.C. Gainey, Michael O'Neill, Carlos Cervantes, Adam Baldwin, Douglas Roberts, Gary Carlos Cervantes, Jack Black, Titus Welliver, Danny Nucci, Ian McElhinney.
-[COLOR teal]· Música:[/COLOR] Richard Gibbs.
-[COLOR teal]· Producción:[/COLOR] David Heyman, Neal H. Moritz, Rick Nathanson.</desc>
-    <category>Cine, Western, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4109397.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.7/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260912010700 +0200" stop="20260912024300 +0200" channel="BOM Cine">
-    <title>El callejón de la muerte</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Suspense[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★3.6/10[/COLOR]</sub-title>
-    <desc>· Los hermanos Dalton asolan los pueblos del oeste americano a finales del siglo XIX, hasta que los habitantes de la zona deciden plantarles cara.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Nicholas Barton.
-[COLOR teal]· Reparto:[/COLOR] Delno Ebie, Sean Gestl, Ryan T. Johnson, Corey Cannon, Carl Bailey, Kaye Brownlee-France, Nicholas Barton, Justin France, Josh Outzen, Tristan Campbell, Jake Washburn, Hannah Smith, Julia Grace Anderson, Joshua R. Outzen.</desc>
-    <category>Cine, Western, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4050108.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>3.6/10</value>
-		</star-rating>
-	</programme>
 	<programme start="20260912024300 +0200" stop="20260912042300 +0200" channel="BOM Cine">
     <title>Two lovers</title>
     <sub-title>[COLOR SlateBlue]Cine,Drama,Romance[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
@@ -330,7 +45,7 @@
 			<value>7.1/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912055600 +0200" stop="20260912061600 +0200" channel="BOM Cine">
+	<programme start="20260912055600 +0200" stop="20260912062100 +0200" channel="BOM Cine">
     <title>Descubriendo nuestros rincones [COLOR tomato]T1 E17[/COLOR]</title>
     <sub-title>[COLOR SlateBlue]Documental,Viajes y aventuras[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc>· Reportajes dedicados a recorrer y explorar distintos rincones turísticos, y el encanto de pueblos maravillosos.
@@ -342,7 +57,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20260912061600 +0200" stop="20260912064600 +0200" channel="BOM Cine">
+	<programme start="20260912062100 +0200" stop="20260912065100 +0200" channel="BOM Cine">
     <title>Descubriendo nuestros rincones [COLOR tomato]T1 E14[/COLOR]</title>
     <sub-title>[COLOR SlateBlue]Documental,Viajes y aventuras[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc>· Reportajes dedicados a recorrer y explorar distintos rincones turísticos, y el encanto de pueblos maravillosos.
@@ -354,7 +69,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20260912064600 +0200" stop="20260912071000 +0200" channel="BOM Cine">
+	<programme start="20260912065100 +0200" stop="20260912070700 +0200" channel="BOM Cine">
     <title>Valencians 100%</title>
     <sub-title>[COLOR SlateBlue]Programa,Actualidad[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc>· Un espacio de entrevistas para conocer las historias de vida de valencianos que han convertido su trabajo en un ejemplo.
@@ -365,7 +80,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20260912071000 +0200" stop="20260912082900 +0200" channel="BOM Cine">
+	<programme start="20260912070700 +0200" stop="20260912082700 +0200" channel="BOM Cine">
     <title>Army dog</title>
     <sub-title>[COLOR SlateBlue]Cine,Familiar,Aventuras[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★4.9/10[/COLOR]</sub-title>
     <desc>· Ha llegado el momento de que el Sargento Tom y Connor (su perro) regresen a casa junto a Tara, la hija adolescente de Tom, que no está precisamente ilusionada con la idea de compartir su vida con su padre y con su compañero canino.
@@ -381,7 +96,7 @@
 			<value>4.9/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912082900 +0200" stop="20260912095900 +0200" channel="BOM Cine">
+	<programme start="20260912082700 +0200" stop="20260912095700 +0200" channel="BOM Cine">
     <title>Una aventura salvaje</title>
     <sub-title>[COLOR SlateBlue]Cine,Familiar,Aventuras[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc>· Atrapados en un bosque canadiense, dos hermanos y su perro no solo tienen que enfrentarse a los osos y lobos, sino también a un incendio que les obliga a refugiarse.
@@ -394,7 +109,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20260912095900 +0200" stop="20260912112500 +0200" channel="BOM Cine">
+	<programme start="20260912095700 +0200" stop="20260912112400 +0200" channel="BOM Cine">
     <title>LA LEYENDA DE TERRAMAR [COLOR tomato]T1 E2[/COLOR]</title>
     <sub-title>[COLOR SlateBlue]Series,Fantasía,Drama[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.7/10[/COLOR]</sub-title>
     <desc>· Ged continúa su lucha con el monstruo de la sombra y llega a las tumbas de Atuan. Mientras tanto, el Rey Tygath planea liberar al mal.
@@ -410,7 +125,7 @@
 			<value>5.7/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912112500 +0200" stop="20260912125700 +0200" channel="BOM Cine">
+	<programme start="20260912112400 +0200" stop="20260912125700 +0200" channel="BOM Cine">
     <title>LA LEYENDA DE TERRAMAR [COLOR tomato]T1 E2[/COLOR]</title>
     <sub-title>[COLOR SlateBlue]Series,Fantasía,Drama[/COLOR] | [COLOR cadetblue]2005[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.7/10[/COLOR]</sub-title>
     <desc>· Ged continúa su lucha con el monstruo de la sombra y llega a las tumbas de Atuan. Mientras tanto, el Rey Tygath planea liberar al mal.
@@ -426,7 +141,7 @@
 			<value>5.7/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912125700 +0200" stop="20260912144300 +0200" channel="BOM Cine">
+	<programme start="20260912125700 +0200" stop="20260912144400 +0200" channel="BOM Cine">
     <title>La espada del asesino</title>
     <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc>· Nguyen Vu es el único superviviente de su familia ejecutada por la emperatriz. Al descubrir que todo se debía a las luchas por el poder, decide encontrar la ‘carta de sangre’ para vengarse.
@@ -442,16 +157,16 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912144300 +0200" stop="20260912165000 +0200" channel="BOM Cine">
+	<programme start="20260912144400 +0200" stop="20260912165300 +0200" channel="BOM Cine">
     <title>Dragón, la historia de Bruce Lee</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Biográfico[/COLOR] | [COLOR cadetblue]1993[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Biográfico,Documentales[/COLOR] | [COLOR cadetblue]1993[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
     <desc>· Bruce Lee tuvo una corta e intensa vida. Practica las artes marciales desde niño. Cuando emigra a San Francisco desarrolla una filosofía y una disciplina propias, lo que le da un carisma que pronto atrae el interés del cine y la televisión.
 [COLOR teal]· País:[/COLOR] Estados Unidos
 [COLOR teal]· Dirección:[/COLOR] Rob Cohen, Robert Cohen.
 [COLOR teal]· Reparto:[/COLOR] Lauren Holly, Robert Wagner, Nancy Kwan, Jason Scott Lee, Michael Learned, Kay Tong Lim, Ric Young, Sterling Macer Jr., Luoyong Wang.
 [COLOR teal]· Música:[/COLOR] Randy Edelman.
 [COLOR teal]· Producción:[/COLOR] Raffaella De Laurentiis.</desc>
-    <category>Cine, Drama, Biográfico</category>
+    <category>Cine, Drama, Biográfico, Documentales</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3996140.jpg" />
 		<rating system="ES">
 			<value>16</value>
@@ -460,7 +175,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912165000 +0200" stop="20260912183900 +0200" channel="BOM Cine">
+	<programme start="20260912165300 +0200" stop="20260912184200 +0200" channel="BOM Cine">
     <title>Comando en el desierto</title>
     <sub-title>[COLOR SlateBlue]Cine,Drama,Acción[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.5/10[/COLOR]</sub-title>
     <desc>· Durante la IIGM las tropas británicas están en marcha hacia el Norte de África para enfrentarse al ejército del III Reich.
@@ -478,7 +193,7 @@
 			<value>5.5/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912183900 +0200" stop="20260912203400 +0200" channel="BOM Cine">
+	<programme start="20260912184200 +0200" stop="20260912203900 +0200" channel="BOM Cine">
     <title>Robo a mano armada</title>
     <sub-title>[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]1985[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
     <desc>· Australia, siglo XIX. El capitán Starlight es una leyenda, dejó Inglaterra y ahora lidera una banda de foragidos asalta trenes.
@@ -494,7 +209,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912203400 +0200" stop="20260912220000 +0200" channel="BOM Cine">
+	<programme start="20260912203900 +0200" stop="20260912220300 +0200" channel="BOM Cine">
     <title>Valle prohibido</title>
     <sub-title>[COLOR SlateBlue]Cine,Western,Drama[/COLOR] | [COLOR cadetblue]1957[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
     <desc>· Ned Bannon es un pistolero que llega a un pueblo dominado por Hardy Bishop, un antiguo enemigo. Allí los conflictos marcan el día a día del pueblo, máxime cuando unos granjeros pretenden asentarse.
@@ -510,7 +225,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260912220000 +0200" stop="20260912234200 +0200" channel="BOM Cine">
+	<programme start="20260912220300 +0200" stop="20260912234700 +0200" channel="BOM Cine">
     <title>Algo para un hombre solitario</title>
     <sub-title>[COLOR SlateBlue]Cine,Otros,Western[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
     <desc>· El herrero de una pequeña ciudad del oeste es un marginado. Se había llevado a los ciudadanos al oeste con la esperanza de comenzar una nueva vida, sólo para conseguir que la ciudad que fundaron debe ser pasado por alto por el ferrocarril.
@@ -523,7 +238,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20260912234200 +0200" stop="20260913011000 +0200" channel="BOM Cine">
+	<programme start="20260912234700 +0200" stop="20260913011600 +0200" channel="BOM Cine">
     <title>El último forajido</title>
     <sub-title>[COLOR SlateBlue]Cine,Acción,Western[/COLOR] | [COLOR cadetblue]1993[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.1/10[/COLOR]</sub-title>
     <desc>· Luego de que su último robo no saliera bien, será traicionado por sus hombres. Ahora, ha decidido vengarse asesinándolos uno a uno.
@@ -539,7 +254,7 @@
 			<value>6.1/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260913011000 +0200" stop="20260913024800 +0200" channel="BOM Cine">
+	<programme start="20260913011600 +0200" stop="20260913025500 +0200" channel="BOM Cine">
     <title>Cazadores de medianoche</title>
     <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]1999[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★5.2/10[/COLOR]</sub-title>
     <desc>· Un violento y peligroso tirano domina a los habitantes de una montaña. Su autoridad peligra con la llegada de un veterano de la I Guerra Mundial, por lo que pretenderá darle caza y eliminarlo.
@@ -557,7 +272,7 @@
 			<value>5.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260913024800 +0200" stop="20260913041100 +0200" channel="BOM Cine">
+	<programme start="20260913025500 +0200" stop="20260913041800 +0200" channel="BOM Cine">
     <title>Acariciando la muerte</title>
     <sub-title>[COLOR SlateBlue]Cine,Acción,Policíaco[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Un oficial de la policía recibe órdenes del FBI de capturar a un amigo suyo, a quien le anexan contactos con la mafia.
@@ -570,7 +285,7 @@
 			<value>18</value>
 		</rating>
 	</programme>
-	<programme start="20260913041100 +0200" stop="20260913055400 +0200" channel="BOM Cine">
+	<programme start="20260913041800 +0200" stop="20260913060200 +0200" channel="BOM Cine">
     <title>Dalí</title>
     <sub-title>[COLOR SlateBlue]Cine,Biográfico[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
     <desc>· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
@@ -587,7 +302,7 @@
 			<value>5.9/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260913055400 +0200" stop="20260913061700 +0200" channel="BOM Cine">
+	<programme start="20260913060200 +0200" stop="20260913062700 +0200" channel="BOM Cine">
     <title>Descubriendo nuestros rincones [COLOR tomato]T1 E20[/COLOR]</title>
     <sub-title>[COLOR SlateBlue]Documental,Viajes y aventuras[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
     <desc>· Reportajes dedicados a recorrer y explorar distintos rincones turísticos, y el encanto de pueblos maravillosos.
@@ -599,151 +314,523 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20260913061700 +0200" stop="20260913080000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+	<programme start="20260913062700 +0200" stop="20260913070100 +0200" channel="BOM Cine">
+    <title>Descubriendo nuestros rincones [COLOR tomato]T1 E5[/COLOR]</title>
+    <sub-title>[COLOR SlateBlue]Documental,Viajes y aventuras[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Reportajes dedicados a recorrer y explorar distintos rincones turísticos, y el encanto de pueblos maravillosos.
 [COLOR teal]· País:[/COLOR] España
 [COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+    <category>Documental, Viajes y aventuras</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5293153.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260913070100 +0200" stop="20260913071200 +0200" channel="BOM Cine">
+    <title>Valencians 100%</title>
+    <sub-title>[COLOR SlateBlue]Programa,Actualidad[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Un espacio de entrevistas para conocer las historias de vida de valencianos que han convertido su trabajo en un ejemplo.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <category>Programa, Actualidad</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5682309.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260913071200 +0200" stop="20260913084600 +0200" channel="BOM Cine">
+    <title>Hércules y la reina de lidia</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Fantasía,Aventuras[/COLOR] | [COLOR cadetblue]1959[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]</sub-title>
+    <desc>· Mientras negocia la paz entre dos hermanos que se disputan el trono de Tebas, un Hércules amnésico es seducido por la malvada reina Onfalia.
+[COLOR teal]· País:[/COLOR] España, Francia, Italia
+[COLOR teal]· Dirección:[/COLOR] Pietro Francisci, Mario Bava.
+[COLOR teal]· Reparto:[/COLOR] Steve Reeves, Sylva Koscina, Sylvia Lopez, Gabriele Antonini, Primo Carnera, Sergio Fantoni, Fulvia Franco, Patrizia Della Rovere.
+[COLOR teal]· Música:[/COLOR] Enzo Masetti.
+[COLOR teal]· Producción:[/COLOR] Bruno Vailati.</desc>
+    <category>Cine, Acción, Fantasía, Aventuras</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4040082.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260913084600 +0200" stop="20260913104800 +0200" channel="BOM Cine">
+    <title>El juramento del corsario negro</title>
+    <sub-title>[COLOR SlateBlue]Cine,Aventuras,Acción,Animación,Infantil[/COLOR] | [COLOR cadetblue]1976[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
+    <desc>· El Corsario Negro, un pirata de noble cuna, jura no descansar hasta vengar el asesinato de su familia.
+[COLOR teal]· País:[/COLOR] Italia, Japón
+[COLOR teal]· Dirección:[/COLOR] Sergio Sollima, Kim Jun Ok.
+[COLOR teal]· Reparto:[/COLOR] Kabir Bedi, Carole André, Mel Ferrer, Angelo Infanti, Sonja Jeannine, Nicolò Piccolomini, Franco Fantasia, Guido Alberti, Sal Borgese, Jackie Basehart.
+[COLOR teal]· Música:[/COLOR] Guido De Angelis, Maurizio De Angelis.
+[COLOR teal]· Producción:[/COLOR] Luigi Rovere.</desc>
+    <category>Cine, Aventuras, Acción, Animación, Infantil</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009004.jpg" />
+		<rating system="ES">
+			<value>13</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260913104800 +0200" stop="20260913123900 +0200" channel="BOM Cine">
+    <title>Patrulla de rescate</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1964[/COLOR] | [COLOR yellow]⑬[/COLOR]</sub-title>
+    <desc>· La acción se desarrolla en torno a una operación de rescate para salvar a los supervivientes de un tifón que afecta a la costa japonesa.
+[COLOR teal]· País:[/COLOR] Japón, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Michael Anderson.
+[COLOR teal]· Reparto:[/COLOR] Richard Widmark, Shirley Knight, Yul Brynner, George Chakiris, Suzy Parker.
+[COLOR teal]· Música:[/COLOR] Frank Cordell.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012932.jpg" />
+		<rating system="ES">
+			<value>13</value>
+		</rating>
+	</programme>
+	<programme start="20260913123900 +0200" stop="20260913143200 +0200" channel="BOM Cine">
+    <title>Llanura roja</title>
+    <sub-title>[COLOR SlateBlue]Cine,Aventuras,Acción,Drama[/COLOR] | [COLOR cadetblue]1954[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc>· Durante la Segunda Guerra Mundial, un piloto atraviesa parte del territorio de Birmania, ayudado por una joven nativa de la que se enamora.
+[COLOR teal]· País:[/COLOR] Reino Unido, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Robert Parrish.
+[COLOR teal]· Reparto:[/COLOR] Gregory Peck, Win Min Than, Maurice Denham, Brenda de Banzie, Bernard Lee, Lyndon Brook, Anthony Bushell, Jack McNaughton, Ram Gopal, Josephine Griffin.
+[COLOR teal]· Música:[/COLOR] John Veale.
+[COLOR teal]· Producción:[/COLOR] John Bryan.</desc>
+    <category>Cine, Aventuras, Acción, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012840.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260913143200 +0200" stop="20260913163100 +0200" channel="BOM Cine">
+    <title>Ulises</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras[/COLOR] | [COLOR cadetblue]1954[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc>· Terminada la guerra de Troya con la victoria de los griegos, Ulises navegará durante diez largos años antes de llegar a su palacio de Ítaca.
+[COLOR teal]· País:[/COLOR] Francia, Italia, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Mario Camerini, Mario Bava.
+[COLOR teal]· Reparto:[/COLOR] Kirk Douglas, Anthony Quinn, Silvana Mangano, Rossana Podestà, Jacques Dumesnil, Daniel Ivernel, Sylvie.
+[COLOR teal]· Música:[/COLOR] Alessandro Cicognini.
+[COLOR teal]· Producción:[/COLOR] Dino De Laurentiis, Carlo Ponti.</desc>
+    <category>Cine, Acción, Aventuras</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012788.jpg" />
+		<rating system="ES">
+			<value>13</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260913163100 +0200" stop="20260913182600 +0200" channel="BOM Cine">
+    <title>Sindicato de asesinos</title>
+    <sub-title>[COLOR SlateBlue]Cine,Policíaco,Drama[/COLOR] | [COLOR cadetblue]1968[/COLOR] | [COLOR yellow]⑬[/COLOR] | [COLOR gold]★5.2/10[/COLOR]</sub-title>
+    <desc>· Schuyler es un policía poco ortodoxo que acostumbra a emplear con cierta asiduidad la violencia en sus detenciones. Consciente de su problema e influido por los numerosos toques de atención recibidos por sus superiores, decide entregar su placa.
+[COLOR teal]· País:[/COLOR] Alemania, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] David Lowell Rich.
+[COLOR teal]· Reparto:[/COLOR] Kirk Douglas, Sylva Koscina, Eli Wallach, Kenneth Haigh, Martyn Green.
+[COLOR teal]· Música:[/COLOR] Kenyon Hopkins.
+[COLOR teal]· Producción:[/COLOR] Richard Lewis.</desc>
+    <category>Cine, Policíaco, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5714914.jpg" />
+		<rating system="ES">
+			<value>13</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260913182600 +0200" stop="20260913203300 +0200" channel="BOM Cine">
+    <title>Sol rojo</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Western[/COLOR] | [COLOR cadetblue]1971[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.8/10[/COLOR]</sub-title>
+    <desc>· En 1860, un tren que cruza Arizona es asaltado. Los ladrones se llevan un cargamento de oro y una valiosa espada que el embajador japonés traía como regalo al presidente.
+[COLOR teal]· País:[/COLOR] España, Francia, Italia
+[COLOR teal]· Dirección:[/COLOR] Terence Young.
+[COLOR teal]· Reparto:[/COLOR] Charles Bronson, Ursula Andress, Alain Delon, Toshiro Mifune, Capucine, Julio Peña, Luc Merenda, Anthony Dawson, John Hamilton, Mónica Randall, Bart Barry, Lee Burton, Guido Lollobrigida, Barta Barri.
+[COLOR teal]· Música:[/COLOR] Maurice Jarre.
+[COLOR teal]· Producción:[/COLOR] Ted Richmond.</desc>
+    <category>Cine, Acción, Western</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009048.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260913203300 +0200" stop="20260913220000 +0200" channel="BOM Cine">
+    <title>El último mohicano</title>
+    <sub-title>[COLOR SlateBlue]Cine,Aventuras,Acción[/COLOR] | [COLOR cadetblue]1992[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.6/10[/COLOR]</sub-title>
+    <desc>· 1757, hace tres años que franceses e ingleses luchan en tierras norteamericanas. Mandos británicos reclutan a gentes del lugar, nativos y granjeros asentados para formar una milicia capaz de enfrentarse al ejército franco-indio que se acerca por el sur.
+[COLOR teal]· País:[/COLOR] Alemania, Rusia, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Michael Mann.
+[COLOR teal]· Reparto:[/COLOR] Steven Waddington, Madeleine Stowe, Wes Studi, Terry Kinney, Colm Meaney, Daniel Day-Lewis, Pete Postlethwaite, Russell Means, Eric Schweig, Jodhi May, Maurice Roëves, Patrice Chéreau, Edward Blatchford, Tracey Ellis, Justin M. Rice, Dennis Banks, Jared Harris.
+[COLOR teal]· Música:[/COLOR] Trevor Howard, Randy Edelman, Clannad.
+[COLOR teal]· Producción:[/COLOR] Hunt Lowry, Michael Mann.</desc>
+    <category>Cine, Aventuras, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5150321.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260913220000 +0200" stop="20260913233400 +0200" channel="BOM Cine">
+    <title>Yellow Rock</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★4.4/10[/COLOR]</sub-title>
+    <desc>· Un hombre que busca a su hijo desaparecido contrata a un grupo de vaqueros para que le lleven al territorio controlado por los indios Black Paw. Cuando dan con un antiguo cementerio, su codicia los separa y el grupo se enfrenta.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Nick Vallelonga.
+[COLOR teal]· Reparto:[/COLOR] Lenore Andriel, Michael Spears, Michael Biehn, Eddie Spears, Peter Sherayko, James Russo, Christopher Backus, Clay Wilcox, Brian Gleason, Amy Jennings, Richard Biehn.</desc>
+    <category>Cine, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4002195.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260913233400 +0200" stop="20260914010200 +0200" channel="BOM Cine">
+    <title>Justice</title>
+    <sub-title>[COLOR SlateBlue]Cine,Western,Acción,Drama[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Un miembro de los US Marshal que busca justicia por el asesinato de su hermano defiende un pequeño pueblo de un alcalde corrupto.
+[COLOR teal]· País:[/COLOR] México, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Richard Gabai.
+[COLOR teal]· Reparto:[/COLOR] Stephen Lang, Jamie-Lynn Sigler, Jackson Rathbone, Nathan Parsons, Lesley-Anne Down, Ellen Hollman, Robert Carradine.
+[COLOR teal]· Música:[/COLOR] Boris Zelkin.
+[COLOR teal]· Producción:[/COLOR] John Lewis, AJ Perez, Sean Skelding.</desc>
+    <category>Cine, Western, Acción, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4012984.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260914010200 +0200" stop="20260914022600 +0200" channel="BOM Cine">
+    <title>Dura recompensa</title>
+    <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]1995[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Cuando una prostituta es asesinada, un cazarrecompensas y las compañeras de ésta sólo tienen venganza en la mente, y se disponen a atrapar al asesino.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Jim Wynorski.
+[COLOR teal]· Reparto:[/COLOR] Matt McCoy, Kelly LeBrock, John Terlesky, Kimberly Kelley, Rochelle Swanson.
+[COLOR teal]· Música:[/COLOR] Taj.
+[COLOR teal]· Producción:[/COLOR] Jim Wynorski.</desc>
+    <category>Cine, Western</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4151210.jpg" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
 	</programme>
-	<programme start="20260913080000 +0200" stop="20260913120000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+	<programme start="20260914022600 +0200" stop="20260914035600 +0200" channel="BOM Cine">
+    <title>El último cazador</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Dos soldados y un periodista emprenden la difícil misión de destruir una emisora de radio del Viet Cong.
+[COLOR teal]· País:[/COLOR] Italia
+[COLOR teal]· Dirección:[/COLOR] Antonio Margheriti.
+[COLOR teal]· Reparto:[/COLOR] David Warbeck, Tony King, Massimo Vanni, Tisa Farrow, Margie Newton, Bobby Rhodes.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4150921.jpg" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
 	</programme>
-	<programme start="20260913120000 +0200" stop="20260913160000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+	<programme start="20260914035600 +0200" stop="20260914052100 +0200" channel="BOM Cine">
+    <title>Rojo caliente</title>
+    <sub-title>[COLOR SlateBlue]Cine,Suspense[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Una mujer es encarcelada y se ve sumida en un mundo de violaciones, mientras su prometido luchará para sacarla de allí.
+[COLOR teal]· País:[/COLOR] Austria, Alemania
+[COLOR teal]· Dirección:[/COLOR] Robert Collector, Ernst Ritter von Theumer.
+[COLOR teal]· Reparto:[/COLOR] Linda Blair, William Ostrander, Elisabeth Volkmann, Sue Kiel, Sylvia Kristel.</desc>
+    <category>Cine, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4244400.jpg" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
 	</programme>
-	<programme start="20260913160000 +0200" stop="20260913200000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+	<programme start="20260914052100 +0200" stop="20260914060000 +0200" channel="BOM Cine">
+    <title>Torremolinos 73</title>
+    <sub-title>[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc>· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
+[COLOR teal]· País:[/COLOR] Dinamarca, España
+[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
+[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González, Ramón Barea, Bjarne Henriksen, Mari-Anne Jespersen, Tom Jacobson, Germán Montañer, Jaime Blanch, Máximo Valverde.
+[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
+[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
+    <category>Cine, Comedia</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008900.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260914060000 +0200" stop="20260914064300 +0200" channel="BOM Cine">
+    <title>Torremolinos 73</title>
+    <sub-title>[COLOR SlateBlue]Cine,Comedia[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.5/10[/COLOR]</sub-title>
+    <desc>· En 1973, un vendedor de enciclopedias y su esposa colaboran en una cinta porno dirigida por un danés.
+[COLOR teal]· País:[/COLOR] Dinamarca, España
+[COLOR teal]· Dirección:[/COLOR] Pablo Berger.
+[COLOR teal]· Reparto:[/COLOR] Javier Cámara, Candela Peña, Juan Diego, Malena Alterio, Fernando Tejero, Mads Mikkelsen, Mariví Bilbao, Nuria González, Ramón Barea, Bjarne Henriksen, Mari-Anne Jespersen, Tom Jacobson, Germán Montañer, Jaime Blanch, Máximo Valverde.
+[COLOR teal]· Música:[/COLOR] Nacho Mastretta.
+[COLOR teal]· Producción:[/COLOR] Tomás Cimadevilla.</desc>
+    <category>Cine, Comedia</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4008900.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.5/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260914064300 +0200" stop="20260914071300 +0200" channel="BOM Cine">
+    <title>Descubriendo nuestros rincones [COLOR tomato]T1 E20[/COLOR]</title>
+    <sub-title>[COLOR SlateBlue]Documental,Viajes y aventuras[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
+    <desc>· Reportajes dedicados a recorrer y explorar distintos rincones turísticos, y el encanto de pueblos maravillosos.
 [COLOR teal]· País:[/COLOR] España
 [COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+    <category>Documental, Viajes y aventuras</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5293153.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260914071300 +0200" stop="20260914090000 +0200" channel="BOM Cine">
+    <title>Madame Bovary</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Romance[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR magenta]⑦[/COLOR]</sub-title>
+    <desc>· Adaptación que Vincente Minelli hizo de la novela clásica de Flaubert sobre las infidelidades de la soñadora esposa de un aburrido doctor del campo.
+[COLOR teal]· País:[/COLOR] Bélgica, Alemania, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Tim Fywell.
+[COLOR teal]· Reparto:[/COLOR] Frances O'Connor, Hugh Bonneville, Eileen Atkins, Hugh Dancy, Greg Wise, Rhys Ifans, Ezra Miller, Mia Wasikowska, Henry Lloyd-Hughes, Logan Marshall-Green, Laura Carmichael, Olivier Gourmet.
+[COLOR teal]· Música:[/COLOR] John Lunn.
+[COLOR teal]· Producción:[/COLOR] Tony Redston.</desc>
+    <category>Cine, Drama, Romance</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4151198.jpg" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+	</programme>
+	<programme start="20260914090000 +0200" stop="20260914105900 +0200" channel="BOM Cine">
+    <title>Monsieur chocolat</title>
+    <sub-title>[COLOR SlateBlue]Cine,Romance,Drama[/COLOR] | [COLOR cadetblue]2000[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★7.2/10[/COLOR]</sub-title>
+    <desc>· Vianne y su hija llegan a Lansquenet, donde inauguran una chocolatería repleta de dulces capaces de despertar los ocultos apetitos de sus habitantes.
+[COLOR teal]· País:[/COLOR] Francia, Reino Unido, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Lasse Hallström, Harvey Weinstein, Roschdy Zem.
+[COLOR teal]· Reparto:[/COLOR] Juliette Binoche, Alfred Molina, Carrie-Anne Moss, Johnny Depp, Aurelien Parent-Koenig, Antonio Gil-Martinez, Helene Cardone, Lena Olin, Peter Stormare, Judi Dench, Leslie Caron, Ron Cook, John Wood, Antonio Gil, Hugh O'Conor, Hélène Cardona Cardona, Harrison Pratt, Guillaume Tardieu, Victoire Thivisol, Elisabeth Commelin, Gaelan Connell, Omar Sy, Alice de Lencquesaing, Clotilde Hesme, Frédéric Pierrot, Olivier Gourmet.
+[COLOR teal]· Música:[/COLOR] Rachel Portman, Gabriel Yared.
+[COLOR teal]· Producción:[/COLOR] David Brown, Kit Golden, Leslie Holleran.</desc>
+    <category>Cine, Romance, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4216889.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260914105900 +0200" stop="20260914124700 +0200" channel="BOM Cine">
+    <title>La ambición de jodie palmer</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1981[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
+    <desc>· Jodie es una chica de un pueblo de Texas que sueña con vivir en California. Trabaja como telefonista en Dallas y esta locamente enamorada de su novio Kyle.
+[COLOR teal]· País:[/COLOR] Reino Unido, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] David Greene.
+[COLOR teal]· Reparto:[/COLOR] Michael Parks, Kim Basinger, Tanya Tucker, Jan-Michael Vincent, Gailard Sartain, Daryl Hannah, Ted Neeley, Lewis Van Bergen, Jean-Michael Vincent, Curtis Credel, Sierra Pecheur.
+[COLOR teal]· Música:[/COLOR] Jimmie Haskell, Michael Martin Murphey.
+[COLOR teal]· Producción:[/COLOR] Mack Bing, David Greene.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4659845.jpg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260914124700 +0200" stop="20260914142100 +0200" channel="BOM Cine">
+    <title>La usurpadora</title>
+    <sub-title>[COLOR SlateBlue]Cine,Suspense[/COLOR] | [COLOR cadetblue]2015[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Dos gemelas separadas se encuentran y una de ellas le pide a la otra ocupar su lugar.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Jim Issa.
+[COLOR teal]· Reparto:[/COLOR] Sean O'Bryan, Kate Ashfield, Ashley Dulaney, Shelby Young, Patrick Pitu.</desc>
+    <category>Cine, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5441031.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260914142100 +0200" stop="20260914155000 +0200" channel="BOM Cine">
+    <title>Silencio roto</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Invierno de 1944. Lucía, de 21 años, llega a un pequeño pueblo de montaña. Allí conoce Manuel, un joven herrero que colabora con los maquis: guerrilleros que, ocultos en la sierra, no se resignan al triunfo del franquismo.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] John Stimpson.
+[COLOR teal]· Reparto:[/COLOR] Liz Vassey, Jenn Proske, Ryan Kelley, Judith Hoag, Kelli Goss, Celeste Oliva.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5171596.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260914155000 +0200" stop="20260914171900 +0200" channel="BOM Cine">
+    <title>Justicia fatal</title>
+    <sub-title>[COLOR SlateBlue]Cine,Suspense,Drama,Acción[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Mientras Karen está de compras junto con su sobrina, una banda de atracadores irrumpen en la tienda secuestrando a la pequeña. Durante el cautiverio, la mujer recuerda el cruel asesinato de su hermano años atrás.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Michael Feifer.
+[COLOR teal]· Reparto:[/COLOR] Brian Krause, Frances Fisher, Kym Jackson, Cynthia Watros, Danika Yarosh.</desc>
+    <category>Cine, Suspense, Drama, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5735340.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260914171900 +0200" stop="20260914185100 +0200" channel="BOM Cine">
+    <title>Apagón en Los Ángeles</title>
+    <sub-title>[COLOR SlateBlue]Series,Acción[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Después de haber sido acusado de piratear el sistema de seguridad del Pentágono, el pirata informático Josh Martin, bajo arresto domiciliario, es secuestrado por un grupo paramilitar que quiere provocar el caos total en Los Angeles.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Bradford May.
+[COLOR teal]· Reparto:[/COLOR] Haylie Duff, Eriq La Salle, Thai Edwards, Kevin Ketcham, Anne Heche, James Brolin, Justin Baldoni, Derek Anthony, Lee Reherman, Diana Parros, Brian Bloom, Sean Patrick Flanery, Sean Patrick, Flannery James Brolin.</desc>
+    <category>Series, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4192418.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260914185100 +0200" stop="20260914202400 +0200" channel="BOM Cine">
+    <title>Apagón en Los Ángeles</title>
+    <sub-title>[COLOR SlateBlue]Series,Acción[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
+    <desc>· Después de haber sido acusado de piratear el sistema de seguridad del Pentágono, el pirata informático Josh Martin, bajo arresto domiciliario, es secuestrado por un grupo paramilitar que quiere provocar el caos total en Los Angeles.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Bradford May.
+[COLOR teal]· Reparto:[/COLOR] Haylie Duff, Eriq La Salle, Thai Edwards, Kevin Ketcham, Anne Heche, James Brolin, Justin Baldoni, Derek Anthony, Lee Reherman, Diana Parros, Brian Bloom, Sean Patrick Flanery, Sean Patrick, Flannery James Brolin.</desc>
+    <category>Series, Acción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4192418.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20260914202400 +0200" stop="20260914220000 +0200" channel="BOM Cine">
+    <title>No hay piedad</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
+    <desc>· Mimmo adora su trabajo de albañil. Debido a su corpulenta complexión y a su carácter, es empleado por el clan que lidera su tío para recibir cobros de manera un tanto agresiva.
+[COLOR teal]· País:[/COLOR] Italia
+[COLOR teal]· Dirección:[/COLOR] Michele Alhaique.
+[COLOR teal]· Reparto:[/COLOR] Claudio Gioè, Ninetto Davoli, Iris Peynado, Pierfrancesco Favino, Greta Scarano, Adriano Giannini, Pierfrancoesco Favino.</desc>
+    <category>Cine, Drama, Policíaco, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5041801.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.9/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260914220000 +0200" stop="20260914232800 +0200" channel="BOM Cine">
+    <title>Cleaner</title>
+    <sub-title>[COLOR SlateBlue]Cine,Policíaco,Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.3/10[/COLOR]</sub-title>
+    <desc>· Un ex policía que ahora gana un salario como limpiador de la escena del crimen, sin saberlo, participa en un encubrimiento en su último trabajo.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Renny Harlin.
+[COLOR teal]· Reparto:[/COLOR] Luis Guzmán, Eva Mendes, Christa Campbell, Robert Forster, Ed Harris, Samuel L. Jackson, Maggie Lawson, Keke Palmer, José Pablo Cantillo, Marc Macaulay, Edrick Browne, Rosalind Rubin, James Barnes, Mike Guy, Richard Folmer, Linda Leonard.
+[COLOR teal]· Música:[/COLOR] Richard Gibbs.
+[COLOR teal]· Producción:[/COLOR] Samuel L. Jackson, Avi Lerner, Lati Grobman, Steve Golin, Michael P. Flannigan.</desc>
+    <category>Cine, Policíaco, Suspense</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4116569.jpg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>4.3/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260914232800 +0200" stop="20260915005500 +0200" channel="BOM Cine">
+    <title>Infalible</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Policíaco,Humor Negro[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
+    <desc>· Tres amigos se divierten planeando asaltos perfectos como hobby, sin tener la menor intención de llevarlos adelante. Un gángster encontrará parte de su material e intentará chantajearlos para que realicen un robo millonario.
+[COLOR teal]· País:[/COLOR] Canadá, Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] William Phillips.
+[COLOR teal]· Reparto:[/COLOR] Ryan Reynolds, Kristin Booth, Joris Jarsky, Sean Sullivan, Tara Slone, David Suchet, David Hewlett, James Allodi, Soo Garay, Wai Choy, William House.
+[COLOR teal]· Música:[/COLOR] Jim McGrath.
+[COLOR teal]· Producción:[/COLOR] Billy House, Seaton McLean.</desc>
+    <category>Cine, Acción, Policíaco, Humor Negro</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4017111.jpg" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20260913200000 +0200" stop="20260914000000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+	<programme start="20260915005500 +0200" stop="20260915022700 +0200" channel="BOM Cine">
+    <title>Fuerza máxima</title>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Ciencia Ficción[/COLOR] | [COLOR cadetblue]1997[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc>· Una empresa china diseña un prototipo de biomotor y lo se lo implanta a Toby Wong. El dispositivo le convierte en una máquina de matar.
+[COLOR teal]· País:[/COLOR] Estados Unidos
+[COLOR teal]· Dirección:[/COLOR] Steve Wang.
+[COLOR teal]· Reparto:[/COLOR] Mark Dacascos, Kadeem Hardison, John Pyper-Ferguson, Brittany Murphy, Tracey Walter, Masaya Kato, James Shigeta, Clive Rosengren, Dom Magwili Magwili, Ron Yuan.</desc>
+    <category>Cine, Acción, Ciencia Ficción</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009016.jpg" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20260914000000 +0200" stop="20260914040000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+	<programme start="20260915022700 +0200" stop="20260915035500 +0200" channel="BOM Cine">
+    <title>Ven con papá</title>
+    <sub-title>[COLOR SlateBlue]Cine,Suspense,Terror[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
+    <desc>· La vida de Norval está siendo difícil. Mientras vive con su madre entra y sale de terapias de rehabilitación relacionadas con el alcohol. Un día recibe una carta de su padre solicitando una visita.
+[COLOR teal]· País:[/COLOR] Canadá, Irlanda, Nueva Zelanda
+[COLOR teal]· Dirección:[/COLOR] Ant Timpson.
+[COLOR teal]· Reparto:[/COLOR] Elijah Wood, Stephen McHattie, Garfield Wilson, Madeleine Sami, Martin Donovan, Michael Smiley, Ona Grauer, Simon Chin, Oliver Wilson, Gord Middleton, Alla Rouba, Raresh DiMofte.</desc>
+    <category>Cine, Suspense, Terror</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4049441.jpg" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20260914040000 +0200" stop="20260914080000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+	<programme start="20260915035500 +0200" stop="20260915052200 +0200" channel="BOM Cine">
+    <title>Cosas insignificantes</title>
+    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
+    <desc>· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
+[COLOR teal]· País:[/COLOR] España, México
+[COLOR teal]· Dirección:[/COLOR] Andrea Martínez Crowther.
+[COLOR teal]· Reparto:[/COLOR] Jonathan Bravo, Regina De Los Cobos, Fátima Díaz, Carmelo Gómez, Fernando Luján, Lucía Jimenez, Bárbara Mori, Paulina Gaitán.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027562.jpg" />
 		<rating system="ES">
-			<value>18</value>
+			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20260914080000 +0200" stop="20260914120000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+	<programme start="20260915052200 +0200" stop="20260915070600 +0200" channel="BOM Cine">
+    <title>Dalí</title>
+    <sub-title>[COLOR SlateBlue]Cine,Biográfico[/COLOR] | [COLOR cadetblue]1991[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.9/10[/COLOR]</sub-title>
+    <desc>· Todavía desconocido en America, Dalí cuenta a un joven reportero la extraordinaria historia de su vida.
+[COLOR teal]· País:[/COLOR] Bulgaria, España
+[COLOR teal]· Dirección:[/COLOR] Antoni Ribas.
+[COLOR teal]· Reparto:[/COLOR] Lorenzo Quinn, Sarah Douglas, Valentín Fernández-Tubau, Michael Catlin, Rosa Novell, Francisco Guijar, Katherine Wallach.
+[COLOR teal]· Música:[/COLOR] Antonio Sechi.</desc>
+    <category>Cine, Biográfico</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4009068.jpg" />
 		<rating system="ES">
-			<value>18</value>
+			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.9/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20260914120000 +0200" stop="20260914160000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20260914160000 +0200" stop="20260914200000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20260914200000 +0200" stop="20260915000000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20260915000000 +0200" stop="20260915040000 +0200" channel="BOM Cine">
-    <title>Bom Cine</title>
-    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Programa, Otros</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-	</programme>
-	<programme start="20260915040000 +0200" stop="20260915080000 +0200" channel="BOM Cine">
+	<programme start="20260915070600 +0200" stop="20260915080000 +0200" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
@@ -936,6 +1023,78 @@
 		</rating>
 	</programme>
 	<programme start="20260917200000 +0200" stop="20260918000000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260918000000 +0200" stop="20260918040000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260918040000 +0200" stop="20260918080000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260918080000 +0200" stop="20260918120000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260918120000 +0200" stop="20260918160000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260918160000 +0200" stop="20260918200000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20260918200000 +0200" stop="20260919000000 +0200" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
