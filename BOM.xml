@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/10/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 18/10/2026 08:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="BOM Cine">
 		<display-name>BOM Cine</display-name>
 		<display-name>BOM Cine.TV</display-name>
@@ -11,252 +11,11 @@
 		<display-name>BOM Cine 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
 	</channel>
-	<programme start="20261017030900 +0200" stop="20261017043200 +0200" channel="BOM Cine">
-    <title>Tiempo para morir</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Policíaco[/COLOR]</sub-title>
-    <desc>· Tres muchachos deciden hacer su última travesura el último día de clases, pero el plan sale mal y acaban siendo tomados como rehenes por unos ladrones.</desc>
-    <category>Cine, Drama, Policíaco</category>
-	</programme>
-	<programme start="20261017043200 +0200" stop="20261017060000 +0200" channel="BOM Cine">
-    <title>Cosas Insignificantes</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc>· La joven Esmeralda tiene una caja donde guarda objetos perdidos o tirados por gente a la que no conoce.
-[COLOR teal]· País:[/COLOR] España, México
-[COLOR teal]· Dirección:[/COLOR] Andrea Martínez Crowther.
-[COLOR teal]· Reparto:[/COLOR] Jonathan Bravo, Regina De Los Cobos, Fátima Díaz, Carmelo Gómez, Fernando Luján, Lucía Jimenez, Bárbara Mori, Paulina Gaitán.
-[COLOR teal]· Guion:[/COLOR] Andrea Martínez Crowther.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4027562.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017060000 +0200" stop="20261017065900 +0200" channel="BOM Cine">
-    <title>Gaudí.</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama[/COLOR] | [COLOR cadetblue]1989[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Dirigido por Manuel Huerga, ficción-documental en blanco y negro sobre la vida y obra del arquitecto Antonio Gaudí.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] José María Argemí, Manuel Huerga.
-[COLOR teal]· Reparto:[/COLOR] Maria Matilde Almendros, Rafael Anglada, José María Caffarel, Mario Beut, Carles Sabater, Luis Padrós, Jesús Orús, Elisabeth Escayola, Santi Claramunt.
-[COLOR teal]· Guion:[/COLOR] José María Argemí, Mario Lacruz, Dolores Payás, Carles Hac Mor.
-[COLOR teal]· Música:[/COLOR] Xavier Montsalvatge.</desc>
-    <category>Cine, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4618310.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261017065900 +0200" stop="20261017072100 +0200" channel="BOM Cine">
-    <title>Descubriendo nuestros rincones [COLOR tomato]T1 E7[/COLOR]</title>
-    <sub-title>[COLOR SlateBlue]Documental,Viajes y aventuras[/COLOR] | [COLOR cadetblue]2020[/COLOR] | [COLOR lime]TP[/COLOR]</sub-title>
-    <desc>· Reportajes dedicados a recorrer y explorar distintos rincones turísticos, y el encanto de pueblos maravillosos.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
-    <category>Documental, Viajes y aventuras</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5293153.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261017072100 +0200" stop="20261017084100 +0200" channel="BOM Cine">
-    <title>La vida ante sus ojos</title>
-    <sub-title>[COLOR SlateBlue]Cine,Suspense[/COLOR] | [COLOR cadetblue]2007[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc>· Una hermosa historia sobre el amor, el deber, la lealtad, la conciencia y el instinto de supervivencia.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Vadim Perelman.
-[COLOR teal]· Reparto:[/COLOR] Uma Thurman, Evan Rachel Wood, Oscar Isaac, Brett Cullen, Gabrielle Brennan, Eva Amurri, John Magaro, Lynn Cohen, Anna Moore, Molly Price, Jack Gilpin, Maggie Lacey Lacey, Nathalie Paulding, Oliver Solomon Solomon, Isabel Keating.
-[COLOR teal]· Guion:[/COLOR] Emil Stern.
-[COLOR teal]· Música:[/COLOR] James Horner.
-[COLOR teal]· Producción:[/COLOR] Marc Butan, Anthony Katagas, Vadim Perelman.</desc>
-    <category>Cine, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4400281.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017084100 +0200" stop="20261017110300 +0200" channel="BOM Cine">
-    <title>Acantilado rojo</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2008[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★7.3/10[/COLOR]</sub-title>
-    <desc>· El primer capítulo de una historia de dos partes centrada en una batalla en el período de los Tres Reinos de China (220-280 d.C.).
-[COLOR teal]· País:[/COLOR] China, Hong Kong, Japón
-[COLOR teal]· Dirección:[/COLOR] John Woo.
-[COLOR teal]· Reparto:[/COLOR] Zhang Fengyi, Hu Jun, Wei Zhao, Takeshi Kaneshiro, Chen Chang, Tony Leung Chiu Wai, Fengyi Zhang, Tony Chiu-Wai Leung, Chang Chen, Zhao Wei, Shidou Nakamura, Lin Chi-Ling, You Yong, Tong Dawei, Shido Nakamura, Nakamura Shidō II, Tong Jiang, Jun Hu.
-[COLOR teal]· Guion:[/COLOR] John Woo, Khan Chan, Cheng Kuo.
-[COLOR teal]· Música:[/COLOR] Tarô Iwashiro.
-[COLOR teal]· Producción:[/COLOR] Terence Chang, Sanping Han, John Woo.</desc>
-    <category>Cine, Acción, Aventuras, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4074977.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>7.3/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017110300 +0200" stop="20261017125500 +0200" channel="BOM Cine">
-    <title>FURIA ORIENTAL</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Drama,Suspense[/COLOR] | [COLOR cadetblue]1980[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.2/10[/COLOR]</sub-title>
-    <desc>· Shanghái, años 30. La población vive constantes disputas entre los chinos nativos y los invasores japoneses. Chen es un joven que regresa a su antigua escuela cuando se entera de que han asesinado a su maestro.
-[COLOR teal]· País:[/COLOR] Hong Kong
-[COLOR teal]· Dirección:[/COLOR] Wei Lo, Lo Wei.
-[COLOR teal]· Reparto:[/COLOR] Yin-Chieh Han, Bruce Lee, James Tien, Maria Yi, Nora Miao, Jackie Chan, James Tien Chuen, Tien Feng, Huang Tsung-Hsun, Ricky Hashimoto, Robert Baker.
-[COLOR teal]· Guion:[/COLOR] Wei Lo.
-[COLOR teal]· Música:[/COLOR] Joseph Koo.
-[COLOR teal]· Producción:[/COLOR] Raymond Chow.</desc>
-    <category>Cine, Acción, Drama, Suspense</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4973502.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>7.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017125500 +0200" stop="20261017150200 +0200" channel="BOM Cine">
-    <title>Dragón, la historia de Bruce Lee</title>
-    <sub-title>[COLOR SlateBlue]Cine,Drama,Biográfico,Documentales[/COLOR] | [COLOR cadetblue]1993[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.0/10[/COLOR]</sub-title>
-    <desc>· Bruce Lee tuvo una corta e intensa vida. Practica las artes marciales desde niño. Cuando emigra a San Francisco desarrolla una filosofía y una disciplina propias, lo que le da un carisma que pronto atrae el interés del cine y la televisión.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Rob Cohen, Robert Cohen.
-[COLOR teal]· Reparto:[/COLOR] Lauren Holly, Robert Wagner, Nancy Kwan, Jason Scott Lee, Michael Learned, Kay Tong Lim, Ric Young, Sterling Macer Jr., Luoyong Wang.
-[COLOR teal]· Guion:[/COLOR] John Raffo, Rob Cohen, Edward Khmara, Robert Clouse, Linda Lee Cadwell.
-[COLOR teal]· Música:[/COLOR] Randy Edelman.
-[COLOR teal]· Producción:[/COLOR] Raffaella De Laurentiis.</desc>
-    <category>Cine, Drama, Biográfico, Documentales</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3996140.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>7.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017150200 +0200" stop="20261017165000 +0200" channel="BOM Cine">
-    <title>La espada del asesino</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras,Drama[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc>· Nguyen Vu es el único superviviente de su familia ejecutada por la emperatriz. Al descubrir que todo se debía a las luchas por el poder, decide encontrar la ‘carta de sangre’ para vengarse.
-[COLOR teal]· País:[/COLOR] VNM
-[COLOR teal]· Dirección:[/COLOR] Victor Vu.
-[COLOR teal]· Reparto:[/COLOR] Huynh Dong, Midu, Khuong Ngoc, Kim Hien, Minh Thuận, Mai Anh.
-[COLOR teal]· Guion:[/COLOR] Victor Vu.</desc>
-    <category>Cine, Acción, Aventuras, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4944883.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017165000 +0200" stop="20261017181900 +0200" channel="BOM Cine">
-    <title>El último mohicano</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Aventuras[/COLOR] | [COLOR cadetblue]1992[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★7.6/10[/COLOR]</sub-title>
-    <desc>· 1757, hace tres años que franceses e ingleses luchan en tierras norteamericanas. Mandos británicos reclutan a gentes del lugar, nativos y granjeros asentados para formar una milicia capaz de enfrentarse al ejército franco-indio que se acerca por el sur.
-[COLOR teal]· País:[/COLOR] Alemania, Rusia, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Michael Mann.
-[COLOR teal]· Reparto:[/COLOR] Steven Waddington, Madeleine Stowe, Wes Studi, Terry Kinney, Colm Meaney, Daniel Day-Lewis, Pete Postlethwaite, Russell Means, Eric Schweig, Jodhi May, Maurice Roëves, Patrice Chéreau, Edward Blatchford, Tracey Ellis, Justin M. Rice, Dennis Banks, Jared Harris.
-[COLOR teal]· Guion:[/COLOR] Michael Mann, Paul Perez, John L. Balderston, Christopher Crowe, James Fenimore Cooper.
-[COLOR teal]· Música:[/COLOR] Trevor Howard, Randy Edelman, Clannad.
-[COLOR teal]· Producción:[/COLOR] Hunt Lowry, Michael Mann.</desc>
-    <category>Cine, Acción, Aventuras</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5150321.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>7.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017181900 +0200" stop="20261017200500 +0200" channel="BOM Cine">
-    <title>Las columnas del cielo</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Acción[/COLOR] | [COLOR cadetblue]1956[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc>· En Oregon, las tribus de nativos americanos han sido desplazados a una reserva en el río Snake. Allí, el doctor Holden ha contruído una iglesia.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] George Marshall.
-[COLOR teal]· Reparto:[/COLOR] Dorothy Malone, Lee Marvin, Ward Bond, Jeff Chandler, Keith Andes.
-[COLOR teal]· Guion:[/COLOR] Sam Rolfe.
-[COLOR teal]· Música:[/COLOR] William Lava, Heinz Roemheld, Milton Rosen.
-[COLOR teal]· Producción:[/COLOR] Robert Arthur.</desc>
-    <category>Cine, Western, Acción</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4311318.jpg" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017200500 +0200" stop="20261017221700 +0200" channel="BOM Cine">
-    <title>El último vaquero</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Drama[/COLOR] | [COLOR cadetblue]2003[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★7.1/10[/COLOR]</sub-title>
-    <desc>· Monte Walsh es un ranchero que debe luchar por el reconocimiento que ha perdido desde que su pequeña ciudad ha sido abandonada por sus habitantes. Su generosidad y atención por los demás hará que Monte Walsh recupere lo que siempre ha querido.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Simon Wincer.
-[COLOR teal]· Reparto:[/COLOR] Tom Selleck, Isabella Rossellini, Keith Carradine, George Eads, Robert Carradine, Barry Corbin, James Gammon, Wallace Shawn, Rex Linn, William Sanderson, Rick Ravanello, John Michael Higgins, Marshall R. Teague, Joanna Miles, Ken Pogue, Zack Ward, Lori Hallier, William Devane, Eric Keenleyside.
-[COLOR teal]· Guion:[/COLOR] Michael Brandman, Robert B. Parker, David Zelag Goodman, Lukas Heller, Jack Schaefer.
-[COLOR teal]· Música:[/COLOR] Eric Colvin.
-[COLOR teal]· Producción:[/COLOR] Tom Selleck, Steven J. Brandman.</desc>
-    <category>Cine, Western, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5209801.jpg" />
-		<rating system="ES">
-			<value>7</value>
-		</rating>
-		<star-rating system="ES">
-			<value>7.1/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261017221700 +0200" stop="20261018002500 +0200" channel="BOM Cine">
-    <title>La muerte de un presidente</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western,Drama[/COLOR] | [COLOR cadetblue]1969[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.3/10[/COLOR]</sub-title>
-    <desc>· En 1881 el presidente de los EEUU es asesinado y dos inocentes son arrestados e inculpados. Uno de ellos muere antes del juicio y el otro consigue escaparse. Desde entonces comienza a buscar a los verdaderos culpables de la muerte del presidente.
-[COLOR teal]· País:[/COLOR] España, Italia, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Tonino Valerii, Tonino Valeri.
-[COLOR teal]· Reparto:[/COLOR] Giuliano Gemma, Fernando Rey, Van Johnson, Manuel Zarzo, Frank Braña, Benito Stefanelli, Antonio Casas, María Cuadra, Julio Peña, Ángel del Pozo, José Suárez, Massimo Carocci, Ray Saunders, María Luisa Sala, Warren Vanders.
-[COLOR teal]· Guion:[/COLOR] Massimo Patrizi, Ernesto Gastaldi.
-[COLOR teal]· Música:[/COLOR] Luis Enríquez Bacalov.</desc>
-    <category>Cine, Western, Drama</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4101936.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.3/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261018002500 +0200" stop="20261018020900 +0200" channel="BOM Cine">
-    <title>El rey de Texas</title>
-    <sub-title>[COLOR SlateBlue]Cine,Western[/COLOR] | [COLOR cadetblue]2002[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc>· John Lear, un ganadero texano, se aísla de su familia cuando les exige a sus tres hijos que le demuestren su amor si quieren heredar su imperio.
-[COLOR teal]· País:[/COLOR] México, Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Uli Edel.
-[COLOR teal]· Reparto:[/COLOR] Patrick Stewart, Marcia Gay Harden, Lauren Holly, Roy Scheider, David Alan Grier, Colm Meaney, Patrick Bergin, Steven Bauer.
-[COLOR teal]· Guion:[/COLOR] Stephen Harrigan, William Shakespeare.
-[COLOR teal]· Música:[/COLOR] John Altman.</desc>
-    <category>Cine, Western</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5776274.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
 	<programme start="20261018020900 +0200" stop="20261018033300 +0200" channel="BOM Cine">
     <title>Acariciando la muerte</title>
-    <sub-title>[COLOR SlateBlue]Cine,Acción,Policíaco[/COLOR] | [COLOR cadetblue]1998[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
-    <desc>· Un oficial de la policía recibe órdenes del FBI de capturar a un amigo suyo, a quien le anexan contactos con la mafia.
-[COLOR teal]· País:[/COLOR] Estados Unidos
-[COLOR teal]· Dirección:[/COLOR] Bruno Barreto.
-[COLOR teal]· Reparto:[/COLOR] Stephen Baldwin, Chris Penn, Gina Gershon, Christopher Bregman, Mike Santana.
-[COLOR teal]· Guion:[/COLOR] Ken Gross, Jeremy Iacone, Bo Dietl.</desc>
+    <sub-title>[COLOR SlateBlue]Cine,Acción,Policíaco[/COLOR]</sub-title>
+    <desc>· Un oficial de la policía recibe órdenes del FBI de capturar a un amigo suyo, a quien le anexan contactos con la mafia.</desc>
     <category>Cine, Acción, Policíaco</category>
-		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4663544.jpg" />
-		<rating system="ES">
-			<value>18</value>
-		</rating>
 	</programme>
 	<programme start="20261018033300 +0200" stop="20261018051300 +0200" channel="BOM Cine">
     <title>Mis Dos Amores</title>
@@ -770,8 +529,9 @@
     <desc>· Después de ser testigo de un accidente, Lou descubre un mundo nuevo al encontrar a un grupo de freelance que filman choques, incendios y asesinatos que venden al mejor postor.
 [COLOR teal]· País:[/COLOR] Ecuador, Estados Unidos
 [COLOR teal]· Dirección:[/COLOR] Dan Gilroy.
-[COLOR teal]· Reparto:[/COLOR] Jake Gyllenhaal, Riz Ahmed, Kevin Rahm, René Russo, Bill Paxton, Marco Rodríguez, Michael Papajohn, Rick Garcia, Kent Shocknek, James Huang, Pat Harvey, Sharon Tay.
-[COLOR teal]· Guion:[/COLOR] Dan Gilroy.</desc>
+[COLOR teal]· Reparto:[/COLOR] Jake Gyllenhaal, Riz Ahmed, Kevin Rahm, René Russo, Bill Paxton, Marco Rodríguez, Michael Papajohn, Rick Garcia, Kent Shocknek, James Huang, Pat Harvey, Sharon Tay, Michael Hyatt, Rick Chambers, Christopher Wolfe, Juan Fernández, Ann Cusack, Kathleen York, Eric Lange, Kiff VandenHeuvel, Jamie McShane.
+[COLOR teal]· Guion:[/COLOR] Dan Gilroy.
+[COLOR teal]· Producción:[/COLOR] Jake Gyllenhaal, Tony Gilroy, Michel Litvak, Jennifer Fox.</desc>
     <category>Cine, Suspense, Policíaco, Drama</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_3999789.jpg" />
 		<rating system="ES">
@@ -1093,6 +853,78 @@
 		</rating>
 	</programme>
 	<programme start="20261023200000 +0200" stop="20261024000000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20261024000000 +0200" stop="20261024040000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20261024040000 +0200" stop="20261024080000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20261024080000 +0200" stop="20261024120000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20261024120000 +0200" stop="20261024160000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20261024160000 +0200" stop="20261024200000 +0200" channel="BOM Cine">
+    <title>Bom Cine</title>
+    <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
+    <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Reparto:[/COLOR] Beatriz Carrascosa.</desc>
+    <category>Programa, Otros</category>
+		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_5222493.jpg" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+	</programme>
+	<programme start="20261024200000 +0200" stop="20261025000000 +0200" channel="BOM Cine">
     <title>Bom Cine</title>
     <sub-title>[COLOR SlateBlue]Programa,Otros[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR red]⑱[/COLOR]</sub-title>
     <desc>· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
